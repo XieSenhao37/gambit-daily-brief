@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "latestIssue": "2026-10-07",
+  "issues": {
+    "2026-10-07": {
+      "issue": "2026-10-07",
+      "cutoff": "14:43",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "pokemon",
+        "topps-basketball",
+        "radiance"
+      ],
+      "coverage": [
+        "DAKA / 集卡社：近 24 小时未获取可核公告。",
+        "部分国内 TCG 网站信息不完整；未获取消息不代表没有新闻。",
+        "洛卡纳 / 高达：本期未选出近期高价值消息。",
+        "迪士尼水晶 11 月 20 日节点尚未核实，未作为新闻收录。"
+      ],
+      "items": [
+        {
+          "id": "eve",
+          "category": "board",
+          "region": "domestic",
+          "label": "近期节点",
+          "title": "《星战前夜：新伊甸之战》明日开筹",
+          "brand": "游戏大陆 · 摩点",
+          "published": "公告发布时间未提供",
+          "node": "10 月 8 日 · 摩点开筹",
+          "priority": "了解兴趣",
+          "summary": "科幻题材桌游即将进入众筹阶段，先观察玩家兴趣与需求。",
+          "facts": [
+            "游戏大陆《星战前夜：新伊甸之战》计划于 10 月 8 日在摩点开筹。",
+            "众筹不等于现货；尚无批发条件或月底交期确认。"
+          ],
+          "advice": "先了解店内科幻玩家兴趣，再决定是否进一步询问合作条件；现阶段避免承诺到货时间。",
+          "sources": [
+            {
+              "name": "摩点 · 桌游众筹列表",
+              "url": "https://zhongchou.modian.com/tablegames/top_time/all/1"
+            }
+          ]
+        },
+        {
+          "id": "tideward",
+          "category": "board",
+          "region": "overseas",
+          "label": "近 24h 报道",
+          "title": "Tideward：海龟主题家庭桌游公布",
+          "brand": "Avalon Hill · ICv2",
+          "published": "10 月 7 日 02:48 · 北京时间",
+          "node": "2027 年 1 月 16 日 · 海外零售",
+          "priority": "观察新品",
+          "summary": "2–4 人、10 岁以上，海外零售定价 US$39.99。",
+          "facts": [
+            "Tideward 为海龟主题桌游，支持 2–4 人，适合 10 岁以上玩家。",
+            "海外零售日期为 2027 年 1 月 16 日，定价 US$39.99。",
+            "ICv2 报道时间为北京时间 10 月 7 日 02:48；尚无中文版或中国供货确认。"
+          ],
+          "advice": "可纳入家庭桌游新品观察清单；国内进货计划需等待中文版和供货渠道的进一步确认。",
+          "sources": [
+            {
+              "name": "ICv2 · Tideward 报道",
+              "url": "https://icv2.com/articles/news/view/63551/avalon-hill-announces-tideward"
+            }
+          ]
+        },
+        {
+          "id": "pokemon",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "有效报名提醒",
+          "title": "宝可梦高级赛秋季场：报名即将截止",
+          "brand": "宝可梦 · 深圳公开组",
+          "published": "9 月 29 日 · 旧公告仍有效",
+          "node": "10 月 11 日 23:59:59 · 报名截止",
+          "priority": "提醒组队",
+          "summary": "队长最多选择 2 场预赛，店内组队和备赛提醒可立即安排。",
+          "facts": [
+            "高级赛秋季场报名截至 10 月 11 日 23:59:59。",
+            "深圳公开组团队预赛在 10 月 24 日、10 月 31 日举行；队长最多选择 2 场。",
+            "抽选结果将于 10 月 12 日结束前通知。",
+            "这是 9 月 29 日旧公告的有效节点提醒，并非今日新公告。"
+          ],
+          "advice": "提醒玩家及时组队、确认队长报名，并安排备赛夜；报名不等于已中选。",
+          "sources": [
+            {
+              "name": "宝可梦中国 · 官方赛事公告",
+              "url": "https://www.pokemon.cn/tcg/event/24035.html"
+            }
+          ]
+        },
+        {
+          "id": "radiance",
+          "category": "tcg",
+          "region": "global",
+          "label": "近期更新",
+          "title": "Radiance 异画战场：包、盒、箱均无保底",
+          "brand": "符文战场 · Radiance",
+          "published": "10 月 5 日 · 官方更新",
+          "node": "10 月 23 日 · 英 / 法 / 中发售",
+          "priority": "说清概率",
+          "summary": "Ultimate Rare 异画战场全印次平均约 1 / 4,000 包，不能转述为箱保底。",
+          "facts": [
+            "Radiance 英语、法语和中文版本计划于 10 月 23 日发售。",
+            "Ultimate Rare 异画战场全印次平均出现概率为 0.025%，约 1 / 4,000 包。",
+            "单包、整盒、整箱均不保证获得该异画；全印次平均概率并非个别产品承诺。",
+            "简中店赛安排需在本地另行核实。"
+          ],
+          "advice": "开箱和预售宣传应明确平均概率及无保底条件；不要用稀有卡概率推算某一箱必出。",
+          "sources": [
+            {
+              "name": "符文战场 · The Radiance Overview",
+              "url": "https://playriftbound.com/en-us/news/announcements/the-radiance-overview/"
+            }
+          ]
+        },
+        {
+          "id": "magic",
+          "category": "tcg",
+          "region": "global",
+          "label": "2027 经营前瞻",
+          "title": "Magic 2027 补充包调整，纳入订货预案",
+          "brand": "Magic · WPN",
+          "published": "10 月 5 日 · 官方公告",
+          "node": "2027 年起 · 产品调整",
+          "priority": "提前规划",
+          "summary": "Play Boosters 将改名，取消每包必闪；MSRP 不变不代表国内进货价不变。",
+          "facts": [
+            "2027 年起 Play Boosters 改为 Booster Packs，取消每包必闪，聚珍补充包减少 3 张。",
+            "MSRP 不变，但不等于国内进货价不变。",
+            "针对偏竞技的 WPN 赛事，官方建议玩家保留 God Pack，由店家换同系列包；并非所有赛事强制如此。"
+          ],
+          "advice": "列入 2027 订货和赛事预案，分别核实国内报价及具体赛事处理方式，再向玩家说明。",
+          "sources": [
+            {
+              "name": "WPN · 2027 Booster Changes",
+              "url": "https://wpn.wizards.com/en/news/2027-booster-changes-for-wpn-retailers"
+            }
+          ]
+        },
+        {
+          "id": "topps-basketball",
+          "category": "cards",
+          "region": "overseas",
+          "label": "今日预售",
+          "title": "Topps Flagship Basketball 美国预售启动",
+          "brand": "Topps · 2026–27 篮球",
+          "published": "页面发布时间未提供",
+          "node": "10 月 7 日 01:00 · 美国预售启动",
+          "priority": "分盒型询价",
+          "summary": "Hobby 11 月 5 日、Mega 11 月 12 日正式发行，国内供货尚未核实。",
+          "facts": [
+            "2026–27 Topps Flagship Basketball 美国预售于北京时间 10 月 7 日 01:00 启动。",
+            "Hobby 正式发行日期为 11 月 5 日；Mega 正式发行日期为 11 月 12 日。",
+            "国内供货渠道、价格和交期尚未核实。"
+          ],
+          "advice": "按 Hobby / Mega 分别询价并确认交期，将美国发售节点与国内实际到货承诺分开。",
+          "sources": [
+            {
+              "name": "Topps · 系列主页",
+              "url": "https://www.topps.com/pages/topps-flagship-basketball"
+            },
+            {
+              "name": "Topps · Hobby Box",
+              "url": "https://www.topps.com/products/2026-27-topps-flagship-basketball-hobby-box"
+            },
+            {
+              "name": "Topps · Mega Box",
+              "url": "https://www.topps.com/products/2026-27-topps-flagship-basketball-mega-box"
+            }
+          ]
+        },
+        {
+          "id": "allen-ginter",
+          "category": "cards",
+          "region": "overseas",
+          "label": "明日开售",
+          "title": "Allen & Ginter：Hobby 2 hit 不等于 2 签",
+          "brand": "Topps · 棒球 / 文娱人物",
+          "published": "页面发布时间未提供",
+          "node": "10 月 8 日 01:00 · 美国开售",
+          "priority": "说清配置",
+          "summary": "Hobby 的 hit 类型可能包括签字、实物、Rip 或印刷板，销售说明需准确。",
+          "facts": [
+            "美国开售节点为北京时间 10 月 8 日 01:00，题材包含棒球与文娱人物。",
+            "Hobby 配置为 2 hit，可能为签字、实物、Rip 或印刷板，并非保证 2 张签字。"
+          ],
+          "advice": "预售页面明确列出 hit 的可能类型；将美国开售时间与本地供货、交期分别确认。",
+          "sources": [
+            {
+              "name": "Topps · Allen & Ginter",
+              "url": "https://www.topps.com/pages/topps-allen-ginter-baseball"
+            },
+            {
+              "name": "Checklist Insider · 产品配置",
+              "url": "https://www.checklistinsider.com/2026-topps-allen-ginter-baseball"
+            }
+          ]
+        },
+        {
+          "id": "mint-disney",
+          "category": "cards",
+          "region": "overseas",
+          "label": "近期报道 / 前瞻",
+          "title": "Mint Disney：NYCC 与 Hobby 节点分开看",
+          "brand": "Topps · Disney",
+          "published": "10 月 5 日 · 专业报道",
+          "node": "10 月 8 日 · NYCC 版纽约亮相",
+          "priority": "分版本询价",
+          "summary": "Hobby 10 月 13 日预售，正式发行仍为 TBA；NYCC 亮相不等于 Hobby 到货。",
+          "facts": [
+            "Mint Disney NYCC 版将于 10 月 8 日在纽约亮相。",
+            "Hobby 版本将于 10 月 13 日预售，正式发行日期为 TBA（待公布）。",
+            "本条为 10 月 5 日专业报道的近期前瞻。"
+          ],
+          "advice": "按 NYCC / Hobby 分版本询价，核实各自交期；不要把展会亮相、预售与正式发行合并为一个日期。",
+          "sources": [
+            {
+              "name": "Topps · Release Calendar",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Checklist Insider · Mint Disney",
+              "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
