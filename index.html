@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101316">
+  <meta name="description" content="Gambit 每日行业简报：桌游、TCG 与收藏卡，事实、节点和经营建议分开呈现。">
+  <title>Gambit Daily — 2026.10.07 行业简报</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#feed">跳到全部资讯</a>
+  <header class="masthead wrap">
+    <a class="wordmark" href="./" aria-label="Gambit 首页"><span class="mark" aria-hidden="true">G<span>↗</span></span>GAMBIT<span class="daily">DAILY</span></a>
+    <div class="header-note">给经营者的每日行业简报<span class="live-dot"></span><span>ISSUE 001</span></div>
+  </header>
+  <main>
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <div class="hero-copy"><div class="eyebrow">BOARD GAMES / TCG / COLLECTIBLES</div><h1 id="hero-title">看清动向。<br>走好下一步<span class="blue">。</span></h1><p>从行业消息，到门店行动。<br>每天一份有来源、有节点、分清事实与建议的简报。</p></div>
+      <div class="issue-panel"><div class="issue-kicker">TODAY’S EDITION <span>01 / 01</span></div><div class="date-number">07<span>OCT<br>2026</span></div><div class="issue-bottom"><span>星期三 · 北京时间</span><strong>截至 14:43</strong></div><div class="issue-stats"><span><b>08</b> 条精选</span><span><b>03</b> 个行业</span><span><b>01</b> 期归档</span></div></div>
+    </section>
+    <section class="highlights wrap" aria-labelledby="highlights-title"><div class="section-heading"><div><span class="eyebrow">THE BIG THREE</span><h2 id="highlights-title">今日重点</h2></div><span class="subtle">先看这 3 条，再安排下一步</span></div><div id="highlights" class="highlight-grid" aria-live="polite"></div></section>
+    <section id="feed" class="feed wrap" aria-labelledby="feed-title"><div class="section-heading feed-heading"><div><span class="eyebrow">THE INDUSTRY DESK</span><h2 id="feed-title">行业资讯</h2></div><label class="archive-label">日期归档 <select id="issue" aria-label="日期归档"><option value="2026-10-07">2026.10.07 · 唯一一期</option></select></label></div>
+      <div class="filter-bar"><div id="categories" class="tabs" role="group" aria-label="行业筛选"><button type="button" data-category="all" aria-pressed="true">全部 <span>8</span></button><button type="button" data-category="board" aria-pressed="false">桌游 <span>2</span></button><button type="button" data-category="tcg" aria-pressed="false">TCG <span>3</span></button><button type="button" data-category="cards" aria-pressed="false">收藏卡 <span>3</span></button></div><div class="secondary-filters"><label class="sr-only" for="region">地区筛选</label><select id="region"><option value="all">全部地区</option><option value="domestic">中国大陆</option><option value="overseas">海外</option><option value="global">多语言 / 跨地区</option></select><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索产品、品牌或节点" aria-label="搜索资讯"></label></div></div>
+      <div class="results-line"><p id="result-count" role="status">正在读取本期资讯…</p><button type="button" id="reset">重置筛选 ↺</button></div><div id="articles" class="article-grid"></div><div id="empty" class="empty" hidden><h3>没有匹配的资讯</h3><p>试试其他行业、地区或关键词。</p><button type="button" id="empty-reset">查看全部资讯</button></div>
+      <noscript><p class="empty">请启用 JavaScript 读取本地结构化资讯数据。</p></noscript>
+    </section>
+    <aside class="coverage wrap" aria-labelledby="coverage-title"><div><span class="eyebrow">EDITOR’S NOTE</span><h2 id="coverage-title">本期覆盖边界</h2><p>知道看到了什么，也知道哪些还没确认。</p></div><ul id="coverage"></ul></aside>
+  </main>
+  <footer class="wrap"><div class="footer-brand">GAMBIT <span>下一步，更有把握。</span></div><p>2026.10.07 · 截至北京时间 14:43<br>按本任务提供的数据整理 · 原文链接供复核 · 经营建议为编辑判断</p><a href="#hero-title">回到顶部 ↑</a></footer>
+</body>
+</html>
