@@ -26,7 +26,9 @@
     "摩点部分详情页超时，成功读取的官方列表确认日期；项目页链接仅作补充。未把SPIEL展会日期当作新品发售日。",
     "中文标为中文的项目未进一步核实简体／繁体，不擅自改成简体中文。众筹回报与零售必须区分；日期已过不等于已确认实际到货。",
     "新物集及部分国内出版社未找到可靠10月精确日期。Too Little Time只有10月27日二手报道；Dune: Imperium – Conspiracy只有秋季／Q4／10月窗口与零售商10月31日说法，均未列入日历。",
-    "未收入常规赛事、直播、预览日、商家传言或补货、数字Pocket内容。"
+    "未收入常规赛事、直播、预览日、商家传言或补货、数字Pocket内容。",
+    "10月8日10:05北京时间复核：Topps美国月历Museum维持11月11日、Holiday Football维持10月23日；Hachette美国10月16/23日安排未发现可靠变更。未移动KAWS或F1 FDI待核记录。",
+    "新增11月Riftbound Worlds美国现场销售日期及Black & White MLS无日期预览；11月仅有已核实新增节点，并非11月完整发售清单。"
   ],
   "coverageSources": [
     {
@@ -1143,11 +1145,13 @@
       "evidenceLevel": "official",
       "announcementStatus": "已公布",
       "sourceTimezone": "Asia/Shanghai",
-      "sourceTime": null,
+      "sourceTime": "12:00",
       "sourceEvidence": "来源公布的2026-10-08节点；具体限制见备注。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
+      "verifiedAt": "2026-10-08T10:05:00+08:00",
       "notes": [
-        "众筹启动日；不是现货上市。项目详情抓取超时，日期由官方列表核实。"
+        "众筹启动日；不是现货上市。项目详情抓取超时，日期由官方列表核实。",
+        "10月8日12:00北京时间开筹；11月6日12:00结束，目标人民币10,000元；不是现货开售。",
+        "主要档位预计2027年3月发放回报；公开档位为人民币710／1360／2888元，实际选项以项目页为准。"
       ],
       "sources": [
         {
@@ -1157,9 +1161,17 @@
         {
           "name": "补充原文 / 项目页",
           "url": "https://zhongchou.modian.com/item/160372.html"
+        },
+        {
+          "name": "摩点官方项目页",
+          "url": "https://zhongchou.modian.com/item/160372.html"
         }
       ],
-      "timing": null
+      "timing": {
+        "localTime": "12:00",
+        "utcOffset": "+08:00",
+        "evidence": "摩点官方项目页明确2026年10月8日12:00北京时间开筹。"
+      }
     },
     {
       "id": "board-hypercube",
@@ -3079,6 +3091,108 @@
         {
           "name": "Disney Parks Blog",
           "url": "https://disneyparksblog.com/products/reveals-and-announcements-from-the-disney-lorcana-panel-at-d23-2026/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "category": "tcg",
+      "brand": "符文战场",
+      "nodeType": "release",
+      "announcedMonth": null,
+      "languages": [
+        "语言选项未公布"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布美国现场销售安排",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Riot礼包公告明确销售场次，官方Worlds Primer明确场次日期；仅现场销售日程，非全球零售日期。",
+      "verifiedAt": "2026-10-08T10:05:00+08:00",
+      "notes": [
+        "80美元为官方公告标价，未含税费或供货承诺。",
+        "现场活动日期不等于商店具体开门时间，库存及购票要求另以官方为准。",
+        "大陆发售、卡牌语言与网上抽签日期尚未确认。"
+      ],
+      "sources": [
+        {
+          "name": "Riot / LoL Esports：Introducing the Worlds 2026 Merch Collection（10月7日）",
+          "url": "https://lolesports.com/en-GB/news/introducing-the-worlds-2026-merch-collection"
+        },
+        {
+          "name": "Riot / LoL Esports：Worlds 2026 Primer（10月5日；场次日期与Fan Fest地点）",
+          "url": "https://lolesports.com/en-US/lolesports/news/worlds-2026-primer"
+        }
+      ],
+      "timing": null,
+      "id": "riftbound-worlds-2026-onsite-texas",
+      "product": "Riftbound x Worlds 2026 Edition 礼包（现场销售）",
+      "date": "2026-11-03",
+      "endDate": "2026-11-08",
+      "region": "美国 Texas州Allen"
+    },
+    {
+      "category": "tcg",
+      "brand": "符文战场",
+      "nodeType": "release",
+      "announcedMonth": null,
+      "languages": [
+        "语言选项未公布"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布美国现场销售安排",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Riot礼包公告明确销售场次，官方Worlds Primer明确场次日期；仅现场销售日程，非全球零售日期。",
+      "verifiedAt": "2026-10-08T10:05:00+08:00",
+      "notes": [
+        "80美元为官方公告标价，未含税费或供货承诺。",
+        "现场活动日期不等于商店具体开门时间，库存及购票要求另以官方为准。",
+        "大陆发售、卡牌语言与网上抽签日期尚未确认。"
+      ],
+      "sources": [
+        {
+          "name": "Riot / LoL Esports：Introducing the Worlds 2026 Merch Collection（10月7日）",
+          "url": "https://lolesports.com/en-GB/news/introducing-the-worlds-2026-merch-collection"
+        },
+        {
+          "name": "Riot / LoL Esports：Worlds 2026 Primer（10月5日；场次日期与Fan Fest地点）",
+          "url": "https://lolesports.com/en-US/lolesports/news/worlds-2026-primer"
+        }
+      ],
+      "timing": null,
+      "id": "riftbound-worlds-2026-fanfest-nyc",
+      "product": "Riftbound x Worlds 2026 Edition 礼包（现场销售）",
+      "date": "2026-11-12",
+      "endDate": "2026-11-14",
+      "region": "美国纽约 Pier 36"
+    },
+    {
+      "id": "topps-black-white-mls-tba",
+      "product": "2026 Topps Black & White MLS",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": null,
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "海外发行区待官方确认",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "secondary",
+      "announcementStatus": "专业媒体预览，发行日期待公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Checklist Insider 2026年10月7日新品预览写明发行日TBA；未取得官方完整产品页。",
+      "verifiedAt": "2026-10-08T10:05:00+08:00",
+      "notes": [
+        "不表示10月已定档；售价、盒配与完整官方卡表仍待公布。"
+      ],
+      "sources": [
+        {
+          "name": "Checklist Insider（10月7日产品预览）",
+          "url": "https://www.checklistinsider.com/2026-topps-black-white-mls-soccer"
         }
       ],
       "timing": null
