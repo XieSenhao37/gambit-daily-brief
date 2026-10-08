@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-07",
+  "latestIssue": "2026-10-08",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -223,6 +223,202 @@
             {
               "name": "Checklist Insider · Mint Disney",
               "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-08": {
+      "issue": "2026-10-08",
+      "cutoff": "10:05",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "board-20261008-eve-crowdfunding",
+        "riftbound-worlds-2026-bundle-20261007",
+        "cards-bowman-chrome-sapphire-eql-20261008"
+      ],
+      "coverage": [
+        "优先核对10月7日至8日新增内容；官方或媒体仅标发布日期、未标时区时，不伪称精确过去24小时。",
+        "EVE为旧项目今日开筹节点补充，Allen & Ginter为开售后库存快照；均未包装成新产品首次公告。",
+        "万智牌God Pack处理、Festival in a Box等已覆盖旧公告不重复；其他TCG本轮未取得值得新增的可靠消息，不代表完全无更新。",
+        "DAKA与集卡社当前可访问来源未取得窗口内可靠新公告；迪士尼水晶11月20日仍未独立核实。",
+        "BoardM展前报道全文未能读取，产品内容由官方商品页核实；Namiji详细档期和West Front冲突日期未作为已确认发售收录。"
+      ],
+      "items": [
+        {
+          "id": "board-20261008-eve-crowdfunding",
+          "category": "board",
+          "region": "domestic",
+          "label": "旧项目今日节点",
+          "title": "《星战前夜：新伊甸之战》今日12点开众筹，¥710起、预计2027年3月回报",
+          "brand": "游戏大陆桌游／EVE",
+          "published": "项目页未标注首次发布时间；2026-10-08复核今日节点",
+          "node": "2026-10-08 12:00 北京时间开始众筹；2026-11-06 12:00截止",
+          "priority": "今日节点",
+          "summary": "摩点官方项目列出三档 ¥710／¥1,360／¥2,888，今日北京时间 12:00 计划开筹，预计 2027 年 3 月回报；不是现货发售。",
+          "facts": [
+            "畅玩档¥710，限400份；豪华档¥1,360，限350份；ALL IN档¥2,888，限240份；三档每人限2份。",
+            "目标¥10,000，须在11月6日12:00前达到才成功。",
+            "主要档位预计回报发放时间均为2027年3月内；10月8日是众筹启动，非现货发售或交付。",
+            "三档均列入中文版众筹额外舰船礼包及指挥官拓展内容；非偏远地区包邮。"
+          ],
+          "advice": "关注中文版可先比较档位和拓展清单；预计回报月份及众筹风险需与现货购买分开看。",
+          "sources": [
+            {
+              "name": "摩点：游戏大陆桌游官方项目页",
+              "url": "https://zhongchou.modian.com/item/160372.html"
+            }
+          ]
+        },
+        {
+          "id": "board-20261008-boardm-essen",
+          "category": "board",
+          "region": "overseas",
+          "label": "展前看点",
+          "title": "BoardM的Essen阵容：轻快爬阶《Flamenco》与新版推理《P.I.》",
+          "brand": "BoardM",
+          "published": "2026-10-07（Board Game Beat首页署名日期）",
+          "node": "SPIEL Essen 2026：10月22—25日；非首次全球发售公告",
+          "priority": "展前选品",
+          "summary": "Board Game Beat于10月7日聚焦BoardM的Essen阵容。两款作品分别走轻量爬阶与经典推理重制路线，适合放在展前关注而非新品首发栏。",
+          "facts": [
+            "《Flamenco》官方页：2—5人、15—30分钟、设计Nutgoo.lee；常规同张数比大小外，有偶数牌拆成多张小牌反制的机制。",
+            "《P.I.》官方页：Martin Wallace设计，1—5人、约45分钟；新版加入专用双人对抗和配合App的单人限时推理模式。",
+            "BoardM在2026年春季Game Market已展示这两款作品，不能把10月7日报道误写成首次公布或首发。",
+            "本条10月7日展前报道的标题与日期已核；完整报道未能读取，产品人数、时长与机制采用发行商官方页核验。"
+          ],
+          "advice": "短局牌游看Flamenco，想补经典推理看P.I.；尚未核到本次Essen具体售价、展位和限量，勿填写。",
+          "sources": [
+            {
+              "name": "W. Eric Martin’s Board Game Beat：10月7日首页新闻",
+              "url": "https://www.wericmartin.com/"
+            },
+            {
+              "name": "BoardM官方：Flamenco",
+              "url": "https://boardm.co.kr/product/detail_manual.html?product_no=8112"
+            },
+            {
+              "name": "BoardM官方：P.I.",
+              "url": "https://boardm.co.kr/product/detail_manual.html?product_no=8110"
+            },
+            {
+              "name": "BoardM发布于Game Market官方站的春季阵容",
+              "url": "https://gamemarket.jp/booth/6702"
+            }
+          ]
+        },
+        {
+          "id": "riftbound-worlds-2026-bundle-20261007",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "新品公告",
+          "title": "Riftbound Worlds 2026 礼包公布：80美元，线上抽签待公布",
+          "brand": "Riftbound",
+          "published": "2026-10-07（官方只标日期，未标时区或时刻）",
+          "node": "美国现场：11月3—8日 Allen、11月12—14日纽约；线上抽签日期待公布。",
+          "priority": "关注礼包",
+          "summary": "Riot于10月7日公布Riftbound x Worlds 2026 Edition，定价80美元。礼包包含Yasuo传奇特典及三张主办城市战场特典；线下销售安排已公布，线上抽签细则尚未发布。",
+          "facts": [
+            "礼包含1张Yasuo Legend promo、3张城市Battlefield promos（Los Angeles、Dallas、New York City）、高级牌盒及闪卡套。",
+            "官方列有1份League of Legends游戏内Worlds Unvaulted Capsule 2026，明确仅电商版本附带。",
+            "80美元是公告售价；公告未给税费、库存数量或采购渠道配额。",
+            "销售限定到四分之一决赛、半决赛及纽约Fan Fest；不能据主办城市卡牌内容推断洛杉矶也现场销售本礼包。",
+            "官方英文公告未明确卡牌语言选项，未证实中国大陆发售或人民币价格。",
+            "具体日期来自10月5日官方Worlds Primer，与10月7日礼包公告的售卖场次交叉匹配；比赛开赛时间不是商店开售时间。"
+          ],
+          "advice": "先登记收藏客意向；等线上抽签、语言版本与可取得货源明确后再报价或收订金。不要把80美元美区标价直接当作国内到手价。",
+          "sources": [
+            {
+              "name": "Riot / LoL Esports：Introducing the Worlds 2026 Merch Collection（10月7日）",
+              "url": "https://lolesports.com/en-GB/news/introducing-the-worlds-2026-merch-collection"
+            },
+            {
+              "name": "Riot / LoL Esports：Worlds 2026 Primer（10月5日；场次日期与Fan Fest地点）",
+              "url": "https://lolesports.com/en-US/lolesports/news/worlds-2026-primer"
+            }
+          ]
+        },
+        {
+          "id": "cards-bowman-chrome-sapphire-eql-20261008",
+          "category": "cards",
+          "region": "overseas",
+          "label": "发售更新",
+          "title": "Bowman Chrome Sapphire 美国 EQL 发售：每盒 599.99 美元",
+          "brand": "Topps / Bowman",
+          "published": "2026-10-07（Checklist Insider页面日期；未标具体时刻）",
+          "node": "2026-10-07 · 美国 EQL 销售节点（不保证目前报名仍开放）",
+          "priority": "核对抽签状态",
+          "summary": "2026 Bowman Chrome Baseball Sapphire Edition 已进入本轮美国 EQL 发售节点。官方活动页标价每盒599.99美元、每人最多5盒；当前仍可读取活动详情，但不能据此认定抽签仍开放。",
+          "facts": [
+            "官方EQL详情：每盒8包、每包4张；1张签名卡，产品说明另列至少3张专属彩色平行卡。",
+            "Checklist Insider于10月7日更新，明确列10月7日发行及EQL抽签销售。",
+            "官方落地页当前已从带日期预告变成“Don't miss the next release”；本条不作在售或抽签开放保证。"
+          ],
+          "advice": "询价时核对盒型、签字与平行卡配置及货源；官方抽签标价不等于国内现货价，开放状态以活动页实时显示为准。",
+          "sources": [
+            {
+              "name": "Topps US 官方 EQL 活动页",
+              "url": "https://launches.topps.com/en-US/launch/2026-bowman-chromer-baseball-sapphire-edition-hobby-box"
+            },
+            {
+              "name": "Topps 官方产品落地页",
+              "url": "https://www.topps.com/pages/bowman-chrome-sapphire"
+            },
+            {
+              "name": "Checklist Insider（10月7日）",
+              "url": "https://www.checklistinsider.com/2026-bowman-chrome-sapphire-baseball"
+            }
+          ]
+        },
+        {
+          "id": "cards-allen-ginter-status-20261008",
+          "category": "cards",
+          "region": "overseas",
+          "label": "开售后状态",
+          "title": "Allen & Ginter 开售后：美国官网 Hobby 售罄，Value 仍显示可加购",
+          "brand": "Topps",
+          "published": "2026-10-08 10:02 北京时间核验（页面无新闻发布时间）",
+          "node": "美国官网发售后库存状态；产品Available From为2026-10-07",
+          "priority": "分清盒型",
+          "summary": "截至北京时间10:02，美国官网 Hobby 显示售罄；Value 显示24.99美元、可加入购物车及1—2个工作日发货。这只是官网快照，不代表国内供货情况。",
+          "facts": [
+            "Hobby：官方商品页显示Sold out。",
+            "Value Box：官方商品页显示24.99美元、Add to cart和Ships in 1-2 business days。",
+            "Value为每盒8包、每包6张；没有Hobby的两张hit保证。"
+          ],
+          "advice": "若只想低预算体验可核对Value；追求Hobby配置应分清盒型，不要把Value当成同配置替代。库存和配送范围以下单时为准。",
+          "sources": [
+            {
+              "name": "Topps US Allen & Ginter Hobby 官方商品页",
+              "url": "https://www.topps.com/products/2026-topps-allen-ginter-baseball-hobby-box"
+            },
+            {
+              "name": "Topps US Allen & Ginter Value 官方商品页",
+              "url": "https://www.topps.com/products/2026-topps-allen-ginter-baseball-value-box"
+            }
+          ]
+        },
+        {
+          "id": "cards-black-white-mls-preview-20261008",
+          "category": "cards",
+          "region": "overseas",
+          "label": "新品预览 / 待定档",
+          "title": "Topps Black & White 首次切入 MLS，发行日仍待定",
+          "brand": "Topps",
+          "published": "2026-10-07（Checklist Insider页面日期；未标具体时刻）",
+          "node": "产品预览；发行日期TBA，不加入已定档发行日历",
+          "priority": "等待定档",
+          "summary": "Checklist Insider 10月7日介绍2026 Topps Black & White MLS：以黑白摄影为主，基础卡80张，签字阵容预览包括梅西、贝克汉姆、孙兴慜等。发行时间、整盒张数和保底配置尚未公布。",
+          "facts": [
+            "这是Black & White品牌首次用于MLS。",
+            "预览介绍Developmental与Global Impact特卡，以及Flashpoint、Golden Hour稀有系列。",
+            "完整官方checklist尚待发布；不能把预览名单当成完整清单。"
+          ],
+          "advice": "可先列入足球新品观察名单，等官方售价、日期和盒配齐全再做预算。",
+          "sources": [
+            {
+              "name": "Checklist Insider（10月7日产品预览）",
+              "url": "https://www.checklistinsider.com/2026-topps-black-white-mls-soccer"
             }
           ]
         }
