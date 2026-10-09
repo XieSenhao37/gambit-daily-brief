@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-08",
+  "latestIssue": "2026-10-09",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -419,6 +419,250 @@
             {
               "name": "Checklist Insider（10月7日产品预览）",
               "url": "https://www.checklistinsider.com/2026-topps-black-white-mls-soccer"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-09": {
+      "issue": "2026-10-09",
+      "cutoff": "10:06",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "tcg-riftbound-radiance-regional-date-check-20261009",
+        "tcg-lorcana-hyperia-rules-prerelease-20261008",
+        "cards-mint-disney-nycc-details-20261009"
+      ],
+      "coverage": [
+        "本期为公开来源精选，不是全网穷尽。按来源实际发布日期与既有归档去重；日期核查和旧公告的新细节另作标注。",
+        "桌游：本期选择Namiji的10月8日版本说明与Outerdark的10月8日细节稿；首次揭晓时间分别为10月7日与10月2日，均未包装成今日首曝。",
+        "国内摩点已检查全部10个预热项目，并补核众筹中前三页；有明确10月节点的漏项进入月历，不因首次查到就写成24小时新公告。",
+        "Board Game Beat当前可读取首页仍以10月7日BoardM文章为最新，已在前期覆盖，本期不重复；SPIEL票务/展商页未标明发布日期，未纳入24小时新闻。",
+        "TCG本期收录两条10月8日官方新内容与一条日期核查；新公告只标日期，未伪称能精确确认落在过去24小时。",
+        "万智牌NYCC发布会为美东10月9日19:45—20:45，即北京时间10月10日07:45—08:45；截至本期截稿尚未举行，未把Star Trek旧预告或未来发布内容写成已揭晓。",
+        "符文战场Radiance新卡预览仍在进行，但本轮未逐张核实窗口内新增卡面；Worlds礼包与终极稀有度旧消息未重复充作新公告。另发现官方中英文页日期口径不同，日文页明确标太平洋时间，单列核查。",
+        "宝可梦中国和日本官方资讯页本轮未找到窗口内新的实体TCG产品公告；美国新闻页正文未能读取。PokéBeach所列Santa Cruz联名消息实际为10月6日，未按10月8日转载日期充作新消息。",
+        "航海王日、美、亚洲英语和繁中首页本轮最近列10月2日产品更新；10月9日日本BASE SHOP限定卡册节点已在现有日历。简中站未能读取公告正文。",
+        "高达日、美、亚洲英语及繁中官方新闻页本轮未取得窗口内新增；简中站抓取失败。未获取新闻不代表没有新闻。",
+        "洛卡纳美国英语官网10月8日售前与规则公告已收录；日本站最新为10月7日全卡表公开，简中新闻页未见同期Hyperia City公告，不能外推大陆发售。",
+        "收藏卡以10月8日更新的MLS Sapphire发售与Mint Disney NYCC配置为本期增量；媒体只标日期，未伪称精确过去24小时。",
+        "DAKA、集卡社微博本轮可访问结果仍为旧缓存；杰森品牌页没有可核的本窗口新品发布时间，未据此认定无新闻。",
+        "迪士尼水晶11月20日尚无本轮可核官方佐证，未以零售商日期代替官方定档。"
+      ],
+      "items": [
+        {
+          "id": "board-20261009-namiji-edition",
+          "category": "board",
+          "region": "overseas",
+          "label": "版本更新 / 档期核实",
+          "title": "Namiji新版详解：扩展并入基础，10月14日先在官网开售",
+          "brand": "Stonemaier Games",
+          "published": "2026-10-08官方设计日志；ICv2报道为北京时间10月9日05:04",
+          "node": "10月14日官网开售；零售预计11月下旬",
+          "priority": "区分版本与渠道",
+          "summary": "10月8日设计日志补充新版变化：加入Automa单人模式、整合原扩展、重写规则与速查卡。官网开售、不同地区发货和零售日期应分开看。",
+          "facts": [
+            "新版支持1—5人，约45分钟；Automa组件也会单独销售，已有旧版的玩家可单独升级单人模式。",
+            "10月7日带日期的官方档期正文列明：10月14日Stonemaier官网开售，美国、加拿大及澳大利亚仓预计随后发货；欧洲约11月中旬发货，零售在11月下旬。",
+            "10月8日更新重点是版本改动：扩展整合进基础、按人数使用双面版图，以及重新整理的规则书和每人速查卡。",
+            "这是新版细节跟进，首次揭晓为10月7日；中文版由本地化伙伴另行公布，未核到中国大陆供货或人民币价格。"
+          ],
+          "advice": "旧版玩家先看独立Automa包是否足够；询价时明确官网版、地区仓和零售批次，暂不承诺国内到货日。",
+          "sources": [
+            {
+              "name": "Stonemaier官方：Namiji，10月7日档期及10月8日设计日志",
+              "url": "https://stonemaiergames.com/games/tokaido/namiji/"
+            },
+            {
+              "name": "ICv2：10月8日16:04 CT报道",
+              "url": "https://icv2.com/articles/news/view/63574/stonemaier-completes-tokaido-journey-namiji"
+            }
+          ]
+        },
+        {
+          "id": "board-20261009-outerdark-details",
+          "category": "board",
+          "region": "overseas",
+          "label": "官方细节更新 / 非首曝",
+          "title": "Unstoppable: Outerdark补充细节：2位新英雄与四场连战，11月3日预售",
+          "brand": "Renegade Game Studios",
+          "published": "2026-10-08官方新闻稿；ICv2报道为北京时间10月9日02:38",
+          "node": "11月3日海外预售；预计2027年春发行",
+          "priority": "核对基础与扩展",
+          "summary": "Renegade的10月8日稿补充原版Unstoppable扩展内容：两位新英雄、三位新Boss，以及可继承部分进度的四场Boss战役。11月3日是预售启动。",
+          "facts": [
+            "Outerdark是John D. Clair原版Unstoppable的扩展；官方将Dungeon Crawler Carl: Unstoppable另列为同系统独立游戏，不应把本扩展直接写成Carl专属扩展。",
+            "官方明确是3位新Boss、2位新英雄；战役由4场Boss战组成，不能转述为“4位新Boss”。",
+            "新内容包括双槽升级、双阵营核心卡及Pilfer、Reassemble机制；11月3日预售时也可购买基础加扩展组合。",
+            "10月2日官方直播回顾已预告本作，并列预计2027年春发行；本条为10月8日细节跟进。新稿未公布价格或中文版。"
+          ],
+          "advice": "已有原版的玩家可先关注扩展兼容与战役规则；新玩家等组合售价公布后比较，不把11月预售当作年底现货。",
+          "sources": [
+            {
+              "name": "Renegade官方：10月8日Outerdark新闻稿",
+              "url": "https://renegadegamestudios.com/blog/renegade-game-studios-announces-unstoppable-outerdark/"
+            },
+            {
+              "name": "Renegade官方：10月2日直播回顾及春季发行窗口",
+              "url": "https://renegadegamestudios.com/blog/october-2026-renegade-new-games-reveal-stream-recap/"
+            },
+            {
+              "name": "ICv2：10月8日13:38 CT报道",
+              "url": "https://icv2.com/articles/news/view/63571/renegade-unveils-unstoppable-outerdark"
+            }
+          ]
+        },
+        {
+          "id": "tcg-lorcana-hyperia-rules-prerelease-20261008",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "官方新公告",
+          "title": "Lorcana公布Hyperia City售前指南与规则更新：6包售前盒、新关键字Adventurous",
+          "brand": "Disney Lorcana / Ravensburger",
+          "published": "2026-10-08（两篇美国英语官网公告；未列发布时间与时区）",
+          "node": "2026-10-16 · 美国英语官网所列牌店售前活动",
+          "priority": "更新教学说明",
+          "summary": "10月8日官方明确Hyperia City售前盒内容，并发布新系列规则说明；活动准备可以同步更新Ink Drop与Adventurous的教学口径。",
+          "facts": [
+            "售前盒含6包补充包、4枚伤害骰、1张随机特典卡与城市地图；官方指南指向10月16日牌店售前活动。",
+            "现开使用6包组40张套牌，可混用六种墨色，不受同名牌四张上限约束；具体店内活动安排以主办方为准。",
+            "Ink Drop属于指示物，不算卡牌、不洗进牌库；支付费用时移除，每个可支付1点墨水，使用后不能重复使用。",
+            "新关键字Adventurous规定角色不能挑战，且每回合在能够执行quest时必须这样做；官方同时更新5张旧牌的用语。",
+            "本条采用美国英语官网规则与活动信息；未核实简中Hyperia City产品或大陆活动安排。"
+          ],
+          "advice": "准备英语版售前活动时，先讲清临时墨水与新关键字，再核对主办店的赛制、名额和实际售前盒供货。",
+          "sources": [
+            {
+              "name": "Ravensburger官方：IT’S ALMOST PRERELEASE（10月8日）",
+              "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-prerelease-guide"
+            },
+            {
+              "name": "Ravensburger官方：Hyperia City Set Release Notes（10月8日）",
+              "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-set-release-notes"
+            }
+          ]
+        },
+        {
+          "id": "tcg-magic-reality-fracture-standard-20261008",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "官方赛场分析",
+          "title": "《现实裂界》首周标准赛分析：样本中单一套牌的胜者环境占比均未超过10%",
+          "brand": "万智牌 / Magic.gg",
+          "published": "2026-10-08（Frank Karsten官方专栏；未列发布时间与时区）",
+          "node": "样本覆盖2026-09-29至10-05的MTGO赛事，并补充周末RCQ结果",
+          "priority": "观察备赛需求",
+          "summary": "10月8日官方分析250余副取得成绩的套牌，带来《现实裂界》进入标准赛后的首批观察。数据仍属新系列初期样本，适合备赛参考。",
+          "facts": [
+            "样本主要来自9月29日至10月5日MTGO Challenges及Leagues公开套牌，并加入部分周末RCQ优胜牌表。",
+            "Izzet Spellementals、Dimir Midrange、Jund Sacrifice的胜者环境占比分别为9.0%、8.7%、8.5%；该指标把人气与比赛表现结合计算，并非对局胜率。",
+            "Pompous Battlemage、Ajani Resolute、Master of Barbs是样本中用量前三的新入标准牌，分别合计88、68、60张。",
+            "作者观察到Orzhov Life Gain、Izzet Prowess、Rakdos Lizards获得新牌补强，同时明确指出首周实验较多、样本偏小。"
+          ],
+          "advice": "备赛可先参考原文牌表及新牌搭配，再结合本地环境调整；单卡需求仍需看后续赛事，不宜把首周用量当作长期定论。",
+          "sources": [
+            {
+              "name": "Magic.gg：Metagame Mentor — The First Standard Results with Reality Fracture（10月8日）",
+              "url": "https://magic.gg/news/metagame-mentor-the-first-standard-results-with-reality-fracture"
+            }
+          ]
+        },
+        {
+          "id": "tcg-riftbound-radiance-regional-date-check-20261009",
+          "category": "tcg",
+          "region": "global",
+          "label": "日期核查／非新公告",
+          "title": "Radiance中英文页日期口径不同：简中当地发售与售前节点仍待核",
+          "brand": "Riftbound / 符文战场·辉耀群星",
+          "published": "英文概览标注10月5日更新；简中页署9月25日、未列更新日；10月9日交叉核查",
+          "node": "英文页：10月23日发售；简中页：10月24日发售；国内具体档期待复核",
+          "priority": "核对地区日期",
+          "summary": "英文页写10月23日发售，简中页写10月24日；日文页明确把23日标为太平洋时间。缺少具体发售时刻及大陆当地安排，暂保留日期口径提示，未确认改期。",
+          "facts": [
+            "英文概览列售前10月16—22日、10月23日发售，并注明英语、法语、中文版本。",
+            "简中概览列售前10月17—23日、10月24日发售，同样写明英语、法语和中文版同步发售。",
+            "日文概览将10月23日发售与10月16—22日售前均明确标为太平洋时间，为日期差异提供时区线索；具体发售时刻仍未公布，不能据此换算出唯一的北京时间节点。",
+            "本条是对既有日期信息的核查，未确认改期；大陆具体店赛、实际到货与官方页面日期需要分别核实。"
+          ],
+          "advice": "询问中文货源时让供应方确认适用地区、语言及当地发售日；在日期口径澄清前，避免承诺统一的大陆到货日期。",
+          "sources": [
+            {
+              "name": "Riot官方英文：The Radiance Overview（标注10月5日更新）",
+              "url": "https://playriftbound.com/en-us/news/announcements/the-radiance-overview/"
+            },
+            {
+              "name": "Riot官方简中：“辉耀群星”系列概览",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/the-radiance-overview/"
+            },
+            {
+              "name": "Riot官方日文：「Radiance」の概要（日期标注太平洋时间）",
+              "url": "https://playriftbound.com/ja-jp/news/announcements/the-radiance-overview/"
+            }
+          ]
+        },
+        {
+          "id": "cards-mls-sapphire-sale-20261009",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月8日发售更新",
+          "title": "MLS Sapphire 进入EQL发售：209.99美元，当前未见开放抽签",
+          "brand": "Topps / MLS",
+          "published": "2026-10-08（Checklist Insider更新日期；未标时刻或时区）",
+          "node": "2026-10-08 · 美国EQL发售；不是同日发货或国内到货承诺",
+          "priority": "核对抽签状态",
+          "summary": "2026 Topps Chrome Sapphire MLS 的发售报道已更新：初始每盒209.99美元，32张、1签。当前EQL美国列表显示没有开放活动，不能仅凭产品页的报名按钮认定仍可参与。",
+          "facts": [
+            "Checklist Insider列10月8日发行，采用EQL抽签销售；盒配为8包×4张、1张签名卡。",
+            "官方产品页已提供清单与概率表；当前清单列200张基础卡、10张Infinite Sapphire。",
+            "官方产品页仍显示EQL报名文案，但其链接打开后的美国活动列表显示“No live launches”；本条不作实时在售保证。",
+            "本条为发售及配置更新；官网未核到中国大陆货源、含税到手价或交期。"
+          ],
+          "advice": "先核对实际货源和盒型再报价；美国抽签标价与国内到手价、报名开放状态分别确认。",
+          "sources": [
+            {
+              "name": "Checklist Insider：10月8日发售及盒配更新",
+              "url": "https://www.checklistinsider.com/2026-topps-chrome-sapphire-mls"
+            },
+            {
+              "name": "Topps：MLS Sapphire官方产品页",
+              "url": "https://www.topps.com/pages/topps-chrome-sapphire-mls"
+            },
+            {
+              "name": "Topps US：EQL活动列表（本轮未见开放活动）",
+              "url": "https://launches.topps.com/en-US/launch"
+            },
+            {
+              "name": "Topps官方清单PDF（链接版本1791312276）",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/Topps-Chrome-Sapphire-MLS-2026-Checklist-Subject-to-Change.pdf?v=1791312276"
+            }
+          ]
+        },
+        {
+          "id": "cards-mint-disney-nycc-details-20261009",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月8日版本更新",
+          "title": "Mint Disney NYCC版：279.99美元抽签销售，专属Platinum平行限编10",
+          "brand": "Topps / Disney",
+          "published": "2026-10-08（Checklist Insider更新日期；未标时刻或时区）",
+          "node": "NYCC版：10月8日；Hobby：10月13日预售，正式发行TBA",
+          "priority": "核对版本差异",
+          "summary": "10月8日专业报道补充NYCC版售价、盒配和独占卡：EQL抽签价格279.99美元，Platinum有NYCC专属/10平行。普通Hobby仍是10月13日预售，正式发行待定。",
+          "facts": [
+            "报道列Hobby / NYCC盒配共11张：1张封装卡、1包10张卡，含1张编号平行卡；封装卡不等于保证签名。",
+            "NYCC独占内容包括Platinum /10平行及Jack Skellington特卡（/99或更低）；不能外推到普通Hobby。",
+            "官方2026产品页介绍新增Minted Posters，题材来自近期迪士尼与皮克斯院线作品。",
+            "279.99美元及NYCC限定配置来自专业媒体；本轮未取得仍可参加的官方NYCC抽签活动页，普通Hobby售价与交期未核实。"
+          ],
+          "advice": "给收藏客报价时写清NYCC或Hobby，并单独核对独占卡与交期；勿将11张盒配宣传成保证签名。",
+          "sources": [
+            {
+              "name": "Checklist Insider：10月8日NYCC版销售与配置更新",
+              "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+            },
+            {
+              "name": "Topps：2026 Mint Disney官方产品页",
+              "url": "https://www.topps.com/pages/topps-mint-disney"
             }
           ]
         }
