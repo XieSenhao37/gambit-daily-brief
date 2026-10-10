@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-09",
+  "latestIssue": "2026-10-10",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -663,6 +663,257 @@
             {
               "name": "Topps：2026 Mint Disney官方产品页",
               "url": "https://www.topps.com/pages/topps-mint-disney"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-10": {
+      "issue": "2026-10-10",
+      "cutoff": "10:02",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "riftbound-radiance-rules-20261010",
+        "mtg-darkhold-destiny-announcement-20261010",
+        "cards-street-fighter-eql-20261010"
+      ],
+      "coverage": [
+        "本期核验以10月9日至10日新增公告与报道为主；未标时区的来源仅保留原文日期，不伪称精确过去24小时。",
+        "未核得星际迷航今日正式集中预览期开幕公告；NYCC展台零星卡图与正式预览期区分，不用旧消息充当今日官宣。",
+        "中国大陆航海王、高达部分页面读取受限；DAKA、集卡社未取得窗口内可核新公告，属于覆盖缺口，不代表没有新品。",
+        "集卡社迪士尼水晶11月20日仍待官方核验；本期未列入确认发售。",
+        "本期海外公告、赛事与报价不代表中国大陆供货、到货或价格；信息源覆盖非全网穷尽。"
+      ],
+      "items": [
+        {
+          "id": "mtg-darkhold-destiny-announcement-20261010",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "官方新品公告",
+          "title": "Magic公布Marvel: Darkhold Destiny：2027年4月9日发售，首批卡牌已展示",
+          "brand": "Magic／Marvel",
+          "published": "官网标2026-10-10，未标时区或时刻；北京时间10月10日10点前已可读取",
+          "node": "2027-04-09：系列正式发售；非十月新品",
+          "priority": "新品前瞻",
+          "summary": "Wizards正式介绍Marvel: Darkhold Destiny及首批卡牌，确认2027年4月9日发售。NYCC揭晓与正式预览期开幕不能混为一谈。",
+          "facts": [
+            "官方已展示The Darkhold、Hela、Magik及Gargantos等卡牌，并确认产品包含指挥官套牌和Scene Boxes。",
+            "系列采用与Marvel合作创作的新故事；配套漫画数字版计划2027年2月、实体版2027年4月推出。",
+            "官网现已写明可在海外渠道预订，但未在本公告确认中国大陆版本、语言或交期。",
+            "NYCC Magic专场排期为纽约10月9日19:45—20:45 ET，即北京时间10月10日07:45—08:45；本条依据已上线公告，不据此宣称正式预览期开幕。"
+          ],
+          "advice": "可先登记Marvel玩家兴趣；订货需等待具体SKU、语言、国内供货及报价，不把展会揭晓当作本月到货。",
+          "sources": [
+            {
+              "name": "Wizards官方：Marvel: Darkhold Destiny Emerges April 2027",
+              "url": "https://magic.wizards.com/en/news/announcements/marvel-darkhold-destiny-emerges-april-2027"
+            },
+            {
+              "name": "Magic.gg官方：NYCC 2026专场时间",
+              "url": "https://magic.gg/news/magic-the-gathering-at-new-york-comic-con-2026"
+            }
+          ]
+        },
+        {
+          "id": "riftbound-radiance-rules-20261010",
+          "category": "tcg",
+          "region": "global",
+          "label": "近24h官方规则更新",
+          "title": "Riftbound发布Radiance规则与勘误：10月16日生效，妮蔻改为“最多三名”",
+          "brand": "Riftbound／Riot Games",
+          "published": "2026-10-10 00:00 北京时间（官网时间戳10月9日16:00 UTC）",
+          "node": "Riot公告：2026-10-16核心及赛事规则更新生效",
+          "priority": "售前备赛",
+          "summary": "Riot中英文官网同步上线核心与赛事规则，另公布卡牌勘误。涉及操作反悔、确定性循环、盖放牌互动及妮蔻传奇选择；国内执行仍以当地赛事要求为准。",
+          "facts": [
+            "赛事规则说明：对手被要求提醒公开信息后，不能再用决策更改政策撤回失误；休闲级别鼓励教学性宽容，但不是对手必须接受。",
+            "循环须完全确定、不得含随机因素；额外回合状态须沟通；衍生物须使用能够清楚表示备妥状态、让对手理解的卡牌物件。",
+            "核心规则明确：“暗巷守护者”的亮出不能利用盖放牌正面的待命特征；另行勘误将“妮蔻－完美伪装”的额外传奇选择改成“最多三名不同的传奇”。",
+            "Riot中英文核心与赛事公告均列10月16日生效。简中本地化页并不等于大陆赛事渠道已单独确认，且不能用规则日期消除商品／售前日历的中英文差异。"
+          ],
+          "advice": "海外售前主办方可先更新裁判提示与规则练习；国内店赛采用哪个版本、何时生效，向当地官方赛事渠道再确认。",
+          "sources": [
+            {
+              "name": "Riot官方：October 2026 Tournament Rules Changelog",
+              "url": "https://playriftbound.com/en-us/news/announcements/october-2026-tournament-rules-changelog/"
+            },
+            {
+              "name": "Riot官方：Radiance核心规则更新与互动裁定",
+              "url": "https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/"
+            },
+            {
+              "name": "Riot简中：核心规则更新",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/"
+            },
+            {
+              "name": "Riot简中：赛事规则更新",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/october-2026-tournament-rules-changelog/"
+            },
+            {
+              "name": "Riot简中：卡牌勘误（正文为辉耀群星，页面标题误写化神争锋）",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/radiance-errata-updates/"
+            }
+          ]
+        },
+        {
+          "id": "board-20261010-halo-campaign-judgement",
+          "category": "board",
+          "region": "overseas",
+          "label": "官方新品揭晓",
+          "title": "Halo公布独立战役桌游与Judgement扩展，官网预计12月4日起发货",
+          "brand": "Mantic Games／Halo",
+          "published": "2026-10-09官方公告；ICv2报道为北京时间10月10日03:18",
+          "node": "官网已接受预购；预计2026-12-04起发货，并非10月现货",
+          "priority": "区分独立游戏与扩展",
+          "summary": "Mantic揭晓1–2人独立桌游Halo: Campaign Evolved，以及Flashpoint的Judgement星盟阵营扩展。两款可联动，但购买用途不同；官网现为预购。",
+          "facts": [
+            "Campaign Evolved支持单人或双人，由规则系统或另一位玩家操控星盟，重现Pillar of Autumn、Silent Cartographer等经典任务。",
+            "Judgement是Halo: Flashpoint第三款大盒扩展，引入星盟完整阵营；可与Campaign Evolved联动，附两项额外战役任务。",
+            "官方商品页均写预计2026年12月4日开始发货；Campaign Evolved英镑页面标£39，Judgement官方页面标US$149，均不是中国大陆到手价。",
+            "10月9日是新内容揭晓，当前已可预购；未把揭晓日或直播时间当作已核实的统一预售启动时刻。"
+          ],
+          "advice": "面向Halo故事玩家可优先介绍独立战役盒；已有Flashpoint玩家再核对扩展需求。询价时确认版本、运费和实际交期，避免承诺12月4日国内到货。",
+          "sources": [
+            {
+              "name": "Mantic：10月9日官方揭晓",
+              "url": "https://www.manticgames.com/news/the-covenant-revealed-for-halo-flashpoint-and-more/"
+            },
+            {
+              "name": "Mantic：Campaign Evolved官方商品页",
+              "url": "https://www.manticgames.com/board-games/halo-campaign-evolved/"
+            },
+            {
+              "name": "Mantic：Judgement官方商品页",
+              "url": "https://www.manticgames.com/halo-flashpoint/covenant/judgement-faction-set/"
+            },
+            {
+              "name": "ICv2：10月9日14:18 CT报道",
+              "url": "https://icv2.com/articles/news/view/63582/mantic-reveals-covenant-faction-halo-flashpoint"
+            }
+          ]
+        },
+        {
+          "id": "board-20261010-tokyo-bay-preview",
+          "category": "board",
+          "region": "overseas",
+          "label": "新试玩报道／非首曝",
+          "title": "Tokyo Bay试玩详解：动态轨道与新胜利条件，法语版11月27日发行",
+          "brand": "IELLO／King of Tokyo Duel",
+          "published": "2026-10-09 06:00（Board Game Beat页面时刻，未标时区）",
+          "node": "法语版2026-11-27发行；其他地区及中文版日期未核实",
+          "priority": "双人桌游选品",
+          "summary": "W. Eric Martin新试玩聚焦Tokyo Bay：轨道随游戏铺设，新增残骸收集与卡牌胜利方式。IELLO法语官网列11月27日，不能推成全球统一发售。",
+          "facts": [
+            "IELLO官方页列2人、8岁以上、约20分钟，Richard Garfield设计；加入6只新怪兽。",
+            "10月9日试玩报道介绍以残骸板块逐步组成名望与破坏轨道，并有收集残骸等新胜利条件。",
+            "报道使用发行商提供的非最终评测版本，文中的个别规则判断不应替代最终规则书。",
+            "这是10月9日新试玩，而非首次产品公告；法语官方商品页明确11月27日发行，没有核实中国大陆供货。"
+          ],
+          "advice": "可作为双人短局游戏观察项；店内介绍突出动态轨道，并等最终规则及本地供货确定后再安排预售。",
+          "sources": [
+            {
+              "name": "W. Eric Martin：10月9日Tokyo Bay完整试玩",
+              "url": "https://www.wericmartin.com/game-preview-king-of-tokyo-duel-tokyo-bay/"
+            },
+            {
+              "name": "IELLO法语官方：Tokyo Bay商品与日期",
+              "url": "https://iello.fr/jeux/king-of-tokyo-duel-tokyo-bay/"
+            }
+          ]
+        },
+        {
+          "id": "cards-street-fighter-eql-20261010",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月9日发售更新",
+          "title": "Street Fighter：25美元五张包，采用EQL抽签销售",
+          "brand": "Topps / Street Fighter",
+          "published": "2026-10-09（Checklist Insider更新日期；未标时刻或时区）",
+          "node": "10月9日美国抽签销售节点；预计30–35个工作日发货",
+          "priority": "核对抽签与交期",
+          "summary": "官方EQL页确认每包25美元、4张基础卡加1张平行卡。当前美国活动总表显示没有开放活动，不能把详情页的Continue按钮当作仍可报名。",
+          "facts": [
+            "官方活动页列每包5张、17张基础卡清单，平行卡含Rainbow Foil及/50至1/1等版本；没有签名卡保证。",
+            "Checklist Insider 10月9日更新确认EQL抽签销售，预计30–35个工作日发货；销售节点不等于即日出货或国内现货。",
+            "搜索缓存仍有活动倒计时，但本次直接读取EQL总表为No live launches；开放状态不采用旧缓存。"
+          ],
+          "advice": "先确认货源、实际交期和含税到手价；宣传写清抽签销售与每包配置，不承诺签名卡或即时发货。",
+          "sources": [
+            {
+              "name": "Topps US：Street Fighter官方EQL活动详情",
+              "url": "https://launches.topps.com/en-US/launch/2026-topps-x-street-fighter-single-pack"
+            },
+            {
+              "name": "Topps US：EQL活动列表",
+              "url": "https://launches.topps.com/en-US/launch"
+            },
+            {
+              "name": "Checklist Insider：10月9日更新",
+              "url": "https://www.checklistinsider.com/2026-topps-x-street-fighter"
+            }
+          ]
+        },
+        {
+          "id": "cards-midnight-fdi-hobby-20261010",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月9日拍卖结果 / 预售提醒",
+          "title": "Midnight FDI拍卖售罄，Hobby预售与发行日期分开看",
+          "brand": "Topps / NFL",
+          "published": "2026-10-09（Checklist Insider更新日期；未标时刻或时区）",
+          "node": "Hobby美国预售：北京时间10月13日01:00；正式发行仍待定",
+          "priority": "分清FDI与Hobby",
+          "summary": "专业报道更新：10月9日FDI荷兰拍卖从2,000美元降至1,000美元售罄。官方Hobby预售为10月12日13:00 ET，不能把FDI预计11月6日发行套用到Hobby。",
+          "facts": [
+            "Checklist Insider列FDI拍卖结果为1,000美元售罄；这是该轮海外拍卖价格，不是国内现货价。",
+            "官网Hobby预售写10月12日13:00 ET，官方日历对应17:00 UTC，即北京时间10月13日01:00。",
+            "专业来源分版本列Hobby发行TBA、FDI预计11月6日；页首总日期不能替代版本明细。"
+          ],
+          "advice": "按FDI和Hobby分别询价及确认交期；关注普通Hobby预售前公布的售价，不把已结束拍卖写成开放预售。",
+          "sources": [
+            {
+              "name": "Checklist Insider：Midnight版本及拍卖结果",
+              "url": "https://www.checklistinsider.com/2026-topps-midnight-football"
+            },
+            {
+              "name": "Topps：Midnight官方产品页",
+              "url": "https://www.topps.com/pages/topps-midnight-football"
+            },
+            {
+              "name": "Topps美国官方发行日历",
+              "url": "https://www.topps.com/release-calendar"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-jp-event-entry-20261009",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "日本赛事报名更新",
+          "title": "宝可梦日本30周年大阪赛追加400个名额；千叶冠军联赛公布",
+          "brand": "宝可梦卡牌／日本",
+          "published": "2026-10-09（日本官网公告日期）",
+          "node": "大阪追加抽签：10月14日12:00日本当地时间截止；千叶赛11月22—23日",
+          "priority": "海外参赛观察",
+          "summary": "日本30周年活动大阪11月1日下午场追加400人抽签，10月9日起受理；同日公布11月千叶冠军联赛安排。两者均为赛事信息，不是产品发售。",
+          "facts": [
+            "大阪追加申请窗口为10月9日14:00至10月14日12:00（日本当地时间）；结果预计10月16日17:00公布。",
+            "通过LINE的セカナビ申请，须在截止前完成Players Club关联；此前已获Scramble Battle或一般观览通行证者不属于本次抽签对象。",
+            "千叶冠军联赛定于11月22—23日在幕张展览馆4、5、6号厅举行；参赛须预先申请，不设当天报名，一般观览则无须事前抽签。"
+          ],
+          "advice": "仅对计划赴日参赛的玩家有直接行动价值；先核资格、关联账户与官方报名细则，再安排行程。",
+          "sources": [
+            {
+              "name": "宝可梦日本：10月9日新闻列表",
+              "url": "https://www.pokemon-card.com/info/"
+            },
+            {
+              "name": "宝可梦30周年官方：大阪追加抽签",
+              "url": "https://www.30th.pokemon-card.com/event/30thevent/entry"
+            },
+            {
+              "name": "宝可梦日本：冠军联赛2027千叶公告",
+              "url": "https://www.pokemon-card.com/info/005666.html"
             }
           ]
         }
