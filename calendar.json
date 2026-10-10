@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-10-09",
+  "asOf": "2026-10-10",
   "coverage": [
     "范围：2026年10月公开来源核实的产品／地区节点，含月初已过日期与未来日期；不是全球全品牌全SKU穷尽表，也不是独立产品款数。",
     "默认仅展示正式发售；可筛选全部、预售、众筹及售前活动。官方未来日期可能调整，来源证据等级不等于库存或购买保证。",
@@ -45,7 +45,15 @@
     "Magic正式发售与延迟说明维持：现实裂界10月2日、Secret Lair Bundle10月23日；Corn Maze仍为10月12日09:00 PT，Festival in a Box Atlanta仍为10月19日。到货延迟不伪造新发售日。",
     "高达GD06美国10月30日、日本／亚洲英语／繁中10月31日，官方商品完整列表与详情未发现10月新增或改期；中国大陆站仍读取超时，不能据此声称无新品。",
     "中国大陆航海王站本次只返回JavaScript框架，搜索索引可见旧商品与9月赛事消息，无法穷尽10月节点。洛卡纳未取得可靠大陆10月官方发行日期，不套用海外日期。",
-    "Secret Garden十月展会销售是已发售商品的后续现场供应，未新增正式发售节点；T1 Player Bundle仅有十月购买抽签窗口，未误列为公开预售或正式发售。"
+    "Secret Garden十月展会销售是已发售商品的后续现场供应，未新增正式发售节点；T1 Player Bundle仅有十月购买抽签窗口，未误列为公开预售或正式发售。",
+    "2026-10-10复核：非全网穷尽；保留所有历史节点。Topps七地区官方日历补入6个产品／区域节点并更新4项；现有KAWS及F1 FDI争议继续待核。",
+    "2026-10-10桌游：摩点预热桌游项目、Hachette十月整月6项及FFG众筹节点已对照；暂无确定改期。未用Mantic揭晓／预计发货日期替代预售启动日。",
+    "2026-10-10收藏卡：DAKA／集卡社可读来源滞后或失败，不能断言无新品；迪士尼水晶11月20日仍待官方确认。",
+    "2026-10-10 Topps动态日历主要呈现近期日期，已另核月末产品；旧节点不因滚动下架而删除。Neon美国时刻冲突暂不换算，北京时间与来源日期分别显示。",
+    "10月10日TCG独立整月复核：Riot产品阵容、Magic现实裂界与Secret Lair、Lorcana美国及日本、宝可梦中日美、Bandai日本／欧美英语／亚洲繁中及高达四地区商品列表；未取得足够证据新增或改动十月节点，保留全部原备注与来源。",
+    "Riftbound本次新增10月16日规则生效及Magic 2027年4月新品揭晓只进入新闻，没有机械转成十月产品发售。Radiance中英文商品和售前日期差异继续留待核区。",
+    "EB-05繁中列表仍列10月31日，详情本轮读取失败；亚洲英语列表超时且详情不可读，原10月30／31日冲突没有得到消除，维持待核。",
+    "中国大陆航海王站仍只返回JavaScript框架，高达站读取失败；宝可梦中国公开商品仍列嗨皮组合与卡组10月16日10时起。无法确认或排除未索引的其他大陆新品。"
   ],
   "coverageSources": [
     {
@@ -311,6 +319,46 @@
     {
       "name": "高达官方覆盖核查",
       "url": "https://gundam-gcg.cn/"
+    },
+    {
+      "name": "摩点全部列表",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/all/1"
+    },
+    {
+      "name": "摩点预热第二页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/preheat/2"
+    },
+    {
+      "name": "ICv2 Games",
+      "url": "https://icv2.com/articles/games"
+    },
+    {
+      "name": "SPIEL Lookout展位／销售",
+      "url": "https://www.spiel-essen.de/en/?catid=9&id=396&view=article"
+    },
+    {
+      "name": "Mantic揭晓时间预告",
+      "url": "https://www.manticgames.com/news/the-great-journey-begins-october-9th-2026/"
+    },
+    {
+      "name": "Renegade 10月2日旧公告",
+      "url": "https://renegadegamestudios.com/blog/october-2026-renegade-new-games-reveal-stream-recap/"
+    },
+    {
+      "name": "Topps地区官方日历复核",
+      "url": "https://de.topps.com/release-calendar"
+    },
+    {
+      "name": "Topps地区官方日历复核",
+      "url": "https://fr.topps.com/release-calendar"
+    },
+    {
+      "name": "Topps地区官方日历复核",
+      "url": "https://it.topps.com/release-calendar"
+    },
+    {
+      "name": "Topps地区官方日历复核",
+      "url": "https://es.topps.com/release-calendar"
     }
   ],
   "events": [
@@ -1537,15 +1585,22 @@
       "announcementStatus": "official",
       "sourceTimezone": "America/New_York",
       "sourceTime": "12:00",
-      "sourceEvidence": "FDI available for dutch auction pre-order October9 at12pm ET。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
+      "sourceEvidence": "原官方10月9日12:00 ET荷兰拍卖预售；Checklist Insider 10月9日更新称由2,000美元降至1,000美元售罄。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
       "notes": [
-        "FDI荷兰拍卖预售。"
+        "FDI荷兰拍卖预售。",
+        "此前日期依据：FDI available for dutch auction pre-order October9 at12pm ET。",
+        "本轮报道确认拍卖已经结束；保留预售历史节点，不代表仍可参与。",
+        "此为Midnight Football FDI，与独立待核区F1 FDI不是同一产品。"
       ],
       "sources": [
         {
           "name": "Topps 官方",
           "url": "https://www.topps.com/pages/topps-midnight-football"
+        },
+        {
+          "name": "Checklist Insider：Midnight版本及拍卖结果",
+          "url": "https://www.checklistinsider.com/2026-topps-midnight-football"
         }
       ],
       "timing": {
@@ -1571,15 +1626,31 @@
       "announcementStatus": "official",
       "sourceTimezone": "America/New_York",
       "sourceTime": "13:00",
-      "sourceEvidence": "Available for pre-order October9 at1pm ET。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
+      "sourceEvidence": "原官网10月9日13:00 ET预售预告；本轮官方EQL活动页及Checklist Insider确认10月9日为抽签销售节点。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
       "notes": [
-        "预售开始；正式发售未公布。"
+        "预售开始；正式发售未公布。",
+        "此前日期依据：Available for pre-order October9 at1pm ET。",
+        "本轮更新：采用EQL抽签，不是人人可直接购买的开放预售；预计30–35个工作日发货。",
+        "直接读取美国EQL活动总表为No live launches；详情按钮及缓存倒计时不作仍开放证明。",
+        "保留原时刻预告证据；不把10月9日抽签销售写成当天出货。"
       ],
       "sources": [
         {
           "name": "Topps 官方",
           "url": "https://www.topps.com/pages/topps-x-street-fighter"
+        },
+        {
+          "name": "Topps US：Street Fighter官方EQL活动详情",
+          "url": "https://launches.topps.com/en-US/launch/2026-topps-x-street-fighter-single-pack"
+        },
+        {
+          "name": "Topps US：EQL活动列表",
+          "url": "https://launches.topps.com/en-US/launch"
+        },
+        {
+          "name": "Checklist Insider：10月9日更新",
+          "url": "https://www.checklistinsider.com/2026-topps-x-street-fighter"
         }
       ],
       "timing": {
@@ -1760,7 +1831,7 @@
       "date": "2026-10-14",
       "endDate": null,
       "announcedMonth": null,
-      "region": "美国/欧洲",
+      "region": "美国官网",
       "languages": [
         "未核实"
       ],
@@ -1768,15 +1839,26 @@
       "announcementStatus": "official",
       "sourceTimezone": null,
       "sourceTime": null,
-      "sourceEvidence": "该来源将 2026 Topps Neon Marvel 列为 2026-10-14 的发售节点。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
+      "sourceEvidence": "美国官方日历10月14日17:00 UTC；产品页写1pm EST（字面18:00 UTC），精确时刻存在冲突。日期均为10月14日。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
       "notes": [
-        "正式发售；非预售开始。"
+        "正式发售；非预售开始。",
+        "此前日期依据：该来源将 2026 Topps Neon Marvel 列为 2026-10-14 的发售节点。",
+        "本ID拆分后仅代表美国；欧洲确定时刻由neon-marvel-eu单列。",
+        "不擅自把产品页EST改为EDT；美国精确时刻待核，timing保持null。"
       ],
       "sources": [
         {
           "name": "Topps 官方",
           "url": "https://www.topps.com/products/2026-topps-neon-marvel-mega-box"
+        },
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps：Neon Marvel产品页",
+          "url": "https://www.topps.com/pages/topps-neon-marvel"
         }
       ],
       "timing": null
@@ -3826,20 +3908,23 @@
       "date": "2026-10-13",
       "endDate": null,
       "announcedMonth": null,
-      "region": "美国/欧洲",
+      "region": "美国官网",
       "languages": [
         "未核实"
       ],
       "evidenceLevel": "official",
       "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
-      "verifiedAt": "2026-10-09T10:03:14+08:00",
+      "sourceTimezone": "UTC",
+      "sourceTime": "17:00",
+      "sourceEvidence": "美国日历明确10月13日17:00 UTC预售，产品页为13:00 ET；欧洲时间另拆节点。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
       "notes": [
         "Hobby 10月13日预售；正式发行TBA。",
         "本轮官方产品正文已是2026内容，删去上期“混有2025旧文”的当前状态描述。",
-        "此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。"
+        "此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。",
+        "此前日期依据：Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
+        "本轮拆分地区：本ID保留美国节点，原欧洲范围由mint-disney-eu-pre承接。",
+        "北京时间10月14日01:00；Hobby正式发行仍为TBA。"
       ],
       "sources": [
         {
@@ -3855,7 +3940,11 @@
           "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
         }
       ],
-      "timing": null,
+      "timing": {
+        "localTime": "17:00",
+        "utcOffset": "+00:00",
+        "evidence": "美国官方日历明确2026-10-13 17:00 UTC，产品页13:00 ET交叉一致。"
+      },
       "pendingReleaseEvidence": "已公布预售日期；来源备注明确正式发售日期为TBA或尚未公布。"
     },
     {
@@ -4240,6 +4329,242 @@
         }
       ],
       "timing": null
+    },
+    {
+      "id": "midnight-us-pre",
+      "product": "2026 Topps Midnight Football Hobby（美国预售）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-12",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "17:00",
+      "sourceEvidence": "美国官方日历列10月12日17:00 UTC预售；产品页13:00 ET一致。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
+      "notes": [
+        "北京时间10月13日01:00；区别于10月9日FDI荷兰拍卖预售。",
+        "Hobby正式发行日期仍为TBA，FDI的11月6日预计发行不能套用到Hobby。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps：Midnight官方产品页",
+          "url": "https://www.topps.com/pages/topps-midnight-football"
+        }
+      ],
+      "timing": {
+        "localTime": "17:00",
+        "utcOffset": "+00:00",
+        "evidence": "美国官方日历列10月12日17:00 UTC预售；产品页13:00 ET一致。"
+      },
+      "pendingReleaseEvidence": "Checklist Insider按版本列Hobby发行TBA；官网当前只公布10月12日预售。"
+    },
+    {
+      "id": "bundesliga-pre",
+      "product": "Topps Flagship Bundesliga 2026/27",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国/欧洲官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "美国、英国、德法意西官方日历均标10月13日预售；产品页一致，无精确时刻。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
+      "notes": [
+        "预售开启日期；尚未核到正式发行日、售价与发货安排。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps：Bundesliga产品页",
+          "url": "https://www.topps.com/pages/topps-flagship-bundesliga"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "mint-disney-eu-pre",
+      "product": "2026 Topps Mint Disney Hobby",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英国/欧洲官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "15:00",
+      "sourceEvidence": "英国、德国、法国、意大利、西班牙官方日历均明确10月13日15:00 UTC预售。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
+      "notes": [
+        "Hobby 10月13日预售；正式发行TBA。",
+        "本轮官方产品正文已是2026内容，删去上期“混有2025旧文”的当前状态描述。",
+        "此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。",
+        "原合并节点日期依据：Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
+        "本轮拆为英国/欧洲官网15:00 UTC节点，北京时间10月13日23:00；美国节点为17:00 UTC，不能合并换算。"
+      ],
+      "sources": [
+        {
+          "name": "Topps：Mint Disney当前产品页",
+          "url": "https://www.topps.com/pages/topps-mint-disney"
+        },
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Checklist Insider：版本分列",
+          "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+        },
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
+        }
+      ],
+      "timing": {
+        "localTime": "15:00",
+        "utcOffset": "+00:00",
+        "evidence": "欧洲官方日历明确2026-10-13 15:00 UTC。"
+      },
+      "pendingReleaseEvidence": "已公布预售日期；来源备注明确正式发售日期为TBA或尚未公布。"
+    },
+    {
+      "id": "neon-marvel-eu",
+      "product": "2026 Topps Neon Marvel（欧洲官网）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-10-14",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英国/欧洲官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "15:00",
+      "sourceEvidence": "英国、德国、法国、意大利、西班牙官方日历明确10月14日15:00 UTC，无预售标记。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
+      "notes": [
+        "北京时间10月14日23:00；区别于美国页面存在冲突的时刻及日本18:00 UTC节点。"
+      ],
+      "sources": [
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps德国官方发行日历",
+          "url": "https://de.topps.com/release-calendar"
+        }
+      ],
+      "timing": {
+        "localTime": "15:00",
+        "utcOffset": "+00:00",
+        "evidence": "英国、德国、法国、意大利、西班牙官方日历明确10月14日15:00 UTC，无预售标记。"
+      }
+    },
+    {
+      "id": "f1-main-jp",
+      "product": "2026 Topps Chrome Formula 1（日本官网）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-10-15",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "18:00",
+      "sourceEvidence": "日本官方日历明确10月15日18:00 UTC，无预售标记。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
+      "notes": [
+        "北京时间10月16日02:00、日本当地03:00；官网地区不等于已确认日文卡版。"
+      ],
+      "sources": [
+        {
+          "name": "Topps日本官方发行日历",
+          "url": "https://jp.topps.com/release-calendar"
+        }
+      ],
+      "timing": {
+        "localTime": "18:00",
+        "utcOffset": "+00:00",
+        "evidence": "日本官方日历明确10月15日18:00 UTC，无预售标记。"
+      }
+    },
+    {
+      "id": "cosmic-jp-pre",
+      "product": "2026 Topps Cosmic Chrome Baseball（日本官网预售）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-15",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "18:00",
+      "sourceEvidence": "日本官方日历明确10月15日18:00 UTC，附プレオーダー预售标记。",
+      "verifiedAt": "2026-10-10T09:59:30+08:00",
+      "notes": [
+        "北京时间10月16日02:00、日本当地03:00；不是正式发行日。",
+        "美国官方正式发行仍为11月4日，不能将地区预售当作10月正式发售。"
+      ],
+      "sources": [
+        {
+          "name": "Topps日本官方发行日历",
+          "url": "https://jp.topps.com/release-calendar"
+        }
+      ],
+      "timing": {
+        "localTime": "18:00",
+        "utcOffset": "+00:00",
+        "evidence": "日本官方日历明确10月15日18:00 UTC，附プレオーダー预售标记。"
+      }
     }
   ],
   "review": [
