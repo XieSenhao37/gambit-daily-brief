@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-10",
+  "latestIssue": "2026-10-11",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -914,6 +914,131 @@
             {
               "name": "宝可梦日本：冠军联赛2027千叶公告",
               "url": "https://www.pokemon-card.com/info/005666.html"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-11": {
+      "issue": "2026-10-11",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "pokemon-autumn-priority-deadline-20261011",
+        "board-20261011-keyside-reminder",
+        "magic-corn-maze-reminder-20261011"
+      ],
+      "coverage": [
+        "周末短刊：本轮未取得足够可靠的近24小时重大新增，不凑6–9条。收录3条明确标注旧公告的临近节点提醒，以及1条10月9日高达官方近期补充。",
+        "宝可梦报名已在10月7日期刊提醒；本期仅因今日截止再次提示，不作为新公告。Corn Maze及基尔节点同样是旧公告复核。",
+        "收藏卡：未取得相对昨日足够可靠的新品增量，未重复Street Fighter、Midnight等已报内容。DAKA／集卡社官方可读来源滞后或受限，覆盖缺口不代表没有新品。",
+        "Riot规则／勘误、Magic新Marvel系列、Lorcana指南等已覆盖内容不重复。星籁歌姬独占卡当前缺可独立核验的公开官方揭晓细则，本期不据社区照片补写获取方式或概率。",
+        "月历另行补入两项10月13日众筹旧公告漏项，逐条标明原公告日期与证据级别。日期已过不代表库存，海外节点不等于大陆到货。",
+        "信息源覆盖非全网穷尽；航海王、高达中国大陆部分页面读取受限，集卡社迪士尼水晶11月20日仍待官方核验。"
+      ],
+      "items": [
+        {
+          "id": "pokemon-autumn-priority-deadline-20261011",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "旧公告今日截止",
+          "title": "宝可梦高级赛秋季场：今晚23:59:59结束提前线上报名",
+          "brand": "宝可梦卡牌／中国大陆",
+          "published": "2026-09-29官方公告；2026-10-11复核今日截止节点",
+          "node": "北京时间2026-10-11 23:59:59截止；10月12日结束前通知抽选结果",
+          "priority": "今日报名提醒",
+          "summary": "公开组优先入场资格、少年组及儿童组的提前线上报名今晚截止。公开组需先组队，由队长在“宝可梦卡牌会员”小程序报名；这是旧公告的到期提醒。",
+          "facts": [
+            "公开组队长最多选择2个预赛场次；深圳公开组预赛为10月24日和10月31日。",
+            "少年组及儿童组各只能选择1个场次；各组抽选结果在10月12日23:59:59前通过小程序通知。",
+            "未获公开组优先资格仍有活动当天排队入场机会；少年组、儿童组另设现场补录，不应将今晚写成所有参赛途径关闭。"
+          ],
+          "advice": "计划参赛的玩家今天核对组别、队伍与报名记录；报名不等于中选。",
+          "sources": [
+            {
+              "name": "宝可梦中国：高级赛秋季场官方报名详情（9月29日）",
+              "url": "https://www.pokemon.cn/tcg/event/24035.html"
+            }
+          ]
+        },
+        {
+          "id": "board-20261011-keyside-reminder",
+          "category": "board",
+          "region": "domestic",
+          "label": "旧公告 · 明日开筹提醒",
+          "title": "《基尔：运河新章》明日19点重启众筹，早鸟178元",
+          "brand": "SVG桌游工作室／HUCH!",
+          "published": "项目首次发布时间未明；10月11日复核旧公告有效节点",
+          "node": "10月12日19:00 北京时间开筹；预计2027年1月回报",
+          "priority": "明日开筹",
+          "summary": "摩点官方项目页仍列10月12日19:00重启；早鸟178元、标准188元。此为临近节点提醒，并非过去24小时新品公告。",
+          "facts": [
+            "官方项目页明确10月12日19:00开始，12月10日19:00前达到1万元目标才成功。",
+            "早鸟档178元、限100份；标准档188元，主要档位预计2027年1月回报。",
+            "这是众筹启动，不是现货发售；旧项目重启及价格调整已公布，本次仅提醒明日节点。"
+          ],
+          "advice": "有意参与的玩家可明晚关注档位；先核对回报清单与预计交付，勿将开筹日当作到货日。",
+          "sources": [
+            {
+              "name": "摩点：SVG官方基尔项目页",
+              "url": "https://zhongchou.modian.com/item/158778.html"
+            }
+          ]
+        },
+        {
+          "id": "magic-corn-maze-reminder-20261011",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "旧公告／临近开售提醒",
+          "title": "Corn Maze：北京时间10月12日23点预排队，13日零点开售",
+          "brand": "Magic／Secret Lair",
+          "published": "2026-09-30官方公告；2026-10-11复核近期节点，非今日新公告",
+          "node": "美国10月12日08:00／09:00 PT，对应北京时间10月12日23:00／13日00:00",
+          "priority": "核对跨日时间",
+          "summary": "八款Secret Lair将进入开售窗口；预排队与正式开售相差一小时。中国读者要注意北京时间跨到10月13日，加入购物车不锁库存。",
+          "facts": [
+            "官网列10月12日08:00 PT预排队、09:00 PT开售；该日期美国太平洋夏令时为UTC−7，换算北京时间分别是12日23:00与13日00:00。",
+            "八款包含Labyrinth、KPop Demon Hunters、Marvel Zombies等；单款普通版29.99美元、闪版39.99美元为美区标价，非中国大陆含税到手价。",
+            "开售时已在预排队中的顾客随机获得队列位置；官方明确加入购物车不保留商品，完成结账才锁定。",
+            "运送地区、税费及是否适用免邮须以官方结账条款为准；本条不表示现在已开放销售。"
+          ],
+          "advice": "先核对所需版本、可配送地区和总费用；不要把美国10月12日直接当作北京时间12日上午，也不要承诺排队必买到。",
+          "sources": [
+            {
+              "name": "Wizards：Corn Maze Superdrop官方公告",
+              "url": "https://magic.wizards.com/en/news/announcements/secret-lair-corn-maze-superdrop"
+            }
+          ]
+        },
+        {
+          "id": "gundam-gd06-asia-constructed-20261011",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "10月9日官方补充",
+          "title": "高达亚洲GD06店赛公布：至少20张新系列牌，重印牌不计入",
+          "brand": "GUNDAM CARD GAME／Bandai",
+          "published": "2026-10-09（亚洲英语官网标注日期；未标时刻，非严格近24h公告）",
+          "node": "亚洲英语官网适用地区：2026-10-31至11-15；报名入口尚待开放",
+          "priority": "新系列备赛",
+          "summary": "Bandai亚洲英语官网公布GD06特殊构筑活动，牌组须含至少20张Stardust Trails卡牌，系列重印牌不计入门槛。不能把这套赛事要求直接套用于中国大陆。",
+          "facts": [
+            "活动在BANDAI TCG+合作店举办，时间为10月31日至11月15日；官网报名处仍写Coming Soon。",
+            "参加者在活动结束后获得Elpeo Ple’s Qubeley Mk-II与Elpeo Ple奖励组合，冠军另获一组。",
+            "同日公布的NEWTYPE CHALLENGE MISSION 5为11月8日至2027年1月7日、每店32人，须通过TCG+报名；是另一项赛事。"
+          ],
+          "advice": "有计划参加适用地区店赛的玩家可先按新卡门槛备牌，等当地店家公布场次及报名；赛事不作为十月新品发售节点新增。",
+          "sources": [
+            {
+              "name": "Bandai亚洲英语官网：GD06特殊构筑活动",
+              "url": "https://www.gundam-gcg.com/asia-en/events/release_event_gd06.html"
+            },
+            {
+              "name": "Bandai亚洲英语官网：Mission 5",
+              "url": "https://www.gundam-gcg.com/asia-en/events/ntc_2026mission5.html"
+            },
+            {
+              "name": "Bandai亚洲英语官网：10月9日公告日期",
+              "url": "https://www.gundam-gcg.com/asia-en/"
             }
           ]
         }
