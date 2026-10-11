@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-10-10",
+  "asOf": "2026-10-11",
   "coverage": [
     "范围：2026年10月公开来源核实的产品／地区节点，含月初已过日期与未来日期；不是全球全品牌全SKU穷尽表，也不是独立产品款数。",
     "默认仅展示正式发售；可筛选全部、预售、众筹及售前活动。官方未来日期可能调整，来源证据等级不等于库存或购买保证。",
@@ -53,7 +53,21 @@
     "10月10日TCG独立整月复核：Riot产品阵容、Magic现实裂界与Secret Lair、Lorcana美国及日本、宝可梦中日美、Bandai日本／欧美英语／亚洲繁中及高达四地区商品列表；未取得足够证据新增或改动十月节点，保留全部原备注与来源。",
     "Riftbound本次新增10月16日规则生效及Magic 2027年4月新品揭晓只进入新闻，没有机械转成十月产品发售。Radiance中英文商品和售前日期差异继续留待核区。",
     "EB-05繁中列表仍列10月31日，详情本轮读取失败；亚洲英语列表超时且详情不可读，原10月30／31日冲突没有得到消除，维持待核。",
-    "中国大陆航海王站仍只返回JavaScript框架，高达站读取失败；宝可梦中国公开商品仍列嗨皮组合与卡组10月16日10时起。无法确认或排除未索引的其他大陆新品。"
+    "中国大陆航海王站仍只返回JavaScript框架，高达站读取失败；宝可梦中国公开商品仍列嗨皮组合与卡组10月16日10时起。无法确认或排除未索引的其他大陆新品。",
+    "2026-10-11桌游整月补漏：新增Satisfactory与Dice Throne Nexus的10月13日众筹节点，分别采用发行方新闻稿与专业媒体证据；无精确时刻，不推算北京时间。均为旧公告补录，非今天新品新闻。",
+    "2026-10-11说明：本月来源覆盖非全网穷尽，全部既有历史ID、备注与来源保留。",
+    "TCG本轮未核得可严格归入近24小时、且未曾收录的重大新品公告；选入9月29日旧公告的今日截止提醒及10月9日尚未收录的高达地区店赛补充，均明确日期。",
+    "符文战场官方最新规则及勘误、Magic Darkhold Destiny、宝可梦日本10月9日赛事已在昨日覆盖，未重复包装；成都简中独占卡面的具体新卡公开官方出处本轮未完成核实，不以社区单张照片确认，也不套用终极稀有度概率。",
+    "十月TCG月历独立复核：宝可梦美国完整月度商品清单、日本30周年商品清单、简中嗨皮商品；洛卡纳英／日产品页；高达美／日／亚洲／繁中产品列表；航海王英语商品列表及日本主页；Riftbound概览；Magic官网和中国站。未发现足够证据新增或改期的产品节点。",
+    "Riftbound中文日期与航海王EB-05地区日期原有冲突仍未解除；保留原有待核记录、来源和备注。中国大陆航海王官网读取超时，高达简中页仅返回JavaScript提示，不能据海外页面补写简中档期。",
+    "Secret Garden展会销售和Magic NYCC Roadshow: So Salty均未核实为本月首次发售，不将续售展会另算新品；高达店赛、宝可梦报名也不加入产品日历。",
+    "10月11日收藏卡独立整月复核：Topps七地区日历均尝试核查，美国、英国、德国、法国、西班牙、日本当前正文可读；意大利正文403，仅获得四天前搜索索引与官方产品页补证，不宣称七地区均实时读取成功。",
+    "Checklist Insider非AMP版十月整月清单与Topps当前官方日历及月末单品日期交叉核对，未取得足够证据新增或修改Topps／Bowman十月节点。旧节点不因滚动月历下架而删除。",
+    "Jennie10月20日、Samurai Japan10月16日、F1 Hongbao10月15日、Logofractor10月29日、Collector Kit Wave 2十月28日、Bowman U Best十月30日仍与现有记录一致。Five Star10月28日仍属专业媒体预计日期。",
+    "KAWS专业源仍为10月5日，未取得解除旧来源冲突的官方证据；F1 FDI仍只有专业源10月9日预计发行，保留review。美国Neon产品页本轮读取失败，不能确认旧17:00 UTC／1pm EST时刻冲突已消除，timing维持null。",
+    "Midnight专业源正文仍区分Hobby TBA与FDI11月6日；不得把整站月历汇总的11月6日套用Hobby。Street Fighter抽选与产品预售状态不重复作为今日新闻。",
+    "Checklist Insider的AMP缓存仍包含Museum10月7日旧档期等，已排除；采用非AMP当前正文和官方日期，不让旧缓存把日历回滚。",
+    "DAKA与集卡社未取得可验证十月具体新品日期；Disney Crystal零售商当前仍列11月11日，11月20日亦没有本轮官方确认，两者均不作确定节点。"
   ],
   "coverageSources": [
     {
@@ -359,6 +373,98 @@
     {
       "name": "Topps地区官方日历复核",
       "url": "https://es.topps.com/release-calendar"
+    },
+    {
+      "name": "Riot新闻",
+      "url": "https://playriftbound.com/en-us/news/"
+    },
+    {
+      "name": "符文战场官方简中预览指南",
+      "url": "https://www.weibo.com/ttarticle/p/show?id=2309405345917887971381"
+    },
+    {
+      "name": "Magic官方新闻",
+      "url": "https://magic.wizards.com/en/news"
+    },
+    {
+      "name": "Lorcana英语新闻",
+      "url": "https://www.disneylorcana.com/en-US/news"
+    },
+    {
+      "name": "PokeBeach专业报道列表",
+      "url": "https://www.pokebeach.com/"
+    },
+    {
+      "name": "航海王日本官网",
+      "url": "https://www.onepiece-cardgame.com/"
+    },
+    {
+      "name": "Checklist Insider完整发行日历",
+      "url": "https://www.checklistinsider.com/release-calendar"
+    },
+    {
+      "name": "Topps Jennie官方产品页",
+      "url": "https://www.topps.com/products/2026-topps-chrome%C2%AE-x-jennie"
+    },
+    {
+      "name": "Topps F1官方盒型指南",
+      "url": "https://ripped.topps.com/2026-topps-chrome-formula-1-what-box-is-best/"
+    },
+    {
+      "name": "Topps Samurai Japan官方盒型指南",
+      "url": "https://ripped.topps.com/topps-chrome-baseball-samurai-japan-box-guide/"
+    },
+    {
+      "name": "Topps意大利Collector Kit官方产品页",
+      "url": "https://it.topps.com/products/2026-topps-collector-kit-wave-2"
+    },
+    {
+      "name": "Checklist Insider Five Star",
+      "url": "https://www.checklistinsider.com/2026-topps-five-star-baseball"
+    },
+    {
+      "name": "Checklist Insider Midnight版本日期",
+      "url": "https://www.checklistinsider.com/2026-topps-midnight-football"
+    },
+    {
+      "name": "Checklist Insider KAWS待核日期",
+      "url": "https://www.checklistinsider.com/2026-topps-kaws-x-mlb-baseball"
+    },
+    {
+      "name": "Checklist Insider F1 FDI待核日期",
+      "url": "https://www.checklistinsider.com/2026-topps-chrome-formula-1-racing"
+    },
+    {
+      "name": "DAKA官网",
+      "url": "https://daka-culture.com/"
+    },
+    {
+      "name": "集卡社官网",
+      "url": "https://www.card.fun/"
+    },
+    {
+      "name": "杰森官方品牌页",
+      "url": "https://janime.cn/brand"
+    },
+    {
+      "name": "Coffee Stain／MOOD发行方新闻稿（9月18日）",
+      "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-to-liftoff-in-october-3467878"
+    },
+    {
+      "name": "MOOD官方Gamefound项目",
+      "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game"
+    },
+    {
+      "name": "The Outerhaven：Dice Throne Nexus开筹日期（9月19日）",
+      "url": "https://www.theouterhaven.net/dice-throne-nexus-heads-to-kickstarter-october-13-reveals-snyper/"
+    },
+    {
+      "name": "GamesRadar：Hacker揭晓及开筹日期（10月6日）",
+      "url": "https://www.gamesradar.com/tabletop-gaming/the-final-hero-for-dice-throne-nexus-is-an-absolute-menace-who-hacks-opponents-get-your-first-look-here/"
+    },
+    {
+      "name": "Dice Throne官方Kickstarter项目",
+      "url": "https://www.kickstarter.com/projects/dicethrone/dice-throne-nexus"
     }
   ],
   "events": [
@@ -4565,6 +4671,80 @@
         "utcOffset": "+00:00",
         "evidence": "日本官方日历明确10月15日18:00 UTC，附プレオーダー预售标记。"
       }
+    },
+    {
+      "category": "board",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "语言版本以项目页为准"
+      ],
+      "announcementStatus": "已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-10-11T09:58:00+08:00",
+      "id": "board-satisfactory-gamefound",
+      "product": "Satisfactory: The Board Game",
+      "brand": "MOOD Publishing／Coffee Stain",
+      "evidenceLevel": "official",
+      "sourceEvidence": "发行方9月18日新闻稿正文明确众筹于2026年10月13日在Gamefound启动；未提供精确时刻或时区。",
+      "notes": [
+        "本轮整月补漏；9月18日旧公告，不作为近24小时新闻。",
+        "众筹启动而非零售或发货；交付时间和最终版本以正式项目为准。"
+      ],
+      "sources": [
+        {
+          "name": "Coffee Stain／MOOD发行方新闻稿（9月18日）",
+          "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-to-liftoff-in-october-3467878"
+        },
+        {
+          "name": "MOOD官方Gamefound项目",
+          "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game"
+        }
+      ]
+    },
+    {
+      "category": "board",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "语言版本以项目页为准"
+      ],
+      "announcementStatus": "已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-10-11T09:58:00+08:00",
+      "id": "board-dice-throne-nexus",
+      "product": "Dice Throne Nexus",
+      "brand": "Dice Throne",
+      "evidenceLevel": "secondary",
+      "sourceEvidence": "The Outerhaven 9月19日及GamesRadar 10月6日报道正文均列Kickstarter于10月13日启动；官方项目可定位，但当前网页未返回完整正文，日期按媒体证据标注。",
+      "notes": [
+        "本轮整月补漏；并非10月11日新公告。",
+        "众筹启动不代表正式零售或交付，未提供可换算的精确时刻。"
+      ],
+      "sources": [
+        {
+          "name": "The Outerhaven：Dice Throne Nexus开筹日期（9月19日）",
+          "url": "https://www.theouterhaven.net/dice-throne-nexus-heads-to-kickstarter-october-13-reveals-snyper/"
+        },
+        {
+          "name": "GamesRadar：Hacker揭晓及开筹日期（10月6日）",
+          "url": "https://www.gamesradar.com/tabletop-gaming/the-final-hero-for-dice-throne-nexus-is-an-absolute-menace-who-hacks-opponents-get-your-first-look-here/"
+        },
+        {
+          "name": "Dice Throne官方Kickstarter项目",
+          "url": "https://www.kickstarter.com/projects/dicethrone/dice-throne-nexus"
+        }
+      ]
     }
   ],
   "review": [
