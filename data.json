@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-11",
+  "latestIssue": "2026-10-12",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -1039,6 +1039,157 @@
             {
               "name": "Bandai亚洲英语官网：10月9日公告日期",
               "url": "https://www.gundam-gcg.com/asia-en/"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-12": {
+      "issue": "2026-10-12",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "cards-heritage-box-dates-20261012",
+        "cards-midnight-hobby-node-20261012",
+        "magic-corn-maze-tonight-20261012"
+      ],
+      "coverage": [
+        "截至北京时间2026年10月12日10:00，本轮未核得足够可靠的近24小时重大新品增量；本期为1项盒型档期纠正与3项旧公告有效节点提醒，不将旧消息包装成今日首发。",
+        "来源覆盖并非全网穷尽，发售、预售、众筹、发货及国内到货分别处理。",
+        "桌游本轮未取得可严格确认为近24小时且未曾收录的重大新品公告；采用Satisfactory的9月18日旧公告作10月13日开筹前瞻，明示旧公告。",
+        "ICv2 Games当前最新日期10月9日；Board Game Beat首页10月12日为读者问卷结果，正文未读成功，不按标题推断新品。此前Tokyo Bay、Halo及基尔提醒均不重复。",
+        "游人码头官网及新闻页本轮为空正文；新物集主站与beta站仅返回标语、微博读取失败，搜索索引滞后，不能确认其近24小时或十月完整新品。",
+        "收藏卡近24小时未核得可明确归入窗口的新公告；本期仅提供Heritage盒型档期纠正及Midnight旧公告有效节点，不把10月9日Street Fighter抽选和FDI拍卖结果重复包装成新消息。",
+        "DAKA、集卡社微博只取得数月前抓取内容；杰森首页可读但新闻日期停留较早，品牌页读取失败，无法确认近24小时及十月完整国内新品覆盖。未取得公告不代表没有新品。",
+        "迪士尼水晶11月20日仍无本轮官方确认，不用海外零售日期替代国内发售。",
+        "TCG近24小时没有核得足够可靠且尚未报道的重大新品增量。本期Corn Maze为昨日已提醒的今晚23点／明日零点节点复核，不能计作新公告；宝可梦提前报名已截止，不重复提醒报名。",
+        "CGMagazine 10月11日10:00 EDT（北京时间22:00）发表Hyperia City体验文章，但主要复述既有机制、档期及个人收藏观点，未包装成新品公告；未采用其中社区推测的抽卡率。",
+        "宝可梦中国两种嗨皮SKU、日本30周年十月套组及周边、美国十月六类商品清单与现有日期一致；美国官方正文直接打开只有iframe，本轮通过同一官方页搜索索引核到完整六类条目。",
+        "Lorcana美国Hunny Rescue为10月2日、Hyperia City为10月16日售前／23日全面发售，日本补充包官方索引为10月16日；未核得可靠大陆十月发售日期，不套用海外安排。",
+        "高达美国及亚洲英语完整商品列表、日本和繁中商品页均未出现新的十月商品或改期；GD06仍为美国30日、日／亚英／繁中31日。大陆高达只返回JavaScript提示，航海王大陆站超时，不能据此声称无新品。",
+        "航海王欧美EB05详情仍明确10月30日；日本和亚洲商品列表本轮部分日期未渲染，亚洲英／繁中EB05详情读取失败，无法解除旧10月30／31日冲突；保留全部历史ID、备注、来源及待核记录。",
+        "Radiance简中概览仍列10月24日与17–23日售前，原中英文日期差异未解除。符文战场9月22日官方预览指南仅能证实曾计划10月10日揭晓简中独占卡面，未核得足以确认Seraphine具体卡面、获取方式及概率的公共官方揭晓正文，不据非官方图片判断或套用终极稀有度概率。"
+      ],
+      "items": [
+        {
+          "id": "cards-heritage-box-dates-20261012",
+          "category": "cards",
+          "region": "overseas",
+          "label": "本轮核实 / 盒型纠正",
+          "title": "Heritage Football分盒型：Hobby/Value十月，Mega日期待核",
+          "brand": "Topps / NFL",
+          "published": "2026-10-12复核；官方页面未标更新时间，不作近24小时新公告",
+          "node": "Hobby / Value：10月21日；Mega：主要字段11月4日，页面旧文冲突待核",
+          "priority": "修正预售交期",
+          "summary": "美国、英国、意大利官方系列页已按盒型列出日期。十月日历收窄为Hobby/Value；Mega不能沿用系列总日期承诺十月到货。",
+          "facts": [
+            "三地区官方系列页均写Hobby/Value 10月21日、Mega 11月4日。",
+            "英国Mega商品页Release day与Available From为11月4日，但预售说明仍残留10月21日；该网页内冲突已保留披露。",
+            "这是本轮核实的日历纠正，无法证明官网在过去24小时内完成修改；海外发售日也不等于国内交期。",
+            "由于英国商品页内部仍有日期矛盾，Mega节点保留在待核区，暂不视为无争议确定档期。"
+          ],
+          "advice": "按盒型重新核对供应商交期；若已将Mega按10月21日报价，先澄清档期再承诺到货。",
+          "sources": [
+            {
+              "name": "Topps美国：Heritage系列页（按盒型日期）",
+              "url": "https://www.topps.com/pages/topps-heritage-football"
+            },
+            {
+              "name": "Topps英国：Heritage系列页（按盒型日期）",
+              "url": "https://uk.topps.com/pages/topps-heritage-football"
+            },
+            {
+              "name": "Topps英国：Mega商品页（字段与旧文冲突）",
+              "url": "https://uk.topps.com/products/2026-topps-heritage-football-mega-box"
+            }
+          ]
+        },
+        {
+          "id": "cards-midnight-hobby-node-20261012",
+          "category": "cards",
+          "region": "overseas",
+          "label": "旧公告 / 今晚节点",
+          "title": "Midnight Hobby预售临近：欧洲今晚23点，美国明日1点",
+          "brand": "Topps / NFL",
+          "published": "旧公告；2026-10-12复核有效预售节点",
+          "node": "北京时间10月12日23:00欧洲；10月13日01:00美国",
+          "priority": "核对预售价",
+          "summary": "官方日历仍列欧洲10月12日15:00 UTC、美国17:00 UTC启动Hobby预售。此时点提醒不是新公告，也不是已开售状态。",
+          "facts": [
+            "美国官方产品页写10月12日13:00 ET，与17:00 UTC一致。",
+            "欧洲五地区日历均列10月12日15:00 UTC。",
+            "Checklist Insider按版本仍列Hobby正式发行TBA、FDI预计11月6日，不能将FDI日期套用Hobby。"
+          ],
+          "advice": "留意各地区Hobby正式报价、配送范围与交期，不以先前FDI拍卖成交价替代Hobby价格。",
+          "sources": [
+            {
+              "name": "Topps美国官方发行日历",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps英国官方发行日历",
+              "url": "https://uk.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps Midnight官方产品页",
+              "url": "https://www.topps.com/pages/topps-midnight-football"
+            },
+            {
+              "name": "Checklist Insider：Midnight版本日期",
+              "url": "https://www.checklistinsider.com/2026-topps-midnight-football"
+            }
+          ]
+        },
+        {
+          "id": "magic-corn-maze-tonight-20261012",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "旧公告／今晚节点提醒",
+          "title": "Corn Maze今晚23点预排队，明日零点开售",
+          "brand": "Magic／Secret Lair",
+          "published": "2026-09-30官方公告；昨日已提醒，10月12日再次核对今晚节点",
+          "node": "美国10月12日08:00／09:00 PT，对应北京时间10月12日23:00／13日00:00",
+          "priority": "今晚跨日开售",
+          "summary": "昨日提醒的八款Secret Lair今晚进入预排队窗口。这是同一旧公告的当日提醒，没有新增发售公告；北京时间正式开售为10月13日00:00。",
+          "facts": [
+            "官方仍列美国10月12日08:00 PT预排队、09:00 PT开售；按当日PDT（UTC−7）换算，北京时间分别为12日23:00、13日00:00。",
+            "开售前已进入预排队的顾客将随机分配队列位置；加入购物车不保留商品，完成结账才锁定。",
+            "适用配送地区、税费与运费以官方结账条款为准，不能保证排队后一定买到。"
+          ],
+          "advice": "今晚参与者先核对版本、配送范围与总费用，勿把美国日期误读为北京时间12日上午。",
+          "sources": [
+            {
+              "name": "Wizards：Corn Maze Superdrop官方公告",
+              "url": "https://magic.wizards.com/en/news/announcements/secret-lair-corn-maze-superdrop"
+            }
+          ]
+        },
+        {
+          "id": "board-20261012-satisfactory-preview",
+          "category": "board",
+          "region": "overseas",
+          "label": "旧公告有效前瞻",
+          "title": "Satisfactory桌游10月13日开筹，关注奖励需随实际支持领取",
+          "brand": "MOOD Publishing／Coffee Stain",
+          "published": "2026-09-18发行方旧公告；10月12日复核近期节点",
+          "node": "2026-10-13 · Gamefound众筹开启（来源日期，未公布精确时刻）",
+          "priority": "关注众筹条件",
+          "summary": "《Satisfactory: The Board Game》计划10月13日在Gamefound开筹，支持1—4人。官方旧公告仍列关注者随众筹支持获得金属FICSIT杯先手标记的安排；关注本身不等于免费寄送。",
+          "facts": [
+            "9月18日发行方公告明确2026年10月13日启动众筹，未提供时刻或时区，不能直接当作北京时间10月13日零点。",
+            "桌游将工厂建设与资源提炼、升级和生产效率管理结合；支持单人或最多4人游玩。",
+            "公告写明在10月13日前关注项目的玩家，随其众筹支持获得FICSIT Cup先手标记；具体资格及最终条件应以正式项目为准。",
+            "本条为旧公告的有效前瞻，已于昨日补入月历；不是近24小时新品首曝，也不是零售上市或交付日。"
+          ],
+          "advice": "对工厂经营题材有兴趣可先查看项目并核对关注奖励条件；等正式档位、运费、语言及交付说明齐备再决定支持，不提前承诺国内到货。",
+          "sources": [
+            {
+              "name": "Coffee Stain／MOOD：9月18日官方新闻稿",
+              "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-to-liftoff-in-october-3467878"
+            },
+            {
+              "name": "MOOD官方Gamefound项目",
+              "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game"
             }
           ]
         }
