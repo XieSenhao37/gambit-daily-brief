@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-10-11",
+  "asOf": "2026-10-12",
   "coverage": [
     "范围：2026年10月公开来源核实的产品／地区节点，含月初已过日期与未来日期；不是全球全品牌全SKU穷尽表，也不是独立产品款数。",
     "默认仅展示正式发售；可筛选全部、预售、众筹及售前活动。官方未来日期可能调整，来源证据等级不等于库存或购买保证。",
@@ -67,7 +67,30 @@
     "KAWS专业源仍为10月5日，未取得解除旧来源冲突的官方证据；F1 FDI仍只有专业源10月9日预计发行，保留review。美国Neon产品页本轮读取失败，不能确认旧17:00 UTC／1pm EST时刻冲突已消除，timing维持null。",
     "Midnight专业源正文仍区分Hobby TBA与FDI11月6日；不得把整站月历汇总的11月6日套用Hobby。Street Fighter抽选与产品预售状态不重复作为今日新闻。",
     "Checklist Insider的AMP缓存仍包含Museum10月7日旧档期等，已排除；采用非AMP当前正文和官方日期，不让旧缓存把日历回滚。",
-    "DAKA与集卡社未取得可验证十月具体新品日期；Disney Crystal零售商当前仍列11月11日，11月20日亦没有本轮官方确认，两者均不作确定节点。"
+    "DAKA与集卡社未取得可验证十月具体新品日期；Disney Crystal零售商当前仍列11月11日，11月20日亦没有本轮官方确认，两者均不作确定节点。",
+    "10月12日桌游独立整月复核：摩点预热10项、众筹中前三页与若干项目正文；Hachette美国十月6项、Renegade美国发行页与Nastra’s Nightmare两页、FFG众筹公告，新增1项历史开筹节点。",
+    "新增《普里戈任的正义进军》中文实体版10月5日12:00众筹：日期来自官方现行HTML明确start_time，主要档位预计2027年4月回报。未把首次查到当作今日公告。",
+    "摩点其他在筹项目虽可读截止与回报日期，但未取得可靠开始日的不反推日期；纷争论战详情超时、部分项目本机读取403，未绕过访问限制。",
+    "Hachette Spooky Bar 10月16日及另5款10月23日、FFG Arkham Horror: Remastered 10月21日保持。Renegade Zetacron搜索缓存仍有10月24日，直接读取官方单品现行HTML为10月26日，维持原记录，不回滚。",
+    "Renegade发行页动态商品名缺失，不根据空标题日期块推断额外产品；SPIEL为展会时间，未当作所有参展游戏统一零售日。Namiji官方页本轮读取失败，保留先前已核档期与原备注来源。",
+    "Satisfactory及Dice Throne Nexus十月13日旧公告正文复核一致，无精确时刻不换算北京日期。全部旧ID、notes与sources应保留，月历不是全球或简中产品穷尽表。",
+    "10月12日收藏卡独立全月核查：Topps美国、英国、德国、法国、意大利、西班牙、日本七地区日历本轮正文均可读；意大利此前访问缺口本轮已恢复。",
+    "将当前滚动日历与Checklist Insider非AMP完整十月清单及月末官方产品页交叉核对；历史月初节点不因滚动日历下架而删除。",
+    "本轮盒型纠正：Heritage 10月21日只覆盖Hobby/Value；Mega按三地区官方系列页及英国商品日期字段单列11月4日，同时保留英国商品预售旧文10月21日的冲突。",
+    "F1常规版原节点去除与f1-main-jp重复的日本地区；现有日本独立18:00 UTC节点和各历史ID、notes、sources保留。",
+    "月末及非滚动日历节点复核：Samurai Japan 10月16日、Jennie 10月20日、Collector Kit Wave2 10月28日、Bowman U Best 10月30日仍一致。F1 Hongbao10月15日及Logofractor10月29日本轮仅官方搜索索引补证，正文读取失败，不改变日期。Five Star10月28日仍为专业媒体预计。",
+    "KAWS专业页仍10月5日、F1 FDI仍10月9日预计，没有新增官方证据解除争议，保留review。美国Neon官方产品页已可读，仍写1pm EST，与日历17:00 UTC冲突；timing继续null。",
+    "Midnight按版本仍为Hobby发行TBA、FDI预计11月6日；Royalty/Bundesliga的十月13日为预售，不能当正式发行。",
+    "DAKA和CARD.FUN当前来源无法提供可核的十月完整新品清单，国内覆盖缺口仍在；水晶11月20日未获官方确认。",
+    "2026-10-12 TCG独立整月补漏：新增法语Vendetta补充包10月23日正式发售，Riot法语发行路线图与9月22日更新的8月路线图交叉确认；同日Radiance是另一系列，不合并或改动其节点。",
+    "TCG近24小时没有核得足够可靠且尚未报道的重大新品增量。本期Corn Maze为昨日已提醒的今晚23点／明日零点节点复核，不能计作新公告；宝可梦提前报名已截止，不重复提醒报名。",
+    "CGMagazine 10月11日10:00 EDT（北京时间22:00）发表Hyperia City体验文章，但主要复述既有机制、档期及个人收藏观点，未包装成新品公告；未采用其中社区推测的抽卡率。",
+    "宝可梦中国两种嗨皮SKU、日本30周年十月套组及周边、美国十月六类商品清单与现有日期一致；美国官方正文直接打开只有iframe，本轮通过同一官方页搜索索引核到完整六类条目。",
+    "Lorcana美国Hunny Rescue为10月2日、Hyperia City为10月16日售前／23日全面发售，日本补充包官方索引为10月16日；未核得可靠大陆十月发售日期，不套用海外安排。",
+    "高达美国及亚洲英语完整商品列表、日本和繁中商品页均未出现新的十月商品或改期；GD06仍为美国30日、日／亚英／繁中31日。大陆高达只返回JavaScript提示，航海王大陆站超时，不能据此声称无新品。",
+    "航海王欧美EB05详情仍明确10月30日；日本和亚洲商品列表本轮部分日期未渲染，亚洲英／繁中EB05详情读取失败，无法解除旧10月30／31日冲突；保留全部历史ID、备注、来源及待核记录。",
+    "Radiance简中概览仍列10月24日与17–23日售前，原中英文日期差异未解除。符文战场9月22日官方预览指南仅能证实曾计划10月10日揭晓简中独占卡面，未核得足以确认Seraphine具体卡面、获取方式及概率的公共官方揭晓正文，不据非官方图片判断或套用终极稀有度概率。",
+    "Heritage Mega虽有三地区系列页指向11月4日，但英国商品预售段仍为10月21日；按争议日期规则新增到review待核区，不进入确定发售列表。"
   ],
   "coverageSources": [
     {
@@ -465,6 +488,246 @@
     {
       "name": "Dice Throne官方Kickstarter项目",
       "url": "https://www.kickstarter.com/projects/dicethrone/dice-throne-nexus"
+    },
+    {
+      "name": "摩点官方预热列表",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/preheat/1"
+    },
+    {
+      "name": "摩点官方众筹中第1页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/going/1"
+    },
+    {
+      "name": "摩点官方众筹中第2页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/going/2"
+    },
+    {
+      "name": "摩点官方众筹中第3页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/going/3"
+    },
+    {
+      "name": "Hachette美国十月清单",
+      "url": "https://www.hachetteboardgames.com/blogs/infos/october-is-going-to-be-a-great-month-for-gaming"
+    },
+    {
+      "name": "Renegade美国发行表",
+      "url": "https://renegadegamestudios.com/releasedate"
+    },
+    {
+      "name": "Renegade Zetacron官方现行页",
+      "url": "https://renegadegamestudios.com/heroscape-zetacron-remastered-army-expansion/"
+    },
+    {
+      "name": "FFG官方众筹公告",
+      "url": "https://www.fantasyflightgames.com/kicking-off-crowdfunding/"
+    },
+    {
+      "name": "Board Game Beat",
+      "url": "https://www.wericmartin.com/"
+    },
+    {
+      "name": "SPIEL官方",
+      "url": "https://www.spiel-essen.de/en/"
+    },
+    {
+      "name": "游人码头新闻页（空正文）",
+      "url": "https://www.gameharbor.com.cn/zh/news/list"
+    },
+    {
+      "name": "新物集主站（未返回项目正文）",
+      "url": "https://shop.zhuoyou.com/pc/"
+    },
+    {
+      "name": "新物集beta站（未返回项目正文）",
+      "url": "https://shop-beta.zhuoyou.com/pc/"
+    },
+    {
+      "name": "Dice Throne Nexus旧公告复核",
+      "url": "https://www.theouterhaven.net/dice-throne-nexus-heads-to-kickstarter-october-13-reveals-snyper/"
+    },
+    {
+      "name": "Topps德国官方发行日历",
+      "url": "https://de.topps.com/release-calendar"
+    },
+    {
+      "name": "Topps法国官方发行日历",
+      "url": "https://fr.topps.com/release-calendar"
+    },
+    {
+      "name": "Topps意大利官方发行日历",
+      "url": "https://it.topps.com/release-calendar"
+    },
+    {
+      "name": "Topps西班牙官方发行日历",
+      "url": "https://es.topps.com/release-calendar"
+    },
+    {
+      "name": "Topps美国：Heritage系列页（按盒型日期）",
+      "url": "https://www.topps.com/pages/topps-heritage-football"
+    },
+    {
+      "name": "Topps英国：Heritage系列页（按盒型日期）",
+      "url": "https://uk.topps.com/pages/topps-heritage-football"
+    },
+    {
+      "name": "Topps意大利：Heritage系列页",
+      "url": "https://it.topps.com/pages/topps-heritage-football"
+    },
+    {
+      "name": "Topps英国：Mega商品页（字段与旧文冲突）",
+      "url": "https://uk.topps.com/products/2026-topps-heritage-football-mega-box"
+    },
+    {
+      "name": "Checklist Insider最新文章",
+      "url": "https://www.checklistinsider.com/"
+    },
+    {
+      "name": "Topps Neon美国产品页",
+      "url": "https://www.topps.com/pages/topps-neon-marvel"
+    },
+    {
+      "name": "Topps Midnight产品页",
+      "url": "https://www.topps.com/pages/topps-midnight-football"
+    },
+    {
+      "name": "Topps Samurai Japan盒型指南",
+      "url": "https://ripped.topps.com/topps-chrome-baseball-samurai-japan-box-guide/"
+    },
+    {
+      "name": "Topps F1盒型指南（本轮搜索索引补证）",
+      "url": "https://ripped.topps.com/2026-topps-chrome-formula-1-what-box-is-best/"
+    },
+    {
+      "name": "Topps Jennie商品页",
+      "url": "https://www.topps.com/products/2026-topps-chrome%C2%AE-x-jennie"
+    },
+    {
+      "name": "Checklist Insider Midnight",
+      "url": "https://www.checklistinsider.com/2026-topps-midnight-football"
+    },
+    {
+      "name": "Checklist Insider KAWS",
+      "url": "https://www.checklistinsider.com/2026-topps-kaws-x-mlb-baseball"
+    },
+    {
+      "name": "Checklist Insider F1",
+      "url": "https://www.checklistinsider.com/2026-topps-chrome-formula-1-racing"
+    },
+    {
+      "name": "DAKA微博（旧抓取，非实时）",
+      "url": "https://www.weibo.com/dakaculture"
+    },
+    {
+      "name": "集卡社微博（旧抓取，非实时）",
+      "url": "https://weibo.com/u/7540120015"
+    },
+    {
+      "name": "杰森官方首页",
+      "url": "https://www.janime.cn/home"
+    },
+    {
+      "name": "杰森官方品牌页（读取失败）",
+      "url": "https://janime.cn/brand"
+    },
+    {
+      "name": "森罗万象官网",
+      "url": "https://www.goods.fun/home"
+    },
+    {
+      "name": "Riot最新新闻",
+      "url": "https://playriftbound.com/en-us/news/"
+    },
+    {
+      "name": "Riot法语发行路线图",
+      "url": "https://playriftbound.com/fr-fr/news/announcements/from-en-garde-to-en-route-our-french-roadmap/"
+    },
+    {
+      "name": "Riot八月路线图",
+      "url": "https://playriftbound.com/en-us/news/announcements/august-2026-roadmap/"
+    },
+    {
+      "name": "Riot简中Radiance概览",
+      "url": "https://playriftbound.com/zh-cn/news/announcements/the-radiance-overview/"
+    },
+    {
+      "name": "符文战场官方9月22日预览指南",
+      "url": "https://www.weibo.com/ttarticle/p/show?id=2309405345917887971381"
+    },
+    {
+      "name": "Magic新品总览",
+      "url": "https://magic.wizards.com/en/news"
+    },
+    {
+      "name": "Magic现实裂界商品",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
+    },
+    {
+      "name": "Magic Corn Maze",
+      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-corn-maze-superdrop"
+    },
+    {
+      "name": "Magic Festival in a Box",
+      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition"
+    },
+    {
+      "name": "万智牌中国官网",
+      "url": "https://www.cnwizards.com/"
+    },
+    {
+      "name": "Lorcana美国Hyperia City",
+      "url": "https://www.disneylorcana.com/en-US/product/hyperia-city"
+    },
+    {
+      "name": "Lorcana美国Hunny Rescue",
+      "url": "https://www.disneylorcana.com/en-US/product/great-hunny-rescue"
+    },
+    {
+      "name": "Lorcana日本Hyperia City",
+      "url": "https://www.takaratomy.co.jp/products/disneylorcana/product/hyperia-city/booster-pack/"
+    },
+    {
+      "name": "宝可梦中国嗨皮商品",
+      "url": "https://www.pokemon.cn/tcg/product/23939.html"
+    },
+    {
+      "name": "宝可梦日本30周年全商品",
+      "url": "https://www.30th.pokemon-card.com/product"
+    },
+    {
+      "name": "宝可梦美国十月全商品日历",
+      "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
+    },
+    {
+      "name": "Bandai航海王美国EB05",
+      "url": "https://en.onepiece-cardgame.com/products/eb05.html"
+    },
+    {
+      "name": "Bandai航海王日本商品列表",
+      "url": "https://www.onepiece-cardgame.com/products/"
+    },
+    {
+      "name": "Bandai航海王亚洲英语商品列表",
+      "url": "https://asia-en.onepiece-cardgame.com/products/"
+    },
+    {
+      "name": "高达美国商品列表",
+      "url": "https://www.gundam-gcg.com/en/products/list.php"
+    },
+    {
+      "name": "高达亚洲英语商品列表",
+      "url": "https://www.gundam-gcg.com/asia-en/products/list.php"
+    },
+    {
+      "name": "高达日本商品",
+      "url": "https://www.gundam-gcg.com/jp/products/"
+    },
+    {
+      "name": "高达繁中商品",
+      "url": "https://www.gundam-gcg.com/zh-tw/products/"
+    },
+    {
+      "name": "CGMagazine 10月11日Hyperia City体验",
+      "url": "https://www.cgmagonline.com/news/hyperia-city-disney-lorcana-2026/"
     }
   ],
   "events": [
@@ -2042,7 +2305,7 @@
       "date": "2026-10-15",
       "endDate": null,
       "announcedMonth": null,
-      "region": "美国/欧洲/日本官网",
+      "region": "美国/欧洲官网",
       "languages": [
         "未核实"
       ],
@@ -2050,15 +2313,24 @@
       "announcementStatus": "official",
       "sourceTimezone": null,
       "sourceTime": null,
-      "sourceEvidence": "该来源将 2026 Topps Chrome Formula 1（Hobby / Value / Mega） 列为 2026-10-15 的发售节点。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
+      "sourceEvidence": "美国、英国官方日历列10月15日常规版发售；日本官网已另有f1-main-jp节点，保留其18:00 UTC时刻，不在本节点重复地区。",
+      "verifiedAt": "2026-10-12T09:58:00+08:00",
       "notes": [
-        "常规版；FDI、Hongbao、Logofractor单列重要版本差异。"
+        "常规版；FDI、Hongbao、Logofractor单列重要版本差异。",
+        "本轮修正地区重叠：日本官网已有独立节点f1-main-jp，本ID移除日本范围；日期不变。"
       ],
       "sources": [
         {
           "name": "Topps Ripped",
           "url": "https://ripped.topps.com/2026-topps-chrome-formula-1-what-box-is-best/"
+        },
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
         }
       ],
       "timing": null
@@ -2402,7 +2674,7 @@
     },
     {
       "id": "heritage-football",
-      "product": "2026 Topps Heritage Football",
+      "product": "2026 Topps Heritage Football（Hobby / Value）",
       "category": "cards",
       "brand": "Topps",
       "nodeType": "release",
@@ -2417,15 +2689,31 @@
       "announcementStatus": "official",
       "sourceTimezone": null,
       "sourceTime": null,
-      "sourceEvidence": "该来源将 2026 Topps Heritage Football 列为 2026-10-21 的发售节点。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
+      "sourceEvidence": "美国、英国与意大利官方系列页明确：Hobby/Value 10月21日、Mega 11月4日。英国Mega商品页Release day及Available From均为11月4日，但预售说明仍残留10月21日；本节点仅保留Hobby/Value。",
+      "verifiedAt": "2026-10-12T09:58:00+08:00",
       "notes": [
-        "采用官方10月21日；部分经销商Mega旧档期11月4日存在冲突。"
+        "采用官方10月21日；部分经销商Mega旧档期11月4日存在冲突。",
+        "十月21日仅适用于Hobby/Value，不能再将Mega归入同一节点。",
+        "Mega按当前官方系列页及商品日期字段为11月4日；英国商品页预售段仍写10月21日，保留该文案冲突并建议下单前复核。",
+        "本轮是日历盒型纠正；页面未标更新时间，不能据此称近24小时首次改期。",
+        "此前核验记录（2026-10-08）：采用官方10月21日；部分经销商Mega旧档期11月4日存在冲突。"
       ],
       "sources": [
         {
           "name": "Topps 官方",
           "url": "https://uk.topps.com/products/2026-topps-heritage-football-mega-box"
+        },
+        {
+          "name": "Topps美国：Heritage系列页（按盒型日期）",
+          "url": "https://www.topps.com/pages/topps-heritage-football"
+        },
+        {
+          "name": "Topps英国：Heritage系列页（按盒型日期）",
+          "url": "https://uk.topps.com/pages/topps-heritage-football"
+        },
+        {
+          "name": "Topps意大利：Heritage系列页",
+          "url": "https://it.topps.com/pages/topps-heritage-football"
         }
       ],
       "timing": null
@@ -4745,6 +5033,82 @@
           "url": "https://www.kickstarter.com/projects/dicethrone/dice-throne-nexus"
         }
       ]
+    },
+    {
+      "id": "board-prigozhin-march-justice-cn",
+      "product": "普里戈任的正义进军（中文实体版）",
+      "category": "board",
+      "brand": "星云兵棋工作室",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-05",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "众筹进行中",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "12:00",
+      "sourceEvidence": "2026-10-12读取摩点官方项目页现行HTML，倒计时h3明确start_time=\"2026-10-05 12:00:00\"、end_time=\"2026-11-06 12:00:00\"；非由剩余天数倒推。",
+      "verifiedAt": "2026-10-12T09:59:00+08:00",
+      "notes": [
+        "十月整月补漏，10月5日众筹启动；不是10月12日新公告或现货发售。",
+        "项目正文列11月6日12:00截止，目标人民币3,200元；实体版主要档位预计2027年4月内回报。",
+        "来源仅明确中文，未擅自细分简体或繁体。"
+      ],
+      "sources": [
+        {
+          "name": "摩点官方项目页：正文与HTML开始时间字段",
+          "url": "https://zhongchou.modian.com/item/160507.html"
+        }
+      ],
+      "timing": {
+        "localTime": "12:00",
+        "utcOffset": "+08:00",
+        "evidence": "摩点中国大陆官方项目HTML列开始时间2026-10-05 12:00:00。"
+      }
+    },
+    {
+      "id": "riftbound-vendetta-fr-boosters",
+      "product": "Vendetta 法语补充包",
+      "category": "tcg",
+      "brand": "符文战场",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "法国／法语发行区",
+      "languages": [
+        "法语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "来源当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "Riot 2026年4月7日法语发行路线图将10月23日的Boosters Vendetta、Boosters Radiance和Radiance对战套牌分别列出；8月路线图（9月22日更新）的十月清单仍明确23日French Vendetta launch。",
+      "verifiedAt": "2026-10-12T09:59:00+08:00",
+      "notes": [
+        "本次为整月日历补漏，原公告早于本期，不作为近24小时新品新闻。",
+        "Vendetta与同日Radiance为不同系列，法语版追赶发行进度；不能据此改动英文或简中Vendetta既有发售时间。",
+        "仅核到法语补充包发行，不推断其他Vendetta法语SKU、预售时刻或到货保证。"
+      ],
+      "sources": [
+        {
+          "name": "Riot法语：4月7日法国发行路线图",
+          "url": "https://playriftbound.com/fr-fr/news/announcements/from-en-garde-to-en-route-our-french-roadmap/"
+        },
+        {
+          "name": "Riot英语：法语发行路线图",
+          "url": "https://playriftbound.com/en-us/news/announcements/from-en-garde-to-en-route-our-french-roadmap/"
+        },
+        {
+          "name": "Riot英语：8月路线图（9月22日更新）",
+          "url": "https://playriftbound.com/en-us/news/announcements/august-2026-roadmap/"
+        }
+      ],
+      "timing": null
     }
   ],
   "review": [
@@ -4918,6 +5282,50 @@
         {
           "name": "Bandai地区EB-05详情",
           "url": "https://asia-tc.onepiece-cardgame.com/products/eb05.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "heritage-football-mega",
+      "product": "2026 Topps Heritage Football Mega",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-11-04",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国/欧洲",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "conflict",
+      "announcementStatus": "review",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "美国、英国、意大利官方系列页均将Mega单列为11月4日；英国Mega商品页Release day及Available From也为11月4日，预售说明仍残留10月21日。",
+      "verifiedAt": "2026-10-12T09:58:00+08:00",
+      "notes": [
+        "日期仍有官方页面内部冲突，暂列待核；11月4日为主要官方字段指向，非已消除争议的确认日期。",
+        "不计入10月正式发售；独立保留11月4日节点，避免由系列总日期误归十月。",
+        "英国商品页旧预售说明仍写10月21日，与页面字段冲突；本记录采用三地区系列页及商品当前日期字段的共同日期，具体交付仍需卖家确认。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国：Heritage系列页（按盒型日期）",
+          "url": "https://www.topps.com/pages/topps-heritage-football"
+        },
+        {
+          "name": "Topps英国：Heritage系列页（按盒型日期）",
+          "url": "https://uk.topps.com/pages/topps-heritage-football"
+        },
+        {
+          "name": "Topps意大利：Heritage系列页",
+          "url": "https://it.topps.com/pages/topps-heritage-football"
+        },
+        {
+          "name": "Topps英国：Mega商品页（字段与旧文冲突）",
+          "url": "https://uk.topps.com/products/2026-topps-heritage-football-mega-box"
         }
       ],
       "timing": null
