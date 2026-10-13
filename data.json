@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-12",
+  "latestIssue": "2026-10-13",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -1190,6 +1190,354 @@
             {
               "name": "MOOD官方Gamefound项目",
               "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-13": {
+      "issue": "2026-10-13",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "riftbound-radiance-prerift-guide-20261013",
+        "cards-midnight-hobby-release-20261013",
+        "board-20261013-snow-planner-expansions"
+      ],
+      "coverage": [
+        "覆盖并非全网穷尽；仅采可核公开原文，旧公告、预售、众筹、上市与到货分别标注。",
+        "TCG资讯检索窗口为北京时间10月12日10:00至13日10:00。Riftbound指南有UTC时间戳；Magic及宝可梦若仅标10月12日，按官方日期标注，不伪称精确24小时。",
+        "独立复核Magic产品阵容、WPN日程及地区延迟公告，补齐现实裂界跨月常规售前、新西兰延期售前、墨西哥改约窗口；保留中国大陆部分SKU延迟说明。",
+        "Riftbound独立复核十月路线图与Radiance完整产品阵容；法语Vendetta、Radiance及现有各SKU未发现需新增的正式发售节点。中文售前新旧文章仍冲突，单独入待核区；抽签不作为预售。",
+        "Corn Maze已连续两期作旧公告提醒，本期不重复充当新闻；Festival in a Box 10月19日及Secret Lair Bundle 10月23日沿用原官方节点，未臆造开售时刻。",
+        "宝可梦中国10月12日新增城市赛第六批报名及RED LAND冠军回顾；选入有当天行动价值的城市赛公告。页面只标日期，不能证明具体发布时间处于10月12日10:00至13日10:00之间。RED LAND为10月3—5日赛事结果回顾，未据三位冠军推断整体环境变化。",
+        "宝可梦日本新闻列表最新仍为10月9日千叶冠军联赛及30周年大阪追加报名，均属历史已收录信息。本轮未核得近24小时新官方商品公告。",
+        "宝可梦美国新闻与月表直开仅返回iframe；经官方搜索索引核得10月完整月表的6项商品日期仍为10月2日4项、23日Deck Crafter’s Collection、30日Espeon／Umbreon Battle Deck。索引为此前抓取，不能据此保证实时无更新。Delta Reign售前官方索引仍列24日起。",
+        "宝可梦中国商品目录及近期产品公告复核：10月16日嗨皮组合与嗨皮卡组两个SKU已在日历；8月发布的30周年系列实际为9月16日，不移入10月。日本普通产品列表未渲染商品，但30周年全商品页可读，10月16日9款卡牌套组、9款高级收藏册与9款补充页均已覆盖，无新增节点。",
+        "Lorcana英语新闻最新为10月8日规则与售前指南；日本新闻最新为10月9日贴纸赠礼及套牌专栏，均早于本期窗口，不包装为新公告。美国商品页仍列Hunny Rescue 10月2日、Hyperia City 16日售前和23日全面发售。日本补充包和两款卡套仍列16日；Beauty and the Beast Curator’s Collection仍只有10月月份证据。",
+        "Takara Tomy新商品完整列表另出现WILDS UNKNOWN“10月下旬送达”单包与盒装批次，官方原始产品页已明确5月8日首发，因此将其作为旧商品送达安排排除，不误写成十月新品、精确发售日或已核实开预售日。",
+        "本轮未取得Lorcana中国大陆可靠官方十月商品节点，不套用美国或日本日期。公开索引未取得信息不等于当地没有消息。",
+        "2026-10-13 Bandai近24小时新闻核查：未核得可明确归入北京时间10月12日10:00至13日10:00、尚未报道的重大新品增量，本期未收录Bandai新资讯；高达10月9日亚洲GD06构筑赛已在历史日报收录，不重复。",
+        "航海王日本、欧美、亚洲英语及繁中官方新闻页均已读取；新闻页最新信息区域未完整渲染，归档可读内容分别止于3月或4月，不能当成最新资讯的完整清单。另检索10月12／13日官方域名未获新公告，零条不代表全网没有更新。",
+        "高达美国／日本新闻列表与亚洲英语／繁中主页已读取：可见最新日期分别为10月2日、10月1日、10月9日、10月9日；没有将旧公告发布日期当作今天新闻。",
+        "十月日历与新闻独立核查：航海王日本及欧美全部商品列表第1–2页、亚洲英语及繁中列表第1–2页均已对照至九月及更早日期。日本8项、欧美2项既有十月节点未见改期，保留既有备注与来源，不新增重复节点。",
+        "高达美国、日本、亚洲英语、繁中全部商品列表及GD06详情均已复核：GD06美国10月30日，日本／亚洲英语／繁中10月31日；未在可读取十月段发现额外新品。四地区节点分别保留，不推算北京时间。",
+        "航海王EB-05亚洲英语列表仍为10月30日、繁中列表仍为10月31日；两地详情本轮读取失败，旧有列表／详情日期冲突不能解除，维持两项独立待核记录。日本／欧美EB-05及欧美TS-03详情本轮亦不可读，对应无争议日期由同地区官方列表复核。",
+        "大陆航海王www入口读取失败、非www入口仅返回空正文；高达www／非www首页与商品入口均读取失败。官方搜索索引仍主要为九月或更早信息，无法确认或排除未索引的大陆十月新品，不套用海外日期。",
+        "未把无日期的赛事限定周边或当前陈列位置推断为十月发售。日本娜美＆罗宾桌垫的官方关联活动为11月7日／29日；高达EVX09详情列6月30日，均不新增十月节点。",
+        "航海王9月24日禁限旧公告明确OP14-020米霍克（含异画）自10月12日起禁用，未来活动计划派发P-163；日本、欧美、亚英公告一致。未取得近24小时新公告证据，因此不凑入本期新闻，也不作为产品发售节点。",
+        "10月13日桌游资讯窗口为北京时间10月12日10:00至10月13日10:00：收录雪山画策实际开筹、StarCraft第三波新预售报道与Dice Throne Nexus新试玩；旧公告与新节点分开标注。",
+        "桌游月历独立补漏：新物集最新上线前5页共100个项目，逐个核查十月非零开始字段，再读取8个发行方项目详情及对应正文；补入11个产品节点。未将预约状态、创建时间或start_time=0当作预售日。",
+        "新物集补漏包括10月1日贝城奠基者、8日核子激荡扩展、9日复土誓约、11日众旅归栖之所、12日雪山画策双扩、15日魔锅召唤、19日游人码头三款推理产品、20日纵横之坛；已结束节点仍保留。",
+        "游人码头本轮已读官网公开新闻正文与最新10篇列表，最新官网稿仍是6月23日Keyside旧公告；另读取其新物集10月19日三作项目正文，不再沿用此前空页面限制。",
+        "摩点复核全部、预热与在筹页面；补入纷争论战10月8日15:00和星谕对决版10月27日19:00。星谕纯塔罗档、跑团骰子与收纳配件不作桌游新品；遗忘诗社为单人叙事手册型项目，未扩展进本期既有非TRPG收录范围。",
+        "Hachette美国十月整表6项均已收录，10月16日Spooky Bar及23日其余5项日期未变。Renegade美国整表19个十月SKU已核：14日4项均为RPG书，26日14个模型SKU对应已录8款Heroscape，另1项为RPG Loot Pack；没有把RPG配件补作桌游。",
+        "Board Game Beat 10月12日新文为141位读者偏好调查，正文已读，样本不代表全市场，未挤占产品新闻。SPIEL官网新闻与展会日期已核，未把展会总时段自动当作所有参展游戏的零售日。",
+        "Satisfactory、Dice Throne Nexus均保留来源10月13日开筹日期及timing=null；项目未返回可核开放正文，不写已开筹。新物集《遗落国度》start_time=0且详情不开放，不给日期；在筹项目未因状态或截止时间倒推开始日。",
+        "收藏卡：2026-10-13北京时间09:56–09:59逐一读取Topps美国、英国、德国、法国、意大利、西班牙、日本七地区官方日历，并与当前系列页及Checklist Insider整月发行表交叉核对；检查范围为10月1日至31日，不只查看未来两周。",
+        "本轮日历补录Gilded Collection 10月26日美国预售、Midnight Hobby 11月13日正式发行及Allen & Ginter X待定档；Bundesliga、Royalty、Update Series、F1按地区时刻拆分。美国与其他地区不外推中国大陆到货或卡片语言。",
+        "近24小时筛选窗口为10月12日10:00至10月13日10:00北京时间。入选依据10月12日专业报道及官方现行页面；报道未标时刻/时区，明确披露不能精确确认均落在24小时内。无发布时间的Gilded日历补漏不作新公告。",
+        "Midnight美国EQL详情可读取，但北京时间09:59活动总表No live launches；不以详情Continue或搜索缓存倒计时保证抽选仍开放。Royalty EQL同属抽选申请，非保证购买成功的开放预售。",
+        "Neon、Royalty与F1美国产品页EST字面值与官方日历UTC冲突；保留日期、披露冲突，精确timing为null，不自行改成EDT。KAWS、F1 FDI、Heritage Mega三个既有待核项未获得足以转正的官方依据，继续review。",
+        "DAKA微博仅返回约9个月前旧抓取，搜索另有约3个月前缓存，无法建立近24小时实时覆盖；官网本轮正文为空。未核到当期原文不代表品牌没有新品。",
+        "CARD.FUN微博仅返回约4个月前旧抓取，官网和janime品牌页读取超时；杰森主页为约两周前抓取，所列新闻主要7月23日。未能核实近24小时品牌公告及完整十月国内排期，作为明确覆盖缺口。",
+        "Disney Crystal尚未取得品牌官方定日证据，不录为确定发售事实。展会亮相、零售平台促销周期、下单后预计出货不作为新品正式发行日。"
+      ],
+      "items": [
+        {
+          "id": "riftbound-radiance-prerift-guide-20261013",
+          "category": "tcg",
+          "region": "global",
+          "label": "近24h官方指南",
+          "title": "辉耀群星售前指南上线：5包加英雄主题包，黑默丁格特典不能入现开卡组",
+          "brand": "Riftbound／符文战场",
+          "published": "2026-10-13 00:00 北京时间（官方时间戳10月12日16:00 UTC）",
+          "node": "新指南写10月16日起售前；简中概览仍写10月17—23日，国内场次待当地确认",
+          "priority": "售前教学准备",
+          "summary": "Riot中英文官网同步发布售前现开指南，明确套装内容、25张主牌堆与最多三种特性的构筑规则。新简中指南和旧概览仍存在日期差异。",
+          "facts": [
+            "体验套装含5包辉耀群星补充包、围绕9位新传奇之一的英雄主题包，以及黑默丁格限定卡。",
+            "黑默丁格限定卡不能加入本次现开卡组；从补充包开出的非限定版本可以使用。",
+            "主牌堆至少25张，最多使用三种特性的卡牌与符文；同名牌可使用开出的全部数量，不受通常三张上限约束。",
+            "中英文新指南均写10月16日开启，但简中概览仍为17—23日。缺少大陆本地场次确认，不能据此宣布中文商品改期。"
+          ],
+          "advice": "准备活动说明时重点讲清特典使用限制与现开构筑；报名日期、语言和实际供货向当地活动店确认。",
+          "sources": [
+            {
+              "name": "Riot英文：Preparing for the Radiance Pre-Rift",
+              "url": "https://playriftbound.com/en-us/news/announcements/preparing-for-the-radiance-pre-rift/"
+            },
+            {
+              "name": "Riot简中：辉耀群星售前现开赛准备指南",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/preparing-for-the-radiance-pre-rift/"
+            },
+            {
+              "name": "Riot简中：系列概览（售前日期仍有差异）",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/the-radiance-overview/"
+            }
+          ]
+        },
+        {
+          "id": "magic-banned-restricted-20261012",
+          "category": "tcg",
+          "region": "global",
+          "label": "10月12日官方更新",
+          "title": "万智牌10月禁限公告：标准、先驱与摩登不变，调整集中在竞技争锋",
+          "brand": "Magic／万智牌",
+          "published": "2026-10-12（中英文官网日期；未提供可核发布时间与时区）",
+          "node": "竞技争锋调整10月12日生效；下次禁限公告11月30日",
+          "priority": "区分适用赛制",
+          "summary": "Wizards公布最新禁限牌公告：标准、先驱、摩登、薪传、特选与普佩均无调整。此次变化在MTG Arena竞技争锋，不应套用于实体指挥官。",
+          "facts": [
+            "普通争锋及Alchemy、Historic、Timeless同样没有禁限调整。",
+            "竞技争锋新增三名禁任指挥官：Yuriko, the Tiger’s Shadow、Spider-Man 2099和Light-Paws, Emperor’s Voice。",
+            "另外9张竞技争锋卡牌改为仅禁止担任指挥官，Nashi, Illusion Gadgeteer进行数值／文本再平衡。",
+            "官方列10月12日生效，下次公告为11月30日；中国官网同日新闻列表明确实体赛制没有调整。"
+          ],
+          "advice": "实体赛事继续按各自现行禁限表备赛；转发时写明竞技争锋的适用范围，避免让玩家误以为实体指挥官新增禁牌。",
+          "sources": [
+            {
+              "name": "Wizards：Banned and Restricted – October 12, 2026",
+              "url": "https://magic.wizards.com/en/news/announcements/banned-and-restricted-october-12-2026"
+            },
+            {
+              "name": "万智牌中国：10月12日官方公告索引",
+              "url": "https://www.cnwizards.com/articles"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-city-wave6-registration-20261013",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "10月12日官方公告",
+          "title": "宝可梦城市赛第六批报名：团队今晚截止，个人今晚开启",
+          "brand": "宝可梦卡牌／中国大陆",
+          "published": "2026-10-12（官网仅标日期，无法确定是否在严格近24小时内）",
+          "node": "10月13日23:59团队报名截止；个人报名13日18:00—14日23:59",
+          "priority": "提醒报名",
+          "summary": "本批覆盖10月17—18日城市赛。团队与个人报名错峰，店内备赛玩家今天需分别核对。",
+          "facts": [
+            "团队报名10月12日18:00—13日23:59，14日通知抽选结果。",
+            "个人报名10月13日18:00—14日23:59，15日通知抽选结果。",
+            "通过“宝可梦卡牌会员”小程序报名并提交卡组；比赛免费。",
+            "团队中选后未主动取消，会锁定队长和成员直至活动结束；各场信息以小程序为准。"
+          ],
+          "advice": "队长先核对今晚截止时间，个人赛玩家18点后再报名；赛前确认卡组、队员与行程，报名并不保证中选。",
+          "sources": [
+            {
+              "name": "宝可梦中国：城市赛2026第四赛季第六批报名信息（10月12日）",
+              "url": "https://www.pokemon.cn/tcg/event/24121.html"
+            }
+          ]
+        },
+        {
+          "id": "board-20261013-snow-planner-expansions",
+          "category": "board",
+          "region": "domestic",
+          "label": "近24h开筹节点／旧公告执行",
+          "title": "《雪山画策》双扩已开筹，老玩家可关注《新季度》《新挑战》",
+          "brand": "神秘岛桌游／新物集",
+          "published": "10月10日官方旧预告；10月12日18:00实际开筹节点",
+          "node": "10月12日18:00 北京时间启动；项目计划10月30日18:00结束",
+          "priority": "先分基础与扩展",
+          "summary": "神秘岛桌游的《雪山画策》系列项目已进入支持阶段，正文展示《新季度》《新挑战》两款扩展。开筹发生在本期24小时窗口内，产品与规则预告则是旧公告。",
+          "facts": [
+            "官方项目更新明确写出2026年10月12日18:00开启众筹；项目开始字段与正文一致，当前处于进行中。",
+            "项目正文主图明确列《新季度》与《新挑战》双扩，另展示基础游戏；不能把“全扩”当作每个档位都含基础。",
+            "10月10日更新提到重新梳理扩展流程，并补充《新季度》额外规则；该规则说明属于旧更新。",
+            "10月12日是支持开启，不是现货发行或交付；具体档位内容和预计回报需逐项查看。"
+          ],
+          "advice": "老玩家先核对已有版本和扩展组合；新玩家确认所选档位是否包含基础游戏，再比较报价与交付说明。",
+          "sources": [
+            {
+              "name": "新物集：神秘岛桌游官方项目与正文",
+              "url": "https://shop.zhuoyou.com/share/project.html?project_id=4374"
+            },
+            {
+              "name": "神秘岛官方项目更新：明确开筹时刻",
+              "url": "https://shop.zhuoyou.com/api/v1/webview/projectUpdate/10364"
+            }
+          ]
+        },
+        {
+          "id": "board-20261013-starcraft-wave3",
+          "category": "board",
+          "region": "overseas",
+          "label": "新预售节点／非首次揭晓",
+          "title": "StarCraft第三波六款扩展开启预售，11月分地区开始发货",
+          "brand": "Archon Studio／StarCraft",
+          "published": "10月9日官方预告；ICv2新报道为北京时间10月13日01:17",
+          "node": "10月12日海外预售开启；欧洲11月2日、其他地区11月9日起分批发货",
+          "priority": "按阵营与交期选购",
+          "summary": "第三波包含Nova、Tassadar、Zagara三位英雄及Raven、High Templar、Defiler三款支援单位。官方此前预告10月12日开预售，窗口内媒体报道确认已开放；不是新品首次公布或10月现货。",
+          "facts": [
+            "官方10月9日正文明确整波于10月12日预售；未提供统一开售时刻。",
+            "六款单位扩展覆盖人族、星灵、异虫；另有三族骰子配件，不能把配件计作额外游戏扩展。",
+            "官方安排欧洲11月2日、其余地区11月9日开始履约，并明确持续多周，不是所有订单发完或玩家到货日期。",
+            "ICv2 10月12日12:17 CT报道确认第三波已在预售；截至本期没有核实中文版或中国大陆供货交期。"
+          ],
+          "advice": "先按现有阵营选英雄与支援单位；询价时核实语言、实际供货地区和运费，避免将海外开始发货日当作国内到货日。",
+          "sources": [
+            {
+              "name": "StarCraft TMG官方：10月9日预售与分区发货公告",
+              "url": "https://starcraft-tmg.com/news/featured/starcraft-tabletop-miniatures-game-pre-orders-october-12"
+            },
+            {
+              "name": "ICv2：10月12日12:17 CT新报道",
+              "url": "https://icv2.com/articles/news/view/63600/archon-announces-third-wave-starcraft-tabletop-miniatures-game"
+            }
+          ]
+        },
+        {
+          "id": "board-20261013-dicethrone-nexus-preview",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h新试玩／开筹前瞻",
+          "title": "Dice Throne Nexus新试玩：干扰流Hacker与强攻机器人分工鲜明",
+          "brand": "Dice Throne／The Outerhaven",
+          "published": "10月12日23:00 北京时间（原文11:00 AM EDT）",
+          "node": "10月13日计划Kickstarter开筹；无已核精确时刻，不代表截稿时已经开放",
+          "priority": "先看角色风格",
+          "summary": "The Outerhaven在开筹前发布四英雄实玩，重点比较Hacker的病毒干扰与Punch-a-Tron 3000的直接强攻。内容来自提前提供的测试版本，最终规则仍可能调整。",
+          "facts": [
+            "作者约进行了十局测试，包含1对1、四人混战和2对2；这是一篇10月12日新试玩，不是四位角色首次揭晓。",
+            "Hacker以病毒削弱对手技能，并用R.A.M.辅助重掷；Punch-a-Tron 3000偏直接攻击和Fuel Cell爆发。",
+            "Snyper侧重牌库操作，Phantom Runner侧重状态与攻防机动；作者明确这些是早期印象。",
+            "报道仍列10月13日Kickstarter启动，官方项目当前未返回可核正文；未把来源日期换算成北京时间零点，也未写成已开筹。"
+          ],
+          "advice": "已有Dice Throne玩家可先按喜爱的打法关注角色；等正式档位、最终规则、运费和交付安排公布后再决定支持。",
+          "sources": [
+            {
+              "name": "The Outerhaven：10月12日四英雄完整试玩",
+              "url": "https://www.theouterhaven.net/dice-throne-nexus-hands-on-first-look-at-4-new-heroes/"
+            },
+            {
+              "name": "Dice Throne官方Kickstarter项目",
+              "url": "https://www.kickstarter.com/projects/dicethrone/dice-throne-nexus"
+            }
+          ]
+        },
+        {
+          "id": "cards-midnight-hobby-release-20261013",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月12日预售 / 定档更新",
+          "title": "Midnight Hobby定档11月13日，539.99美元EQL抽选预售已无开放活动",
+          "brand": "Topps / NFL",
+          "published": "2026-10-12（Checklist Insider更新日期；未标时刻/时区），10月13日09:59北京时间复核官方",
+          "node": "Hobby：11月13日正式发行；10月12日EQL抽选预售节点保留为历史",
+          "priority": "更新交期与销售方式",
+          "summary": "美英官网已将普通Hobby正式发行日定为11月13日。美国EQL详情列539.99美元、7张及3张Chrome签名；当前美国活动总表没有开放活动，不能把详情页当成仍可报名。",
+          "facts": [
+            "官方美国及英国系列页均明确Available November 13；此前Hobby的TBA状态已更新。",
+            "美国EQL官方详情标价每盒539.99美元、每人最多4盒；盒配为1包7张、3张Chrome签名卡。",
+            "截至北京时间10月13日09:59，美国EQL总表显示No live launches；搜索缓存倒计时和详情Continue不用于证明实时开放，也不据此推断具体关闭时间。",
+            "Checklist Insider仍将FDI预计发行列为11月6日，普通Hobby为11月13日；预售申请、正式发行、实际发货与国内到货需要分别确认。"
+          ],
+          "advice": "更新普通Hobby的预期交期；不要沿用FDI的11月6日或把抽选价格当国内现货价。报价前核对实际分配、税运费与供应商交付时间。",
+          "sources": [
+            {
+              "name": "Topps美国：Midnight正式发行日期",
+              "url": "https://www.topps.com/pages/topps-midnight-football"
+            },
+            {
+              "name": "Topps英国：Midnight正式发行日期",
+              "url": "https://uk.topps.com/pages/topps-midnight-football"
+            },
+            {
+              "name": "Topps美国：Midnight Hobby官方EQL详情",
+              "url": "https://launches.topps.com/en-US/launch/2026-topps-midnight-football-hobby-box-pre-order"
+            },
+            {
+              "name": "Topps美国：EQL当前活动列表",
+              "url": "https://launches.topps.com/en-US/launch"
+            },
+            {
+              "name": "Checklist Insider：10月12日Midnight更新",
+              "url": "https://www.checklistinsider.com/2026-topps-midnight-football"
+            }
+          ]
+        },
+        {
+          "id": "cards-bundesliga-jumbo-20261013",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月12日配置更新",
+          "title": "Bundesliga首款Flagship：Jumbo预售参考94.99美元，3 hit不等于3签",
+          "brand": "Topps / Bundesliga",
+          "published": "2026-10-12（Checklist Insider页面日期；未标时刻/时区，无法严格定位24小时）",
+          "node": "北京时间10月13日20:00欧洲、23:00美国预售；正式发行TBA",
+          "priority": "区分盒配与地区时刻",
+          "summary": "专业报道补齐Jumbo配置及美国预售参考价：8包×25张，另含3张Black Edge包，3张签名或实物卡。官网确认200张基础卡覆盖德甲与德乙；正式发行尚未定档。",
+          "facts": [
+            "Topps美国系列页列10月13日11am ET，与美国日历15:00 UTC一致；欧洲五地区日历为12:00 UTC。",
+            "Checklist Insider 10月12日列Jumbo参考预售价94.99美元、3 Autographs or Relics及一个3张Black Edge包；本轮未从官方商品页核得该售价。",
+            "官方介绍确认200张基础卡覆盖Bundesliga和Bundesliga 2，Jumbo含专属实物卡类型；不能把3 hit宣传为保证3签。",
+            "预售节点已确定，专业来源仍列正式发行TBA；海外渠道计划不构成中国大陆货源或交期承诺。"
+          ],
+          "advice": "面向德甲收藏客可按Jumbo单独询价，销售页明确写“签名或实物”；把欧洲与美国开售时刻分开，并等待正式发售和国内交期。",
+          "sources": [
+            {
+              "name": "Topps美国：Flagship Bundesliga产品页",
+              "url": "https://www.topps.com/pages/topps-flagship-bundesliga"
+            },
+            {
+              "name": "Topps英国：Flagship Bundesliga产品页",
+              "url": "https://uk.topps.com/pages/topps-flagship-bundesliga"
+            },
+            {
+              "name": "Topps美国官方发行日历",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps英国官方发行日历",
+              "url": "https://uk.topps.com/release-calendar"
+            },
+            {
+              "name": "Checklist Insider：10月12日Bundesliga配置",
+              "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
+            }
+          ]
+        },
+        {
+          "id": "cards-royalty-eql-20261013",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月12日预售方案更新",
+          "title": "Royalty Tennis采用EQL抽选预售，美国精确时刻仍有冲突",
+          "brand": "Topps / Tennis",
+          "published": "2026-10-12（Checklist Insider页面日期；未标时刻/时区，无法严格定位24小时）",
+          "node": "10月13日EQL抽选预售申请；正式发行TBA，美国精确时刻待核",
+          "priority": "先核抽选规则与时间",
+          "summary": "官方确认通过EQL预售；专业报道列579.99美元、10张及6张签名。美国日历16:00 UTC与产品页12pm EST字面时差不一致，本期不强行换算成唯一北京时间。",
+          "facts": [
+            "美国及英国官方产品预告均说明on EQL，因此是抽选预售申请，不是保证购买成功的开放预售。",
+            "Checklist Insider 10月12日更新列579.99美元、每盒10张及6张签名；价格与盒配暂为专业来源信息，本轮未取得可核对的官方活动详情。",
+            "美国日历为10月13日16:00 UTC，而产品页写12pm EST（字面17:00 UTC）；保留一小时冲突，不擅自把EST改为EDT。",
+            "正式发行仍为TBA；本条不作截至发布时抽选已开放或仍可报名的保证。"
+          ],
+          "advice": "参与前以对应地区EQL实际活动页核对报名时间、价格及配送条款；不要沿用2024旧版盒配，也不要向客户承诺抽中或确定到货日。",
+          "sources": [
+            {
+              "name": "Topps美国：Royalty Tennis EQL预告",
+              "url": "https://www.topps.com/pages/topps-royalty-tennis"
+            },
+            {
+              "name": "Topps英国：Royalty Tennis EQL预告",
+              "url": "https://uk.topps.com/pages/topps-royalty-tennis"
+            },
+            {
+              "name": "Topps美国官方发行日历",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps英国官方发行日历",
+              "url": "https://uk.topps.com/release-calendar"
+            },
+            {
+              "name": "Checklist Insider：10月12日Royalty Tennis",
+              "url": "https://www.checklistinsider.com/2026-topps-royalty-tennis"
             }
           ]
         }
