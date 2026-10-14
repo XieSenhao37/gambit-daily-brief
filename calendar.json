@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-10-13",
+  "asOf": "2026-10-14",
   "coverage": [
     "范围：2026年10月公开来源核实的产品／地区节点，含月初已过日期与未来日期；不是全球全品牌全SKU穷尽表，也不是独立产品款数。",
     "默认仅展示正式发售；可筛选全部、预售、众筹及售前活动。官方未来日期可能调整，来源证据等级不等于库存或购买保证。",
@@ -126,7 +126,48 @@
     "Neon、Royalty与F1美国产品页EST字面值与官方日历UTC冲突；保留日期、披露冲突，精确timing为null，不自行改成EDT。KAWS、F1 FDI、Heritage Mega三个既有待核项未获得足以转正的官方依据，继续review。",
     "DAKA微博仅返回约9个月前旧抓取，搜索另有约3个月前缓存，无法建立近24小时实时覆盖；官网本轮正文为空。未核到当期原文不代表品牌没有新品。",
     "CARD.FUN微博仅返回约4个月前旧抓取，官网和janime品牌页读取超时；杰森主页为约两周前抓取，所列新闻主要7月23日。未能核实近24小时品牌公告及完整十月国内排期，作为明确覆盖缺口。",
-    "Disney Crystal尚未取得品牌官方定日证据，不录为确定发售事实。展会亮相、零售平台促销周期、下单后预计出货不作为新品正式发行日。"
+    "Disney Crystal尚未取得品牌官方定日证据，不录为确定发售事实。展会亮相、零售平台促销周期、下单后预计出货不作为新品正式发行日。",
+    "TCG新闻检索窗口为北京时间2026-10-13 10:00至10-14 10:00；本期所收10月13日公告若未给出原始时刻，仅按官方发布日期标注，不伪称全部可验证为精确24小时内。",
+    "2026-10-14独立复核Riftbound八月路线图、法语路线图与Radiance完整产品阵容：海外Radiance各SKU及法语Vendetta仍为10月23日，海外售前仍为16—22日；中文发售及售前日期差异继续保留待核，抽签没有改写为公开预售。",
+    "Riftbound中英官方新闻最新仍为10月12日16:00 UTC售前指南，已在10月13日简报收录，不重复；新关键词预览与中文独占卡面计划也不当成今日新品发布。",
+    "2026-10-14独立复核Magic完整产品阵容、WPN及中国站：现实裂界10月2日、原Secret Lair Bundle10月23日、Corn Maze10月12日09:00 PT与Festival in a Box 10月19日节点未变，保留中国大陆部分SKU延迟，不写全部现货。",
+    "新增两组Secret Lair及三种Bundle Bundles套餐的日期待定记录。10月13日新公告未公布开售月份，announcedMonth保持null；原Bundle的10月23日与新Chaos Vault套餐不合并。Secret Lair商城本轮正文读取失败，未核实库存或实时销售状态。",
+    "万智牌中国文章列表直开仅显示部分最新条目，官方搜索索引可见10月12日禁限公告；该事项昨日已报道，不将旧公告或缓存更新时间当作今天新闻。",
+    "另补到大陆认证官方微博9月26日称辉耀群星10月23日上市的公开证据，与全球简中概览24日仍有差异；已补入中文发售待核记录。该旧帖不作为近24小时新资讯。",
+    "10月14日宝可梦／洛卡纳资讯窗口核查：宝可梦中国10月13日公布“一起来嗨皮5”，为此前未收录的新活动；仅有发布日期，不能确认具体发布时间落在10月13日10:00至14日10:00。城市赛第六批已在昨日报道，不重复包装。",
+    "宝可梦日本新闻页最新为10月9日，洛卡纳美国新闻页最新为10月8日，日本为10月9日，均早于本期窗口；未核得新公告。宝可梦美国新闻正文直开只有iframe，使用公开官方索引补核，未取得可验证10月13日新纸牌公告。",
+    "独立十月整月复核：中国宝可梦商品目录与嗨皮规格、日本普通产品目录及30周年完整商品表、美国官方十月六类商品月表；既有嗨皮两SKU、日版三类30周年商品、美国六类商品和24日Delta Reign售前均未发现可证改期或漏项。美国商品表与售前正文使用官方搜索索引，不保证实时库存或实时无更新。",
+    "洛卡纳整月复核美国产品页、日本产品目录及官方商城：Hunny Rescue 2日、Hyperia City美国16日售前／23日全面发售、日语补充包与两款卡套16日，均与现有记录一致。Beauty and the Beast Curator’s Collection仍只有十月月份证据，保留TBA。",
+    "洛卡纳大陆简中官网新闻最新可读为2月9日运营公告，明确上海风卡游戏自1月1日起为大陆独家发行合作伙伴；对该伙伴及大陆十月公开消息的补搜未核得可靠新品节点。没有以中文网页或海外发行日推定简中卡牌发售；未索引到消息不等于当地没有消息。",
+    "“一起来嗨皮5”属于正式发售同期体验活动，不是独立产品发售／预售／售前节点，不新增到产品日历。各事件保留旧ID及所有既有备注、来源；没有时区偏移依据的精确换算仍为null。",
+    "2026-10-14 Bandai近24h核查：日本ONE PIECE官网新增10月13日HEROINES PRECIOUS BOX取扱店名单更新，仅标日期，无法确认严格24h边界；高达日本／美国英语／亚洲英语／繁中及ONE PIECE欧美英语／亚洲英语可读首页未见10月13日新公告，不将10月9日高达GD06店赛再次充当新资讯。",
+    "2026-10-14独立十月复核：ONE PIECE日本、欧美英语、亚洲英语、繁中商品列表第1—2页均已检索。日本10月3日五项限定商品、10月9日BASE SHOP Binder、10月31日EB-05及HEROINES PRECIOUS BOX日期未变；欧美英语EB-05／TS-03仍为10月30日。",
+    "EB-05亚洲英语官网列表10月30日、详情10月31日的冲突仍存在；繁中官网列表、详情主视觉和表格本轮均为10月31日，解除繁中日期冲突并保留旧ID、原始日期证据及全部notes/sources。",
+    "Gundam四地区商品列表首页与GD06详情复核：美国英语站10月30日，日本／亚洲英语站／繁中站10月31日，未见改期。更正亚洲英语站和繁中站GD06的商品语言为日语：官方包装均明确写日本語版；未将网页语言误当实际卡牌语言。",
+    "日本Nami & Robin Playmat商品页仅写Heroines Cup会场先行销售，活动实际在11月7日／29日，因此不按10月2日公告日期补成十月商品。",
+    "中国大陆两品牌官网本轮直接读取只返回空壳；搜索索引可见部分旧商品和赛事，未取得足以确认十月新品全表的当前商品数据。这是大陆覆盖缺口，不代表当月无新品，也不借用海外发售日或语言补齐。",
+    "ONE PIECE繁中首页读取报错，改用可读新闻页与商品列表／详情核查；新闻列表主体未完整返回，不能声称繁中近24h公告已穷尽。",
+    "BCG Fest 26-27雅加达（10月10—11日）与马尼拉（10月24—25日）官方商品表已成功读取，列有ONE PIECE和Gundam会场纪念商品；页面说明限量销售，但未在所读列表明确各SKU首次发售或独立预购起始日。本轮未把赛事日期直接推定为全球新品发售日，也未把纪念商品表当近24h新闻。",
+    "日本ONE PIECE 10月13日HEROINES PRECIOUS BOX取扱店名单更新已核，但商品发售日未变；本期精选优先保留Magic新品和宝可梦新活动，不用渠道名单更新凑条数。",
+    "2026-10-14桌游资讯以北京时间10月13日10:00至14日10:00为窗口；Satisfactory、ICv2有明确带时区时间，Agricola只核官方列表日期，不伪称精确24小时。",
+    "独立整月复核摩点全部13项预热（2页）、众筹中前三页、新物集按最新排序前五页100项及新增日期项目正文／图片；新增真不愧是陈总、TMNT、能源帝国和Allplay本轮四款众筹节点。未用项目创建日或start_time=0推定开售日期。",
+    "浮生聊斋现行官方列表为10月30日，详情仍10月20日08:00，移入待核区并保留旧ID、旧备注及两处来源；不自行宣布延期或任选日期。",
+    "新物集公开项目列表和详情正常读取；旋风竞速新预告正文图片已核，但start_time=0、未公布开售日期，未强行补入十月月历。未把BJD、收纳、骰子配件及活动票作桌游新品。",
+    "游人码头最新新闻列表及Keyside完整正文可读，最新releaseTime仍为6月23日（创建字段为7月23日），无可核近24小时新公告；与新物集10月19日推理三作预售项目分别核查，不能沿用空页结论或把创建日期当发布时间。",
+    "Hachette美国十月整表6项仍为10月16日Spooky Bar、23日其余5项。Renegade官方整表19个十月SKU及Nastra’s Nightmare两页复核：26日14个模型SKU对应既有8款Heroscape；14日四本RPG书和月份待定RPG Loot Pack按既有范围不计普通桌游新品。",
+    "Renegade公开HTML的productHandle可与日期块匹配，单品正文也确认四本RPG书10月14日；不存在只能看到空标题而完全无法核查的永久限制。Heroscape涂装与未涂装版本继续沿既有产品条目说明，不重复统计为新增产品。",
+    "Satisfactory官方项目和第17号更新正文、10月13日新新闻稿均已读取，确认10月13日16:00 CEST实际开筹；Dice Throne Nexus官方公开HTML确认live及开筹时间戳，月历证据升为官方。昨日试玩不再另作一条重复资讯。",
+    "Board Game Beat最新公开文章仍为10月12日玩家调查，完整正文已读；为141名网站读者样本，不外推为整个市场，也不作为今日新品消息。",
+    "SPIEL官方10月13日两篇正文已读：周四／周五票售出90%、周六售罄；SYNCANITE新闻涉及已筹项目及IRON FRONT原型。展会演示、票务与跨媒体宣传不作为全部产品统一零售日。",
+    "Dorfromantik South Seas北美及德国英语版现行官方正文均预计12月，旧搜索摘要十月不采用；零售报道为新档期跟进，既非首次揭晓，也不进十月日历。官方30–90分钟优先于媒体30–60分钟。",
+    "Allplay本轮推广页与ICv2新报道交叉确认10月27日众筹；Through the Mountains早在7月31日Gen Con报道出现，明确按档期跟进处理，不写首次公告。",
+    "Agricola Special Edition只采用官方公开更新列表第31号标题与摘要；更新正文403不可读，未绕过限制。仅确认英语版生产完成、履约启动，不推定本地化进度、全部订单或中国到货；未使用私人邮件。",
+    "本轮未改变早月历史节点；已结束项目不因退出滚动列表删除。日历仍不是全球所有品牌或全部SKU穷尽表，海外日期与国内现货分别理解。",
+    "收藏卡本轮在北京时间2026-10-14 10:00截止前读取Topps美国、英国、德国、法国、意大利、西班牙、日本七地区日历，并独立对照Checklist Insider完整2026年10月发行表与已收录历史；十月当前Topps产品未发现需新增的已核定日期节点。11月新增正式发行作为10月预售后续单列，不误塞十月正式发售。",
+    "本期收藏卡3条均有Checklist Insider 10月13日日期标记与实质增量，官方页负责核实发行/盒配/状态；由于媒体无时刻及时区、官方无更新时间，不声称每条均已精确证明发布于滚动24小时内。Pro Debut旧10月19日预售只补TBA说明，不另凑新闻；Midnight昨日已报且无新的有效增量，不重复。",
+    "独立十月核查保留既有月初与月末节点：包括Williams、Mars Attacks、Bowman Sapphire、Allen & Ginter、MLS Sapphire、Street Fighter、Update、Neon、F1、Samurai Japan、Jennie、Heritage Hobby/Value、Holiday、Vault Disney、GPK、Stadium Club WWE、Collector Kit、Five Star和Bowman U Best；预售与发行分别处理，日历不从当天新闻机械生成。",
+    "美国Neon与F1产品页的EST和日历UTC一小时冲突仍在；Royalty历史预售时刻无新解冲突证据。相关timing不补算，不能自行把EST改为EDT。KAWS、F1 FDI与Heritage Mega继续待核，不转正。",
+    "国内实时覆盖仍有缺口：DAKA官网返回空正文，DAKA微博及集卡社微博仅取得数月前抓取；搜索也未提供可核近24小时官方新品原文。集卡社官网及杰森品牌页读取失败，杰森主页可读但新闻并非近期。不据此判定DAKA/CARD.FUN无新品，不把未获官方支持的“水晶11月20日”列为事实。"
   ],
   "coverageSources": [
     {
@@ -1143,6 +1184,546 @@
     },
     {
       "name": "杰森官方主页",
+      "url": "https://www.janime.cn/home"
+    },
+    {
+      "name": "Wizards：两组Reality Fracture Secret Lair及Bundle组合（10月13日）",
+      "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
+    },
+    {
+      "name": "Riot英文新闻",
+      "url": "https://playriftbound.com/en-us/news/"
+    },
+    {
+      "name": "Riot简中新闻",
+      "url": "https://playriftbound.com/zh-cn/news/"
+    },
+    {
+      "name": "Riot八月路线图（9月22日更新）",
+      "url": "https://playriftbound.com/en-us/news/announcements/august-2026-roadmap/"
+    },
+    {
+      "name": "Riot法语发行路线图",
+      "url": "https://playriftbound.com/en-us/news/announcements/from-en-garde-to-en-route-our-french-roadmap/"
+    },
+    {
+      "name": "Riot Radiance完整产品概览",
+      "url": "https://playriftbound.com/en-us/news/announcements/the-radiance-overview/"
+    },
+    {
+      "name": "Riot简中售前指南",
+      "url": "https://playriftbound.com/zh-cn/news/announcements/preparing-for-the-radiance-pre-rift/"
+    },
+    {
+      "name": "WPN官方新闻",
+      "url": "https://wpn.wizards.com/en/news"
+    },
+    {
+      "name": "WPN现实裂界全产品",
+      "url": "https://wpn.wizards.com/en/products/reality-fracture"
+    },
+    {
+      "name": "Magic现实裂界全产品收藏指南",
+      "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
+    },
+    {
+      "name": "WPN现实裂界地区延迟",
+      "url": "https://wpn.wizards.com/en/news/reality-fracture-product-delays-in-select-regions"
+    },
+    {
+      "name": "万智牌中国文章列表",
+      "url": "https://www.cnwizards.com/articles"
+    },
+    {
+      "name": "万智牌中国现实裂界延迟说明",
+      "url": "https://www.cnwizards.com/article/64330"
+    },
+    {
+      "name": "Magic Festival in a Box Atlanta",
+      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition"
+    },
+    {
+      "name": "符文战场认证官方微博9月26日内容（新浪呈现）",
+      "url": "https://www.sina.cn/news/detail/5347314555161689.html"
+    },
+    {
+      "name": "宝可梦中国：TCG公开资讯目录",
+      "url": "https://www.pokemon.cn/tcg"
+    },
+    {
+      "name": "宝可梦中国：一起来嗨皮5（10月13日）",
+      "url": "https://www.pokemon.cn/tcg/event/24146.html"
+    },
+    {
+      "name": "宝可梦中国：嗨皮产品规格",
+      "url": "https://www.pokemon.cn/tcg/product/23939.html"
+    },
+    {
+      "name": "宝可梦日本：新闻目录",
+      "url": "https://www.pokemon-card.com/info/"
+    },
+    {
+      "name": "宝可梦日本：普通产品目录",
+      "url": "https://www.pokemon-card.com/products/"
+    },
+    {
+      "name": "宝可梦日本：30周年完整产品表",
+      "url": "https://www.30th.pokemon-card.com/product"
+    },
+    {
+      "name": "宝可梦美国：十月产品月表（官方索引）",
+      "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
+    },
+    {
+      "name": "宝可梦英国：Delta Reign售前（官方索引）",
+      "url": "https://www.pokemon.com/uk/news/play-at-a-pokemon-tcg-mega-evolution-delta-reign-prerelease-event"
+    },
+    {
+      "name": "洛卡纳美国：官方新闻",
+      "url": "https://www.disneylorcana.com/en-US/news"
+    },
+    {
+      "name": "洛卡纳美国：Hyperia City产品",
+      "url": "https://www.disneylorcana.com/en-US/product/hyperia-city"
+    },
+    {
+      "name": "洛卡纳美国：Hunny Rescue产品",
+      "url": "https://www.disneylorcana.com/en-US/product/great-hunny-rescue"
+    },
+    {
+      "name": "Disney Parks Blog：D23新品公告",
+      "url": "https://disneyparksblog.com/products/reveals-and-announcements-from-the-disney-lorcana-panel-at-d23-2026/"
+    },
+    {
+      "name": "Takara Tomy：日本洛卡纳首页与新闻",
+      "url": "https://www.takaratomy.co.jp/products/disneylorcana/"
+    },
+    {
+      "name": "Takara Tomy：日本商品目录",
+      "url": "https://www.takaratomy.co.jp/products/disneylorcana/product/"
+    },
+    {
+      "name": "Takara Tomy官方商城：洛卡纳商品列表",
+      "url": "https://takaratomymall.jp/shop/goods/search.aspx?category=Lorcana&optionalcategory=Making&release=1&search=true"
+    },
+    {
+      "name": "Takara Tomy官方商城：爱丽儿卡套",
+      "url": "https://takaratomymall.jp/shop/g/g4904810082880/"
+    },
+    {
+      "name": "Takara Tomy官方商城：贝儿与野兽卡套",
+      "url": "https://takaratomymall.jp/shop/g/g4904810082897/"
+    },
+    {
+      "name": "洛卡纳大陆：官网新闻目录",
+      "url": "https://www.disneylorcana.com/zh-CN/news"
+    },
+    {
+      "name": "洛卡纳大陆：2026运营公告",
+      "url": "https://www.disneylorcana.com/zh-CN/news/2026/disney-lorcana-product-news"
+    },
+    {
+      "name": "ONE PIECE日本首页",
+      "url": "https://www.onepiece-cardgame.com/"
+    },
+    {
+      "name": "ONE PIECE欧美英语首页",
+      "url": "https://en.onepiece-cardgame.com/"
+    },
+    {
+      "name": "ONE PIECE亚洲英语首页",
+      "url": "https://asia-en.onepiece-cardgame.com/"
+    },
+    {
+      "name": "ONE PIECE繁中新闻页",
+      "url": "https://asia-tc.onepiece-cardgame.com/news/"
+    },
+    {
+      "name": "ONE PIECE大陆官网（读取受限）",
+      "url": "https://www.onepiece-cardgame.cn/"
+    },
+    {
+      "name": "Gundam大陆官网（读取受限）",
+      "url": "https://gundam-gcg.cn/"
+    },
+    {
+      "name": "Gundam语言版本规则",
+      "url": "https://www.gundam-gcg.com/zh-tw/news/lang_card_rule.html"
+    },
+    {
+      "name": "ONE PIECE日本Nami & Robin桌垫",
+      "url": "https://www.onepiece-cardgame.com/products/playmat007.html"
+    },
+    {
+      "name": "ONE PIECE日本Heroines Cup日期",
+      "url": "https://www.onepiece-cardgame.com/events/heroines-cup-3on3_2026.html"
+    },
+    {
+      "name": "ONE PIECE日本商品列表第一页",
+      "url": "https://www.onepiece-cardgame.com/products/"
+    },
+    {
+      "name": "ONE PIECE日本商品列表第二页",
+      "url": "https://www.onepiece-cardgame.com/products/?page=2"
+    },
+    {
+      "name": "ONE PIECE日本EB-05详情",
+      "url": "https://www.onepiece-cardgame.com/products/eb05.html"
+    },
+    {
+      "name": "ONE PIECE欧美英语商品列表第一页",
+      "url": "https://en.onepiece-cardgame.com/products/"
+    },
+    {
+      "name": "ONE PIECE欧美英语商品列表第二页",
+      "url": "https://en.onepiece-cardgame.com/products/?page=2"
+    },
+    {
+      "name": "ONE PIECE欧美英语EB-05详情",
+      "url": "https://en.onepiece-cardgame.com/products/eb05.html"
+    },
+    {
+      "name": "ONE PIECE亚洲英语商品列表第一页",
+      "url": "https://asia-en.onepiece-cardgame.com/products/"
+    },
+    {
+      "name": "ONE PIECE亚洲英语商品列表第二页",
+      "url": "https://asia-en.onepiece-cardgame.com/products/?page=2"
+    },
+    {
+      "name": "ONE PIECE亚洲英语EB-05详情",
+      "url": "https://asia-en.onepiece-cardgame.com/products/eb05.html"
+    },
+    {
+      "name": "ONE PIECE繁中商品列表第一页",
+      "url": "https://asia-tc.onepiece-cardgame.com/products/"
+    },
+    {
+      "name": "ONE PIECE繁中商品列表第二页",
+      "url": "https://asia-tc.onepiece-cardgame.com/products/?page=2"
+    },
+    {
+      "name": "ONE PIECE繁中EB-05详情",
+      "url": "https://asia-tc.onepiece-cardgame.com/products/eb05.html"
+    },
+    {
+      "name": "Gundam日本首页",
+      "url": "https://www.gundam-gcg.com/jp/"
+    },
+    {
+      "name": "Gundam日本商品列表首页",
+      "url": "https://www.gundam-gcg.com/jp/products/list.php"
+    },
+    {
+      "name": "Gundam日本GD06详情",
+      "url": "https://www.gundam-gcg.com/jp/products/gd06.html"
+    },
+    {
+      "name": "Gundam美国英语首页",
+      "url": "https://www.gundam-gcg.com/en/"
+    },
+    {
+      "name": "Gundam美国英语商品列表首页",
+      "url": "https://www.gundam-gcg.com/en/products/list.php"
+    },
+    {
+      "name": "Gundam美国英语GD06详情",
+      "url": "https://www.gundam-gcg.com/en/products/gd06.html"
+    },
+    {
+      "name": "Gundam亚洲英语首页",
+      "url": "https://www.gundam-gcg.com/asia-en/"
+    },
+    {
+      "name": "Gundam亚洲英语商品列表首页",
+      "url": "https://www.gundam-gcg.com/asia-en/products/list.php"
+    },
+    {
+      "name": "Gundam亚洲英语GD06详情",
+      "url": "https://www.gundam-gcg.com/asia-en/products/gd06.html"
+    },
+    {
+      "name": "Gundam繁中首页",
+      "url": "https://www.gundam-gcg.com/zh-tw/"
+    },
+    {
+      "name": "Gundam繁中商品列表首页",
+      "url": "https://www.gundam-gcg.com/zh-tw/products/list.php"
+    },
+    {
+      "name": "Gundam繁中GD06详情",
+      "url": "https://www.gundam-gcg.com/zh-tw/products/gd06.html"
+    },
+    {
+      "name": "BCG Fest 26-27雅加达官方会场商品表",
+      "url": "https://www.bandaicardgames-fest.com/26-27/en/jakarta/products/?tag=op"
+    },
+    {
+      "name": "BCG Fest 26-27马尼拉官方会场商品表",
+      "url": "https://www.bandaicardgames-fest.com/26-27/en/manila/products/?tag=op"
+    },
+    {
+      "name": "摩点：全部预热第1页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/preheat/1"
+    },
+    {
+      "name": "摩点：全部预热第2页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/preheat/2"
+    },
+    {
+      "name": "摩点：众筹中第1页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/going/1"
+    },
+    {
+      "name": "摩点：众筹中第2页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/going/2"
+    },
+    {
+      "name": "摩点：众筹中第3页",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/going/3"
+    },
+    {
+      "name": "新物集：公开最新项目列表",
+      "url": "https://shop.zhuoyou.com/api/v1/fundingProjects?p=1&limit=20&status=0&sort=new"
+    },
+    {
+      "name": "新物集：旋风竞速正文与未定开始字段",
+      "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4395"
+    },
+    {
+      "name": "游人码头：新闻正文列表",
+      "url": "https://www.gameharbor.com.cn/index.php/zh/news/getList?page=1&category="
+    },
+    {
+      "name": "游人码头：Keyside官方旧公告",
+      "url": "https://www.gameharbor.com.cn/zh/news/detail/122"
+    },
+    {
+      "name": "Hachette：美国十月完整清单",
+      "url": "https://www.hachetteboardgames.com/blogs/infos/october-is-going-to-be-a-great-month-for-gaming"
+    },
+    {
+      "name": "Renegade：美国完整发行表",
+      "url": "https://renegadegamestudios.com/releasedate"
+    },
+    {
+      "name": "Renegade：Nastra’s Nightmare第1页",
+      "url": "https://renegadegamestudios.com/heroscape/nastras-nightmare/"
+    },
+    {
+      "name": "Renegade：Nastra’s Nightmare第2页",
+      "url": "https://renegadegamestudios.com/heroscape/nastras-nightmare/?page=2"
+    },
+    {
+      "name": "Board Game Beat：最新调查全文",
+      "url": "https://www.wericmartin.com/survey-results-what-kind-of-board-gamer-are-you/"
+    },
+    {
+      "name": "SPIEL：10月13日票务正文",
+      "url": "https://www.spiel-essen.de/en/news?catid=9&id=404:thursday-tickets-90-percent-sold&view=article"
+    },
+    {
+      "name": "SPIEL：10月13日SYNCANITE正文",
+      "url": "https://www.spiel-essen.de/en/news?catid=9&id=402:the-syncanite-universe-audio-books-board-games-and-music-albums&view=article"
+    },
+    {
+      "name": "Coffee Stain／MOOD：10月13日开筹新闻稿全文",
+      "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-game-launches-today-and-gameplay-loop-revealed-3472280"
+    },
+    {
+      "name": "MOOD官方Gamefound项目与实际开筹时间",
+      "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game"
+    },
+    {
+      "name": "MOOD第17号官方更新：合作模式、档位及配件说明（10月12日）",
+      "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game/updates/17"
+    },
+    {
+      "name": "ICv2：10月13日开筹档期报道正文",
+      "url": "https://icv2.com/articles/news/view/63613/allplay-announces-reiner-knizias-through-mountains"
+    },
+    {
+      "name": "Allplay：本轮四款游戏推广页与10月27日日期",
+      "url": "https://www.launchoracle.com/allplay/through-the-mountains/WGXTK?ref=on3ax"
+    },
+    {
+      "name": "Mojo Nation：10月13日阵容报道及发行方推广页链接",
+      "url": "https://www.mojo-nation.com/allplay-and-reiner-knizia-ready-through-the-desert-sequel-through-the-mountains/"
+    },
+    {
+      "name": "GamingTrend：7月31日Gen Con旧揭晓报道",
+      "url": "https://gamingtrend.com/news/allplay-announces-new-titles-at-gen-con/"
+    },
+    {
+      "name": "Gamefound：Awaken Realms官方更新列表（标题与摘要）",
+      "url": "https://gamefound.com/fr/projects/awaken-realms/agricola-special-edition/updates"
+    },
+    {
+      "name": "Agricola Special Edition第31号更新（正文当前不可读取）",
+      "url": "https://gamefound.com/en/projects/awaken-realms/agricola-special-edition/updates/31"
+    },
+    {
+      "name": "Pegasus北美：South Seas官方商品页",
+      "url": "https://pegasusna.com/Dorfromantik-South-Seas/PNA51249.USA"
+    },
+    {
+      "name": "Pegasus德国：英语版现行商品页",
+      "url": "https://pegasus.de/Dorfromantik-South-Seas-English-Edition/51249E"
+    },
+    {
+      "name": "ICv2：10月13日South Seas零售报道",
+      "url": "https://icv2.com/articles/news/view/63610/dorfromantik-heads-south-seas"
+    },
+    {
+      "name": "摩点：地核桌游官方项目",
+      "url": "https://zhongchou.modian.com/item/160747.html"
+    },
+    {
+      "name": "新物集：发行方项目正文",
+      "url": "https://shop.zhuoyou.com/share/project.html?project_id=4350"
+    },
+    {
+      "name": "新物集：官方公开日期与正文数据",
+      "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4350"
+    },
+    {
+      "name": "新物集：发行方项目正文",
+      "url": "https://shop.zhuoyou.com/share/project.html?project_id=4276"
+    },
+    {
+      "name": "新物集：官方公开日期与正文数据",
+      "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4276"
+    },
+    {
+      "name": "Allplay：本轮官方推广阵容及日期",
+      "url": "https://www.launchoracle.com/allplay/through-the-mountains/WGXTK?ref=on3ax"
+    },
+    {
+      "name": "ICv2：本轮众筹日期与年份",
+      "url": "https://icv2.com/articles/news/view/63613/allplay-announces-reiner-knizias-through-mountains"
+    },
+    {
+      "name": "MOOD官方第17号更新：开筹时刻",
+      "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game/updates/17"
+    },
+    {
+      "name": "Coffee Stain／MOOD：10月13日开筹确认",
+      "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-game-launches-today-and-gameplay-loop-revealed-3472280"
+    },
+    {
+      "name": "The Outerhaven：10月12日四英雄试玩",
+      "url": "https://www.theouterhaven.net/dice-throne-nexus-hands-on-first-look-at-4-new-heroes/"
+    },
+    {
+      "name": "摩点项目页",
+      "url": "https://zhongchou.modian.com/item/160233.html"
+    },
+    {
+      "name": "Checklist Insider完整十月发行表",
+      "url": "https://www.checklistinsider.com/release-calendar"
+    },
+    {
+      "name": "Topps美国：Mint Disney正式发行日期",
+      "url": "https://www.topps.com/pages/topps-mint-disney"
+    },
+    {
+      "name": "Topps英国：Mint Disney正式发行日期",
+      "url": "https://uk.topps.com/pages/topps-mint-disney"
+    },
+    {
+      "name": "Topps美国：Mint Disney Hobby商品页",
+      "url": "https://www.topps.com/products/2026-topps-mint-disney-hobby-box"
+    },
+    {
+      "name": "Checklist Insider：10月13日Mint Disney更新",
+      "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+    },
+    {
+      "name": "Topps美国：Royalty Tennis正式发行日期",
+      "url": "https://www.topps.com/pages/topps-royalty-tennis"
+    },
+    {
+      "name": "Topps英国：Royalty Tennis正式发行日期",
+      "url": "https://uk.topps.com/pages/topps-royalty-tennis"
+    },
+    {
+      "name": "Topps美国：Royalty Tennis EQL详情",
+      "url": "https://launches.topps.com/en-US/launch/2026-topps-royalty-tennis-hobby-box"
+    },
+    {
+      "name": "Checklist Insider：10月13日Royalty Tennis更新",
+      "url": "https://www.checklistinsider.com/2026-topps-royalty-tennis"
+    },
+    {
+      "name": "Topps英国：Bundesliga Jumbo官方商品页",
+      "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box"
+    },
+    {
+      "name": "Topps英国：Bundesliga Value官方商品页",
+      "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-value-box"
+    },
+    {
+      "name": "Topps美国：Bundesliga Jumbo整箱商品页（官方搜索索引）",
+      "url": "https://www.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box-sealed-case"
+    },
+    {
+      "name": "Checklist Insider：10月13日Bundesliga更新",
+      "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
+    },
+    {
+      "name": "Topps美国：Pro Debut预售与产品介绍",
+      "url": "https://www.topps.com/pages/topps-pro-debut-baseball"
+    },
+    {
+      "name": "Checklist Insider：10月13日Pro Debut产品指南",
+      "url": "https://www.checklistinsider.com/2026-topps-pro-debut-baseball"
+    },
+    {
+      "name": "Topps美国：Neon Marvel原始EST表述",
+      "url": "https://www.topps.com/pages/topps-neon-marvel"
+    },
+    {
+      "name": "Topps美国：Formula 1原始EST表述",
+      "url": "https://www.topps.com/pages/topps-chrome-formula-1"
+    },
+    {
+      "name": "Checklist Insider：KAWS日期仍待核",
+      "url": "https://www.checklistinsider.com/2026-topps-kaws-x-mlb-baseball"
+    },
+    {
+      "name": "Checklist Insider：F1版本日期",
+      "url": "https://www.checklistinsider.com/2026-topps-chrome-formula-1-racing"
+    },
+    {
+      "name": "Topps美国：Heritage分盒型日期",
+      "url": "https://www.topps.com/pages/topps-heritage-football"
+    },
+    {
+      "name": "Topps英国：Heritage Mega冲突字段",
+      "url": "https://uk.topps.com/products/2026-topps-heritage-football-mega-box"
+    },
+    {
+      "name": "DAKA官网（空正文）",
+      "url": "https://daka-culture.com/"
+    },
+    {
+      "name": "DAKA官方微博（非实时抓取）",
+      "url": "https://www.weibo.com/dakaculture"
+    },
+    {
+      "name": "集卡社微博（非实时抓取）",
+      "url": "https://weibo.com/u/7540120015"
+    },
+    {
+      "name": "集卡社官网（本轮读取失败）",
+      "url": "https://www.card.fun/"
+    },
+    {
+      "name": "杰森品牌页（本轮读取失败）",
+      "url": "https://janime.cn/brand"
+    },
+    {
+      "name": "杰森主页（仅见旧新闻）",
       "url": "https://www.janime.cn/home"
     }
   ],
@@ -2372,36 +2953,6 @@
       "timing": null
     },
     {
-      "id": "pro-debut-pre",
-      "product": "2026 Topps Pro Debut Baseball",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "preorder",
-      "date": "2026-10-19",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "该来源将 2026 Topps Pro Debut Baseball 列为 2026-10-19 的预售节点。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
-      "notes": [
-        "预售，不是正式发售。"
-      ],
-      "sources": [
-        {
-          "name": "Topps 官方",
-          "url": "https://www.topps.com/pages/topps-pro-debut-baseball"
-        }
-      ],
-      "timing": null
-    },
-    {
       "id": "mtg-atlanta-box",
       "product": "Festival in a Box: Atlanta 2026",
       "category": "tcg",
@@ -2778,36 +3329,6 @@
       "timing": null
     },
     {
-      "id": "mtg-fra-secret-lair-bundle",
-      "product": "Reality Fracture Secret Lair Bundle",
-      "category": "tcg",
-      "brand": "万智牌",
-      "nodeType": "release",
-      "date": "2026-10-23",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "海外发行区",
-      "languages": [
-        "以地区产品为准"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-23节点；具体限制见备注。",
-      "verifiedAt": "2026-10-09T10:04:00+08:00",
-      "notes": [
-        "官方明确该SKU原定10月23日；部分地区可能晚于此日到货。"
-      ],
-      "sources": [
-        {
-          "name": "Wizards Play Network",
-          "url": "https://wpn.wizards.com/en/news/reality-fracture-product-delays-in-select-regions"
-        }
-      ],
-      "timing": null
-    },
-    {
       "id": "five-star",
       "product": "2026 Topps Five Star Baseball",
       "category": "cards",
@@ -3134,40 +3655,6 @@
         "utcOffset": "+08:00",
         "evidence": "摩点官方项目页列明开始时间；中国大陆众筹时间。"
       }
-    },
-    {
-      "id": "board-fusheng-meihua-liaozhai",
-      "product": "浮生一签梅花子落，五界斗法续战聊斋",
-      "category": "board",
-      "brand": "泽木栖游",
-      "nodeType": "crowdfunding",
-      "date": "2026-10-20",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "中国大陆",
-      "languages": [
-        "中文"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "已公布",
-      "sourceTimezone": "Asia/Shanghai",
-      "sourceTime": null,
-      "sourceEvidence": "摩点官方预热列表列“2026-10-20 开始”。",
-      "verifiedAt": "2026-10-09T10:05:26+08:00",
-      "notes": [
-        "手绘轻策略桌游众筹启动；详情页未读取成功，开始时刻及回报月份未核。"
-      ],
-      "sources": [
-        {
-          "name": "摩点官方预热列表",
-          "url": "https://zhongchou.modian.com/tablegames/top_time/preheat/1"
-        },
-        {
-          "name": "摩点项目页",
-          "url": "https://zhongchou.modian.com/item/160233.html"
-        }
-      ],
-      "timing": null
     },
     {
       "id": "board-chengdu-mahjong-gift",
@@ -3662,54 +4149,6 @@
       }
     },
     {
-      "id": "mint-disney-pre",
-      "product": "2026 Topps Mint Disney Hobby",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "preorder",
-      "date": "2026-10-13",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国官网",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "official",
-      "sourceTimezone": "UTC",
-      "sourceTime": "17:00",
-      "sourceEvidence": "美国日历明确10月13日17:00 UTC预售，产品页为13:00 ET；欧洲时间另拆节点。",
-      "verifiedAt": "2026-10-10T09:59:30+08:00",
-      "notes": [
-        "Hobby 10月13日预售；正式发行TBA。",
-        "本轮官方产品正文已是2026内容，删去上期“混有2025旧文”的当前状态描述。",
-        "此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。",
-        "此前日期依据：Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
-        "本轮拆分地区：本ID保留美国节点，原欧洲范围由mint-disney-eu-pre承接。",
-        "北京时间10月14日01:00；Hobby正式发行仍为TBA。"
-      ],
-      "sources": [
-        {
-          "name": "Topps：Mint Disney当前产品页",
-          "url": "https://www.topps.com/pages/topps-mint-disney"
-        },
-        {
-          "name": "Topps美国官方发行日历",
-          "url": "https://www.topps.com/release-calendar"
-        },
-        {
-          "name": "Checklist Insider：版本分列",
-          "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
-        }
-      ],
-      "timing": {
-        "localTime": "17:00",
-        "utcOffset": "+00:00",
-        "evidence": "美国官方日历明确2026-10-13 17:00 UTC，产品页13:00 ET交叉一致。"
-      },
-      "pendingReleaseEvidence": "已公布预售日期；来源备注明确正式发售日期为TBA或尚未公布。"
-    },
-    {
       "id": "mint-disney-nycc",
       "product": "2026 Topps Mint Disney NYCC Exclusive",
       "category": "cards",
@@ -3854,57 +4293,6 @@
         }
       ],
       "timing": null
-    },
-    {
-      "id": "mint-disney-eu-pre",
-      "product": "2026 Topps Mint Disney Hobby",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "preorder",
-      "date": "2026-10-13",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "英国/欧洲官网",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "official",
-      "sourceTimezone": "UTC",
-      "sourceTime": "15:00",
-      "sourceEvidence": "英国、德国、法国、意大利、西班牙官方日历均明确10月13日15:00 UTC预售。",
-      "verifiedAt": "2026-10-10T09:59:30+08:00",
-      "notes": [
-        "Hobby 10月13日预售；正式发行TBA。",
-        "本轮官方产品正文已是2026内容，删去上期“混有2025旧文”的当前状态描述。",
-        "此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。",
-        "原合并节点日期依据：Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
-        "本轮拆为英国/欧洲官网15:00 UTC节点，北京时间10月13日23:00；美国节点为17:00 UTC，不能合并换算。"
-      ],
-      "sources": [
-        {
-          "name": "Topps：Mint Disney当前产品页",
-          "url": "https://www.topps.com/pages/topps-mint-disney"
-        },
-        {
-          "name": "Topps美国官方发行日历",
-          "url": "https://www.topps.com/release-calendar"
-        },
-        {
-          "name": "Checklist Insider：版本分列",
-          "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
-        },
-        {
-          "name": "Topps英国官方发行日历",
-          "url": "https://uk.topps.com/release-calendar"
-        }
-      ],
-      "timing": {
-        "localTime": "15:00",
-        "utcOffset": "+00:00",
-        "evidence": "欧洲官方日历明确2026-10-13 15:00 UTC。"
-      },
-      "pendingReleaseEvidence": "已公布预售日期；来源备注明确正式发售日期为TBA或尚未公布。"
     },
     {
       "id": "neon-marvel-eu",
@@ -4230,1076 +4618,6 @@
         {
           "name": "Riot简中：10月12日售前指南",
           "url": "https://playriftbound.com/zh-cn/news/announcements/preparing-for-the-radiance-pre-rift/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "lorcana-hunny",
-      "product": "Illumineer's Quest: The Great Hunny Rescue",
-      "category": "tcg",
-      "brand": "洛卡纳",
-      "nodeType": "release",
-      "date": "2026-10-02",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国／英语发行区",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "官方产品页日期为10月2日。"
-      ],
-      "sources": [
-        {
-          "name": "Disney Lorcana / Ravensburger",
-          "url": "https://www.disneylorcana.com/en-US/product/great-hunny-rescue"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-us-blister",
-      "product": "Enhanced 2-Pack Blister",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-02",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "美国官方月度商品日历；不自动套用到其他地区。"
-      ],
-      "sources": [
-        {
-          "name": "The Pokémon Company",
-          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-us-bundle",
-      "product": "30th Celebration Booster Bundle",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-02",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "美国官方月度商品日历；不自动套用到其他地区。"
-      ],
-      "sources": [
-        {
-          "name": "The Pokémon Company",
-          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-us-miniportfolio",
-      "product": "Mini Portfolio",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-02",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "美国官方月度商品日历；不自动套用到其他地区。"
-      ],
-      "sources": [
-        {
-          "name": "The Pokémon Company",
-          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-us-minitins",
-      "product": "30th Celebration Mini Tin（10款）",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-02",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "美国官方月度商品日历；不自动套用到其他地区。"
-      ],
-      "sources": [
-        {
-          "name": "The Pokémon Company",
-          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "lorcana-hyperia-jp",
-      "product": "Hyperia City 日语补充包",
-      "category": "tcg",
-      "brand": "洛卡纳",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日复核Takara Tomy官方商品页及商城列表，仍为10月16日。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [],
-      "sources": [
-        {
-          "name": "Takara Tomy",
-          "url": "https://www.takaratomy.co.jp/products/disneylorcana/product/hyperia-city/booster-pack/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "lorcana-hyperia-prerelease",
-      "product": "Hyperia City 售前发售",
-      "category": "tcg",
-      "brand": "洛卡纳",
-      "nodeType": "prerelease",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "海外牌店及指定Disney渠道",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "与10月23日全面发售分开记录。",
-        "10月8日美国英语官网新指南复核：售前盒含6包补充包、4枚伤害骰、1张随机特典卡与城市地图；不等于大陆版本确认。"
-      ],
-      "sources": [
-        {
-          "name": "Disney Lorcana / Ravensburger",
-          "url": "https://www.disneylorcana.com/en-US/product/hyperia-city"
-        },
-        {
-          "name": "Ravensburger：10月8日售前指南",
-          "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-prerelease-guide"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-jp-binders",
-      "product": "30th CELEBRATION Collection File Premium 地区收藏册",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日独立复核日本30周年官方全商品页，日期未变。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "卡牌周边；以官方产品页款式为准。"
-      ],
-      "sources": [
-        {
-          "name": "宝可梦卡牌日本",
-          "url": "https://www.30th.pokemon-card.com/product"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-jp-cardsets",
-      "product": "30th CELEBRATION 卡牌套组（9款御三家）",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日独立复核日本30周年官方全商品页，日期未变。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "关都、城都、丰缘、神奥、合众、卡洛斯、阿罗拉、伽勒尔、帕底亚御三家套组。"
-      ],
-      "sources": [
-        {
-          "name": "宝可梦卡牌日本",
-          "url": "https://www.30th.pokemon-card.com/product/cardset"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "lorcana-hyperia",
-      "product": "Hyperia City 补充包／整盒／Illumineer’s Trove",
-      "category": "tcg",
-      "brand": "洛卡纳",
-      "nodeType": "release",
-      "date": "2026-10-23",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "海外英语发行区",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-23节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "全面零售日。"
-      ],
-      "sources": [
-        {
-          "name": "Disney Lorcana / Ravensburger",
-          "url": "https://www.disneylorcana.com/en-US/product/hyperia-city"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-us-crafter",
-      "product": "Deck Crafter’s Collection",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-23",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-23节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "美国官方月度商品日历；不自动套用到其他地区。"
-      ],
-      "sources": [
-        {
-          "name": "The Pokémon Company",
-          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-us-battle",
-      "product": "30th Celebration Battle Deck—Espeon ex & Umbreon ex",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-30",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "美国官方月度商品日历；不自动套用到其他地区。"
-      ],
-      "sources": [
-        {
-          "name": "The Pokémon Company",
-          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "lorcana-beauty-beast-tba",
-      "product": "Curator’s Collection: Beauty and the Beast Edition",
-      "category": "tcg",
-      "brand": "洛卡纳",
-      "nodeType": "release",
-      "date": null,
-      "endDate": null,
-      "announcedMonth": "2026-10",
-      "region": "指定Disney渠道",
-      "languages": [
-        "未逐地区核实"
-      ],
-      "evidenceLevel": "tentative",
-      "announcementStatus": "tentative",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10节点；具体限制见备注。 10月13日核查官方D23公告，仍只能证实2026年10月，未取得具体日期的新官方依据。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "官方确认10月，尚未核到具体日，勿放在10月1日。"
-      ],
-      "sources": [
-        {
-          "name": "Disney Parks Blog",
-          "url": "https://disneyparksblog.com/products/reveals-and-announcements-from-the-disney-lorcana-panel-at-d23-2026/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "lorcana-jp-ariel-sleeves",
-      "product": "日本语版官方卡套：小美人鱼 爱丽儿（65枚）",
-      "category": "tcg",
-      "brand": "洛卡纳",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语版周边"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "已核实官方日期",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "Takara Tomy官方商城商品页及发售列表均明确2026年10月16日；未公布具体时刻。 10月13日复核Takara Tomy官方商城完整新商品列表，仍为10月16日。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "商品编号4904810082880；属于卡牌保护周边。",
-        "官方商城目前显示无库存，不表示发售取消或保证可买到。"
-      ],
-      "sources": [
-        {
-          "name": "Takara Tomy官方商城：爱丽儿卡套",
-          "url": "https://takaratomymall.jp/shop/g/g4904810082880/"
-        },
-        {
-          "name": "Takara Tomy官方商城：Lorcana新商品列表",
-          "url": "https://takaratomymall.jp/shop/goods/search.aspx?category=Lorcana&optionalcategory=Making&release=1&search=true"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "lorcana-jp-belle-beast-sleeves",
-      "product": "日本语版官方卡套：美女与野兽 贝儿＋野兽",
-      "category": "tcg",
-      "brand": "洛卡纳",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语版周边"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "已核实官方日期",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "Takara Tomy官方商城发售列表明确2026年10月16日；商品详情页进入排队保护，本次日期依据采用可读官方列表。 10月13日复核Takara Tomy官方商城完整新商品列表，仍为10月16日。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "商品编号4904810082897；属于卡牌保护周边。",
-        "未把商城无库存状态解释为发售取消。"
-      ],
-      "sources": [
-        {
-          "name": "Takara Tomy官方商城：Lorcana新商品列表",
-          "url": "https://takaratomymall.jp/shop/goods/search.aspx?category=Lorcana&optionalcategory=Making&release=1&search=true"
-        },
-        {
-          "name": "Takara Tomy官方商城：贝儿＋野兽卡套",
-          "url": "https://takaratomymall.jp/shop/g/g4904810082897/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-jp-collection-refills",
-      "product": "30th CELEBRATION Collection Refills 地区卡册补充页（9款）",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语版周边"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "已核实官方日期",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "宝可梦日本30周年官网商品页及10月16日周边详情分别列明9款Collection Refills均于2026年10月16日发售。 10月13日独立复核日本30周年官方全商品页，日期未变。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "关都、城都、丰缘、神奥、合众、卡洛斯、阿罗拉、伽勒尔、帕底亚9款，属于收藏册补充页，不是卡牌包。",
-        "与已收录Collection File Premium收藏册为不同产品；首发渠道为日本宝可梦中心及其官网。"
-      ],
-      "sources": [
-        {
-          "name": "宝可梦日本：10月16日周边完整详情",
-          "url": "https://www.30th.pokemon-card.com/product/goods-06"
-        },
-        {
-          "name": "宝可梦日本30周年商品列表",
-          "url": "https://www.30th.pokemon-card.com/product"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-happy-deck-cn",
-      "product": "嗨皮卡组 训练家的宝可梦",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "中国大陆",
-      "languages": [
-        "简体中文"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "已核实官方日期",
-      "sourceTimezone": "中国大陆公告；正文未单独标注时区",
-      "sourceTime": "10:00",
-      "sourceEvidence": "宝可梦中国官方商品规格明确：嗨皮卡组 训练家的宝可梦，2026年10月16日10时起发售。正文没有独立标注时区或UTC偏移，保留原文时刻而不执行时区换算。 10月13日再次核对官方商品规格，日期和原文时刻未变。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "20元单卡组商品；随机封入火箭队超梦ex、竹兰烈咬陆鲨ex、小霞暴鲤龙、阿响火暴兽中的1套60张卡组。",
-        "与88元嗨皮组合为不同SKU。"
-      ],
-      "sources": [
-        {
-          "name": "宝可梦中国：嗨皮组合与嗨皮卡组商品规格",
-          "url": "https://www.pokemon.cn/tcg/product/23939.html"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-delta-reign-prerelease",
-      "product": "Mega Evolution—Delta Reign Build & Battle Box 售前发售／活动开启",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "prerelease",
-      "date": "2026-10-24",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "英国及适用海外Play! Pokémon门店（以门店公告为准）",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "已核实官方日期",
-      "sourceTimezone": "来源当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "宝可梦英国官网9月28日公告明确，指定Play! Pokémon门店自2026年10月24日起销售Build & Battle Box并开展售前活动；本次正文通过官方搜索索引完整取得，直接打开页面仅返回iframe。 10月13日通过官方搜索索引复核，仍为10月24日起，未增补无官方证据的统一结束日期。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "这是售前销售与体验开启，不是11月6日全面正式发售。",
-        "仅记录官方明确的开始日；未用二手报道的11月1日推断统一结束日，也不套用于中国大陆或日本。"
-      ],
-      "sources": [
-        {
-          "name": "The Pokémon Company：Delta Reign售前公告",
-          "url": "https://www.pokemon.com/uk/news/play-at-a-pokemon-tcg-mega-evolution-delta-reign-prerelease-event"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "pokemon-happy-cn",
-      "product": "嗨皮组合 训练家的宝可梦",
-      "category": "tcg",
-      "brand": "宝可梦",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "中国大陆",
-      "languages": [
-        "简体中文"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "中国大陆公告；正文未单独标注时区",
-      "sourceTime": "10:00",
-      "sourceEvidence": "宝可梦中国商品规格明确嗨皮组合于2026年10月16日10时起发售；正文没有独立标注时区或UTC偏移，因此保留原文时刻而不执行时区换算。 10月13日再次核对官方商品规格，日期和原文时刻未变。",
-      "verifiedAt": "2026-10-13T09:59:12+08:00",
-      "notes": [
-        "4款卡组：火箭队超梦ex、竹兰烈咬陆鲨ex、小霞暴鲤龙、阿响火暴兽。",
-        "88元嗨皮组合与20元嗨皮卡组为分别销售的两个SKU。"
-      ],
-      "sources": [
-        {
-          "name": "宝可梦中国",
-          "url": "https://www.pokemon.cn/tcg/product/23939.html"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-jp-collection",
-      "product": "Flame-Flame Fruit Edition Premium Card Collection",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-03",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "活动会场限定商品。",
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.onepiece-cardgame.com/products/collection-flame.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-jp-orange",
-      "product": "Limited Card Sleeves Standard Orange Silver",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-03",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "活动会场限定周边。",
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-jp-playmat",
-      "product": "Flame-Flame Fruit Edition 对战桌垫＆卡牌套装",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-03",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "活动会场限定商品，不是赛事记录。",
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.onepiece-cardgame.com/products/playmat_flame-flame-fruit.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-jp-sleeve",
-      "product": "Flame-Flame Fruit Edition Limited Card Sleeves",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-03",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "活动会场限定周边。",
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.onepiece-cardgame.com/products/sleeve043.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-jp-storage",
-      "product": "Flame-Flame Fruit Edition Storage Box",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-03",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "活动会场限定周边。",
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.onepiece-cardgame.com/products/storage008.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-jp-binder",
-      "product": "BASE SHOP Limited Binder vol.1",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-09",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-09节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "BASE SHOP限定周边。",
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.onepiece-cardgame.com/products/baseshop-binder001.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "gundam-gd06-us",
-      "product": "Stardust Trails [GD06]",
-      "category": "tcg",
-      "brand": "高达",
-      "nodeType": "release",
-      "date": "2026-10-30",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国英语发行区",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.gundam-gcg.com/en/products/gd06.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.gundam-gcg.com/en/products/list.php"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-eb05-en",
-      "product": "ONE PIECE HEROINES EDITION vol.2 [EB-05]",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-30",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "北美／欧洲／大洋洲／拉美／中东",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。本轮详情页未能读取，日期采用同地区官方商品列表复核。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://en.onepiece-cardgame.com/products/eb05.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://en.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-ts03-en",
-      "product": "Mini Case Set—Luffy/Shanks/Hancock [TS-03]",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-30",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "北美／欧洲／大洋洲／拉美／中东",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。本轮详情页未能读取，日期采用同地区官方商品列表复核。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://en.onepiece-cardgame.com/products/ts03.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://en.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "gundam-gd06-asia",
-      "product": "Stardust Trails [GD06]",
-      "category": "tcg",
-      "brand": "高达",
-      "nodeType": "release",
-      "date": "2026-10-31",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "亚洲英语发行区",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.gundam-gcg.com/asia-en/products/gd06.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.gundam-gcg.com/asia-en/products/list.php"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "gundam-gd06-hant",
-      "product": "Stardust Trails [GD06]",
-      "category": "tcg",
-      "brand": "高达",
-      "nodeType": "release",
-      "date": "2026-10-31",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "繁体中文发行区",
-      "languages": [
-        "繁体中文"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.gundam-gcg.com/zh-tw/products/gd06.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.gundam-gcg.com/zh-tw/products/list.php"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "gundam-gd06-jp",
-      "product": "Stardust Trails [GD06]",
-      "category": "tcg",
-      "brand": "高达",
-      "nodeType": "release",
-      "date": "2026-10-31",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.gundam-gcg.com/jp/products/gd06.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.gundam-gcg.com/jp/products/list.php"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-jp-eb05",
-      "product": "ONE PIECE Heroines Edition vol.2 [EB-05]",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-31",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。本轮详情页未能读取，日期采用同地区官方商品列表复核。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.onepiece-cardgame.com/products/eb05.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.onepiece-cardgame.com/products/"
-        }
-      ],
-      "timing": null
-    },
-    {
-      "id": "onepiece-jp-heroines",
-      "product": "ONE PIECE HEROINES PRECIOUS BOX",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
-      "date": "2026-10-31",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "日本",
-      "languages": [
-        "日语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "Asia/Tokyo",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
-      "notes": [
-        "日本公认店限定。",
-        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。"
-      ],
-      "sources": [
-        {
-          "name": "Bandai",
-          "url": "https://www.onepiece-cardgame.com/products/heroines-box.html"
-        },
-        {
-          "name": "Bandai地区全部商品列表（2026-10-13复核）",
-          "url": "https://www.onepiece-cardgame.com/products/"
         }
       ],
       "timing": null
@@ -6045,86 +5363,6 @@
       }
     },
     {
-      "category": "board",
-      "nodeType": "crowdfunding",
-      "date": "2026-10-13",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "国际众筹",
-      "languages": [
-        "语言版本以项目页为准"
-      ],
-      "announcementStatus": "已公布",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "timing": null,
-      "verifiedAt": "2026-10-13T10:04:00+08:00",
-      "id": "board-dice-throne-nexus",
-      "product": "Dice Throne Nexus",
-      "brand": "Dice Throne",
-      "evidenceLevel": "secondary",
-      "sourceEvidence": "The Outerhaven 9月19日及GamesRadar 10月6日报道正文均列Kickstarter于10月13日启动；官方项目可定位，但当前网页未返回完整正文，日期按媒体证据标注。",
-      "notes": [
-        "本轮整月补漏；并非10月11日新公告。",
-        "众筹启动不代表正式零售或交付，未提供可换算的精确时刻。",
-        "10月12日23:00北京时间的The Outerhaven新试玩仍列10月13日启动；无精确时刻，截至本期未取得官方已开放正文，不标已开筹。"
-      ],
-      "sources": [
-        {
-          "name": "The Outerhaven：Dice Throne Nexus开筹日期（9月19日）",
-          "url": "https://www.theouterhaven.net/dice-throne-nexus-heads-to-kickstarter-october-13-reveals-snyper/"
-        },
-        {
-          "name": "GamesRadar：Hacker揭晓及开筹日期（10月6日）",
-          "url": "https://www.gamesradar.com/tabletop-gaming/the-final-hero-for-dice-throne-nexus-is-an-absolute-menace-who-hacks-opponents-get-your-first-look-here/"
-        },
-        {
-          "name": "Dice Throne官方Kickstarter项目",
-          "url": "https://www.kickstarter.com/projects/dicethrone/dice-throne-nexus"
-        },
-        {
-          "name": "The Outerhaven：10月12日四英雄试玩",
-          "url": "https://www.theouterhaven.net/dice-throne-nexus-hands-on-first-look-at-4-new-heroes/"
-        }
-      ]
-    },
-    {
-      "category": "board",
-      "nodeType": "crowdfunding",
-      "date": "2026-10-13",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "国际众筹",
-      "languages": [
-        "语言版本以项目页为准"
-      ],
-      "announcementStatus": "已公布",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "timing": null,
-      "verifiedAt": "2026-10-13T10:04:00+08:00",
-      "id": "board-satisfactory-gamefound",
-      "product": "Satisfactory: The Board Game",
-      "brand": "MOOD Publishing／Coffee Stain",
-      "evidenceLevel": "official",
-      "sourceEvidence": "发行方9月18日新闻稿正文明确众筹于2026年10月13日在Gamefound启动；未提供精确时刻或时区。",
-      "notes": [
-        "本轮整月补漏；9月18日旧公告，不作为近24小时新闻。",
-        "众筹启动而非零售或发货；交付时间和最终版本以正式项目为准。",
-        "10月13日复核9月18日发行方旧公告仍列10月13日，Gamefound页面未返回可核正文；无精确时刻，不据日期自动标记已开放。"
-      ],
-      "sources": [
-        {
-          "name": "Coffee Stain／MOOD发行方新闻稿（9月18日）",
-          "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-to-liftoff-in-october-3467878"
-        },
-        {
-          "name": "MOOD官方Gamefound项目",
-          "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game"
-        }
-      ]
-    },
-    {
       "id": "midnight-hobby-release",
       "product": "2026 Topps Midnight Football Hobby",
       "category": "cards",
@@ -6198,86 +5436,6 @@
       ],
       "timing": null,
       "pendingReleaseEvidence": "本轮美国官方预告只公布10月26日预售，尚未提供正式发行日期。"
-    },
-    {
-      "id": "bundesliga-eu-pre",
-      "product": "Topps Flagship Bundesliga 2026/27（欧洲预售）",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "preorder",
-      "date": "2026-10-13",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "英国/欧洲官网",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "本轮公开来源核验；页面更新时间未标",
-      "sourceTimezone": "UTC",
-      "sourceTime": "12:00",
-      "sourceEvidence": "英国、德国、法国、意大利、西班牙官方日历均列10月13日12:00 UTC预售；英国产品页列13:00但未明示时区，精确换算以日历UTC字段为依据。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
-      "notes": [
-        "北京时间10月13日20:00；不等于正式发行或大陆到货。"
-      ],
-      "sources": [
-        {
-          "name": "Topps英国官方发行日历",
-          "url": "https://uk.topps.com/release-calendar"
-        },
-        {
-          "name": "Topps英国：Flagship Bundesliga产品页",
-          "url": "https://uk.topps.com/pages/topps-flagship-bundesliga"
-        }
-      ],
-      "timing": {
-        "localTime": "12:00",
-        "utcOffset": "+00:00",
-        "evidence": "英国、德国、法国、意大利、西班牙官方日历均列10月13日12:00 UTC预售；英国产品页列13:00但未明示时区，精确换算以日历UTC字段为依据。"
-      },
-      "pendingReleaseEvidence": "本轮官方只公布预售；正式发行日尚未核到。"
-    },
-    {
-      "id": "royalty-tennis-eu-pre",
-      "product": "2026 Topps Royalty Tennis（欧洲EQL抽选预售申请）",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "preorder",
-      "date": "2026-10-13",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "英国/欧洲官网",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "本轮公开来源核验；页面更新时间未标",
-      "sourceTimezone": "UTC",
-      "sourceTime": "13:00",
-      "sourceEvidence": "欧洲五地区官方日历均明确10月13日13:00 UTC并标预售；英国系列页注明on EQL。此节点为抽选申请预售，非保证成交。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
-      "notes": [
-        "日历UTC对应北京时间10月13日21:00。",
-        "英国系列页另写15:00但未提供时区，不能据此擅自换算；使用明示UTC的日历字段，参与前仍应核对活动倒计时。",
-        "不保证目前已开放报名；欧洲售价、名额及交付条款需各地区活动页核实。"
-      ],
-      "sources": [
-        {
-          "name": "Topps英国官方发行日历",
-          "url": "https://uk.topps.com/release-calendar"
-        },
-        {
-          "name": "Topps英国：Royalty Tennis EQL预告",
-          "url": "https://uk.topps.com/pages/topps-royalty-tennis"
-        }
-      ],
-      "timing": {
-        "localTime": "13:00",
-        "utcOffset": "+00:00",
-        "evidence": "欧洲五地区官方日历均明确10月13日13:00 UTC并标预售；英国系列页注明on EQL。此节点为抽选申请预售，非保证成交。"
-      },
-      "pendingReleaseEvidence": "本轮仅有EQL抽选预售日期；正式发行仍待公布。"
     },
     {
       "id": "update-baseball-eu",
@@ -6495,100 +5653,6 @@
       }
     },
     {
-      "id": "bundesliga-pre",
-      "product": "Topps Flagship Bundesliga 2026/27",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "preorder",
-      "date": "2026-10-13",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国官网",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "official",
-      "sourceTimezone": "UTC",
-      "sourceTime": "15:00",
-      "sourceEvidence": "美国官方日历明确10月13日15:00 UTC；产品页11am ET一致。欧洲五地区12:00 UTC单列。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
-      "notes": [
-        "预售开启日期；尚未核到正式发行日、售价与发货安排。",
-        "此前日期依据（保留历史）：美国、英国、德法意西官方日历均标10月13日预售；产品页一致，无精确时刻。",
-        "原合并节点的欧洲范围由bundesliga-eu-pre承接；本ID现仅表示美国官网。",
-        "北京时间10月13日23:00。正式发行仍为TBA；预售价格94.99美元来自10月12日专业报道，非本轮官方商品页核价。"
-      ],
-      "sources": [
-        {
-          "name": "Topps美国官方发行日历",
-          "url": "https://www.topps.com/release-calendar"
-        },
-        {
-          "name": "Topps英国官方发行日历",
-          "url": "https://uk.topps.com/release-calendar"
-        },
-        {
-          "name": "Topps：Bundesliga产品页",
-          "url": "https://www.topps.com/pages/topps-flagship-bundesliga"
-        },
-        {
-          "name": "Checklist Insider：10月12日Bundesliga配置",
-          "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
-        }
-      ],
-      "timing": {
-        "localTime": "15:00",
-        "utcOffset": "+00:00",
-        "evidence": "美国官方日历明确10月13日15:00 UTC；产品页11am ET一致。欧洲五地区12:00 UTC单列。"
-      },
-      "pendingReleaseEvidence": "Checklist Insider 10月12日仍列正式发行TBA；官方仅公布10月13日预售。"
-    },
-    {
-      "id": "royalty-tennis-pre",
-      "product": "2026 Topps Royalty Tennis（美国EQL抽选预售申请）",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "preorder",
-      "date": "2026-10-13",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国官网",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "美国日历10月13日16:00 UTC；产品页写12pm EST on EQL，字面17:00 UTC，与日历差一小时。日期与抽选预售性质明确，精确时刻不强行统一。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
-      "notes": [
-        "预售开始，不能写成正式发售。",
-        "此前日期依据（保留历史）：该来源将 2026 Topps Royalty Tennis 列为 2026-10-13 的预售节点。",
-        "原合并节点欧洲范围由royalty-tennis-eu-pre承接；本ID现仅表示美国官网EQL抽选预售申请。",
-        "不是保证购买成功的开放预售；官方预告未证明抽选当前已开放。",
-        "产品页EST与日历UTC冲突未解，timing保持null；不擅自按EDT解释EST。",
-        "10月12日专业报道列579.99美元、每盒10张及6张签名；正式发行TBA。"
-      ],
-      "sources": [
-        {
-          "name": "Topps 官方",
-          "url": "https://www.topps.com/release-calendar"
-        },
-        {
-          "name": "Topps美国：Royalty Tennis EQL预告",
-          "url": "https://www.topps.com/pages/topps-royalty-tennis"
-        },
-        {
-          "name": "Checklist Insider：10月12日Royalty Tennis",
-          "url": "https://www.checklistinsider.com/2026-topps-royalty-tennis"
-        }
-      ],
-      "timing": null,
-      "pendingReleaseEvidence": "Checklist Insider 10月12日页首及版本明细均列正式发行TBA。"
-    },
-    {
       "id": "update-baseball",
       "product": "2026 Topps Update Series Baseball",
       "category": "cards",
@@ -6635,52 +5699,6 @@
       }
     },
     {
-      "id": "f1-main",
-      "product": "2026 Topps Chrome Formula 1（Hobby / Value / Mega）",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "release",
-      "date": "2026-10-15",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国官网",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "美国官方日历10月15日15:00 UTC；产品页写11am EST，字面16:00 UTC，精确时刻冲突；日期保持10月15日。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
-      "notes": [
-        "常规版；FDI、Hongbao、Logofractor单列重要版本差异。",
-        "本轮修正地区重叠：日本官网已有独立节点f1-main-jp，本ID移除日本范围；日期不变。",
-        "此前日期依据（保留历史）：美国、英国官方日历列10月15日常规版发售；日本官网已另有f1-main-jp节点，保留其18:00 UTC时刻，不在本节点重复地区。",
-        "原欧洲范围拆为f1-main-eu；本ID仅美国官网；日本仍由f1-main-jp承接。",
-        "不擅自将EST解释为EDT；timing保持null。"
-      ],
-      "sources": [
-        {
-          "name": "Topps Ripped",
-          "url": "https://ripped.topps.com/2026-topps-chrome-formula-1-what-box-is-best/"
-        },
-        {
-          "name": "Topps美国官方发行日历",
-          "url": "https://www.topps.com/release-calendar"
-        },
-        {
-          "name": "Topps英国官方发行日历",
-          "url": "https://uk.topps.com/release-calendar"
-        },
-        {
-          "name": "Topps美国：Chrome Formula 1产品页",
-          "url": "https://www.topps.com/pages/topps-chrome-formula-1"
-        }
-      ],
-      "timing": null
-    },
-    {
       "id": "collector-kit",
       "product": "2026 Topps Collector Kit Wave 2",
       "category": "cards",
@@ -6721,6 +5739,2200 @@
       "timing": null
     },
     {
+      "category": "tcg",
+      "brand": "万智牌",
+      "nodeType": "release",
+      "date": null,
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "Secret Lair商城适用地区／Chaos Vault",
+      "languages": [
+        "具体语言版本以商品页为准"
+      ],
+      "evidenceLevel": "tentative",
+      "announcementStatus": "商品已公布；商城开售日待公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "10月13日官方公告只写即将推出，未公布开售月份、日期或时刻。",
+      "verifiedAt": "2026-10-14T09:59:55+08:00",
+      "notes": [
+        "不套用原Reality Fracture Secret Lair Bundle的10月23日零售档期。"
+      ],
+      "sources": [
+        {
+          "name": "Wizards：两组Reality Fracture Secret Lair及Bundle组合（10月13日）",
+          "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
+        }
+      ],
+      "timing": null,
+      "id": "mtg-secret-lair-strange-school",
+      "product": "Secret Lair：怪異学校 — Strange School（非闪／闪卡）"
+    },
+    {
+      "category": "tcg",
+      "brand": "万智牌",
+      "nodeType": "release",
+      "date": null,
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "Secret Lair商城适用地区／Chaos Vault",
+      "languages": [
+        "具体语言版本以商品页为准"
+      ],
+      "evidenceLevel": "tentative",
+      "announcementStatus": "商品已公布；商城开售日待公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "10月13日官方公告只写即将推出，未公布开售月份、日期或时刻。",
+      "verifiedAt": "2026-10-14T09:59:55+08:00",
+      "notes": [
+        "不套用原Reality Fracture Secret Lair Bundle的10月23日零售档期。"
+      ],
+      "sources": [
+        {
+          "name": "Wizards：两组Reality Fracture Secret Lair及Bundle组合（10月13日）",
+          "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
+        }
+      ],
+      "timing": null,
+      "id": "mtg-secret-lair-duality-distorted",
+      "product": "Secret Lair：Duality Distorted（非闪／闪卡）"
+    },
+    {
+      "category": "tcg",
+      "brand": "万智牌",
+      "nodeType": "release",
+      "date": null,
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "Secret Lair商城适用地区／Chaos Vault",
+      "languages": [
+        "具体语言版本以商品页为准"
+      ],
+      "evidenceLevel": "tentative",
+      "announcementStatus": "商品已公布；商城开售日待公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "10月13日官方公告只写即将推出，未公布开售月份、日期或时刻。",
+      "verifiedAt": "2026-10-14T09:59:55+08:00",
+      "notes": [
+        "不套用原Reality Fracture Secret Lair Bundle的10月23日零售档期。"
+      ],
+      "sources": [
+        {
+          "name": "Wizards：两组Reality Fracture Secret Lair及Bundle组合（10月13日）",
+          "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
+        }
+      ],
+      "timing": null,
+      "id": "mtg-fra-secret-lair-bundle-bundles",
+      "product": "Reality Fracture Secret Lair Bundle Bundles（三种套餐）"
+    },
+    {
+      "id": "mtg-fra-secret-lair-bundle",
+      "product": "Reality Fracture Secret Lair Bundle",
+      "category": "tcg",
+      "brand": "万智牌",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "海外发行区",
+      "languages": [
+        "以地区产品为准"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-23节点；具体限制见备注。",
+      "verifiedAt": "2026-10-14T09:59:55+08:00",
+      "notes": [
+        "官方明确该SKU原定10月23日；部分地区可能晚于此日到货。",
+        "2026-10-13新公布的Chaos Vault两组Secret Lair与Bundle Bundles套餐尚无开售日；此处10月23日不自动适用于这些新商品。"
+      ],
+      "sources": [
+        {
+          "name": "Wizards Play Network",
+          "url": "https://wpn.wizards.com/en/news/reality-fracture-product-delays-in-select-regions"
+        },
+        {
+          "name": "Wizards：两组Reality Fracture Secret Lair及Bundle组合（10月13日）",
+          "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "lorcana-hunny",
+      "product": "Illumineer's Quest: The Great Hunny Rescue",
+      "category": "tcg",
+      "brand": "洛卡纳",
+      "nodeType": "release",
+      "date": "2026-10-02",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国／英语发行区",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。 10月14日直接核对美国英语官网产品页，Hunny Rescue仍为10月2日，Hyperia City仍为16日售前、23日全面发售；这些日期不代表大陆或日语版安排。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "官方产品页日期为10月2日。"
+      ],
+      "sources": [
+        {
+          "name": "Disney Lorcana / Ravensburger",
+          "url": "https://www.disneylorcana.com/en-US/product/great-hunny-rescue"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-us-blister",
+      "product": "Enhanced 2-Pack Blister",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-02",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。 10月14日独立复核美国官方十月完整商品月表的搜索索引，六类商品仍为2日四类、23日Deck Crafter’s Collection、30日Battle Deck；直开仍仅有iframe，索引抓取较早，不能据此保证实时无更新。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "美国官方月度商品日历；不自动套用到其他地区。"
+      ],
+      "sources": [
+        {
+          "name": "The Pokémon Company",
+          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-us-bundle",
+      "product": "30th Celebration Booster Bundle",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-02",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。 10月14日独立复核美国官方十月完整商品月表的搜索索引，六类商品仍为2日四类、23日Deck Crafter’s Collection、30日Battle Deck；直开仍仅有iframe，索引抓取较早，不能据此保证实时无更新。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "美国官方月度商品日历；不自动套用到其他地区。"
+      ],
+      "sources": [
+        {
+          "name": "The Pokémon Company",
+          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-us-miniportfolio",
+      "product": "Mini Portfolio",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-02",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。 10月14日独立复核美国官方十月完整商品月表的搜索索引，六类商品仍为2日四类、23日Deck Crafter’s Collection、30日Battle Deck；直开仍仅有iframe，索引抓取较早，不能据此保证实时无更新。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "美国官方月度商品日历；不自动套用到其他地区。"
+      ],
+      "sources": [
+        {
+          "name": "The Pokémon Company",
+          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-us-minitins",
+      "product": "30th Celebration Mini Tin（10款）",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-02",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。 10月14日独立复核美国官方十月完整商品月表的搜索索引，六类商品仍为2日四类、23日Deck Crafter’s Collection、30日Battle Deck；直开仍仅有iframe，索引抓取较早，不能据此保证实时无更新。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "美国官方月度商品日历；不自动套用到其他地区。"
+      ],
+      "sources": [
+        {
+          "name": "The Pokémon Company",
+          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "lorcana-hyperia-jp",
+      "product": "Hyperia City 日语补充包",
+      "category": "tcg",
+      "brand": "洛卡纳",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日复核Takara Tomy官方商品页及商城列表，仍为10月16日。 10月14日核对Takara Tomy日本官网首页发售横幅及官方商城日语版商品搜索索引，均仍指向2026年10月16日；商城详情直开本轮失败，未复核实时库存。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [],
+      "sources": [
+        {
+          "name": "Takara Tomy",
+          "url": "https://www.takaratomy.co.jp/products/disneylorcana/product/hyperia-city/booster-pack/"
+        },
+        {
+          "name": "Takara Tomy：日本官网首页发售横幅",
+          "url": "https://www.takaratomy.co.jp/products/disneylorcana/"
+        },
+        {
+          "name": "Takara Tomy官方商城：日语版Hyperia City整盒",
+          "url": "https://takaratomymall.jp/shop/g/g8000000207647/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "lorcana-hyperia-prerelease",
+      "product": "Hyperia City 售前发售",
+      "category": "tcg",
+      "brand": "洛卡纳",
+      "nodeType": "prerelease",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "海外牌店及指定Disney渠道",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。 10月14日直接核对美国英语官网产品页，Hunny Rescue仍为10月2日，Hyperia City仍为16日售前、23日全面发售；这些日期不代表大陆或日语版安排。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "与10月23日全面发售分开记录。",
+        "10月8日美国英语官网新指南复核：售前盒含6包补充包、4枚伤害骰、1张随机特典卡与城市地图；不等于大陆版本确认。"
+      ],
+      "sources": [
+        {
+          "name": "Disney Lorcana / Ravensburger",
+          "url": "https://www.disneylorcana.com/en-US/product/hyperia-city"
+        },
+        {
+          "name": "Ravensburger：10月8日售前指南",
+          "url": "https://www.disneylorcana.com/en-US/news/2026/10/hyperia-city-prerelease-guide"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-jp-binders",
+      "product": "30th CELEBRATION Collection File Premium 地区收藏册",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日独立复核日本30周年官方全商品页，日期未变。 10月14日独立核对日本30周年完整商品表，10月16日九款卡牌套组、九款高级收藏册及九款补充页的日期未变。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "卡牌周边；以官方产品页款式为准。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦卡牌日本",
+          "url": "https://www.30th.pokemon-card.com/product"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-jp-cardsets",
+      "product": "30th CELEBRATION 卡牌套组（9款御三家）",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日独立复核日本30周年官方全商品页，日期未变。 10月14日独立核对日本30周年完整商品表，10月16日九款卡牌套组、九款高级收藏册及九款补充页的日期未变。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "关都、城都、丰缘、神奥、合众、卡洛斯、阿罗拉、伽勒尔、帕底亚御三家套组。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦卡牌日本",
+          "url": "https://www.30th.pokemon-card.com/product/cardset"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "lorcana-hyperia",
+      "product": "Hyperia City 补充包／整盒／Illumineer’s Trove",
+      "category": "tcg",
+      "brand": "洛卡纳",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "海外英语发行区",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-23节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。 10月14日直接核对美国英语官网产品页，Hunny Rescue仍为10月2日，Hyperia City仍为16日售前、23日全面发售；这些日期不代表大陆或日语版安排。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "全面零售日。"
+      ],
+      "sources": [
+        {
+          "name": "Disney Lorcana / Ravensburger",
+          "url": "https://www.disneylorcana.com/en-US/product/hyperia-city"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-us-crafter",
+      "product": "Deck Crafter’s Collection",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-23节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。 10月14日独立复核美国官方十月完整商品月表的搜索索引，六类商品仍为2日四类、23日Deck Crafter’s Collection、30日Battle Deck；直开仍仅有iframe，索引抓取较早，不能据此保证实时无更新。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "美国官方月度商品日历；不自动套用到其他地区。"
+      ],
+      "sources": [
+        {
+          "name": "The Pokémon Company",
+          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-us-battle",
+      "product": "30th Celebration Battle Deck—Espeon ex & Umbreon ex",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 10月13日重查官方10月完整商品月表，搜索索引正文仍列此日期；直接打开返回iframe，未据此声称实时库存或到货。 10月14日独立复核美国官方十月完整商品月表的搜索索引，六类商品仍为2日四类、23日Deck Crafter’s Collection、30日Battle Deck；直开仍仅有iframe，索引抓取较早，不能据此保证实时无更新。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "美国官方月度商品日历；不自动套用到其他地区。"
+      ],
+      "sources": [
+        {
+          "name": "The Pokémon Company",
+          "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "lorcana-beauty-beast-tba",
+      "product": "Curator’s Collection: Beauty and the Beast Edition",
+      "category": "tcg",
+      "brand": "洛卡纳",
+      "nodeType": "release",
+      "date": null,
+      "endDate": null,
+      "announcedMonth": "2026-10",
+      "region": "指定Disney渠道",
+      "languages": [
+        "未逐地区核实"
+      ],
+      "evidenceLevel": "tentative",
+      "announcementStatus": "tentative",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10节点；具体限制见备注。 10月13日核查官方D23公告，仍只能证实2026年10月，未取得具体日期的新官方依据。 10月14日重查Disney Parks Blog D23公告及相关官方索引，仍只取得2026年10月的月份依据，继续保留日待定，不跟随社区猜测填写16日。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "官方确认10月，尚未核到具体日，勿放在10月1日。"
+      ],
+      "sources": [
+        {
+          "name": "Disney Parks Blog",
+          "url": "https://disneyparksblog.com/products/reveals-and-announcements-from-the-disney-lorcana-panel-at-d23-2026/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "lorcana-jp-ariel-sleeves",
+      "product": "日本语版官方卡套：小美人鱼 爱丽儿（65枚）",
+      "category": "tcg",
+      "brand": "洛卡纳",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语版周边"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已核实官方日期",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "Takara Tomy官方商城商品页及发售列表均明确2026年10月16日；未公布具体时刻。 10月13日复核Takara Tomy官方商城完整新商品列表，仍为10月16日。 10月14日直接核对Takara Tomy官方商城商品详情，本轮两款页面均可读且仍列2026年10月16日。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "商品编号4904810082880；属于卡牌保护周边。",
+        "官方商城目前显示无库存，不表示发售取消或保证可买到。"
+      ],
+      "sources": [
+        {
+          "name": "Takara Tomy官方商城：爱丽儿卡套",
+          "url": "https://takaratomymall.jp/shop/g/g4904810082880/"
+        },
+        {
+          "name": "Takara Tomy官方商城：Lorcana新商品列表",
+          "url": "https://takaratomymall.jp/shop/goods/search.aspx?category=Lorcana&optionalcategory=Making&release=1&search=true"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "lorcana-jp-belle-beast-sleeves",
+      "product": "日本语版官方卡套：美女与野兽 贝儿＋野兽",
+      "category": "tcg",
+      "brand": "洛卡纳",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语版周边"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已核实官方日期",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "Takara Tomy官方商城发售列表明确2026年10月16日；商品详情页进入排队保护，本次日期依据采用可读官方列表。 10月13日复核Takara Tomy官方商城完整新商品列表，仍为10月16日。 10月14日直接核对Takara Tomy官方商城商品详情，本轮两款页面均可读且仍列2026年10月16日。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "商品编号4904810082897；属于卡牌保护周边。",
+        "未把商城无库存状态解释为发售取消。"
+      ],
+      "sources": [
+        {
+          "name": "Takara Tomy官方商城：Lorcana新商品列表",
+          "url": "https://takaratomymall.jp/shop/goods/search.aspx?category=Lorcana&optionalcategory=Making&release=1&search=true"
+        },
+        {
+          "name": "Takara Tomy官方商城：贝儿＋野兽卡套",
+          "url": "https://takaratomymall.jp/shop/g/g4904810082897/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-jp-collection-refills",
+      "product": "30th CELEBRATION Collection Refills 地区卡册补充页（9款）",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语版周边"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已核实官方日期",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "宝可梦日本30周年官网商品页及10月16日周边详情分别列明9款Collection Refills均于2026年10月16日发售。 10月13日独立复核日本30周年官方全商品页，日期未变。 10月14日独立核对日本30周年完整商品表，10月16日九款卡牌套组、九款高级收藏册及九款补充页的日期未变。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "关都、城都、丰缘、神奥、合众、卡洛斯、阿罗拉、伽勒尔、帕底亚9款，属于收藏册补充页，不是卡牌包。",
+        "与已收录Collection File Premium收藏册为不同产品；首发渠道为日本宝可梦中心及其官网。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦日本：10月16日周边完整详情",
+          "url": "https://www.30th.pokemon-card.com/product/goods-06"
+        },
+        {
+          "name": "宝可梦日本30周年商品列表",
+          "url": "https://www.30th.pokemon-card.com/product"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-happy-deck-cn",
+      "product": "嗨皮卡组 训练家的宝可梦",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已核实官方日期",
+      "sourceTimezone": "中国大陆公告；正文未单独标注时区",
+      "sourceTime": "10:00",
+      "sourceEvidence": "宝可梦中国官方商品规格明确：嗨皮卡组 训练家的宝可梦，2026年10月16日10时起发售。正文没有独立标注时区或UTC偏移，保留原文时刻而不执行时区换算。 10月13日再次核对官方商品规格，日期和原文时刻未变。 10月14日直读官方商品规格，两个独立SKU均仍为10月16日10时起；没有独立UTC偏移依据，不作精确北京时间换算。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "20元单卡组商品；随机封入火箭队超梦ex、竹兰烈咬陆鲨ex、小霞暴鲤龙、阿响火暴兽中的1套60张卡组。",
+        "与88元嗨皮组合为不同SKU。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦中国：嗨皮组合与嗨皮卡组商品规格",
+          "url": "https://www.pokemon.cn/tcg/product/23939.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-delta-reign-prerelease",
+      "product": "Mega Evolution—Delta Reign Build & Battle Box 售前发售／活动开启",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "prerelease",
+      "date": "2026-10-24",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英国及适用海外Play! Pokémon门店（以门店公告为准）",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已核实官方日期",
+      "sourceTimezone": "来源当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "宝可梦英国官网9月28日公告明确，指定Play! Pokémon门店自2026年10月24日起销售Build & Battle Box并开展售前活动；本次正文通过官方搜索索引完整取得，直接打开页面仅返回iframe。 10月13日通过官方搜索索引复核，仍为10月24日起，未增补无官方证据的统一结束日期。 10月14日复核同一英国官方公告搜索索引，仍列10月24日起售前，11月6日全面发售；不推断统一售前结束日。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "这是售前销售与体验开启，不是11月6日全面正式发售。",
+        "仅记录官方明确的开始日；未用二手报道的11月1日推断统一结束日，也不套用于中国大陆或日本。"
+      ],
+      "sources": [
+        {
+          "name": "The Pokémon Company：Delta Reign售前公告",
+          "url": "https://www.pokemon.com/uk/news/play-at-a-pokemon-tcg-mega-evolution-delta-reign-prerelease-event"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-happy-cn",
+      "product": "嗨皮组合 训练家的宝可梦",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "中国大陆公告；正文未单独标注时区",
+      "sourceTime": "10:00",
+      "sourceEvidence": "宝可梦中国商品规格明确嗨皮组合于2026年10月16日10时起发售；正文没有独立标注时区或UTC偏移，因此保留原文时刻而不执行时区换算。 10月13日再次核对官方商品规格，日期和原文时刻未变。 10月14日直读官方商品规格，两个独立SKU均仍为10月16日10时起；没有独立UTC偏移依据，不作精确北京时间换算。",
+      "verifiedAt": "2026-10-14T10:01:42+08:00",
+      "notes": [
+        "4款卡组：火箭队超梦ex、竹兰烈咬陆鲨ex、小霞暴鲤龙、阿响火暴兽。",
+        "88元嗨皮组合与20元嗨皮卡组为分别销售的两个SKU。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦中国",
+          "url": "https://www.pokemon.cn/tcg/product/23939.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-jp-collection",
+      "product": "Flame-Flame Fruit Edition Premium Card Collection",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-03",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "活动会场限定商品。",
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.onepiece-cardgame.com/products/collection-flame.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-jp-orange",
+      "product": "Limited Card Sleeves Standard Orange Silver",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-03",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "活动会场限定周边。",
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-jp-playmat",
+      "product": "Flame-Flame Fruit Edition 对战桌垫＆卡牌套装",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-03",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "活动会场限定商品，不是赛事记录。",
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.onepiece-cardgame.com/products/playmat_flame-flame-fruit.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-jp-sleeve",
+      "product": "Flame-Flame Fruit Edition Limited Card Sleeves",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-03",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "活动会场限定周边。",
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.onepiece-cardgame.com/products/sleeve043.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-jp-storage",
+      "product": "Flame-Flame Fruit Edition Storage Box",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-03",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-03节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "活动会场限定周边。",
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.onepiece-cardgame.com/products/storage008.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-jp-binder",
+      "product": "BASE SHOP Limited Binder vol.1",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-09",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-09节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "BASE SHOP限定周边。",
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.onepiece-cardgame.com/products/baseshop-binder001.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "gundam-gd06-us",
+      "product": "Stardust Trails [GD06]",
+      "category": "tcg",
+      "brand": "高达",
+      "nodeType": "release",
+      "date": "2026-10-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国英语发行区",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.gundam-gcg.com/en/products/gd06.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.gundam-gcg.com/en/products/list.php"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-eb05-en",
+      "product": "ONE PIECE HEROINES EDITION vol.2 [EB-05]",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "北美／欧洲／大洋洲／拉美／中东",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。本轮详情页未能读取，日期采用同地区官方商品列表复核。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
+        "2026-10-14详情页已成功读取，发售日期与本地区列表一致；上一轮详情无法读取的情况已解除。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://en.onepiece-cardgame.com/products/eb05.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://en.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-ts03-en",
+      "product": "Mini Case Set—Luffy/Shanks/Hancock [TS-03]",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "北美／欧洲／大洋洲／拉美／中东",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。本轮详情页未能读取，日期采用同地区官方商品列表复核。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
+        "2026-10-14详情页已成功读取，发售日期与本地区列表一致；上一轮详情无法读取的情况已解除。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://en.onepiece-cardgame.com/products/ts03.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://en.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "gundam-gd06-asia",
+      "product": "Stardust Trails [GD06]",
+      "category": "tcg",
+      "brand": "高达",
+      "nodeType": "release",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "亚洲英语官网适用地区",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
+        "2026-10-14语言纠正：原记录地区“亚洲英语发行区”、语言“英语”来自网站本地化，不能据此判定商品语言。本地区GD06官方商品包装明确印有“日本語版”，本条语言改为日语，保留原ID和日期；这不是新语言版本上市。",
+        "现行官网语言规则列出日文、英文、简体中文卡牌，并允许部分亚洲地区使用日英两种牌；该规则不能用于推定本页另有英文或繁体中文SKU。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.gundam-gcg.com/asia-en/products/gd06.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.gundam-gcg.com/asia-en/products/list.php"
+        },
+        {
+          "name": "Bandai：本地区GD06包装图（标有日本語版）",
+          "url": "https://www.gundam-gcg.com/gcg/bccard/asia-en/news/2026/08/26/zf36pLvp2Ob4voUo/GD06_thumbnail_white_jp.webp"
+        },
+        {
+          "name": "Bandai：卡牌语言版本使用规则",
+          "url": "https://www.gundam-gcg.com/zh-tw/news/lang_card_rule.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "gundam-gd06-hant",
+      "product": "Stardust Trails [GD06]",
+      "category": "tcg",
+      "brand": "高达",
+      "nodeType": "release",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "繁体中文官网适用地区",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
+        "2026-10-14语言纠正：原记录地区“繁体中文发行区”、语言“繁体中文”来自网站本地化，不能据此判定商品语言。本地区GD06官方商品包装明确印有“日本語版”，本条语言改为日语，保留原ID和日期；这不是新语言版本上市。",
+        "现行官网语言规则列出日文、英文、简体中文卡牌，并允许部分亚洲地区使用日英两种牌；该规则不能用于推定本页另有英文或繁体中文SKU。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.gundam-gcg.com/zh-tw/products/gd06.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.gundam-gcg.com/zh-tw/products/list.php"
+        },
+        {
+          "name": "Bandai：本地区GD06包装图（标有日本語版）",
+          "url": "https://www.gundam-gcg.com/gcg/bccard/tw/news/2026/08/26/hrOjOQYL5Ni2yYT1/GD06_thumbnail_white_jp.webp"
+        },
+        {
+          "name": "Bandai：卡牌语言版本使用规则",
+          "url": "https://www.gundam-gcg.com/zh-tw/news/lang_card_rule.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "gundam-gd06-jp",
+      "product": "Stardust Trails [GD06]",
+      "category": "tcg",
+      "brand": "高达",
+      "nodeType": "release",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.gundam-gcg.com/jp/products/gd06.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.gundam-gcg.com/jp/products/list.php"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-jp-eb05",
+      "product": "ONE PIECE Heroines Edition vol.2 [EB-05]",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。本轮详情页未能读取，日期采用同地区官方商品列表复核。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
+        "2026-10-14详情页已成功读取，发售日期与本地区列表一致；上一轮详情无法读取的情况已解除。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.onepiece-cardgame.com/products/eb05.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-jp-heroines",
+      "product": "ONE PIECE HEROINES PRECIOUS BOX",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "confirmed",
+      "sourceTimezone": "Asia/Tokyo",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "日本公认店限定。",
+        "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。",
+        "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
+        "日本官网2026年10月13日公布更新取扱店名单。产品页仍列2026年10月31日、8,470日元含税；名单更新不是发售日变更或预售开启。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai",
+          "url": "https://www.onepiece-cardgame.com/products/heroines-box.html"
+        },
+        {
+          "name": "Bandai地区全部商品列表（2026-10-13复核）",
+          "url": "https://www.onepiece-cardgame.com/products/"
+        },
+        {
+          "name": "Bandai：10月13日取扱店名单更新公告",
+          "url": "https://www.onepiece-cardgame.com/"
+        },
+        {
+          "name": "Bandai：官方取扱店名单PDF",
+          "url": "https://assets.carddass.com/onepiececg/bccard/jp/pdf/products/2026/10/GGbnYxwUZamN0bQC/one-piece-heroines-Precious-box_%E5%8F%96%E6%89%B1%E5%BA%97%E8%88%97%E3%83%AA%E3%82%B9%E3%83%88_03.pdf"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-eb05-hant-review",
+      "product": "ONE PIECE Heroines Edition vol.2 [EB-05]",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "繁体中文官网适用地区",
+      "languages": [
+        "日语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "日期已确认；历史冲突已解除",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "2026-10-14成功读取同地区官网：繁中商品列表显示2026.10.31；EB-05详情主视觉显示2026年10月31日發售，發售日期表格亦为2026年10月31日。当前三处一致；旧记录中的10月30日表格证据已转存notes，保留原ID及全部历史来源。",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
+      "notes": [
+        "这两个页面属于同一地区来源内部不一致，保留10月月份，在待核区展示。",
+        "地区官网语言不自动等于实际卡牌语言；未从本地化页面推断简体中文版。",
+        "2026-10-13复核：亚洲英语列表仍为10月30日，繁中列表仍为10月31日；两地区EB-05详情均读取失败。未取得解除历史列表／详情冲突的证据，保留原始证据、月份和待核状态。",
+        "历史sourceEvidence（2026-10-13及此前）：繁体中文官网商品列表与EB-05详情主视觉文字显示2026年10月31日；同一详情的发售日期表格显示2026年10月30日。不能擅选一个日期，也不能与欧美版或日本版日历合并。",
+        "2026-10-14复核：繁中商品列表、详情主视觉和发售日期表格现在均列2026年10月31日，同地区旧日期冲突已解除；旧冲突及全部来源历史保留在本条。无需把亚洲英语站仍存在的30／31日冲突套用到本地区。",
+        "2026-10-14语言核实：本地区EB-05官方包装图为日文包装，与详情另行链接英文版的信息相符；languages由“商品语言待核；页面为繁体中文”改为日语。繁中网站不等于繁体中文卡牌。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai地区商品列表",
+          "url": "https://asia-tc.onepiece-cardgame.com/products/"
+        },
+        {
+          "name": "Bandai地区EB-05详情",
+          "url": "https://asia-tc.onepiece-cardgame.com/products/eb05.html"
+        },
+        {
+          "name": "Bandai：繁中官网EB-05商品包装图（日文包装）",
+          "url": "https://asia-tc.onepiece-cardgame.com/onepiececg/bccard/tc/products/2026/09/28/oO2IGQor5WKUJiph/img_item01.webp"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-zhenbu-kuishi-chenzong",
+      "product": "真不愧是陈总",
+      "category": "board",
+      "brand": "地核桌游",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "19:00",
+      "sourceEvidence": "摩点官方项目正文明确2026-10-20 19:00开始；预热列表同为10月20日。",
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "notes": [
+        "独立整月补漏，不把首次查到当作今日首次公告。",
+        "主要档位预计2027年2月回报；众筹启动并非现货发售。"
+      ],
+      "sources": [
+        {
+          "name": "摩点：地核桌游官方项目",
+          "url": "https://zhongchou.modian.com/item/160747.html"
+        }
+      ],
+      "timing": {
+        "localTime": "19:00",
+        "utcOffset": "+08:00",
+        "evidence": "摩点官方项目正文明确2026-10-20 19:00开始；预热列表同为10月20日。"
+      }
+    },
+    {
+      "id": "board-xw-unmatched-tmnt",
+      "product": "无双对决冒险篇：Teenage Mutant Ninja Turtles",
+      "category": "board",
+      "brand": "奇思工作室 Key Studio",
+      "nodeType": "preorder",
+      "date": "2026-10-21",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文（部分英文标识以项目说明为准）"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "20:00",
+      "sourceEvidence": "新物集发行方公开项目详情start_time=1792584000，对应北京时间2026-10-21 20:00；当前为预售预热，非创建日期。",
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "notes": [
+        "独立十月月历补漏；项目此前已公开，不认定为近24小时首次新品公告。",
+        "开始日期来自非零start_time；不是现货发售或实际交付日。",
+        "项目正文图片写准现货预售，中文产品保留部分英文标题／标识；图文及具体档位语言说明应一并查看。"
+      ],
+      "sources": [
+        {
+          "name": "新物集：发行方项目正文",
+          "url": "https://shop.zhuoyou.com/share/project.html?project_id=4350"
+        },
+        {
+          "name": "新物集：官方公开日期与正文数据",
+          "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4350"
+        }
+      ],
+      "timing": {
+        "localTime": "20:00",
+        "utcOffset": "+08:00",
+        "evidence": "新物集发行方公开项目详情start_time=1792584000，对应北京时间2026-10-21 20:00；当前为预售预热，非创建日期。"
+      }
+    },
+    {
+      "id": "board-xw-energy-empire",
+      "product": "曼哈顿计划：能源帝国（新版）",
+      "category": "board",
+      "brand": "美德猫",
+      "nodeType": "preorder",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "20:00",
+      "sourceEvidence": "新物集发行方公开项目详情start_time=1793448000，对应北京时间2026-10-31 20:00；当前为预售预热，非创建日期。",
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "notes": [
+        "独立十月月历补漏；项目此前已公开，不认定为近24小时首次新品公告。",
+        "开始日期来自非零start_time；不是现货发售或实际交付日。",
+        "项目正文介绍新版含原版内容、冷战与联合国特使等扩展；本节点是中国平台预售，不等于海外首发。"
+      ],
+      "sources": [
+        {
+          "name": "新物集：发行方项目正文",
+          "url": "https://shop.zhuoyou.com/share/project.html?project_id=4276"
+        },
+        {
+          "name": "新物集：官方公开日期与正文数据",
+          "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4276"
+        }
+      ],
+      "timing": {
+        "localTime": "20:00",
+        "utcOffset": "+08:00",
+        "evidence": "新物集发行方公开项目详情start_time=1793448000，对应北京时间2026-10-31 20:00；当前为预售预热，非创建日期。"
+      }
+    },
+    {
+      "id": "board-through-the-mountains",
+      "product": "Through the Mountains",
+      "category": "board",
+      "brand": "Allplay",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-27",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "语言版本以正式项目为准"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Allplay本轮统一推广页明确Oct 27th启动Kickstarter，并列本产品；ICv2当期报道明确年份为2026。未提供精确时刻。",
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "notes": [
+        "独立续作，非重换主题；此前Gen Con已揭晓。",
+        "众筹开启，不是零售、发货或中国大陆上市；启动时区和精确时刻未公布。"
+      ],
+      "sources": [
+        {
+          "name": "Allplay：本轮官方推广阵容及日期",
+          "url": "https://www.launchoracle.com/allplay/through-the-mountains/WGXTK?ref=on3ax"
+        },
+        {
+          "name": "ICv2：本轮众筹日期与年份",
+          "url": "https://icv2.com/articles/news/view/63613/allplay-announces-reiner-knizias-through-mountains"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-through-the-desert-deluxe",
+      "product": "Through the Desert Deluxe Edition",
+      "category": "board",
+      "brand": "Allplay",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-27",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "语言版本以正式项目为准"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Allplay本轮统一推广页明确Oct 27th启动Kickstarter，并列本产品；ICv2当期报道明确年份为2026。未提供精确时刻。",
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "notes": [
+        "前作豪华新版与升级包同轮推广；勿与既有普通版重印合并为本月首次发行。",
+        "众筹开启，不是零售、发货或中国大陆上市；启动时区和精确时刻未公布。"
+      ],
+      "sources": [
+        {
+          "name": "Allplay：本轮官方推广阵容及日期",
+          "url": "https://www.launchoracle.com/allplay/through-the-mountains/WGXTK?ref=on3ax"
+        },
+        {
+          "name": "ICv2：本轮众筹日期与年份",
+          "url": "https://icv2.com/articles/news/view/63613/allplay-announces-reiner-knizias-through-mountains"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-triskel",
+      "product": "Triskel",
+      "category": "board",
+      "brand": "Allplay",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-27",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "语言版本以正式项目为准"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Allplay本轮统一推广页明确Oct 27th启动Kickstarter，并列本产品；ICv2当期报道明确年份为2026。未提供精确时刻。",
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "notes": [
+        "Kory Heath的Uptown重新设计版本；本轮发行方推广页列为同场阵容。",
+        "众筹开启，不是零售、发货或中国大陆上市；启动时区和精确时刻未公布。"
+      ],
+      "sources": [
+        {
+          "name": "Allplay：本轮官方推广阵容及日期",
+          "url": "https://www.launchoracle.com/allplay/through-the-mountains/WGXTK?ref=on3ax"
+        },
+        {
+          "name": "ICv2：本轮众筹日期与年份",
+          "url": "https://icv2.com/articles/news/view/63613/allplay-announces-reiner-knizias-through-mountains"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-five-of-a-kind",
+      "product": "5 of a Kind",
+      "category": "board",
+      "brand": "Allplay",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-27",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "语言版本以正式项目为准"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Allplay本轮统一推广页明确Oct 27th启动Kickstarter，并列本产品；ICv2当期报道明确年份为2026。未提供精确时刻。",
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "notes": [
+        "发行方推广页列同场第三款新作，结合出牌与牌库构筑。",
+        "众筹开启，不是零售、发货或中国大陆上市；启动时区和精确时刻未公布。"
+      ],
+      "sources": [
+        {
+          "name": "Allplay：本轮官方推广阵容及日期",
+          "url": "https://www.launchoracle.com/allplay/through-the-mountains/WGXTK?ref=on3ax"
+        },
+        {
+          "name": "ICv2：本轮众筹日期与年份",
+          "url": "https://icv2.com/articles/news/view/63613/allplay-announces-reiner-knizias-through-mountains"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "category": "board",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "语言版本以项目页为准"
+      ],
+      "announcementStatus": "众筹已开启",
+      "sourceTimezone": "CEST（UTC+02:00）",
+      "sourceTime": "16:00",
+      "timing": {
+        "localTime": "16:00",
+        "utcOffset": "+02:00",
+        "evidence": "Gamefound官方项目campaignStart=2026-10-13T14:00:00Z，与第17号正文16:00 CEST一致，对应北京时间22:00。"
+      },
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "id": "board-satisfactory-gamefound",
+      "product": "Satisfactory: The Board Game",
+      "brand": "MOOD Publishing／Coffee Stain",
+      "evidenceLevel": "official",
+      "sourceEvidence": "官方现行项目campaignStart=2026-10-13T14:00:00Z；第17号正文预告13日16:00 CEST；13日发行方新稿确认已开放。",
+      "notes": [
+        "本轮整月补漏；9月18日旧公告，不作为近24小时新闻。",
+        "众筹启动而非零售或发货；交付时间和最终版本以正式项目为准。",
+        "10月13日复核9月18日发行方旧公告仍列10月13日，Gamefound页面未返回可核正文；无精确时刻，不据日期自动标记已开放。",
+        "10月14日已读到官方公开项目HTML及第17号正文，解除此前正文未返回的访问缺口；实际10月13日22:00北京时间开筹。",
+        "10月13日发行方新稿仍称正式发行日期未公布；旧公告、先前访问限制及来源继续保留作历史记录。"
+      ],
+      "sources": [
+        {
+          "name": "Coffee Stain／MOOD发行方新闻稿（9月18日）",
+          "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-to-liftoff-in-october-3467878"
+        },
+        {
+          "name": "MOOD官方Gamefound项目",
+          "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game"
+        },
+        {
+          "name": "MOOD官方第17号更新：开筹时刻",
+          "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game/updates/17"
+        },
+        {
+          "name": "Coffee Stain／MOOD：10月13日开筹确认",
+          "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-game-launches-today-and-gameplay-loop-revealed-3472280"
+        }
+      ]
+    },
+    {
+      "category": "board",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "语言版本以项目页为准"
+      ],
+      "announcementStatus": "众筹已开启",
+      "sourceTimezone": "UTC（官方Unix时间戳换算）",
+      "sourceTime": "17:19",
+      "timing": {
+        "localTime": "17:19",
+        "utcOffset": "+00:00",
+        "evidence": "官方Kickstarter公开HTML launched_at=1791911981，对应2026-10-13T17:19:41Z；按分钟展示，不以预告时刻替代实际启动时间。"
+      },
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
+      "id": "board-dice-throne-nexus",
+      "product": "Dice Throne Nexus",
+      "brand": "Dice Throne",
+      "evidenceLevel": "official",
+      "sourceEvidence": "Kickstarter公开项目HTML明确state=live，launched_at=1791911981，即2026-10-13 13:19:41 EDT／北京时间10月14日01:19:41。保留来源当地日期10月13日。",
+      "notes": [
+        "本轮整月补漏；并非10月11日新公告。",
+        "众筹启动不代表正式零售或交付，未提供可换算的精确时刻。",
+        "10月12日23:00北京时间的The Outerhaven新试玩仍列10月13日启动；无精确时刻，截至本期未取得官方已开放正文，不标已开筹。",
+        "10月14日读到官方项目公开HTML：state=live，实际开筹时间有Unix时间戳支持；解除昨日未核实已开放的限制。",
+        "官方主支持档为US$60／145／295，运费与适用税另计；主要档位预计2027年9月交付。资金数额动态变化，本轮未作为新闻卖点。"
+      ],
+      "sources": [
+        {
+          "name": "The Outerhaven：Dice Throne Nexus开筹日期（9月19日）",
+          "url": "https://www.theouterhaven.net/dice-throne-nexus-heads-to-kickstarter-october-13-reveals-snyper/"
+        },
+        {
+          "name": "GamesRadar：Hacker揭晓及开筹日期（10月6日）",
+          "url": "https://www.gamesradar.com/tabletop-gaming/the-final-hero-for-dice-throne-nexus-is-an-absolute-menace-who-hacks-opponents-get-your-first-look-here/"
+        },
+        {
+          "name": "Dice Throne官方Kickstarter项目",
+          "url": "https://www.kickstarter.com/projects/dicethrone/dice-throne-nexus"
+        },
+        {
+          "name": "The Outerhaven：10月12日四英雄试玩",
+          "url": "https://www.theouterhaven.net/dice-throne-nexus-hands-on-first-look-at-4-new-heroes/"
+        }
+      ]
+    },
+    {
+      "id": "mint-disney-hobby-release",
+      "product": "2026 Topps Mint Disney Hobby",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-11-04",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国/英国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方现行发行预告",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "美国、英国官方系列页均标Available November 4；美国Hobby商品Release day、Available From及预售说明均明确2026年11月4日。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "10月13日为预售开启；11月4日为正式发行，不计入10月正式发售。",
+        "本轮美国Hobby商品页显示售罄；具体到货日不保证等于发行日。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国：Mint Disney正式发行日期",
+          "url": "https://www.topps.com/pages/topps-mint-disney"
+        },
+        {
+          "name": "Topps英国：Mint Disney正式发行日期",
+          "url": "https://uk.topps.com/pages/topps-mint-disney"
+        },
+        {
+          "name": "Topps美国：Mint Disney Hobby商品页",
+          "url": "https://www.topps.com/products/2026-topps-mint-disney-hobby-box"
+        },
+        {
+          "name": "Checklist Insider：10月13日Mint Disney更新",
+          "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "royalty-tennis-release",
+      "product": "2026 Topps Royalty Tennis Hobby",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-11-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国/英国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方现行发行预告",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "美国、英国官方系列页均标Available November 13；Checklist Insider 10月13日更新同列2026年11月13日。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "10月13日EQL抽选预售与正式发行分开；不计入10月正式发售。",
+        "未公布本正式发行节点的精确时刻；不沿用历史预售起始时间。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国：Royalty Tennis正式发行日期",
+          "url": "https://www.topps.com/pages/topps-royalty-tennis"
+        },
+        {
+          "name": "Topps英国：Royalty Tennis正式发行日期",
+          "url": "https://uk.topps.com/pages/topps-royalty-tennis"
+        },
+        {
+          "name": "Checklist Insider：10月13日Royalty Tennis更新",
+          "url": "https://www.checklistinsider.com/2026-topps-royalty-tennis"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "bundesliga-release-uk",
+      "product": "Topps Flagship Bundesliga 2026/27（Jumbo / Value）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-11-12",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方现行发行预告",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "英国Jumbo及Value商品页Release day、Available From与预售说明一致指向2026年11月12日。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "10月13日为预售；正式发行11月12日，不计入10月正式发售。",
+        "英国/欧洲以外地区及邮政信箱配送不保证street date送达。"
+      ],
+      "sources": [
+        {
+          "name": "Topps英国：Bundesliga Jumbo官方商品页",
+          "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box"
+        },
+        {
+          "name": "Topps英国：Bundesliga Value官方商品页",
+          "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-value-box"
+        },
+        {
+          "name": "Checklist Insider：10月13日Bundesliga更新",
+          "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "bundesliga-release-us",
+      "product": "Topps Flagship Bundesliga 2026/27（Jumbo）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-11-12",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方现行发行预告",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "美国Jumbo整箱官方搜索索引的Release day、Available From及预售说明均为2026年11月12日；Checklist Insider 10月13日更新交叉一致。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "本轮美国证据来自官方商品页搜索索引，不称美国全盒型均已直接核实。",
+        "10月13日为预售；正式发行11月12日，不计入10月正式发售。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国：Bundesliga Jumbo整箱商品页（官方搜索索引）",
+          "url": "https://www.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box-sealed-case"
+        },
+        {
+          "name": "Checklist Insider：10月13日Bundesliga更新",
+          "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "mint-disney-pre",
+      "product": "2026 Topps Mint Disney Hobby",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "17:00",
+      "sourceEvidence": "美国日历明确10月13日17:00 UTC预售，产品页为13:00 ET；欧洲时间另拆节点。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "Hobby 10月13日预售；正式发行TBA。",
+        "本轮官方产品正文已是2026内容，删去上期“混有2025旧文”的当前状态描述。",
+        "此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。",
+        "此前日期依据：Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
+        "本轮拆分地区：本ID保留美国节点，原欧洲范围由mint-disney-eu-pre承接。",
+        "北京时间10月14日01:00；Hobby正式发行仍为TBA。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：Hobby 10月13日预售；正式发行TBA。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：此前日期依据：Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：北京时间10月14日01:00；Hobby正式发行仍为TBA。",
+        "2026-10-14复核：Hobby正式发行已由美国、英国官方页明确为11月4日；本记录仍只表示10月13日预售，正式发行另列mint-disney-hobby-release。"
+      ],
+      "sources": [
+        {
+          "name": "Topps：Mint Disney当前产品页",
+          "url": "https://www.topps.com/pages/topps-mint-disney"
+        },
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Checklist Insider：版本分列",
+          "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+        },
+        {
+          "name": "Topps英国：Mint Disney正式发行日期",
+          "url": "https://uk.topps.com/pages/topps-mint-disney"
+        },
+        {
+          "name": "Topps美国：Mint Disney Hobby商品页",
+          "url": "https://www.topps.com/products/2026-topps-mint-disney-hobby-box"
+        }
+      ],
+      "timing": {
+        "localTime": "17:00",
+        "utcOffset": "+00:00",
+        "evidence": "美国官方日历明确2026-10-13 17:00 UTC，产品页13:00 ET交叉一致。"
+      }
+    },
+    {
+      "id": "mint-disney-eu-pre",
+      "product": "2026 Topps Mint Disney Hobby",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英国/欧洲官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "15:00",
+      "sourceEvidence": "英国、德国、法国、意大利、西班牙官方日历均明确10月13日15:00 UTC预售。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "Hobby 10月13日预售；正式发行TBA。",
+        "本轮官方产品正文已是2026内容，删去上期“混有2025旧文”的当前状态描述。",
+        "此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。",
+        "原合并节点日期依据：Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
+        "本轮拆为英国/欧洲官网15:00 UTC节点，北京时间10月13日23:00；美国节点为17:00 UTC，不能合并换算。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：Hobby 10月13日预售；正式发行TBA。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：此前核验记录（2026-10-08）：Hobby预售；正式发售TBA。官网产品介绍混有2025旧文，事件类型以当前日历及Checklist Insider交叉核对。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：原合并节点日期依据：Topps当前产品页明确Available for pre-order October 13；美国、英国日历均有Pre-order标记。Checklist Insider仍列Hobby发行TBA。",
+        "2026-10-14复核：Hobby正式发行已由美国、英国官方页明确为11月4日；本记录仍只表示10月13日预售，正式发行另列mint-disney-hobby-release。"
+      ],
+      "sources": [
+        {
+          "name": "Topps：Mint Disney当前产品页",
+          "url": "https://www.topps.com/pages/topps-mint-disney"
+        },
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Checklist Insider：版本分列",
+          "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+        },
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps英国：Mint Disney正式发行日期",
+          "url": "https://uk.topps.com/pages/topps-mint-disney"
+        },
+        {
+          "name": "Topps美国：Mint Disney Hobby商品页",
+          "url": "https://www.topps.com/products/2026-topps-mint-disney-hobby-box"
+        }
+      ],
+      "timing": {
+        "localTime": "15:00",
+        "utcOffset": "+00:00",
+        "evidence": "欧洲官方日历明确2026-10-13 15:00 UTC。"
+      }
+    },
+    {
+      "id": "royalty-tennis-pre",
+      "product": "2026 Topps Royalty Tennis（美国EQL抽选预售申请）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "美国日历10月13日16:00 UTC；产品页写12pm EST on EQL，字面17:00 UTC，与日历差一小时。日期与抽选预售性质明确，精确时刻不强行统一。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "预售开始，不能写成正式发售。",
+        "此前日期依据（保留历史）：该来源将 2026 Topps Royalty Tennis 列为 2026-10-13 的预售节点。",
+        "原合并节点欧洲范围由royalty-tennis-eu-pre承接；本ID现仅表示美国官网EQL抽选预售申请。",
+        "不是保证购买成功的开放预售；官方预告未证明抽选当前已开放。",
+        "产品页EST与日历UTC冲突未解，timing保持null；不擅自按EDT解释EST。",
+        "10月12日专业报道列579.99美元、每盒10张及6张签名；正式发行TBA。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：10月12日专业报道列579.99美元、每盒10张及6张签名；正式发行TBA。",
+        "2026-10-14复核：美国、英国页已明确11月13日正式发行。美国EQL详情确认579.99美元、10张/盒及6签；活动列表本轮无开放活动。历史美国EST/UTC起始时间冲突未获新证据解决，保持既有精确时间处理。"
+      ],
+      "sources": [
+        {
+          "name": "Topps 官方",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps美国：Royalty Tennis EQL预告",
+          "url": "https://www.topps.com/pages/topps-royalty-tennis"
+        },
+        {
+          "name": "Checklist Insider：10月12日Royalty Tennis",
+          "url": "https://www.checklistinsider.com/2026-topps-royalty-tennis"
+        },
+        {
+          "name": "Topps英国：Royalty Tennis正式发行日期",
+          "url": "https://uk.topps.com/pages/topps-royalty-tennis"
+        },
+        {
+          "name": "Topps美国：Royalty Tennis EQL详情",
+          "url": "https://launches.topps.com/en-US/launch/2026-topps-royalty-tennis-hobby-box"
+        },
+        {
+          "name": "Topps美国：EQL当前活动列表",
+          "url": "https://launches.topps.com/en-US/launch"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "royalty-tennis-eu-pre",
+      "product": "2026 Topps Royalty Tennis（欧洲EQL抽选预售申请）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英国/欧洲官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "本轮公开来源核验；页面更新时间未标",
+      "sourceTimezone": "UTC",
+      "sourceTime": "13:00",
+      "sourceEvidence": "欧洲五地区官方日历均明确10月13日13:00 UTC并标预售；英国系列页注明on EQL。此节点为抽选申请预售，非保证成交。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "日历UTC对应北京时间10月13日21:00。",
+        "英国系列页另写15:00但未提供时区，不能据此擅自换算；使用明示UTC的日历字段，参与前仍应核对活动倒计时。",
+        "不保证目前已开放报名；欧洲售价、名额及交付条款需各地区活动页核实。",
+        "2026-10-14复核：美国、英国页已明确11月13日正式发行。美国EQL详情确认579.99美元、10张/盒及6签；活动列表本轮无开放活动。历史美国EST/UTC起始时间冲突未获新证据解决，保持既有精确时间处理。"
+      ],
+      "sources": [
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps英国：Royalty Tennis EQL预告",
+          "url": "https://uk.topps.com/pages/topps-royalty-tennis"
+        },
+        {
+          "name": "Topps美国：Royalty Tennis正式发行日期",
+          "url": "https://www.topps.com/pages/topps-royalty-tennis"
+        },
+        {
+          "name": "Topps美国：Royalty Tennis EQL详情",
+          "url": "https://launches.topps.com/en-US/launch/2026-topps-royalty-tennis-hobby-box"
+        },
+        {
+          "name": "Topps美国：EQL当前活动列表",
+          "url": "https://launches.topps.com/en-US/launch"
+        },
+        {
+          "name": "Checklist Insider：10月13日Royalty Tennis更新",
+          "url": "https://www.checklistinsider.com/2026-topps-royalty-tennis"
+        }
+      ],
+      "timing": {
+        "localTime": "13:00",
+        "utcOffset": "+00:00",
+        "evidence": "欧洲五地区官方日历均明确10月13日13:00 UTC并标预售；英国系列页注明on EQL。此节点为抽选申请预售，非保证成交。"
+      }
+    },
+    {
+      "id": "bundesliga-pre",
+      "product": "Topps Flagship Bundesliga 2026/27",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "15:00",
+      "sourceEvidence": "美国官方日历明确10月13日15:00 UTC；产品页11am ET一致。欧洲五地区12:00 UTC单列。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "预售开启日期；尚未核到正式发行日、售价与发货安排。",
+        "此前日期依据（保留历史）：美国、英国、德法意西官方日历均标10月13日预售；产品页一致，无精确时刻。",
+        "原合并节点的欧洲范围由bundesliga-eu-pre承接；本ID现仅表示美国官网。",
+        "北京时间10月13日23:00。正式发行仍为TBA；预售价格94.99美元来自10月12日专业报道，非本轮官方商品页核价。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：预售开启日期；尚未核到正式发行日、售价与发货安排。",
+        "此前记录（正式发行待定状态现已由本轮新证据更新）：北京时间10月13日23:00。正式发行仍为TBA；预售价格94.99美元来自10月12日专业报道，非本轮官方商品页核价。",
+        "2026-10-14复核：英国Jumbo/Value商品页正式发行改为可核的11月12日，美国Jumbo整箱官方索引同日；正式发行独立列项。Jumbo官方描述进一步明确3张签名/实物中至少2签。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps：Bundesliga产品页",
+          "url": "https://www.topps.com/pages/topps-flagship-bundesliga"
+        },
+        {
+          "name": "Checklist Insider：10月12日Bundesliga配置",
+          "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
+        },
+        {
+          "name": "Topps英国：Bundesliga Jumbo官方商品页",
+          "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box"
+        },
+        {
+          "name": "Topps英国：Bundesliga Value官方商品页",
+          "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-value-box"
+        },
+        {
+          "name": "Topps美国：Bundesliga Jumbo整箱商品页（官方搜索索引）",
+          "url": "https://www.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box-sealed-case"
+        }
+      ],
+      "timing": {
+        "localTime": "15:00",
+        "utcOffset": "+00:00",
+        "evidence": "美国官方日历明确10月13日15:00 UTC；产品页11am ET一致。欧洲五地区12:00 UTC单列。"
+      }
+    },
+    {
+      "id": "bundesliga-eu-pre",
+      "product": "Topps Flagship Bundesliga 2026/27（欧洲预售）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英国/欧洲官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "本轮公开来源核验；页面更新时间未标",
+      "sourceTimezone": "UTC",
+      "sourceTime": "12:00",
+      "sourceEvidence": "英国、德国、法国、意大利、西班牙官方日历均列10月13日12:00 UTC预售；英国产品页列13:00但未明示时区，精确换算以日历UTC字段为依据。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "北京时间10月13日20:00；不等于正式发行或大陆到货。",
+        "2026-10-14复核：英国Jumbo/Value商品页正式发行改为可核的11月12日，美国Jumbo整箱官方索引同日；正式发行独立列项。Jumbo官方描述进一步明确3张签名/实物中至少2签。"
+      ],
+      "sources": [
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps英国：Flagship Bundesliga产品页",
+          "url": "https://uk.topps.com/pages/topps-flagship-bundesliga"
+        },
+        {
+          "name": "Topps英国：Bundesliga Jumbo官方商品页",
+          "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box"
+        },
+        {
+          "name": "Topps英国：Bundesliga Value官方商品页",
+          "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-value-box"
+        },
+        {
+          "name": "Topps美国：Bundesliga Jumbo整箱商品页（官方搜索索引）",
+          "url": "https://www.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box-sealed-case"
+        },
+        {
+          "name": "Checklist Insider：10月13日Bundesliga更新",
+          "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
+        }
+      ],
+      "timing": {
+        "localTime": "12:00",
+        "utcOffset": "+00:00",
+        "evidence": "英国、德国、法国、意大利、西班牙官方日历均列10月13日12:00 UTC预售；英国产品页列13:00但未明示时区，精确换算以日历UTC字段为依据。"
+      }
+    },
+    {
+      "id": "pro-debut-pre",
+      "product": "2026 Topps Pro Debut Baseball",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "date": "2026-10-19",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "该来源将 2026 Topps Pro Debut Baseball 列为 2026-10-19 的预售节点。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "预售，不是正式发售。",
+        "2026-10-14复核：美国官方页仍明确10月19日预售，无精确时刻；10月13日Checklist Insider产品指南列正式发行TBA，不能把预售日当正式发行。"
+      ],
+      "sources": [
+        {
+          "name": "Topps 官方",
+          "url": "https://www.topps.com/pages/topps-pro-debut-baseball"
+        },
+        {
+          "name": "Checklist Insider：10月13日Pro Debut产品指南",
+          "url": "https://www.checklistinsider.com/2026-topps-pro-debut-baseball"
+        }
+      ],
+      "timing": null,
+      "pendingReleaseEvidence": "Topps美国只公布10月19日预售；Checklist Insider 2026年10月13日产品指南的Release Date与Estimated Release Date均为TBA。"
+    },
+    {
       "id": "neon-marvel",
       "product": "2026 Topps Neon Marvel",
       "category": "cards",
@@ -6738,14 +7950,15 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "美国官方日历10月14日17:00 UTC；产品页写1pm EST（字面18:00 UTC），精确时刻存在冲突。日期均为10月14日。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
       "notes": [
         "正式发售；非预售开始。",
         "此前日期依据：该来源将 2026 Topps Neon Marvel 列为 2026-10-14 的发售节点。",
         "本ID拆分后仅代表美国；欧洲确定时刻由neon-marvel-eu单列。",
         "不擅自把产品页EST改为EDT；美国精确时刻待核，timing保持null。",
         "此前日期依据（保留历史）：美国官方日历10月14日17:00 UTC；产品页写1pm EST（字面18:00 UTC），精确时刻存在冲突。日期均为10月14日。",
-        "2026-10-13复核：美国系列页仍写1pm EST，日历仍为17:00 UTC，冲突未解除；不追加可换算的精确时间。"
+        "2026-10-13复核：美国系列页仍写1pm EST，日历仍为17:00 UTC，冲突未解除；不追加可换算的精确时间。",
+        "2026-10-14复核：美国日历仍为10月14日17:00 UTC，产品页仍写1pm EST；冲突未解，timing保持null。"
       ],
       "sources": [
         {
@@ -6759,6 +7972,53 @@
         {
           "name": "Topps：Neon Marvel产品页",
           "url": "https://www.topps.com/pages/topps-neon-marvel"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "f1-main",
+      "product": "2026 Topps Chrome Formula 1（Hobby / Value / Mega）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-10-15",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "美国官方日历10月15日15:00 UTC；产品页写11am EST，字面16:00 UTC，精确时刻冲突；日期保持10月15日。",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
+      "notes": [
+        "常规版；FDI、Hongbao、Logofractor单列重要版本差异。",
+        "本轮修正地区重叠：日本官网已有独立节点f1-main-jp，本ID移除日本范围；日期不变。",
+        "此前日期依据（保留历史）：美国、英国官方日历列10月15日常规版发售；日本官网已另有f1-main-jp节点，保留其18:00 UTC时刻，不在本节点重复地区。",
+        "原欧洲范围拆为f1-main-eu；本ID仅美国官网；日本仍由f1-main-jp承接。",
+        "不擅自将EST解释为EDT；timing保持null。",
+        "2026-10-14复核：美国日历仍为10月15日15:00 UTC，产品页仍写11am EST；冲突未解，timing保持null。"
+      ],
+      "sources": [
+        {
+          "name": "Topps Ripped",
+          "url": "https://ripped.topps.com/2026-topps-chrome-formula-1-what-box-is-best/"
+        },
+        {
+          "name": "Topps美国官方发行日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps英国官方发行日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps美国：Chrome Formula 1产品页",
+          "url": "https://www.topps.com/pages/topps-chrome-formula-1"
         }
       ],
       "timing": null
@@ -6782,13 +8042,15 @@
       "announcementStatus": "官方语言版本日期差异，尚未确认中文发行区当地日期",
       "sourceTimezone": null,
       "sourceTime": null,
-      "sourceEvidence": "英文官网写10月23日英／法／中文版发行；简中官网写10月24日英／法／中文版同步发行；日文官网明确10月23日为太平洋时间日期。未公布可验证的统一开售时刻，不能自动换算或认定中国大陆当地发售日。",
-      "verifiedAt": "2026-10-09T10:04:00+08:00",
+      "sourceEvidence": "英文官网写10月23日英／法／中文版发行；简中官网写10月24日英／法／中文版同步发行；日文官网明确10月23日为太平洋时间日期。未公布可验证的统一开售时刻，不能自动换算或认定中国大陆当地发售日。 补查到9月26日经认证大陆官方微博也写10月23日上市，仍与简中全球概览24日不同；未在本轮直接抹去历史冲突。",
+      "verifiedAt": "2026-10-14T09:59:55+08:00",
       "notes": [
         "保留原ID及原始10月23日来源历史；改放待核区，不把10月24日直接替换成已核实大陆发售日。",
         "Riot简中文章给出的系列名为“辉耀群星”；该全球网站本地化文章不等于中国大陆各SKU发行公告。",
         "预览、抽签、售前和正式发行是不同节点；抽签不转为公开预购。",
-        "此前核验记录（2026-10-08）：全球官方确认中文版同日推出；大陆官网未能读取，中文正式系列名与大陆各SKU详情仍待核实。"
+        "此前核验记录（2026-10-08）：全球官方确认中文版同日推出；大陆官网未能读取，中文正式系列名与大陆各SKU详情仍待核实。",
+        "2026-10-14复核：英文概览仍列23日发售、16—22日售前；简中概览仍列24日发售、17—23日售前，简中10月12日指南仍列16日起一周。未取得可消除这些日期差异的统一时刻或更正说明，继续待核。",
+        "补充大陆社媒证据：新浪公开页显示经认证的“英雄联盟对战卡牌官方微博”9月26日08:30原帖写10月23日上市；这与简中全球概览10月24日仍不一致。本条继续保留日期冲突，并非没有找到23日的中文官方说法。"
       ],
       "sources": [
         {
@@ -6802,6 +8064,10 @@
         {
           "name": "Riot日文：Radiance概要",
           "url": "https://playriftbound.com/ja-jp/news/announcements/the-radiance-overview/"
+        },
+        {
+          "name": "符文战场认证官方微博9月26日内容（新浪呈现）",
+          "url": "https://www.sina.cn/news/detail/5347314555161689.html"
         }
       ],
       "timing": null
@@ -6824,10 +8090,11 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "10月12日16:00 UTC上线的简中售前指南写10月16日开始、持续一周；简中系列概览仍写10月17—23日。未取得大陆当地场次或统一时刻，保留待核。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
+      "verifiedAt": "2026-10-14T09:59:55+08:00",
       "notes": [
         "本记录仅针对中文售前活动日期；不改变现有海外16—22日节点或中文正式发售日期待核记录。",
-        "抽签、售前活动和商品正式发售分开；本轮没有将Radiance抽签写成公开预售。"
+        "抽签、售前活动和商品正式发售分开；本轮没有将Radiance抽签写成公开预售。",
+        "2026-10-14复核：英文概览仍列23日发售、16—22日售前；简中概览仍列24日发售、17—23日售前，简中10月12日指南仍列16日起一周。未取得可消除这些日期差异的统一时刻或更正说明，继续待核。"
       ],
       "sources": [
         {
@@ -6859,11 +8126,12 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "同一亚洲英语官网商品列表显示October 30, 2026；EB-05详情主视觉文字与Release Date均显示October 31, 2026。不能擅选一个日期，也不能与欧美版或日本版日历合并。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
+      "verifiedAt": "2026-10-14T10:04:06+08:00",
       "notes": [
         "这两个页面属于同一地区来源内部不一致，保留10月月份，在待核区展示。",
         "地区官网语言不自动等于实际卡牌语言；未从本地化页面推断简体中文版。",
-        "2026-10-13复核：亚洲英语列表仍为10月30日，繁中列表仍为10月31日；两地区EB-05详情均读取失败。未取得解除历史列表／详情冲突的证据，保留原始证据、月份和待核状态。"
+        "2026-10-13复核：亚洲英语列表仍为10月30日，繁中列表仍为10月31日；两地区EB-05详情均读取失败。未取得解除历史列表／详情冲突的证据，保留原始证据、月份和待核状态。",
+        "2026-10-14复核：列表仍显示October 30, 2026；详情主视觉和Release Date表格均为October 31, 2026。详情本轮已能读取，但同一地区日期冲突仍存在，继续置于review。"
       ],
       "sources": [
         {
@@ -6878,37 +8146,37 @@
       "timing": null
     },
     {
-      "id": "onepiece-eb05-hant-review",
-      "product": "ONE PIECE Heroines Edition vol.2 [EB-05]（地区日期待核）",
-      "category": "tcg",
-      "brand": "航海王",
-      "nodeType": "release",
+      "id": "board-fusheng-meihua-liaozhai",
+      "product": "浮生一签梅花子落，五界斗法续战聊斋",
+      "category": "board",
+      "brand": "泽木栖游",
+      "nodeType": "crowdfunding",
       "date": null,
       "endDate": null,
       "announcedMonth": "2026-10",
-      "region": "繁体中文官网适用地区",
+      "region": "中国大陆",
       "languages": [
-        "商品语言待核；页面为繁体中文"
+        "中文"
       ],
       "evidenceLevel": "conflict",
-      "announcementStatus": "官方日期存在冲突，待复核",
-      "sourceTimezone": null,
+      "announcementStatus": "官方列表与详情日期冲突",
+      "sourceTimezone": "Asia/Shanghai",
       "sourceTime": null,
-      "sourceEvidence": "繁体中文官网商品列表与EB-05详情主视觉文字显示2026年10月31日；同一详情的发售日期表格显示2026年10月30日。不能擅选一个日期，也不能与欧美版或日本版日历合并。",
-      "verifiedAt": "2026-10-13T10:00:09+08:00",
+      "sourceEvidence": "10月14日现行摩点预热列表列2026-10-30开始；同次读取项目详情正文及计时字段仍为2026-10-20 08:00。两处官方来源冲突，暂不采用任一日。",
+      "verifiedAt": "2026-10-14T10:06:00+08:00",
       "notes": [
-        "这两个页面属于同一地区来源内部不一致，保留10月月份，在待核区展示。",
-        "地区官网语言不自动等于实际卡牌语言；未从本地化页面推断简体中文版。",
-        "2026-10-13复核：亚洲英语列表仍为10月30日，繁中列表仍为10月31日；两地区EB-05详情均读取失败。未取得解除历史列表／详情冲突的证据，保留原始证据、月份和待核状态。"
+        "手绘轻策略桌游众筹启动；详情页未读取成功，开始时刻及回报月份未核。",
+        "此前10月20日节点及来源保留为历史证据，现移待核区，不再列入确定日期月历。",
+        "详情本轮已可读，游戏主要档位预计2026年12月回报；新列表日期与详情冲突不能自行判定哪个已过时。"
       ],
       "sources": [
         {
-          "name": "Bandai地区商品列表",
-          "url": "https://asia-tc.onepiece-cardgame.com/products/"
+          "name": "摩点官方预热列表",
+          "url": "https://zhongchou.modian.com/tablegames/top_time/preheat/1"
         },
         {
-          "name": "Bandai地区EB-05详情",
-          "url": "https://asia-tc.onepiece-cardgame.com/products/eb05.html"
+          "name": "摩点项目页",
+          "url": "https://zhongchou.modian.com/item/160233.html"
         }
       ],
       "timing": null
@@ -6931,11 +8199,12 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "Checklist Insider页首及Estimated Release Date均为October 5, 2026。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
       "notes": [
         "Checklist Insider当前日期10月5日；其他旧渠道曾列9月28日。需保留二级来源及改期提示，不进已收录日历。",
         "本轮Checklist Insider仍列10月5日；没有取得足以解除既有日期冲突的新官方证据。",
-        "2026-10-13复核：专业来源仍列10月5日，未取得足以消除既有9月28日/10月5日争议的新官方定日证据，继续保留review。"
+        "2026-10-13复核：专业来源仍列10月5日，未取得足以消除既有9月28日/10月5日争议的新官方定日证据，继续保留review。",
+        "2026-10-14复核：Checklist Insider原文搜索索引仍列10月5日，未取得消除既有9月28日/10月5日争议的官方发行证据，继续review。"
       ],
       "sources": [
         {
@@ -6963,12 +8232,13 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "Checklist Insider仍列FDI预计发行October9,2026，正文同时列9月10日荷兰拍卖销售；官方当前落地页只核到常规版10月15日。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
       "notes": [
         "9月10日拍卖与10月9日预计发行必须分开，不能把10月9日写成拍卖预售。",
         "仍缺官方10月9日节点及实际发货/发行类型确认，留在待核实。",
         "此前核验记录（2026-10-08）：FDI与10月15日常规版分开；尚未核实是否当天拍卖或实际出货，节点销售类型待核，不进入正式发售日历。",
-        "2026-10-13复核：专业来源仍列FDI预计10月9日，官方盒型指南只称提前于常规版美国发行，未明示10月9日实际发行或发货，继续review。"
+        "2026-10-13复核：专业来源仍列FDI预计10月9日，官方盒型指南只称提前于常规版美国发行，未明示10月9日实际发行或发货，继续review。",
+        "2026-10-14复核：Checklist Insider仍同时列9月10日FDI荷兰拍卖、10月9日预计发行；本轮官方产品页仅确认常规版10月15日，FDI实际发行/发货仍无新确认，继续review。"
       ],
       "sources": [
         {
@@ -7004,12 +8274,13 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "美国、英国、意大利官方系列页均将Mega单列为11月4日；英国Mega商品页Release day及Available From也为11月4日，预售说明仍残留10月21日。",
-      "verifiedAt": "2026-10-13T09:59:00+08:00",
+      "verifiedAt": "2026-10-14T09:59:45+08:00",
       "notes": [
         "日期仍有官方页面内部冲突，暂列待核；11月4日为主要官方字段指向，非已消除争议的确认日期。",
         "不计入10月正式发售；独立保留11月4日节点，避免由系列总日期误归十月。",
         "英国商品页旧预售说明仍写10月21日，与页面字段冲突；本记录采用三地区系列页及商品当前日期字段的共同日期，具体交付仍需卖家确认。",
-        "2026-10-13复核：英国Mega商品页Release day仍为4 Nov、Available From仍为4 November 2026，但预售说明仍写21 October, 2026，内部冲突未消除，继续review。"
+        "2026-10-13复核：英国Mega商品页Release day仍为4 Nov、Available From仍为4 November 2026，但预售说明仍写21 October, 2026，内部冲突未消除，继续review。",
+        "2026-10-14复核：英国Mega商品页Release day与Available From仍是11月4日，但预售说明仍写10月21日；官方页内部冲突未解除，继续review。"
       ],
       "sources": [
         {
