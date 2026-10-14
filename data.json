@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-13",
+  "latestIssue": "2026-10-14",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -1538,6 +1538,365 @@
             {
               "name": "Checklist Insider：10月12日Royalty Tennis",
               "url": "https://www.checklistinsider.com/2026-topps-royalty-tennis"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-14": {
+      "issue": "2026-10-14",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "magic-reality-fracture-chaos-vault-drops-20261013",
+        "board-20261014-satisfactory-live",
+        "cards-mint-hobby-release-20261014"
+      ],
+      "coverage": [
+        "新闻筛选截至北京时间2026年10月14日10:00；部分产品页面和月历复核于其后完成，具体核验时间见记录。",
+        "覆盖并非全网穷尽；仅采可核公开原文，旧公告、预售、众筹、上市与到货分别标注。",
+        "TCG新闻检索窗口为北京时间2026-10-13 10:00至10-14 10:00；本期所收10月13日公告若未给出原始时刻，仅按官方发布日期标注，不伪称全部可验证为精确24小时内。",
+        "2026-10-14独立复核Riftbound八月路线图、法语路线图与Radiance完整产品阵容：海外Radiance各SKU及法语Vendetta仍为10月23日，海外售前仍为16—22日；中文发售及售前日期差异继续保留待核，抽签没有改写为公开预售。",
+        "Riftbound中英官方新闻最新仍为10月12日16:00 UTC售前指南，已在10月13日简报收录，不重复；新关键词预览与中文独占卡面计划也不当成今日新品发布。",
+        "2026-10-14独立复核Magic完整产品阵容、WPN及中国站：现实裂界10月2日、原Secret Lair Bundle10月23日、Corn Maze10月12日09:00 PT与Festival in a Box 10月19日节点未变，保留中国大陆部分SKU延迟，不写全部现货。",
+        "新增两组Secret Lair及三种Bundle Bundles套餐的日期待定记录。10月13日新公告未公布开售月份，announcedMonth保持null；原Bundle的10月23日与新Chaos Vault套餐不合并。Secret Lair商城本轮正文读取失败，未核实库存或实时销售状态。",
+        "万智牌中国文章列表直开仅显示部分最新条目，官方搜索索引可见10月12日禁限公告；该事项昨日已报道，不将旧公告或缓存更新时间当作今天新闻。",
+        "另补到大陆认证官方微博9月26日称辉耀群星10月23日上市的公开证据，与全球简中概览24日仍有差异；已补入中文发售待核记录。该旧帖不作为近24小时新资讯。",
+        "10月14日宝可梦／洛卡纳资讯窗口核查：宝可梦中国10月13日公布“一起来嗨皮5”，为此前未收录的新活动；仅有发布日期，不能确认具体发布时间落在10月13日10:00至14日10:00。城市赛第六批已在昨日报道，不重复包装。",
+        "宝可梦日本新闻页最新为10月9日，洛卡纳美国新闻页最新为10月8日，日本为10月9日，均早于本期窗口；未核得新公告。宝可梦美国新闻正文直开只有iframe，使用公开官方索引补核，未取得可验证10月13日新纸牌公告。",
+        "独立十月整月复核：中国宝可梦商品目录与嗨皮规格、日本普通产品目录及30周年完整商品表、美国官方十月六类商品月表；既有嗨皮两SKU、日版三类30周年商品、美国六类商品和24日Delta Reign售前均未发现可证改期或漏项。美国商品表与售前正文使用官方搜索索引，不保证实时库存或实时无更新。",
+        "洛卡纳整月复核美国产品页、日本产品目录及官方商城：Hunny Rescue 2日、Hyperia City美国16日售前／23日全面发售、日语补充包与两款卡套16日，均与现有记录一致。Beauty and the Beast Curator’s Collection仍只有十月月份证据，保留TBA。",
+        "洛卡纳大陆简中官网新闻最新可读为2月9日运营公告，明确上海风卡游戏自1月1日起为大陆独家发行合作伙伴；对该伙伴及大陆十月公开消息的补搜未核得可靠新品节点。没有以中文网页或海外发行日推定简中卡牌发售；未索引到消息不等于当地没有消息。",
+        "“一起来嗨皮5”属于正式发售同期体验活动，不是独立产品发售／预售／售前节点，不新增到产品日历。各事件保留旧ID及所有既有备注、来源；没有时区偏移依据的精确换算仍为null。",
+        "2026-10-14 Bandai近24h核查：日本ONE PIECE官网新增10月13日HEROINES PRECIOUS BOX取扱店名单更新，仅标日期，无法确认严格24h边界；高达日本／美国英语／亚洲英语／繁中及ONE PIECE欧美英语／亚洲英语可读首页未见10月13日新公告，不将10月9日高达GD06店赛再次充当新资讯。",
+        "2026-10-14独立十月复核：ONE PIECE日本、欧美英语、亚洲英语、繁中商品列表第1—2页均已检索。日本10月3日五项限定商品、10月9日BASE SHOP Binder、10月31日EB-05及HEROINES PRECIOUS BOX日期未变；欧美英语EB-05／TS-03仍为10月30日。",
+        "EB-05亚洲英语官网列表10月30日、详情10月31日的冲突仍存在；繁中官网列表、详情主视觉和表格本轮均为10月31日，解除繁中日期冲突并保留旧ID、原始日期证据及全部notes/sources。",
+        "Gundam四地区商品列表首页与GD06详情复核：美国英语站10月30日，日本／亚洲英语站／繁中站10月31日，未见改期。更正亚洲英语站和繁中站GD06的商品语言为日语：官方包装均明确写日本語版；未将网页语言误当实际卡牌语言。",
+        "日本Nami & Robin Playmat商品页仅写Heroines Cup会场先行销售，活动实际在11月7日／29日，因此不按10月2日公告日期补成十月商品。",
+        "中国大陆两品牌官网本轮直接读取只返回空壳；搜索索引可见部分旧商品和赛事，未取得足以确认十月新品全表的当前商品数据。这是大陆覆盖缺口，不代表当月无新品，也不借用海外发售日或语言补齐。",
+        "ONE PIECE繁中首页读取报错，改用可读新闻页与商品列表／详情核查；新闻列表主体未完整返回，不能声称繁中近24h公告已穷尽。",
+        "BCG Fest 26-27雅加达（10月10—11日）与马尼拉（10月24—25日）官方商品表已成功读取，列有ONE PIECE和Gundam会场纪念商品；页面说明限量销售，但未在所读列表明确各SKU首次发售或独立预购起始日。本轮未把赛事日期直接推定为全球新品发售日，也未把纪念商品表当近24h新闻。",
+        "日本ONE PIECE 10月13日HEROINES PRECIOUS BOX取扱店名单更新已核，但商品发售日未变；本期精选优先保留Magic新品和宝可梦新活动，不用渠道名单更新凑条数。",
+        "2026-10-14桌游资讯以北京时间10月13日10:00至14日10:00为窗口；Satisfactory、ICv2有明确带时区时间，Agricola只核官方列表日期，不伪称精确24小时。",
+        "独立整月复核摩点全部13项预热（2页）、众筹中前三页、新物集按最新排序前五页100项及新增日期项目正文／图片；新增真不愧是陈总、TMNT、能源帝国和Allplay本轮四款众筹节点。未用项目创建日或start_time=0推定开售日期。",
+        "浮生聊斋现行官方列表为10月30日，详情仍10月20日08:00，移入待核区并保留旧ID、旧备注及两处来源；不自行宣布延期或任选日期。",
+        "新物集公开项目列表和详情正常读取；旋风竞速新预告正文图片已核，但start_time=0、未公布开售日期，未强行补入十月月历。未把BJD、收纳、骰子配件及活动票作桌游新品。",
+        "游人码头最新新闻列表及Keyside完整正文可读，最新releaseTime仍为6月23日（创建字段为7月23日），无可核近24小时新公告；与新物集10月19日推理三作预售项目分别核查，不能沿用空页结论或把创建日期当发布时间。",
+        "Hachette美国十月整表6项仍为10月16日Spooky Bar、23日其余5项。Renegade官方整表19个十月SKU及Nastra’s Nightmare两页复核：26日14个模型SKU对应既有8款Heroscape；14日四本RPG书和月份待定RPG Loot Pack按既有范围不计普通桌游新品。",
+        "Renegade公开HTML的productHandle可与日期块匹配，单品正文也确认四本RPG书10月14日；不存在只能看到空标题而完全无法核查的永久限制。Heroscape涂装与未涂装版本继续沿既有产品条目说明，不重复统计为新增产品。",
+        "Satisfactory官方项目和第17号更新正文、10月13日新新闻稿均已读取，确认10月13日16:00 CEST实际开筹；Dice Throne Nexus官方公开HTML确认live及开筹时间戳，月历证据升为官方。昨日试玩不再另作一条重复资讯。",
+        "Board Game Beat最新公开文章仍为10月12日玩家调查，完整正文已读；为141名网站读者样本，不外推为整个市场，也不作为今日新品消息。",
+        "SPIEL官方10月13日两篇正文已读：周四／周五票售出90%、周六售罄；SYNCANITE新闻涉及已筹项目及IRON FRONT原型。展会演示、票务与跨媒体宣传不作为全部产品统一零售日。",
+        "Dorfromantik South Seas北美及德国英语版现行官方正文均预计12月，旧搜索摘要十月不采用；零售报道为新档期跟进，既非首次揭晓，也不进十月日历。官方30–90分钟优先于媒体30–60分钟。",
+        "Allplay本轮推广页与ICv2新报道交叉确认10月27日众筹；Through the Mountains早在7月31日Gen Con报道出现，明确按档期跟进处理，不写首次公告。",
+        "Agricola Special Edition只采用官方公开更新列表第31号标题与摘要；更新正文403不可读，未绕过限制。仅确认英语版生产完成、履约启动，不推定本地化进度、全部订单或中国到货；未使用私人邮件。",
+        "本轮未改变早月历史节点；已结束项目不因退出滚动列表删除。日历仍不是全球所有品牌或全部SKU穷尽表，海外日期与国内现货分别理解。",
+        "收藏卡本轮在北京时间2026-10-14 10:00截止前读取Topps美国、英国、德国、法国、意大利、西班牙、日本七地区日历，并独立对照Checklist Insider完整2026年10月发行表与已收录历史；十月当前Topps产品未发现需新增的已核定日期节点。11月新增正式发行作为10月预售后续单列，不误塞十月正式发售。",
+        "本期收藏卡3条均有Checklist Insider 10月13日日期标记与实质增量，官方页负责核实发行/盒配/状态；由于媒体无时刻及时区、官方无更新时间，不声称每条均已精确证明发布于滚动24小时内。Pro Debut旧10月19日预售只补TBA说明，不另凑新闻；Midnight昨日已报且无新的有效增量，不重复。",
+        "独立十月核查保留既有月初与月末节点：包括Williams、Mars Attacks、Bowman Sapphire、Allen & Ginter、MLS Sapphire、Street Fighter、Update、Neon、F1、Samurai Japan、Jennie、Heritage Hobby/Value、Holiday、Vault Disney、GPK、Stadium Club WWE、Collector Kit、Five Star和Bowman U Best；预售与发行分别处理，日历不从当天新闻机械生成。",
+        "美国Neon与F1产品页的EST和日历UTC一小时冲突仍在；Royalty历史预售时刻无新解冲突证据。相关timing不补算，不能自行把EST改为EDT。KAWS、F1 FDI与Heritage Mega继续待核，不转正。",
+        "国内实时覆盖仍有缺口：DAKA官网返回空正文，DAKA微博及集卡社微博仅取得数月前抓取；搜索也未提供可核近24小时官方新品原文。集卡社官网及杰森品牌页读取失败，杰森主页可读但新闻并非近期。不据此判定DAKA/CARD.FUN无新品，不把未获官方支持的“水晶11月20日”列为事实。"
+      ],
+      "items": [
+        {
+          "id": "magic-reality-fracture-chaos-vault-drops-20261013",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "新品公布",
+          "title": "Magic公布两组现实裂界Secret Lair：单组29.99美元起，开售日待定",
+          "brand": "万智牌 / Secret Lair",
+          "published": "2026-10-13（美国英语官网日期；未列时刻与时区，不能精确验证24小时边界）",
+          "node": "Chaos Vault即将开售；官方尚未公布具体日期",
+          "priority": "新品与渠道",
+          "summary": "怪異学校与Duality Distorted可单独购买，也将与Reality Fracture Secret Lair Bundle组成套餐。新公告仅写“即将推出”，不能直接套用原Bundle的10月23日零售档期。",
+          "facts": [
+            "怪異学校为5张牌的黑白漫画主题组合；Duality Distorted为4张复古牌框组合，均有非闪与闪卡版。",
+            "每组官方标价：非闪29.99美元、闪卡39.99美元。三种Bundle套餐标价分别为159.98、179.98及234.99美元；不是中国大陆含税到手价。",
+            "两组及套餐均指向Secret Lair商城Chaos Vault；正文未公布本次商城开售日期或具体时刻。"
+          ],
+          "advice": "可先登记玩家对两种主题及闪卡版本的意向；报价前分清单组、Bundle套餐与原零售Bundle，并另核购买地区、税运及实际开售安排。",
+          "sources": [
+            {
+              "name": "Wizards：两组Reality Fracture Secret Lair及Bundle组合（10月13日）",
+              "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-happy5-event-20261013",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "10月13日官方新公告",
+          "title": "宝可梦“一起来嗨皮5”16日开启：22元/人，结伴完赛另有奖励",
+          "brand": "宝可梦卡牌／中国大陆",
+          "published": "2026-10-13（官网仅标日期，无法确认是否落在严格近24小时内）",
+          "node": "2026-10-16至12-15 · 全国指定道馆活动；具体场次以小程序为准",
+          "priority": "安排新人体验",
+          "summary": "新嗨皮组合上市同期配套活动公布。参与者随机使用组合内卡组，与另外3人分别对战；结伴报名并完赛可多获1包活动特别包。",
+          "facts": [
+            "公告活动期为10月16日至12月15日，覆盖全国多个城市的道馆；可在“宝可梦卡牌会员”小程序的新手对战区找到“一起来嗨皮5”。",
+            "官方称4人混战，收费22元/人；每人随机选择组合内1套卡组，与其余参与者各打一局，按胜场排序，同分以猜拳定名次。",
+            "完赛可获“朱&紫 活动特别包 第五弹”1包，使用结伴报名功能并完赛可额外获得1包；优胜者另获奖赏包1包及嗨皮包3包。",
+            "这是新公布的配套体验活动，既有嗨皮组合与嗨皮卡组发售日仍为10月16日；活动时间和场次可能调整。"
+          ],
+          "advice": "面向新玩家安排4人体验组时，先核对报名入口、实际场次和奖品安排；将活动参加费与88元组合、20元单卡组的零售价分开说明。",
+          "sources": [
+            {
+              "name": "宝可梦中国：一起来嗨皮5活动公告（10月13日）",
+              "url": "https://www.pokemon.cn/tcg/event/24146.html"
+            },
+            {
+              "name": "宝可梦中国：嗨皮组合与嗨皮卡组商品规格（9月21日）",
+              "url": "https://www.pokemon.cn/tcg/product/23939.html"
+            }
+          ]
+        },
+        {
+          "id": "board-20261014-satisfactory-live",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h正式开筹／非首曝",
+          "title": "Satisfactory桌游已开筹，完整版合作模式确认加入",
+          "brand": "MOOD Publishing／Coffee Stain",
+          "published": "10月13日22:00 北京时间（发行方新闻稿时间戳15:00 +01:00）",
+          "node": "10月13日22:00 北京时间启动Gamefound众筹；正式发行日期待公布",
+          "priority": "先核版本与总成本",
+          "summary": "官方新稿确认众筹已开放，1–4人共同建造太空电梯，再按得分决出胜者；另将加入完整合作模式与单人模式。此前仅有日期预告，本轮增量是实际开筹与玩法确认。",
+          "facts": [
+            "官方项目公开数据明确campaignStart为2026-10-13 14:00 UTC；10月13日发行方新稿确认now live。",
+            "主模式围绕采矿、供能、生产及里程碑展开；太空电梯由所有玩家共同完成，之后比较个人分数，不能把主模式一概称为全合作。",
+            "Gamefound第17号官方更新明确承诺另设完整合作模式及单人模式；合作细节将在众筹期间另文说明，当前规则书仍为测试版本。",
+            "10月12日官方更新将Collector档调整至€280，明确木制米宝升级不含在该档；这属于开筹前旧更新，并非今日新降价。",
+            "发行方新稿仍称正式发行日期待公布；众筹开启及关注赠品资格不等于现货、免费独立寄送或中国大陆到货承诺。"
+          ],
+          "advice": "视频游戏玩家可重点比较工厂建设和合作玩法；支持前分别核对档位、附加项、语言、税费与运费，别只按Collector标题判断是否全含。",
+          "sources": [
+            {
+              "name": "Coffee Stain／MOOD：10月13日开筹新闻稿全文",
+              "url": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/crowdfunding-for-satisfactory-the-board-game-launches-today-and-gameplay-loop-revealed-3472280"
+            },
+            {
+              "name": "MOOD官方Gamefound项目与实际开筹时间",
+              "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game"
+            },
+            {
+              "name": "MOOD第17号官方更新：合作模式、档位及配件说明（10月12日）",
+              "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game/updates/17"
+            }
+          ]
+        },
+        {
+          "id": "board-20261014-through-mountains",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h新报道／众筹档期",
+          "title": "Knizia的Through the Mountains定于10月27日开筹，牦牛路网加入山谷与神庙",
+          "brand": "Allplay／Reiner Knizia",
+          "published": "10月14日02:02 北京时间（ICv2原文10月13日13:02 CT）",
+          "node": "2026年10月27日 · Kickstarter众筹开启；未核得精确时刻",
+          "priority": "关注经典续作",
+          "summary": "Through the Desert的独立续作公布具体众筹日。每回合摆放两只牦牛，新增山谷与神庙机制；同轮阵容还包括前作豪华版、Triskel和5 of a Kind。",
+          "facts": [
+            "ICv2在10月13日新报道中列10月27日开筹；Allplay推广页同样明确Oct 27th，未给时区或时刻。",
+            "发行方强调这是有新决策与机制的续作；每回合摆放两只牦牛，豪华版含树脂牦牛与金属领队标记。",
+            "Through the Desert Deluxe Edition亦在同轮阵容，已有前作的玩家有升级包选项；不是要求所有老玩家重买基础。",
+            "本作在7月31日Gen Con报道中已出现，本条为具体开筹档期及阵容跟进，不能写成今日首次揭晓。",
+            "尚未核得本轮支持档位价格、中文版安排或国内交期；10月27日不是零售发售日。"
+          ],
+          "advice": "喜欢路网封锁与短规则深博弈的玩家可先关注；已有Through the Desert的玩家等升级包与整盒内容、价格公开后再比较。",
+          "sources": [
+            {
+              "name": "ICv2：10月13日开筹档期报道正文",
+              "url": "https://icv2.com/articles/news/view/63613/allplay-announces-reiner-knizias-through-mountains"
+            },
+            {
+              "name": "Allplay：本轮四款游戏推广页与10月27日日期",
+              "url": "https://www.launchoracle.com/allplay/through-the-mountains/WGXTK?ref=on3ax"
+            },
+            {
+              "name": "Mojo Nation：10月13日阵容报道及发行方推广页链接",
+              "url": "https://www.mojo-nation.com/allplay-and-reiner-knizia-ready-through-the-desert-sequel-through-the-mountains/"
+            },
+            {
+              "name": "GamingTrend：7月31日Gen Con旧揭晓报道",
+              "url": "https://gamingtrend.com/news/allplay-announces-new-titles-at-gen-con/"
+            }
+          ]
+        },
+        {
+          "id": "board-20261014-agricola-english-fulfillment",
+          "category": "board",
+          "region": "overseas",
+          "label": "10月13日官方更新摘要",
+          "title": "Agricola Special Edition英语版生产完成，官方宣布履约启动",
+          "brand": "Awaken Realms／Gamefound",
+          "published": "官方公开更新列表标注2026年10月13日；显示时刻未注明时区",
+          "node": "第31号更新：英语版生产完成、履约启动；分区及到货日未核实",
+          "priority": "区分语言与履约阶段",
+          "summary": "Awaken Realms第31号官方更新的公开标题与摘要宣布英语版生产完成、履约启动。完整更新正文未能读取，本条仅采用列表中能够核实的两项进展。",
+          "facts": [
+            "Gamefound官方公开列表的第31号标题明确英语版生产完成，摘要明确英语版履约已经启动。",
+            "列表同时提及更新会讨论本地化进程，但没有可核实的详细状态；不能据此称其他语言版同步完成或发货。",
+            "更新正文访问返回403，未绕过限制；未读取具体地区批次、物流枢纽或中国境内到货安排。",
+            "页面显示10月13日19:40但没有时区，故不换算北京时间，也不保证其精确发布瞬间位于过去24小时内。"
+          ],
+          "advice": "英文版玩家可关注官方后续物流通知；店家和团购转述时限于“英语版履约启动”，不要扩写为所有订单发完、中文版发货或国内现货。",
+          "sources": [
+            {
+              "name": "Gamefound：Awaken Realms官方更新列表（标题与摘要）",
+              "url": "https://gamefound.com/fr/projects/awaken-realms/agricola-special-edition/updates"
+            },
+            {
+              "name": "Agricola Special Edition第31号更新（正文当前不可读取）",
+              "url": "https://gamefound.com/en/projects/awaken-realms/agricola-special-edition/updates/31"
+            }
+          ]
+        },
+        {
+          "id": "board-20261014-dorfromantik-south-seas",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h新零售档期报道／非首曝",
+          "title": "Dorfromantik: South Seas英语版预计12月零售，五盒解锁内容拓展海岛战役",
+          "brand": "Pegasus Spiele",
+          "published": "10月13日21:17 北京时间（ICv2原文10月13日08:17 CT）",
+          "node": "2026年12月 · 北美预计零售；未确定具体发售日",
+          "priority": "合作桌游选品",
+          "summary": "ICv2新报道给出十二月零售窗口；Pegasus北美与德国英语版现行商品页均支持该月份。South Seas是可独立游玩的合作战役游戏，无需把它当成原版必需扩展。",
+          "facts": [
+            "北美官方商品页标US$49.99，预计2026年12月可供货；德国英语版现行页亦写十二月，旧搜索摘要中的十月不采用。",
+            "官方列1–6人、10岁以上、30–90分钟；ICv2的30–60分钟与官方不一致，本条采用发行商数据。",
+            "沿用合作铺放地块，并以五个可解锁盒子加入新组件与机制，包括乘船收集鱼、在海岛之间推进战役。",
+            "产品早前已公开，本条是新零售档期报道；商品数据库Listed since字段不直接当作已确认精确发行日，也无中国大陆版本或到货日确认。"
+          ],
+          "advice": "可列入年底家庭与合作游戏观察单；询价时明确英语版和地区，等渠道确认具体交期后再安排预售或试玩。",
+          "sources": [
+            {
+              "name": "Pegasus北美：South Seas官方商品页",
+              "url": "https://pegasusna.com/Dorfromantik-South-Seas/PNA51249.USA"
+            },
+            {
+              "name": "Pegasus德国：英语版现行商品页",
+              "url": "https://pegasus.de/Dorfromantik-South-Seas-English-Edition/51249E"
+            },
+            {
+              "name": "ICv2：10月13日South Seas零售报道",
+              "url": "https://icv2.com/articles/news/view/63610/dorfromantik-heads-south-seas"
+            }
+          ]
+        },
+        {
+          "id": "cards-mint-hobby-release-20261014",
+          "category": "cards",
+          "region": "overseas",
+          "label": "发行日明确",
+          "title": "Mint Disney Hobby定档11月4日，美国369.99美元预售参考价已售罄",
+          "brand": "Topps",
+          "published": "2026-10-13（Checklist Insider更新日期；未标时刻/时区，无法严格定位24小时）",
+          "node": "Hobby：10月13日预售；11月4日正式发行",
+          "priority": "娱乐收藏卡",
+          "summary": "美国、英国官方页现列11月4日发行；美国Hobby商品页显示售罄。专业来源10月13日更新列出369.99美元预售价，与此前NYCC独立版本分开核算。",
+          "facts": [
+            "Topps美国及英国系列页均标Available November 4；美国Hobby商品页的Release day、Available From和预售说明一致指向2026年11月4日。",
+            "Checklist Insider 10月13日更新明确Hobby于10月13日预售，参考价369.99美元；本轮美国售罄商品页未展示售价，该金额仍按专业来源标注。",
+            "本轮截止前读取美国Hobby商品页显示Sold out；每盒1包10张，另有1张封装卡。售罄是该商品页状态，不代表所有经销商或地区无货。",
+            "11月4日是正式发行日期，预售提前发货不保证发布日期送达；与10月8日至11日NYCC专属盒型分开。"
+          ],
+          "advice": "更新Hobby到货计划时以11月4日发行节点为基准，向供应商确认具体交付。避免把NYCC版的旧售价或独占平行卡配置套用到Hobby。",
+          "sources": [
+            {
+              "name": "Topps美国：Mint Disney正式发行日期",
+              "url": "https://www.topps.com/pages/topps-mint-disney"
+            },
+            {
+              "name": "Topps英国：Mint Disney正式发行日期",
+              "url": "https://uk.topps.com/pages/topps-mint-disney"
+            },
+            {
+              "name": "Topps美国：Mint Disney Hobby商品页",
+              "url": "https://www.topps.com/products/2026-topps-mint-disney-hobby-box"
+            },
+            {
+              "name": "Checklist Insider：10月13日Mint Disney更新",
+              "url": "https://www.checklistinsider.com/2026-topps-mint-disney"
+            }
+          ]
+        },
+        {
+          "id": "cards-royalty-release-20261014",
+          "category": "cards",
+          "region": "overseas",
+          "label": "发行日明确",
+          "title": "Royalty Tennis定档11月13日，官方EQL确认579.99美元与每盒6签",
+          "brand": "Topps",
+          "published": "2026-10-13（Checklist Insider更新日期；未标时刻/时区，无法严格定位24小时）",
+          "node": "10月13日EQL预售节点；11月13日正式发行",
+          "priority": "高端体育收藏卡",
+          "summary": "在昨日EQL预告基础上，美国、英国官方页已明确11月13日发行。美国EQL详情可核579.99美元及每盒6张签名；本轮活动列表没有开放活动。",
+          "facts": [
+            "Topps美国与英国系列页均标Available November 13；Checklist Insider 10月13日更新同列2026年11月13日。",
+            "美国官方EQL详情标价US$579.99、每人最多4盒，每盒1包10张、6张签名。价格不包含本轮未核的税费与运费。",
+            "本轮截止前美国EQL活动列表显示No live launches。保留详情页不代表报名仍开放；不据搜索缓存倒推当前可报名。",
+            "10月13日预售起始精确时刻此前存在EST与UTC相差一小时的问题；本轮落地页已切换发行预告，未获得足以解决该历史冲突的新时间证据。"
+          ],
+          "advice": "将正式发行从待定改为11月13日；采购仍须确认抽选结果或经销商配额，别把可读EQL详情页当成可即时购买。",
+          "sources": [
+            {
+              "name": "Topps美国：Royalty Tennis正式发行日期",
+              "url": "https://www.topps.com/pages/topps-royalty-tennis"
+            },
+            {
+              "name": "Topps英国：Royalty Tennis正式发行日期",
+              "url": "https://uk.topps.com/pages/topps-royalty-tennis"
+            },
+            {
+              "name": "Topps美国：Royalty Tennis EQL详情",
+              "url": "https://launches.topps.com/en-US/launch/2026-topps-royalty-tennis-hobby-box"
+            },
+            {
+              "name": "Topps美国：EQL当前活动列表",
+              "url": "https://launches.topps.com/en-US/launch"
+            },
+            {
+              "name": "Checklist Insider：10月13日Royalty Tennis更新",
+              "url": "https://www.checklistinsider.com/2026-topps-royalty-tennis"
+            }
+          ]
+        },
+        {
+          "id": "cards-bundesliga-release-20261014",
+          "category": "cards",
+          "region": "overseas",
+          "label": "发行与盒配补充",
+          "title": "Bundesliga定档11月12日，Jumbo官方补充至少2张签名",
+          "brand": "Topps",
+          "published": "2026-10-13（Checklist Insider更新日期；官方商品页未标更新时间）",
+          "node": "10月13日预售；11月12日正式发行",
+          "priority": "足球产品排期",
+          "summary": "英国Jumbo及Value商品页现列11月12日发行，美国Jumbo整箱官方索引也一致。Jumbo详情明确3张签名或实物中至少2张签名，补足昨日盒配信息。",
+          "facts": [
+            "英国Jumbo和Value页的Release day、Available From及预售说明均为2026年11月12日；美国Jumbo整箱商品页官方搜索索引同日，Checklist Insider 10月13日更新交叉支持。",
+            "英国Jumbo商品描述明确每盒8包、每包25张，另附3张Black Edge包，共203张；3张签名或实物中至少2张签名，仍不等于保证3签。",
+            "本轮英国官网Jumbo页显示£90.00及Sold out；Value页显示£25.00及Add to Cart。仅代表英国官网读取状态，不扩大为全球库存结论。",
+            "昨日已报的94.99美元Jumbo预售价不重复作为新消息；本条增量为正式发行日及官方最低签名配置。"
+          ],
+          "advice": "将正式发行排期更新为11月12日，门店介绍可写“3张签名/实物，至少2签”；分开管理Jumbo与Value预订，跨境交付日期仍向供应商确认。",
+          "sources": [
+            {
+              "name": "Topps英国：Bundesliga Jumbo官方商品页",
+              "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box"
+            },
+            {
+              "name": "Topps英国：Bundesliga Value官方商品页",
+              "url": "https://uk.topps.com/products/topps-flagship-bundesliga-2026-27-value-box"
+            },
+            {
+              "name": "Topps美国：Bundesliga Jumbo整箱商品页（官方搜索索引）",
+              "url": "https://www.topps.com/products/topps-flagship-bundesliga-2026-27-jumbo-box-sealed-case"
+            },
+            {
+              "name": "Checklist Insider：10月13日Bundesliga更新",
+              "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
             }
           ]
         }
