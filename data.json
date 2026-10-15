@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-14",
+  "latestIssue": "2026-10-15",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -1897,6 +1897,344 @@
             {
               "name": "Checklist Insider：10月13日Bundesliga更新",
               "url": "https://www.checklistinsider.com/2026-27-topps-flagship-bundesliga-soccer"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-15": {
+      "issue": "2026-10-15",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "onepiece-eb05-cn-announcement-20261014",
+        "board-20261015-heroscape-reschedule",
+        "cards-chrome-football-presale-20261015"
+      ],
+      "coverage": [
+        "新闻筛选截至北京时间2026年10月15日10:00；本轮产品页面与月历复核于10:00后完成，实时状态不能倒推截稿时状态。",
+        "覆盖并非全网穷尽；仅采可核公开原文，旧公告、预售、众筹、上市与到货分别标注。",
+        "10/15大陆航海王本轮已恢复读取官网公开接口，之前只返回JavaScript框架的说明属于历史核查情况；本轮新增大陆简中EB-05。大陆高达本轮也已通过官网公开接口恢复读取商品表与新闻表，但该表未更新到GD06，不能推导大陆无十月新品。历史coverage原文保留，以本轮日期说明作为当前读取状态。",
+        "2026-10-15状态更正：美国宝可梦月表与售前公告本轮已通过云端浏览器恢复正文读取，之前coverage中的“仅iframe／仅索引／正文未读”均为历史情况；美女与野兽Curator’s Collection本轮由专门资讯站完整报道交叉核实，以二级证据由TBA更新为10月16日。旧coverage原文应完整保留，以此条说明最新状态。",
+        "2026-10-15 TCG研究实际于北京时间10:03后进行，名义近24小时窗口为10月14日10:00至15日10:00；只标日期且无时刻的公告不能严证24小时边界，也不声称本轮在10点前完成。",
+        "Riftbound英中新闻列表与Magic/WPN、中国万智牌文章入口已检查；未选入可确认高价值的新公告。ICv2 10月14日Secret Lair与赞助规则稿分别重复10月13日及10月9日已报道内容，不重算新消息。",
+        "十月独立产品核漏：Riftbound英法语完整阵容、法语发行路线图与跨年产品公告维持Radiance三类商品/售前及Vendetta法语节点；抽签、展会续售、2027产品不挤入十月首次正式发售表。",
+        "符文战场中国大陆www.playloltcg.com本轮读取超时；经认证大陆微博仍写辉耀群星10月23日，但与全球简中概览24日不一致；中文发售与售前仍保留review，不将海外阵容自动当作大陆各SKU。",
+        "Magic独立核对WPN完整产品、收藏指南、中国发行及延迟公告、Secret Lair商城公告。10月2日系列、19日Festival in a Box与23日常规Secret Lair Bundle保留；10月13日新drop/组合包仍只有soon，无月日不捏造十月日期。",
+        "Corn Maze十月12日是销售窗口：官方状态页另列美国12月14日、欧英2027年1月18日Release Date。本轮同ID由正式发售纠正为预售开启，保留准确销售时间及历史来源；不把发货窗口当作新发售。",
+        "额外行业线索：ICv2 10月14日报道Cyberpunk TCG零售版11月6日、售前10月30日。本期优先六个既定IP，暂只作覆盖线索，未用未核官方的媒体日期扩入产品月表。",
+        "2026-10-15 Bandai核查于北京时间10点后执行；新闻窗口按10月14日10:00至15日10:00筛选，官网仅有日期或接口未注明时区的内容按原始证据说明，不伪称在截止前完成核验。",
+        "大陆ONE PIECE读页最初仅有JavaScript空壳，已从官网当前前端实际使用的公开只读接口取得新闻、完整120项商品表和EB-05详情，并查看官方包装。新增10月31日简中EB-05节点与10月14日新品公告；此前大陆读页缺口在该品牌官方商品表范围内已补上。",
+        "大陆同日“决战之时”更新只对应既有OPC-16，详情及商品表仍为2026年5月30日；未推定为再版、改期或十月新品。",
+        "日本、欧美英语、亚洲英语和繁中ONE PIECE商品列表第1—2页均完成核查：日本五项10月3日限定商品、10月9日Binder及10月31日EB-05／PRECIOUS BOX不变；欧美EB-05／TS-03仍10月30日。第二页日期已落至9月／8月及以前，未发现额外已定十月首发。",
+        "ONE PIECE繁中EB-05三处继续一致10月31日，保持events和原ID；亚洲英语列表30日对详情31日冲突仍在review。另已直看亚英包装核实其为日语商品，不能将网页英语当作卡牌语言。",
+        "高达日本／美国／亚洲英语／繁中商品列表和GD06详情复核：美国10月30日，其余10月31日，未发现改期。亚洲英语／繁中GD06继续保留日语语言和此前包装证据。",
+        "大陆高达官网公开商品接口成功返回29/29项，新闻接口返回46/46项。当前可取得商品表最新日期仍为7月25日，新闻最大发布日期7月12日；未列出GD06或2026年10月正式新品。不把这种官网更新缺口推成大陆没有新品或海外日期适用于大陆，也未声称已覆盖微信／微博所有消息。",
+        "可读ONE PIECE日本最新首页公告仍为10月13日PRECIOUS BOX店铺名单更新；欧美为10月9日Heroines Battle，亚洲英语及繁中为10月2日EB-05更新。高达日本／美国／亚洲英语／繁中首页未出现10月14日新公告。此前GD06亚洲构筑赛已在历史日报收录，不重复。",
+        "专业媒体ICv2检索返回10月9日GD06文章及10月1日GD08旧闻，没有取得近24h可核的新Bandai产品报道；零售博客、玩家论坛和库存贴不升级为官方新公告。",
+        "补核高达官方10月5日新闻：日本Premium Bandai开启GD02／GD03再版预订，11月发货。它们是旧品补货，遵循既有产品日历口径不新增首发节点，也不把10月预订写成10月实物发行。",
+        "各条既有notes与sources完整保留，只追加本轮核验。发布日、当地上市日期和公告接口时间分别处理；未取得精确开售时区依据的timing仍为null。",
+        "10月15日核查实际在北京时间10:03后进行；资讯以10月14日10:00至15日10:00为目标窗口，但只有发布日期的官方页面不声称精确位于24小时内。",
+        "宝可梦中国10月14日购物站新公告独立选入；昨日嗨皮5不重复。秋季赛特别周边只有渠道与赛事日期，具体发售时间待渠道公告，未把赛事日机械当作全国新品发售。",
+        "宝可梦中／日／美全月独立复核：中国商品目录及最新规格、日本普通目录与30周年全商品表、美国官方十月完整月表，均保留已有月初节点。美国六项月表本轮已通过云端浏览器读到实时正文，日期没有改变。",
+        "日本30周年10月16日九款卡牌套组、九款高级收藏册、九款补充页与现有记录一致；普通产品目录通过云端浏览器补读，最新仍是既有9月及7月产品。",
+        "美国10月14日Classic Collection十张经典牌专题已读，属于已上市产品的竞技历史回顾，不充当新品发售公告；PokéBeach最新付费环境文章亦未作为产品新闻。",
+        "美国Delta Reign售前公告本轮已直读，确认10月24日起、全面发售11月6日；追加美国来源，不臆造统一售前结束日。",
+        "Lorcana官网美国产品导航、Hyperia City及Hunny Rescue、Takara Tomy日本官网与商城新商品完整列表、中国大陆官网和运营公告已复核。Hyperia City美国10月16日售前／23日全面发售、日本10月16日正式发售；两款日本卡套同日，未发现新增大陆十月产品日。",
+        "全月补漏：研究者读取官方Instagram，独立复核受限；采用Collectacana完整报道作为二级依据：美女与野兽Curator’s Collection由10月日待定更新为10月16日，新增同日I2I Foil Playmat。渠道限美国两处Disney门店、巴黎Disney Village及英国DisneyStore.co.uk，不向其他地区或普通牌店外推。",
+        "Lorcana 10月14日官方Instagram Arthur短片为背景故事，Mushu Report同日文章为既有Ink Drop／Adventurous规则复述；均不当作新规则或新产品公告。日本新闻仍以10月9日为最新；日本WILDS UNKNOWN十月下旬条目为旧商品送达批次，不新增首发。",
+        "本轮补证保留全部既有ID、历史备注与来源，旧“未核到具体日”等文字为过去核查记录，由最新证据及补充备注说明状态变化。",
+        "2026-10-15桌游资讯窗口为北京时间10月14日10:00至15日10:00；实际正文核验在10:04后进行，verifiedAt按本轮真实时间记录，不伪称全部在10点前已核实。",
+        "重要改期：Renegade美国发行表、Nastra’s Nightmare两页及全部14个SKU实时正文一致将八款Heroscape产品由原10月26日改到11月16日；旧ID、原备注与来源保留，搜索缓存10月24／26日不回滚。改期公告时间未标。",
+        "Hachette美国十月完整六款现行正文未变：Spooky Bar 10月16日，Golfie、Kronologic Babylon 2500、Mythologies、Tag Team: Arthur’s Legacy与Tantrix Discovery为10月23日。",
+        "Renegade现行十月整表只剩10月14日四本RPG书和十月具体日未定的RPG Loot Pack，按既有非TRPG范围不新增；不是漏看空标题，已将公开productHandle与日期块逐项匹配。",
+        "摩点全部13项预热（两页）与在筹前三页独立复核；西游记中计详情本轮可读，补核10月16日20:00；考古现场和天才妹宝仍为10月15日12:00／19:00。开筹、回报月份与现货发行不混用。",
+        "浮生聊斋的10月30日列表与10月20日08:00详情仍冲突，保持review；遗忘诗社单人叙事手册、TRPG和纯骰子／收纳配件继续按既有范围排除。",
+        "新物集最新排序前五页100项已重读，具十月明确start_time的现有桌游未见新增日期；已核旋风竞速、魔锅召唤、游人码头推理三作公开正文／图文。start_time=0不当成日期，也不把created_at当首次公开或开售日期。",
+        "新物集列表新增终极角斗场4394，但详情公开接口明确返回无法访问该项目，未绕过限制；start_time仍0，未推定十月开售，也不凭列表标题编写产品细节。",
+        "游人码头最新十条新闻正文及Keyside详情已读取；最新releaseTime仍6月23日、created_at为7月23日，无已核近24小时新官网公告。另核新物集推理三作10月19日20:00预售计划，不沿用空页结论。",
+        "Board Game Beat 10月14日Oil Rock／Lorenzo与Ticket to Ride Cannes两篇完整正文已读取；前者datePublished为06:00 UTC，后者22:00 UTC。双Lorenzo补入10月13日实际开筹，Oil Rock仅记十月展会窗口，不把展会日期当全球发行日。",
+        "Ticket to Ride Cannes是10月14日新媒体文章，但FIJ官方已在更早售票页面介绍2027年纪念作、法英规则与现场取货；不是十月正式发售，本轮不占独立新闻条目。",
+        "ICv2三篇10月14日正文核读：Capstone商品与Unlock!零售报道入选；Allplay／Ares分销新闻亦读取，Ares部分是10月9日旧官方合作公告，不机械当作当天首次公布。",
+        "独立补核Capstone完整Coming Soon列表：Prague Unseen、Yin Yang、Greenwood、Seven Prophecies、All Mine!均只给10月窗口，五项放月份待定，不填虚构具体日；Night at the Zoo配件的Shipping October不当首次发行。",
+        "SPIEL官方最新仍10月13日两篇，票务与SYNCANITE全文已复核；展会原型演示、门票和跨媒体宣传不转换为普通桌游新品统一零售节点。",
+        "Satisfactory已开筹、Through the Mountains 10月27日、Agricola英语履约摘要、Dorfromantik South Seas十二月均为昨日已覆盖内容，本期不重复包装新资讯；保留历史月历。",
+        "本轮补录11月6日Unlock!美国英语版节点并移动Heroscape八项至11月，十一月仅有已核相关节点，不宣称十一月完整。公开月历仍非全球所有品牌、全部SKU穷尽表。",
+        "FFG旧公告正文复核仍为Arkham Horror: Remastered 10月21日Gamefound开筹，没有精确时刻，未据公告页日期推定启动时间。",
+        "收藏卡资讯窗口为北京时间2026-10-14 10:00至10-15 10:00。本轮实际读取在10月15日10:03至10:06，所有库存状态明确标为截止后核验；专业报道仅标10月14日，无时刻与时区，无法严格证明每条发表于滚动24小时内。",
+        "本期收藏卡3条为Chrome Football新预售安排、Update Series发行日价格更新、Neon Marvel发行日价格更新。Mint Disney11月4日、Royalty11月13日、Bundesliga11月12日及Midnight11月13日已在历史日报收录，不再重复包装为新品消息。",
+        "独立十月排查读取Topps美国、英国、德国、法国、意大利、西班牙、日本七地区日历，并与Checklist Insider完整10月1日至31日表、月初历史节点及具体官方商品/盒型指南对照；新闻只选3条，不从新闻条数推导月历完整性。收藏卡范围仍为Topps/Bowman实体主要系列及DAKA/CARD.FUN可核公开排期，非全球所有厂商SKU穷尽表。",
+        "新增Chrome Football美国FDI10月16日荷兰拍卖预售、欧洲普通版10月19日预售，正式发行仍TBA；Pro Debut补得10月19日16:00 UTC。Heritage Hobby/Value、Holiday Baseball、Holiday Football按有证据的地区时刻拆分，原ID、旧notes和sources完整保留。",
+        "全月旧节点保留Williams、Mars Attacks、Bowman Sapphire、Allen & Ginter、MLS Sapphire、Street Fighter、Update、Neon、F1、Samurai Japan、Jennie、Vault Disney、GPK、WWE、Collector Kit、Five Star、Bowman U Best及既有预售；F1 Hongbao10月15日、Logofractor10月29日仍由官方Ripped原文索引支持，页面本轮直接读取403，不能把旧索引当实时开放状态。",
+        "新增Flagship Basketball日期待核：官方Ripped9月28日旧指南仍写10月22日，现行Hobby/整箱为11月5日、Mega三处均为11月12日；不判定为新延期，也不把10月22日加入确定发行。原预售备注追加分盒型更正。KAWS、F1 FDI、Heritage Mega三项原争议继续review。Neon、Royalty、F1美国EST/UTC历史冲突没有强制改为EDT。",
+        "DAKA官网返回空正文；DAKA官方微博本轮读取为约9个月前抓取、补搜为约3个月前缓存；集卡社微博为约4个月前抓取。未建立国内近24小时实时覆盖，不能据此称品牌没有新品。",
+        "CARD.FUN官网直接读取失败，官方索引可见多个产品但没有可用发布日期；www.janime.cn/brand本轮已可读并确认CARD.FUN品牌，非www入口失败，品牌介绍不提供十月新品时间表。杰森主页可读新闻主要为7月23日，国内十月全表仍有缺口；未获官方证据的“水晶11月20日”未录。"
+      ],
+      "items": [
+        {
+          "id": "onepiece-eb05-cn-announcement-20261014",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "昨日官网更新",
+          "title": "航海王简中EB-05定于10月31日发售，官方包装与日版规格有别",
+          "brand": "航海王卡牌对战／Bandai中国大陆",
+          "published": "2026-10-14（大陆官网日期；记录时间未注明时区，不能严证近24小时边界）",
+          "node": "中国大陆简体中文版 · 2026-10-31正式发售；未公布精确开售时刻",
+          "priority": "大陆新品与订货规格",
+          "summary": "大陆官网新增ONE PIECE Heroines Edition vol.2 [EB-05]商品信息，确认10月31日发售。官方包装明确标注简体中文版，每包6张、69种+2种；应与日本／海外版本分别登记。",
+          "facts": [
+            "大陆详情主视觉和商品参数表均列10月31日，正式发售节点已补入十月日历。",
+            "简中版官方明细为L 1、C 29、R 21、SR 9、SEC 1、SP 8及咚!!卡2种；日本页为75种+2种，不能直接沿用其系列数量。",
+            "大陆官网同日显示“决战之时”商品更新，但其正式发售日仍为5月30日，不作为十月新发售。"
+          ],
+          "advice": "登记简中EB-05意向时使用大陆69+2种规格，并向授权渠道核对售价与配货；目前已核官方页面没有给出可引用的建议零售价。",
+          "sources": [
+            {
+              "name": "航海王大陆官网：EB-05商品详情",
+              "url": "https://www.onepiece-cardgame.cn/products/newDetail?id=139&type=2"
+            },
+            {
+              "name": "航海王大陆官网：10月14日商品公告",
+              "url": "https://www.onepiece-cardgame.cn/"
+            },
+            {
+              "name": "航海王大陆官网公开商品详情数据",
+              "url": "https://webadmin.windoent.com/front/op-public/products/productsinfo/webNewDetailsInfo/139"
+            },
+            {
+              "name": "航海王大陆官网商品包装（明确标注简体中文版）",
+              "url": "https://source.windoent.com/OnePiecePc/Picture/8132814b44f0460d9ec77939865aec7e/%E5%B0%8F%E5%9B%BE%E7%94%A8.png"
+            },
+            {
+              "name": "Bandai日本EB-05商品规格（地区比较）",
+              "url": "https://www.onepiece-cardgame.com/products/eb05.html"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-autumn-shop-limits-20261014",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "10月14日官方新公告",
+          "title": "宝可梦高级赛秋季场购物站公布：七类特别周边限购，卡牌以现场公告为准",
+          "brand": "宝可梦卡牌／中国大陆",
+          "published": "2026-10-14（官网仅标日期，无法确认是否严格落在10月14日10:00至15日10:00之间）",
+          "node": "10月24日首批12城预赛购物站；各渠道商品实际开售时间另行公告",
+          "priority": "区分赛事销售与全国零售",
+          "summary": "秋季赛特别商品将通过比赛会场、官方旗舰店及官方卡牌道馆销售；公告给出会场周边限购规则，未给出全国统一新品发售日。",
+          "facts": [
+            "七类特别商品包括冰箱贴、收纳包、T恤、帽衫、伤害指示物收纳盒、艺术卡套及卡组收纳盒。",
+            "会场购买冰箱贴、收纳包、伤害指示物盒、卡套及卡组盒，每人每日分别限购1件／套；T恤、帽衫为每人每日每个尺码限购1件。",
+            "10月24日12城公开组预赛会场设购物站；10月31日北京、上海、广州、深圳公开组及少年组预赛亦设站。",
+            "卡牌商品具体SKU与限购以现场公告为准；旗舰店和官方道馆的实际销售时间、方式需看各渠道后续公告。"
+          ],
+          "advice": "向参赛玩家转发购买限制时，分清会场特别周边与卡牌商品；店内备货不要把10月24日赛事日当作全国统一发售或普通牌店供货承诺。",
+          "sources": [
+            {
+              "name": "宝可梦中国：高级赛秋季场购物小站相关说明（10月14日）",
+              "url": "https://www.pokemon.cn/tcg/event/24180.html"
+            }
+          ]
+        },
+        {
+          "id": "board-20261015-heroscape-reschedule",
+          "category": "board",
+          "region": "overseas",
+          "label": "官方现行档期变更／本轮核实",
+          "title": "Heroscape八款Nastra’s Nightmare产品改至11月16日，撤下10月26日档期",
+          "brand": "Renegade Game Studios／Heroscape",
+          "published": "官方页面未标本次改期发布时间；10月15日10:04后读取现行正文，非声称10点前已完成核验",
+          "node": "2026年11月16日 · 美国计划发行；原记录10月26日不再采用",
+          "priority": "更新预售与到货预期",
+          "summary": "Renegade美国发行表、Nastra’s Nightmare两页及14个单品SKU正文现已统一列11月16日。涉及现有八条产品记录，涂装与未涂装不重复计作新游戏。",
+          "facts": [
+            "受影响产品为Champions of Jandar、Dr. Torvik Morinstein & his Masterpiece、Knights of Weston、Krampus、MacDirk Warriors、Students of Kalari Payatt、Twilight Clan Riders与Zetacron。",
+            "美国整表和14个SKU的实时HTTP正文一致为November 16 2026；旧搜索缓存仍可能显示10月24日或26日，不能拿旧索引回滚。",
+            "这是已在预售产品的美国发行计划调整；没有已核实的精确开售时刻，也不代表中国大陆同日到货。",
+            "发行表仍残留“last updated: October 2”页级日期，未把它当成本次改期公告时间；本条是当前日程变更核实，不冒充近24小时首次公告。"
+          ],
+          "advice": "店内若按10月26日安排到货或宣传，先调整为美国11月16日计划档期，再向供货方确认具体版本和国内交期。",
+          "sources": [
+            {
+              "name": "Renegade：美国现行完整发行表",
+              "url": "https://renegadegamestudios.com/releasedate"
+            },
+            {
+              "name": "Renegade：Nastra’s Nightmare第1页正文",
+              "url": "https://renegadegamestudios.com/heroscape/nastras-nightmare/"
+            },
+            {
+              "name": "Renegade：Nastra’s Nightmare第2页正文",
+              "url": "https://renegadegamestudios.com/heroscape/nastras-nightmare/?page=2"
+            },
+            {
+              "name": "Renegade：Zetacron现行单品正文",
+              "url": "https://renegadegamestudios.com/heroscape-zetacron-remastered-army-expansion/"
+            }
+          ]
+        },
+        {
+          "id": "board-20261015-capstone-prague-bermuda",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h新渠道报道／非首曝",
+          "title": "Capstone新报道聚焦Prague Unseen与马拉开波海盗二扩，预售与正式日期需分开",
+          "brand": "Capstone Games",
+          "published": "10月15日02:42 北京时间（ICv2原文10月14日13:42 CT）",
+          "node": "Prague Unseen官方预计10月、具体日未定；Bermuda Triangle未核得本轮精确发行日",
+          "priority": "区分独立游戏和扩展",
+          "summary": "ICv2新报道介绍两款已公开产品的预订安排。Prague Unseen以四类神话工人重建布拉格；Bermuda Triangle加入竞速寻宝及强化单人模式，必须搭配Pirates of Maracaibo基础。",
+          "facts": [
+            "Prague Unseen官方列1–4人、90–120分钟、US$69.99，现行商品页仍写Coming Soon – October；没有确定哪一天正式发售。",
+            "Bermuda Triangle为第二款完整扩展，增加寻宝模块、改良卡及升级单人模式；官方售价US$18.99，并明确需要Pirates of Maracaibo基础。",
+            "两款产品此前已有官方页面；10月14日是新媒体报道日期，不能直接当作首次公布、统一预售启动日或现货发售日。",
+            "官方页面未确认中国大陆供货或中文版本；本条不依据网页购物按钮推定已开始交付。"
+          ],
+          "advice": "重策玩家可关注Prague Unseen；已有Pirates of Maracaibo的玩家再考虑二扩。备货询价分清基础／扩展与渠道交期，10月暂不写成某个确定日期。",
+          "sources": [
+            {
+              "name": "ICv2：10月14日13:42 CT新报道正文",
+              "url": "https://icv2.com/articles/news/view/63625/capstone-offering-new-board-game-maracaibo-expansion"
+            },
+            {
+              "name": "Capstone：Prague Unseen官方商品正文",
+              "url": "https://capstone-games.com/products/prague-unseen"
+            },
+            {
+              "name": "Capstone：Bermuda Triangle官方商品正文",
+              "url": "https://capstone-games.com/products/pirates-of-maracaibo-bermuda-triangle"
+            }
+          ]
+        },
+        {
+          "id": "board-20261015-unlock-assassins-creed",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h新零售档期报道／非首曝",
+          "title": "Unlock!刺客信条短篇美国11月6日发行，US$9.99轻量合作解谜",
+          "brand": "Space Cowboys／Asmodee USA",
+          "published": "10月14日19:48 北京时间（ICv2原文10月14日06:48 CT）",
+          "node": "2026年11月6日 · 美国英语版正式发行；无精确时刻",
+          "priority": "短局解谜选品",
+          "summary": "Asmodee美国官方商品页确认11月6日发行。故事设在1503年的比萨，玩家协助见习刺客Gabriella完成考验；产品采用32张卡的短篇盒型。",
+          "facts": [
+            "官方列SKU SCUNLSH15EN、US$9.99、1–6人、10岁以上；平均45分钟，采用官方数据而非媒体的40分钟。",
+            "属于获得授权的Assassin’s Creed合作解谜短篇，主题是文艺复兴时期的比萨。",
+            "11月6日是Asmodee美国英语版日期，没有核实中文版或中国大陆同日供货；没有精确时刻，不换算北京时间。",
+            "本条来自10月14日的新零售报道及现行官方产品页；未声称游戏于当天首次揭晓，亦未并入十月正式发售。"
+          ],
+          "advice": "可放进轻量合作解谜与电子游戏IP选品清单；向渠道确认语言、App或规则使用条件及实际交期后，再安排店内体验。",
+          "sources": [
+            {
+              "name": "Asmodee USA：官方商品、日期与规格",
+              "url": "https://store.asmodee.com/products/unlock-short-assassins-creed"
+            },
+            {
+              "name": "ICv2：10月14日06:48 CT新报道正文",
+              "url": "https://icv2.com/articles/news/view/63619/step-renaissance-new-unlock-short-adventures-assassins-creed"
+            }
+          ]
+        },
+        {
+          "id": "cards-chrome-football-presale-20261015",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月14日新品预览",
+          "title": "Chrome Football预售分两轮：美国FDI荷兰拍卖16日，欧洲普通版19日",
+          "brand": "Topps / NFL",
+          "published": "2026-10-14（Checklist Insider页面日期；无时刻/时区）；官方页于10月15日10:03后复核",
+          "node": "美国FDI：北京时间10月17日00:00；欧洲普通版：10月19日23:00；正式发行TBA",
+          "priority": "分版本安排预订",
+          "summary": "官方新增2026 Chrome Football预售安排：美国FDI先以荷兰拍卖预售，欧洲普通版随后开放。专业指南列Hobby每盒80张、1签；正式发行尚未定档。",
+          "facts": [
+            "美国日历列10月16日16:00 UTC并标预售，系列页明确12pm ET荷兰拍卖；对应北京时间10月17日00:00。",
+            "英国、德国、法国、意大利、西班牙日历均列普通版10月19日15:00 UTC预售，对应北京时间23:00。美国普通版时刻本轮未从官网核实。",
+            "Checklist Insider 10月14日指南列Hobby为20包×4张、1张签名，完整清单尚待厂商公布；该盒配不能自动套用FDI。",
+            "FDI拍卖和普通版预售均不等于正式发售；官方售价、最终拍卖价格与国内交期尚未核定。媒体只标日期，无法严格证明发布时间位于滚动24小时窗口内。"
+          ],
+          "advice": "将FDI与普通Hobby分开询价，先核拍卖规则、最高预算及具体交期；不要拿预售日承诺现货，也不要把未出的完整清单当成已确认阵容。",
+          "sources": [
+            {
+              "name": "Topps美国：Chrome Football FDI荷兰拍卖预告",
+              "url": "https://www.topps.com/pages/topps-chrome-football"
+            },
+            {
+              "name": "Topps英国：Chrome Football普通版预售预告",
+              "url": "https://uk.topps.com/pages/topps-chrome-football"
+            },
+            {
+              "name": "Topps美国官方发行日历",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps英国官方发行日历",
+              "url": "https://uk.topps.com/release-calendar"
+            },
+            {
+              "name": "Checklist Insider：10月14日Chrome Football指南",
+              "url": "https://www.checklistinsider.com/2026-topps-chrome-football"
+            }
+          ]
+        },
+        {
+          "id": "cards-update-baseball-launch-20261015",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月14日发售更新",
+          "title": "Update Series正式发售：Hobby参考价升至119.99美元，Value官网24.99美元",
+          "brand": "Topps / MLB",
+          "published": "2026-10-14（Checklist Insider现行正文日期；无时刻/时区）；10月15日10:04北京时间补核官网",
+          "node": "美国发行日10月14日；10:04库存为截止后核验，不回填10:00状态",
+          "priority": "区分盒型与报价",
+          "summary": "专业来源更新Hobby发行日参考价119.99美元，较109.99美元预售价增加10美元。截止后复核美国官网，Hobby售罄、Value显示24.99美元与可加购；状态只适用于所读商品页。",
+          "facts": [
+            "Checklist Insider当前正文为10月14日，明确Hobby发行日价119.99美元；官方售罄页没有显示Hobby售价，因此该金额仍标为专业来源。",
+            "美国Hobby商品页确认每盒20包、每包12张，1张签名或实物卡，不是保证1签。",
+            "北京时间10月15日10:04补核：美国Hobby显示Sold out；Value显示24.99美元、Add to cart及1—2个工作日发货，Value为6包×12张。",
+            "商品页Available From均为2026年10月14日。库存观察晚于本期10:00截止，不能据此倒推截止时状态；海外发行与官网价格也不等于国内到货或含税到手价。"
+          ],
+          "advice": "更新海外询价参考时保留价格来源，分别核对Hobby与Value配置；向客户报价前再确认实时货源、税运费与本地交期。",
+          "sources": [
+            {
+              "name": "Checklist Insider：10月14日Update Series发售更新",
+              "url": "https://www.checklistinsider.com/2026-topps-update-series-baseball"
+            },
+            {
+              "name": "Topps美国：Update Series Hobby现行商品页",
+              "url": "https://www.topps.com/products/2026-topps-update-series-baseball-hobby-box"
+            },
+            {
+              "name": "Topps美国：Update Series Value现行商品页",
+              "url": "https://www.topps.com/products/2026-topps-update-series-baseball-value-box"
+            }
+          ]
+        },
+        {
+          "id": "cards-neon-marvel-launch-20261015",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月14日发售更新",
+          "title": "Neon Marvel Hobby发行日参考价109.99美元，盒保为2张编号平行卡",
+          "brand": "Topps / Marvel",
+          "published": "2026-10-14（Checklist Insider页面日期；无时刻/时区）；10月15日10:04北京时间补核官网",
+          "node": "美国发行日10月14日；此前EST/UTC起始时刻冲突仍保留",
+          "priority": "娱乐卡盒配说明",
+          "summary": "Neon Marvel进入10月14日发行节点，专业来源将Hobby参考价从99.99美元预售价更新至109.99美元。美国官方商品页确认每盒100张、2张编号平行卡，截止后复核已售罄。",
+          "facts": [
+            "Checklist Insider 10月14日更新明确Hobby发行日参考价109.99美元；本轮官方售罄页未显示价格，不冒充官方当前售价。",
+            "官方Hobby商品页列20包×5张及每盒2张编号平行卡；签名与手绘卡属于可追逐内容，没有每盒保证签名的说明。",
+            "北京时间10月15日10:04补核美国Hobby商品页显示Sold out、Available From为10月14日；该状态不能回填本期10:00截止，也不代表全球经销商都无货。",
+            "美国旧系列页1pm EST与官方日历17:00 UTC的历史一小时差异，本轮没有新增可解冲突的证据；保留日期，不强行补唯一北京时间。"
+          ],
+          "advice": "门店介绍突出Marvel漫画、动画与游戏题材，清楚写明编号平行卡保证；采购报价核对Hobby盒型与实际货源，勿将零售盒或追逐签名等同保底。",
+          "sources": [
+            {
+              "name": "Checklist Insider：10月14日Neon Marvel发售更新",
+              "url": "https://www.checklistinsider.com/2026-topps-neon-marvel"
+            },
+            {
+              "name": "Topps美国：Neon Marvel Hobby现行商品页",
+              "url": "https://www.topps.com/products/2026-topps-neon-marvel-hobby-box"
             }
           ]
         }
