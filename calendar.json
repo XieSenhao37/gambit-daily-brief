@@ -238,7 +238,9 @@
     "2026-10-16核查：Chrome Football FDI专业来源给预计11月13日，官方仍只核预售；Hobby保持TBA。KAWS、F1 FDI、Heritage Mega、篮球旧指南日期争议继续review，未用专业预计日期冒充官方确认。",
     "2026-10-16核查：DAKA官网空正文、微博为旧缓存；CARD.FUN微博为旧缓存，官网及品牌页本轮访问失败。国内近24小时实时覆盖有缺口，不等于没有新品。迪士尼水晶11月20日仍缺官方证据，未录为确认日期。",
     "2026-10-16补充覆盖边界：宝可梦美国十月月表正文仅返回iframe、普通日本目录仅静态导航；日本周年27款完整表与中国嗨皮产品规格可直读，原日期未变。航海王中国首页仅JS框架，既有商品接口本轮未能访问，不能沿用昨日全表已核状态冒充今日复核。",
-    "2026-10-16补核：Magic现行系列、Secret Lair Bundle和Festival in a Box日期未变，三种新drop／组合仍为soon；Lorcana美日现行产品目录日期未变。新官网仅确认美国两个商业区，旧备注中具体美国店名依此前二级来源，未由本篇新公告重新确认。"
+    "2026-10-16补核：Magic现行系列、Secret Lair Bundle和Festival in a Box日期未变，三种新drop／组合仍为soon；Lorcana美日现行产品目录日期未变。新官网仅确认美国两个商业区，旧备注中具体美国店名依此前二级来源，未由本篇新公告重新确认。",
+    "2026-10-16追加时刻复核：Heritage Football欧洲英德法西四地区由此前15:00 UTC更正为现行日历一致的16:00 UTC，北京时间10月22日00:00；保持地区与SKU范围，意大利独立无时刻记录不合并。",
+    "2026-10-16追加七地区日历时刻核查：Holiday Baseball欧洲五区补14:00 UTC；Vault Disney拆分美国18:00 UTC与欧洲五区15:00 UTC，来源日期均10月21日，保留原ID及历史资料。"
   ],
   "coverageSources": [
     {
@@ -3422,18 +3424,19 @@
       "date": "2026-10-21",
       "endDate": null,
       "announcedMonth": null,
-      "region": "美国/欧洲",
+      "region": "美国官网",
       "languages": [
         "未核实"
       ],
       "evidenceLevel": "official",
       "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "该来源将 2026 Topps Vault Disney 列为 2026-10-21 的发售节点。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
+      "sourceTimezone": "UTC",
+      "sourceTime": "18:00",
+      "sourceEvidence": "2026-10-16美国官方日历明确10月21日18:00 UTC，欧洲15:00 UTC独立记录。",
+      "verifiedAt": "2026-10-16T10:12:10+08:00",
       "notes": [
-        "官方日历当前发售日。"
+        "官方日历当前发售日。",
+        "2026-10-16地区拆分：本ID保留美国，欧洲移至vault-disney-eu；美国北京时间为10月22日02:00。原备注及来源保留。"
       ],
       "sources": [
         {
@@ -3441,7 +3444,11 @@
           "url": "https://www.topps.com/release-calendar"
         }
       ],
-      "timing": null
+      "timing": {
+        "localTime": "18:00",
+        "utcOffset": "+00:00",
+        "evidence": "美国官方日历明确10月21日18:00 UTC。"
+      }
     },
     {
       "id": "board-golfie",
@@ -9205,11 +9212,12 @@
       "evidenceLevel": "official",
       "announcementStatus": "official",
       "sourceTimezone": "UTC",
-      "sourceTime": "15:00",
-      "sourceEvidence": "英国、德国、法国、西班牙日历均为10月21日15:00 UTC；英国系列页明确Hobby/Value当日、Mega11月4日。",
-      "verifiedAt": "2026-10-15T10:06:16+08:00",
+      "sourceTime": "16:00",
+      "sourceEvidence": "2026年10月16日直接复核英国、德国、法国、西班牙官方日历，四处均列10月21日16:00 UTC；仅Hobby/Value，不包括Mega。",
+      "verifiedAt": "2026-10-16T10:11:44+08:00",
       "notes": [
-        "从旧heritage-football地区范围拆分，非新增产品；不含日期仍有争议的Mega。"
+        "从旧heritage-football地区范围拆分，非新增产品；不含日期仍有争议的Mega。",
+        "2026-10-16 10:11:44复核更正：英国、德国、法国、西班牙现行官方日历均为10月21日16:00 UTC，替代此前15:00 UTC记录；北京时间为10月22日00:00。旧时间仅作历史核验记录，不作为现行时间。"
       ],
       "sources": [
         {
@@ -9234,9 +9242,9 @@
         }
       ],
       "timing": {
-        "localTime": "15:00",
+        "localTime": "16:00",
         "utcOffset": "+00:00",
-        "evidence": "英国、德国、法国、西班牙日历均为10月21日15:00 UTC；英国系列页明确Hobby/Value当日、Mega11月4日。"
+        "evidence": "英国、德国、法国、西班牙现行官方日历均明确10月21日16:00 UTC。"
       }
     },
     {
@@ -9288,12 +9296,13 @@
       ],
       "evidenceLevel": "official",
       "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "欧洲五地区官方日历均列10月21日，无精确时刻。",
-      "verifiedAt": "2026-10-15T10:06:16+08:00",
+      "sourceTimezone": "UTC",
+      "sourceTime": "14:00",
+      "sourceEvidence": "2026-10-16直接复核英国、德国、法国、意大利、西班牙日历，均列10月21日14:00 UTC。",
+      "verifiedAt": "2026-10-16T10:12:10+08:00",
       "notes": [
-        "原holiday-baseball欧洲范围拆分；没有原始时刻，不推算北京时间。"
+        "原holiday-baseball欧洲范围拆分；没有原始时刻，不推算北京时间。",
+        "2026-10-16补齐精确时刻：欧洲五地区10月21日14:00 UTC，即北京时间当日22:00；旧未核时刻备注保留历史。"
       ],
       "sources": [
         {
@@ -9317,7 +9326,11 @@
           "url": "https://es.topps.com/release-calendar"
         }
       ],
-      "timing": null
+      "timing": {
+        "localTime": "14:00",
+        "utcOffset": "+00:00",
+        "evidence": "欧洲五地区官方日历明确10月21日14:00 UTC。"
+      }
     },
     {
       "id": "holiday-baseball-jp",
@@ -10047,6 +10060,61 @@
           "url": "https://www.checklistinsider.com/2026-topps-legends-paris-saint-germain"
         }
       ]
+    },
+    {
+      "id": "vault-disney-eu",
+      "product": "2026 Topps Vault Disney（欧洲官网）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-10-21",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英国/德国/法国/意大利/西班牙官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "official",
+      "sourceTimezone": "UTC",
+      "sourceTime": "15:00",
+      "sourceEvidence": "2026-10-16欧洲五地区官方日历均列10月21日15:00 UTC；与美国18:00 UTC分开记录。",
+      "verifiedAt": "2026-10-16T10:12:10+08:00",
+      "notes": [
+        "官方日历当前发售日。",
+        "2026-10-16从原美国／欧洲合并节点拆分，原ID保留美国，欧洲北京时间10月21日23:00；不是另一个新品或新公告。"
+      ],
+      "sources": [
+        {
+          "name": "Topps 官方",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps uk官方日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps de官方日历",
+          "url": "https://de.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps fr官方日历",
+          "url": "https://fr.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps it官方日历",
+          "url": "https://it.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps es官方日历",
+          "url": "https://es.topps.com/release-calendar"
+        }
+      ],
+      "timing": {
+        "localTime": "15:00",
+        "utcOffset": "+00:00",
+        "evidence": "欧洲五地区官方日历明示15:00 UTC。"
+      }
     }
   ],
   "review": [
