@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-15",
+  "latestIssue": "2026-10-16",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -2235,6 +2235,218 @@
             {
               "name": "Topps美国：Neon Marvel Hobby现行商品页",
               "url": "https://www.topps.com/products/2026-topps-neon-marvel-hobby-box"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-16": {
+      "issue": "2026-10-16",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "riftbound-start-rules-test-20261016",
+        "lorcana-curators-official-20261016",
+        "board-20261016-clash-royale-grand-arena"
+      ],
+      "coverage": [
+        "本期以北京时间2026年10月16日10:00为新闻筛选截止，实际来源核验在10:03后完成；仅标日期的文章不声称精确落在滚动24小时内，实时状态不倒推截稿时库存。",
+        "覆盖并非全网穷尽；只收可核公开事实，新闻、旧公告补录、预售、众筹、正式发行与到货分别处理。",
+        "符文战场两篇10月15日UTC公告为本期增量；开局测试不等于全赛事规则更新。Radiance中英文概览与简中指南的发售／售前日期差异仍未消除，两条中文review保留；抽选不当预售。",
+        "万智牌本期采用Magic.gg五站摩登区域赛分析；没有由此推导单卡价格或新的禁限。既有现实裂界大陆延迟记录保留，不称全SKU现货。",
+        "洛卡纳两款收藏周边10月16日指定渠道销售获得10月15日官网直接补证；现行日期不变，证据升级官方。未确认大陆同步上市或统一时刻。",
+        "宝可梦中国10月15日道馆活动索引可见，但原文访问失败，本期不采用细则作新闻。其他缺少新正文的品牌不以旧公告凑数。",
+        "ONE PIECE日本与欧美完整商品列表复核未发现新增十月日期：日版既有10月3日配件、9日收藏册、31日EB05与Precious Box保留；欧美EB05/TS03仍30日。亚洲英语EB05列表30日与详情31日冲突继续review。",
+        "高达四地区商品目录维持GD06美国10月30日、日本／亚洲英语／繁中官网地区10月31日；不把官网语言当产品语言，也不外推大陆日期。",
+        "桌游独立月历复核包括Hachette十月六款、FFG众筹、摩点预热及在筹前三页、Renegade发行表、SPIEL。新增Clash Royale 10月20日众筹及Olaf 10月28日旧公告补录；Blue Orange为2027年初阵容，不凑入十月日期。",
+        "摩点浮生聊斋列表30日对详情20日冲突保留；Renegade本轮商品缓存仍旧10月26日，不能回滚上轮实时多SKU核验的11月16日。新物集正文/API本轮不可读，保留旧记录并标覆盖缺口。",
+        "Topps美国、英国、德国、法国、意大利、西班牙、日本官方滚动日历及Checklist Insider十月完整表独立核查；新增PSG Collector Tin与巴黎限定PSG Legends两款10月23日节点，后者是中选者开业领取，不能推定全球现货或抽选开放时刻。",
+        "GPK现行产品页与美国日历可核50张基础卡和10月22日16:00 UTC；设计文章直接读取403、仅搜索索引可见，未作为当天新闻。日历仅补已公布时刻。",
+        "Chrome Football FDI专业来源给预计11月13日，官方仍只核预售；Hobby保持TBA。KAWS、F1 FDI、Heritage Mega、篮球旧指南日期争议继续review，未用专业预计日期冒充官方确认。",
+        "DAKA官网空正文、微博为旧缓存；CARD.FUN微博为旧缓存，官网及品牌页本轮访问失败。国内近24小时实时覆盖有缺口，不等于没有新品。迪士尼水晶11月20日仍缺官方证据，未录为确认日期。",
+        "2026-10-16补充覆盖边界：宝可梦美国十月月表正文仅返回iframe、普通日本目录仅静态导航；日本周年27款完整表与中国嗨皮产品规格可直读，原日期未变。航海王中国首页仅JS框架，既有商品接口本轮未能访问，不能沿用昨日全表已核状态冒充今日复核。",
+        "2026-10-16补核：Magic现行系列、Secret Lair Bundle和Festival in a Box日期未变，三种新drop／组合仍为soon；Lorcana美日现行产品目录日期未变。新官网仅确认美国两个商业区，旧备注中具体美国店名依此前二级来源，未由本篇新公告重新确认。"
+      ],
+      "items": [
+        {
+          "id": "riftbound-start-rules-test-20261016",
+          "category": "tcg",
+          "region": "global",
+          "label": "近24h官方公告",
+          "title": "符文战场测试后手补偿：尚未全面改规则",
+          "brand": "Riot · 符文战场",
+          "published": "2026-10-16 01:00 北京时间（原文10月15日17:00 UTC）",
+          "node": "辉耀群星赛季指定活动测试；第六弹Legacy前评估",
+          "priority": "避免规则误传",
+          "summary": "官方测试后手额外得分、抽牌或预知三种方案；普通赛事不能直接当作已生效规则。",
+          "facts": [
+            "官方称先手胜率偏高，将测试先确定先后手、再选择战场的开局流程。",
+            "后手首次引导三枚符文之外，测试额外1分、额外抽1张、首次抽牌前预知三种不同方案，具体使用哪一种由活动方说明。",
+            "测试包括中国辉耀群星赛季城市赛及斯图加特欧洲区域冠军赛周五、周日Standard Challenge；主要高等级赛事不自动适用。",
+            "预计结合辉耀群星赛季数据，在Legacy更新说明中公布调整或维持原规则的结论。"
+          ],
+          "advice": "培训裁判时区分测试活动与正式规则；赛前公布本场采用的规则，不把测试方案宣传为所有店赛强制更新。",
+          "sources": [
+            {
+              "name": "Riot：Testing Start of Game Rules",
+              "url": "https://playriftbound.com/en-us/news/organizedplay/testing-start-of-game-rules/"
+            }
+          ]
+        },
+        {
+          "id": "riftbound-regionals-prizing-20261016",
+          "category": "tcg",
+          "region": "global",
+          "label": "近24h官方公告",
+          "title": "区域冠军赛奖卡改按总排名选取，公开牌表同步明确",
+          "brand": "Riot · 符文战场",
+          "published": "2026-10-15 23:00 北京时间（原文15:00 UTC）",
+          "node": "区域冠军赛；辉耀群星Best-Of奖卡预计2027年1月可提供",
+          "priority": "更新赛事说明",
+          "summary": "前58名依总排名选择超编号镀箔传奇；Best-Of改发指定系列常规镀箔传奇。",
+          "facts": [
+            "超编号镀箔传奇改由总排名前58名依次选取；Best-Of改用Unleashed、Vendetta、Radiance镀箔传奇，仍需使用对应传奇晋级第二日。",
+            "Origins、Proving Grounds、Spiritforged传奇不适用上述区域冠军赛Best-Of奖项；Radiance奖卡无法在这些赛事现场发放，官方预计2027年1月可提供。",
+            "区域冠军赛采用公开牌表，禁止违规要求或提供整场让赛，以及超时平局后随机或任意决定胜者；文中保留医疗等正当特殊情形及符合规则的约定平局。",
+            "欧洲、北美、中国区域冠军赛各前8获邀参加1月底在中国举行的世界冠军展示赛，重复获得的邀请按规则顺延。"
+          ],
+          "advice": "向参赛玩家说明奖卡资格与延后交付，不把区域冠军赛政策外推为所有地方赛事规则，也不据此预测奖卡价格。",
+          "sources": [
+            {
+              "name": "Riot：Regional Championships Competitive Integrity & Prizing",
+              "url": "https://playriftbound.com/en-us/news/organizedplay/regional-championships-competitive-integrity-prizing/"
+            }
+          ]
+        },
+        {
+          "id": "lorcana-curators-official-20261016",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "官方补充确认",
+          "title": "洛卡纳美女与野兽收藏盒及I2I牌垫：官网确认10月16日渠道",
+          "brand": "Disney Lorcana · Ravensburger",
+          "published": "2026-10-15（官方页面未提供时刻）",
+          "node": "2026-10-16 · 美国指定度假区、巴黎迪士尼及英国官网",
+          "priority": "核清销售渠道",
+          "summary": "昨日月历依据专业媒体收录的两款产品，现获官网直接确认；不代表中国大陆同步发售。",
+          "facts": [
+            "官网确认Curator’s Collection: Beauty and the Beast Edition与I2I Foil Playmat于10月16日在所列渠道销售。",
+            "渠道包括加州Downtown Disney、佛州Disney Springs、巴黎Disney Village的World of Disney及DisneyStore.co.uk。",
+            "收藏盒采用全新彩绘玻璃风格画面，文章举例包含Belle – Hidden Archer、Beast – Tragic Hero、Gaston – Intellectual Powerhouse。",
+            "I2I牌垫使用Jochem van Gool的对应异画，并带箔面装饰和锁边；原文未提供统一开售时刻或大陆发行日期。"
+          ],
+          "advice": "将渠道和版本写清楚；有进口需求时另核订单、运费和交付，不能因海外发售日已到就承诺国内现货。",
+          "sources": [
+            {
+              "name": "Disney Lorcana：Timeless Tales and Totally-Rockin’ Tunes",
+              "url": "https://www.disneylorcana.com/en-US/news/2026/10/curators-collection-beauty-and-the-beast-i2i-playmat"
+            }
+          ]
+        },
+        {
+          "id": "mtg-modern-five-regionals-20261016",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "10月15日官方分析",
+          "title": "摩登五站区域赛分析：Broodscale领先，Azorius Chant形成应对",
+          "brand": "Magic · Metagame Mentor",
+          "published": "2026-10-15（官网未标时刻）",
+          "node": "过去两个周末五站区域冠军赛成绩；非新禁限公告",
+          "priority": "调整备赛方向",
+          "summary": "Broodscale Combo占比17.3%、胜率54.8%；Azorius Chant占比4.6%、胜率59.2%。这些是赛事样本结果。",
+          "facts": [
+            "Frank Karsten汇总美国洛杉矶、欧洲中东非洲、墨西哥中美洲加勒比、加拿大、日韩五站摩登区域赛。",
+            "胜率统计排除镜像对局、轮空及平局；Broodscale Combo占比17.3%，对应胜率54.8%。",
+            "Azorius Chant占比4.6%、胜率59.2%，对Broodscale记录149胜76负，约66%。",
+            "文章同时分析现实裂界新卡在摩登中的表现；样本不能直接推算本地环境、未来胜率或单卡价格。"
+          ],
+          "advice": "用于组织对局练习和备牌讨论，先看本地牌组分布；避免把样本优势当作必胜或囤卡依据。",
+          "sources": [
+            {
+              "name": "Magic.gg：Frank Karsten五站摩登区域赛分析",
+              "url": "https://magic.gg/news/metagame-mentor-modern-developments-at-five-2026-fall-regional-championships"
+            }
+          ]
+        },
+        {
+          "id": "board-20261016-clash-royale-grand-arena",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h专业报道",
+          "title": "《Clash Royale: The Grand Arena》10月20日开筹",
+          "brand": "Maestro Media · Supercell",
+          "published": "2026-10-15 21:15 北京时间（原文08:15 CT）",
+          "node": "2026-10-20 · Kickstarter众筹；时刻未公布",
+          "priority": "关注IP新品",
+          "summary": "《皇室战争》桌游采用双路线攻塔，支持2—4人、约30分钟；开筹不等于现货发售。",
+          "facts": [
+            "ICv2完整报道确认10月20日众筹；发行商7月旧文章仅确认10月窗口。",
+            "设计者为David Gordon、Ryan Rodriguez及TAM；适合12岁以上，玩家部署卡牌、摧毁防御塔并争取皇冠。",
+            "众筹价格、交付日期、中文版及精确开筹时刻本轮未核实。"
+          ],
+          "advice": "先观察IP玩家对线下玩法的兴趣，待项目公布语言、档位和运输条件后再评估引入。",
+          "sources": [
+            {
+              "name": "ICv2：Clash Royale桌游众筹报道",
+              "url": "https://icv2.com/articles/news/view/63631/maestro-media-teams-up-supercell-second-time-clash-royale-the-grand-arena"
+            },
+            {
+              "name": "Maestro：7月30日旧公告的十月窗口",
+              "url": "https://maestromedia.com/blogs/news/fraziers-edge-everyone-wants-in"
+            }
+          ]
+        },
+        {
+          "id": "board-20261016-blue-orange-2027",
+          "category": "board",
+          "region": "overseas",
+          "label": "新阵容报道",
+          "title": "Blue Orange披露2027年初六款欧洲阵容",
+          "brand": "Blue Orange · Board Game Beat",
+          "published": "2026-10-15（页面06:00未注明时区）",
+          "node": "2027年初 · 欧洲阵容；具体日期待公布",
+          "priority": "观察家庭桌游",
+          "summary": "Got Five! Ghost增加遮挡推理，Fifty Shells主打数字贝壳策略，另有聚会与实时反应作品。",
+          "facts": [
+            "阵容包括Got Five! Ghost、Fifty Shells、Drop Maze、Castle Pop、Check It If You Can及Mimi Dice。",
+            "Got Five! Ghost为扩展，以幽灵形遮挡物隐藏数字牌两端；Fifty Shells为2—4人移动并收集数字贝壳的策略游戏。",
+            "Check It If You Can源于2024年日本作品Rensou Bingo，此次推出法语与英语版本。",
+            "报道针对Blue Orange欧洲分部；未提供六款统一发售日、价格或中国发行安排。"
+          ],
+          "advice": "可将推理、抽象策略和聚会游戏分别纳入试玩关注清单；不把展会曝光当作国内供货确认。",
+          "sources": [
+            {
+              "name": "Board Game Beat：Blue Orange 2027年初阵容",
+              "url": "https://www.wericmartin.com/blue-orange-games-reveals-early-2027-line-up/"
+            }
+          ]
+        },
+        {
+          "id": "cards-f1-hobby-release-price-20261016",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月15日发行更新",
+          "title": "Chrome F1 Hobby官方EQL报价479.99美元，每人最多2盒",
+          "brand": "Topps · Formula 1",
+          "published": "2026-10-15（专业来源更新日期）；10月16日10:07北京时间补核官方详情",
+          "node": "常规版10月15日发行；FDI日期类型继续待核",
+          "priority": "区分盒型报价",
+          "summary": "官方详情确认每盒20包、每包4张；专业来源记载的旧预售价为469.99美元，两者相差10美元。",
+          "facts": [
+            "Topps美国EQL详情显示US$479.99、每人最多2盒、20包×4张，属于海外官方销售报价。",
+            "Checklist Insider 10月15日更新记录9月15日预售价469.99美元与发行参考价479.99美元；旧价比较依专业来源。",
+            "可读取活动详情不证明抽选此刻仍开放，本轮未确认当前报名、库存或国内到货状态。",
+            "核验晚于北京时间10:00截止，不能把实时详情倒推为截止时的库存；也不能将挂牌销售价当二级市场成交价。"
+          ],
+          "advice": "报价和采购询价时注明Hobby、零售盒或FDI，另算税运费与交付条件；不由官方调价推导二级市场涨幅。",
+          "sources": [
+            {
+              "name": "Topps美国：F1 Hobby EQL官方详情",
+              "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-formula-1r-hobby-box"
+            },
+            {
+              "name": "Checklist Insider：10月15日F1发行更新",
+              "url": "https://www.checklistinsider.com/2026-topps-chrome-formula-1-racing"
             }
           ]
         }
