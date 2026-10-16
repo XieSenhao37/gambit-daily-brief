@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-10-15",
+  "asOf": "2026-10-16",
   "coverage": [
     "范围：2026年10月公开来源核实的产品／地区节点，含月初已过日期与未来日期；不是全球全品牌全SKU穷尽表，也不是独立产品款数。",
     "默认仅展示正式发售；可筛选全部、预售、众筹及售前活动。官方未来日期可能调整，来源证据等级不等于库存或购买保证。",
@@ -222,7 +222,23 @@
     "全月旧节点保留Williams、Mars Attacks、Bowman Sapphire、Allen & Ginter、MLS Sapphire、Street Fighter、Update、Neon、F1、Samurai Japan、Jennie、Vault Disney、GPK、WWE、Collector Kit、Five Star、Bowman U Best及既有预售；F1 Hongbao10月15日、Logofractor10月29日仍由官方Ripped原文索引支持，页面本轮直接读取403，不能把旧索引当实时开放状态。",
     "新增Flagship Basketball日期待核：官方Ripped9月28日旧指南仍写10月22日，现行Hobby/整箱为11月5日、Mega三处均为11月12日；不判定为新延期，也不把10月22日加入确定发行。原预售备注追加分盒型更正。KAWS、F1 FDI、Heritage Mega三项原争议继续review。Neon、Royalty、F1美国EST/UTC历史冲突没有强制改为EDT。",
     "DAKA官网返回空正文；DAKA官方微博本轮读取为约9个月前抓取、补搜为约3个月前缓存；集卡社微博为约4个月前抓取。未建立国内近24小时实时覆盖，不能据此称品牌没有新品。",
-    "CARD.FUN官网直接读取失败，官方索引可见多个产品但没有可用发布日期；www.janime.cn/brand本轮已可读并确认CARD.FUN品牌，非www入口失败，品牌介绍不提供十月新品时间表。杰森主页可读新闻主要为7月23日，国内十月全表仍有缺口；未获官方证据的“水晶11月20日”未录。"
+    "CARD.FUN官网直接读取失败，官方索引可见多个产品但没有可用发布日期；www.janime.cn/brand本轮已可读并确认CARD.FUN品牌，非www入口失败，品牌介绍不提供十月新品时间表。杰森主页可读新闻主要为7月23日，国内十月全表仍有缺口；未获官方证据的“水晶11月20日”未录。",
+    "2026-10-16核查：本期以北京时间2026年10月16日10:00为新闻筛选截止，实际来源核验在10:03后完成；仅标日期的文章不声称精确落在滚动24小时内，实时状态不倒推截稿时库存。",
+    "2026-10-16核查：覆盖并非全网穷尽；只收可核公开事实，新闻、旧公告补录、预售、众筹、正式发行与到货分别处理。",
+    "2026-10-16核查：符文战场两篇10月15日UTC公告为本期增量；开局测试不等于全赛事规则更新。Radiance中英文概览与简中指南的发售／售前日期差异仍未消除，两条中文review保留；抽选不当预售。",
+    "2026-10-16核查：万智牌本期采用Magic.gg五站摩登区域赛分析；没有由此推导单卡价格或新的禁限。既有现实裂界大陆延迟记录保留，不称全SKU现货。",
+    "2026-10-16核查：洛卡纳两款收藏周边10月16日指定渠道销售获得10月15日官网直接补证；现行日期不变，证据升级官方。未确认大陆同步上市或统一时刻。",
+    "2026-10-16核查：宝可梦中国10月15日道馆活动索引可见，但原文访问失败，本期不采用细则作新闻。其他缺少新正文的品牌不以旧公告凑数。",
+    "2026-10-16核查：ONE PIECE日本与欧美完整商品列表复核未发现新增十月日期：日版既有10月3日配件、9日收藏册、31日EB05与Precious Box保留；欧美EB05/TS03仍30日。亚洲英语EB05列表30日与详情31日冲突继续review。",
+    "2026-10-16核查：高达四地区商品目录维持GD06美国10月30日、日本／亚洲英语／繁中官网地区10月31日；不把官网语言当产品语言，也不外推大陆日期。",
+    "2026-10-16核查：桌游独立月历复核包括Hachette十月六款、FFG众筹、摩点预热及在筹前三页、Renegade发行表、SPIEL。新增Clash Royale 10月20日众筹及Olaf 10月28日旧公告补录；Blue Orange为2027年初阵容，不凑入十月日期。",
+    "2026-10-16核查：摩点浮生聊斋列表30日对详情20日冲突保留；Renegade本轮商品缓存仍旧10月26日，不能回滚上轮实时多SKU核验的11月16日。新物集正文/API本轮不可读，保留旧记录并标覆盖缺口。",
+    "2026-10-16核查：Topps美国、英国、德国、法国、意大利、西班牙、日本官方滚动日历及Checklist Insider十月完整表独立核查；新增PSG Collector Tin与巴黎限定PSG Legends两款10月23日节点，后者是中选者开业领取，不能推定全球现货或抽选开放时刻。",
+    "2026-10-16核查：GPK现行产品页与美国日历可核50张基础卡和10月22日16:00 UTC；设计文章直接读取403、仅搜索索引可见，未作为当天新闻。日历仅补已公布时刻。",
+    "2026-10-16核查：Chrome Football FDI专业来源给预计11月13日，官方仍只核预售；Hobby保持TBA。KAWS、F1 FDI、Heritage Mega、篮球旧指南日期争议继续review，未用专业预计日期冒充官方确认。",
+    "2026-10-16核查：DAKA官网空正文、微博为旧缓存；CARD.FUN微博为旧缓存，官网及品牌页本轮访问失败。国内近24小时实时覆盖有缺口，不等于没有新品。迪士尼水晶11月20日仍缺官方证据，未录为确认日期。",
+    "2026-10-16补充覆盖边界：宝可梦美国十月月表正文仅返回iframe、普通日本目录仅静态导航；日本周年27款完整表与中国嗨皮产品规格可直读，原日期未变。航海王中国首页仅JS框架，既有商品接口本轮未能访问，不能沿用昨日全表已核状态冒充今日复核。",
+    "2026-10-16补核：Magic现行系列、Secret Lair Bundle和Festival in a Box日期未变，三种新drop／组合仍为soon；Lorcana美日现行产品目录日期未变。新官网仅确认美国两个商业区，旧备注中具体美国店名依此前二级来源，未由本篇新公告重新确认。"
   ],
   "coverageSources": [
     {
@@ -2424,6 +2440,38 @@
     {
       "name": "Topps美国：Flagship Basketball Mega三处11月12日",
       "url": "https://www.topps.com/products/2026-27-topps-flagship-basketball-mega-box"
+    },
+    {
+      "name": "Disney Lorcana：10月15日官网两款特别商品公告",
+      "url": "https://www.disneylorcana.com/en-US/news/2026/10/curators-collection-beauty-and-the-beast-i2i-playmat"
+    },
+    {
+      "name": "ICv2：Clash Royale桌游众筹报道",
+      "url": "https://icv2.com/articles/news/view/63631/maestro-media-teams-up-supercell-second-time-clash-royale-the-grand-arena"
+    },
+    {
+      "name": "Maestro：7月30日旧公告的十月窗口",
+      "url": "https://maestromedia.com/blogs/news/fraziers-edge-everyone-wants-in"
+    },
+    {
+      "name": "Maestro：Olaf产品页",
+      "url": "https://maestromedia.com/products/frozen-olafs-snowball-race"
+    },
+    {
+      "name": "ICv2：8月18日发行日期报道",
+      "url": "https://icv2.com/articles/news/view/63159/maestro-media-will-release-olafs-snowball-race"
+    },
+    {
+      "name": "Topps英国：球队收藏铁盒",
+      "url": "https://uk.topps.com/pages/football-club-collections"
+    },
+    {
+      "name": "Topps法国：巴黎旗舰店开业商品安排",
+      "url": "https://fr.topps.com/pages/fanatics-collectibles-paris-store"
+    },
+    {
+      "name": "Checklist Insider：PSG Legends 10月15日指南",
+      "url": "https://www.checklistinsider.com/2026-topps-legends-paris-saint-germain"
     }
   ],
   "events": [
@@ -3994,13 +4042,14 @@
       ],
       "evidenceLevel": "official",
       "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "Topps美国官方日历列Thursday, Oct 22；产品页明确Available October 22，均无预售标记或精确时刻。",
-      "verifiedAt": "2026-10-09T10:03:14+08:00",
+      "sourceTimezone": "UTC",
+      "sourceTime": "16:00",
+      "sourceEvidence": "美国官方日历列10月22日16:00 UTC；现行系列页列10月22日12pm ET。日期未变，本轮补齐已公布时刻。",
+      "verifiedAt": "2026-10-16T10:07:00+08:00",
       "notes": [
         "本轮新增核实的10月开售节点；未标公告发布时间，不能称为过去24小时首次公布。",
-        "尚未核到售价、盒配、开售时刻与发货安排。"
+        "尚未核到售价、盒配、开售时刻与发货安排。",
+        "2026-10-16补核：已确认开售时刻；旧未核时刻备注为历史。北京时间为10月23日00:00，不等于国内到货。"
       ],
       "sources": [
         {
@@ -4010,9 +4059,17 @@
         {
           "name": "Topps：2026 Garbage Pail Kids Halloween",
           "url": "https://www.topps.com/pages/2026-garbage-pail-kids-halloween"
+        },
+        {
+          "name": "Topps：现行GPK Halloween页面",
+          "url": "https://www.topps.com/pages/garbage-pail-kids-halloween"
         }
       ],
-      "timing": null
+      "timing": {
+        "localTime": "16:00",
+        "utcOffset": "+00:00",
+        "evidence": "美国官方日历列10月22日16:00 UTC，现行系列页12pm ET与之对应。"
+      }
     },
     {
       "id": "update-baseball-jp",
@@ -6258,19 +6315,20 @@
       "languages": [
         "未逐地区核实（游戏垫周边）"
       ],
-      "evidenceLevel": "secondary",
-      "announcementStatus": "二级来源确认日期",
+      "evidenceLevel": "official",
+      "announcementStatus": "官网直接确认日期与渠道",
       "sourceTimezone": "各销售地当地日期；未公布统一时刻",
       "sourceTime": null,
-      "sourceEvidence": "Lorcana专门收藏资讯站Collectacana于2026年10月3日的完整报道明确两款产品10月16日在所列四渠道销售；本轮独立复核该全文。官方Instagram原帖有研究者直接读取记录，但独立复核时返回429、无可重放快照，因此按二级证据标注。",
-      "verifiedAt": "2026-10-15T10:10:10+08:00",
+      "sourceEvidence": "2026年10月15日Disney Lorcana官网新文章明确两款产品于10月16日在加州Downtown Disney、佛州Disney Springs、巴黎Disney Village World of Disney及DisneyStore.co.uk销售；未给统一时刻。",
+      "verifiedAt": "2026-10-16T10:05:00+08:00",
       "notes": [
         "游戏垫使用Fabled系列Enchanted卡图，带烫箔与缝边，属于卡牌周边。",
         "渠道为Disney’s Pin Traders（California Downtown Disney）、World of Disney（Florida Disney Springs）、World of Disney（Paris Disney Village）及DisneyStore.co.uk；具体开售安排以对应渠道公告为准。",
         "官方原帖没有说明仅售一天，也没有说明单一门店或全球无线上渠道；不采用二手文章这些额外说法。",
         "本条是10月全月补漏，不是今日首次公布。",
         "本条仅指官方列明渠道的销售节点，不等于全球统一首次发售或中国大陆上市。",
-        "10月15日证据口径：日期与渠道由Collectacana完整报道独立交叉核实，官方原帖本轮无法独立复现，未据此冒充官方级独立核验。"
+        "10月15日证据口径：日期与渠道由Collectacana完整报道独立交叉核实，官方原帖本轮无法独立复现，未据此冒充官方级独立核验。",
+        "2026-10-16补证：官网完整正文已直接读取，日期及四渠道获官方确认，证据等级由专业媒体升级为官方。原备注保留历史状态；未核实大陆同步发行或现货。"
       ],
       "sources": [
         {
@@ -6284,6 +6342,10 @@
         {
           "name": "Collectacana：10月3日两款产品发售渠道完整报道（二级）",
           "url": "https://collectacana.com/news/curators-collection-beauty-and-the-beast-edition-and-i2i-foil-playmat-release-details-october-16"
+        },
+        {
+          "name": "Disney Lorcana：10月15日官网两款特别商品公告",
+          "url": "https://www.disneylorcana.com/en-US/news/2026/10/curators-collection-beauty-and-the-beast-i2i-playmat"
         }
       ],
       "timing": null
@@ -6626,10 +6688,11 @@
       "sourceTimezone": "太平洋时间日期口径（日本官网明确）；无统一开售时刻",
       "sourceTime": null,
       "sourceEvidence": "英文官网列明2026年10月23日发售；日本官网明确该日期使用太平洋时间。简中本地化页列10月24日，但没有统一开售时刻，保留英法语商品原来源日期且不进行北京时间换算。",
-      "verifiedAt": "2026-10-15T10:08:14+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "简中官网日期比英文官网晚一天，可能涉及本地化口径；无法凭日期推断实际统一发售时刻或中国大陆各SKU安排。",
-        "2026-10-15复核英法语概览：发售23日、售前16—22日；简中概览仍为发售24日、售前17—23日。保留本地区来源日期，不推算统一开售时刻。"
+        "2026-10-15复核英法语概览：发售23日、售前16—22日；简中概览仍为发售24日、售前17—23日。保留本地区来源日期，不推算统一开售时刻。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -6669,10 +6732,11 @@
       "sourceTimezone": "太平洋时间日期口径（日本官网明确）；无统一开售时刻",
       "sourceTime": null,
       "sourceEvidence": "英文官网列明2026年10月23日发售；日本官网明确该日期使用太平洋时间。简中本地化页列10月24日，但没有统一开售时刻，保留英法语商品原来源日期且不进行北京时间换算。",
-      "verifiedAt": "2026-10-15T10:08:14+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "简中官网日期比英文官网晚一天，可能涉及本地化口径；无法凭日期推断实际统一发售时刻或中国大陆各SKU安排。",
-        "2026-10-15复核英法语概览：发售23日、售前16—22日；简中概览仍为发售24日、售前17—23日。保留本地区来源日期，不推算统一开售时刻。"
+        "2026-10-15复核英法语概览：发售23日、售前16—22日；简中概览仍为发售24日、售前17—23日。保留本地区来源日期，不推算统一开售时刻。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -6712,10 +6776,11 @@
       "sourceTimezone": "太平洋时间日期口径（日本官网明确）；无统一开售时刻",
       "sourceTime": null,
       "sourceEvidence": "英文官网列明2026年10月23日发售；日本官网明确该日期使用太平洋时间。简中本地化页列10月24日，但没有统一开售时刻，保留英法语商品原来源日期且不进行北京时间换算。",
-      "verifiedAt": "2026-10-15T10:08:14+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "简中官网日期比英文官网晚一天，可能涉及本地化口径；无法凭日期推断实际统一发售时刻或中国大陆各SKU安排。",
-        "2026-10-15复核英法语概览：发售23日、售前16—22日；简中概览仍为发售24日、售前17—23日。保留本地区来源日期，不推算统一开售时刻。"
+        "2026-10-15复核英法语概览：发售23日、售前16—22日；简中概览仍为发售24日、售前17—23日。保留本地区来源日期，不推算统一开售时刻。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -6896,12 +6961,13 @@
       "sourceTimezone": "太平洋时间日期口径（日本官网明确）；无统一开售时刻",
       "sourceTime": null,
       "sourceEvidence": "英文官网列明Pre-Rift为2026年10月16–22日；日本官网明确该日期使用太平洋时间。简中本地化页为10月17–23日，但没有售前活动统一时刻，保留原日期且不进行北京时间换算。",
-      "verifiedAt": "2026-10-15T10:08:14+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "售前期10月16日至22日；具体场次依店铺。",
         "简中官网日期比英文官网晚一天，可能涉及本地化口径；无法凭日期推断实际统一发售时刻或中国大陆各SKU安排。",
         "10月13日复核：新英文及简中售前指南均写10月16日起，套装为5包加1个英雄主题包；简中旧概览仍写17—23日，中文地区日期未消除差异。",
-        "2026-10-15复核英法语概览：发售23日、售前16—22日；简中概览仍为发售24日、售前17—23日。保留本地区来源日期，不推算统一开售时刻。"
+        "2026-10-15复核英法语概览：发售23日、售前16—22日；简中概览仍为发售24日、售前17—23日。保留本地区来源日期，不推算统一开售时刻。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7312,11 +7378,12 @@
       "sourceTimezone": "当地日期；未公布统一时刻",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-15T10:09:50+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。",
         "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
-        "2026-10-15复核：同地区官网商品列表和GD06详情仍列原日期；亚洲英语／繁中网页所售商品的日语语言结论不变。未公布精确开售时刻，timing保持null。"
+        "2026-10-15复核：同地区官网商品列表和GD06详情仍列原日期；亚洲英语／繁中网页所售商品的日语语言结论不变。未公布精确开售时刻，timing保持null。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7348,12 +7415,13 @@
       "sourceTimezone": "当地日期；未公布统一时刻",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-15T10:09:50+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。本轮详情页未能读取，日期采用同地区官方商品列表复核。",
         "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
         "2026-10-14详情页已成功读取，发售日期与本地区列表一致；上一轮详情无法读取的情况已解除。",
-        "2026-10-15独立十月复核：该地区官方商品列表第1—2页中的日期未变；EB-05、TS-03与HEROINES PRECIOUS BOX另核详情。未公布精确开售时刻，不推算北京时间。"
+        "2026-10-15独立十月复核：该地区官方商品列表第1—2页中的日期未变；EB-05、TS-03与HEROINES PRECIOUS BOX另核详情。未公布精确开售时刻，不推算北京时间。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7385,12 +7453,13 @@
       "sourceTimezone": "当地日期；未公布统一时刻",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-30节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-15T10:09:50+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "2026-10-13复核该地区商品列表第1—2页，本条十月日期未变。本轮详情页未能读取，日期采用同地区官方商品列表复核。",
         "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
         "2026-10-14详情页已成功读取，发售日期与本地区列表一致；上一轮详情无法读取的情况已解除。",
-        "2026-10-15独立十月复核：该地区官方商品列表第1—2页中的日期未变；EB-05、TS-03与HEROINES PRECIOUS BOX另核详情。未公布精确开售时刻，不推算北京时间。"
+        "2026-10-15独立十月复核：该地区官方商品列表第1—2页中的日期未变；EB-05、TS-03与HEROINES PRECIOUS BOX另核详情。未公布精确开售时刻，不推算北京时间。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7422,13 +7491,14 @@
       "sourceTimezone": "当地日期；未公布统一时刻",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-15T10:09:50+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。",
         "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
         "2026-10-14语言纠正：原记录地区“亚洲英语发行区”、语言“英语”来自网站本地化，不能据此判定商品语言。本地区GD06官方商品包装明确印有“日本語版”，本条语言改为日语，保留原ID和日期；这不是新语言版本上市。",
         "现行官网语言规则列出日文、英文、简体中文卡牌，并允许部分亚洲地区使用日英两种牌；该规则不能用于推定本页另有英文或繁体中文SKU。",
-        "2026-10-15复核：同地区官网商品列表和GD06详情仍列原日期；亚洲英语／繁中网页所售商品的日语语言结论不变。未公布精确开售时刻，timing保持null。"
+        "2026-10-15复核：同地区官网商品列表和GD06详情仍列原日期；亚洲英语／繁中网页所售商品的日语语言结论不变。未公布精确开售时刻，timing保持null。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7468,13 +7538,14 @@
       "sourceTimezone": "当地日期；未公布统一时刻",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-15T10:09:50+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。",
         "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
         "2026-10-14语言纠正：原记录地区“繁体中文发行区”、语言“繁体中文”来自网站本地化，不能据此判定商品语言。本地区GD06官方商品包装明确印有“日本語版”，本条语言改为日语，保留原ID和日期；这不是新语言版本上市。",
         "现行官网语言规则列出日文、英文、简体中文卡牌，并允许部分亚洲地区使用日英两种牌；该规则不能用于推定本页另有英文或繁体中文SKU。",
-        "2026-10-15复核：同地区官网商品列表和GD06详情仍列原日期；亚洲英语／繁中网页所售商品的日语语言结论不变。未公布精确开售时刻，timing保持null。"
+        "2026-10-15复核：同地区官网商品列表和GD06详情仍列原日期；亚洲英语／繁中网页所售商品的日语语言结论不变。未公布精确开售时刻，timing保持null。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7514,11 +7585,12 @@
       "sourceTimezone": "Asia/Tokyo",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-31节点；具体限制见备注。 本轮地区官方商品列表仍明确列出相同日期。",
-      "verifiedAt": "2026-10-15T10:09:50+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "2026-10-13复核该地区完整商品列表与GD06详情，日期未变；未公布精确时刻，不推算北京时间。",
         "2026-10-14复核：对应地区官方商品列表继续列出本条十月日期；本轮没有发现改期公告。无精确开售时刻，timing保持null。",
-        "2026-10-15复核：同地区官网商品列表和GD06详情仍列原日期；亚洲英语／繁中网页所售商品的日语语言结论不变。未公布精确开售时刻，timing保持null。"
+        "2026-10-15复核：同地区官网商品列表和GD06详情仍列原日期；亚洲英语／繁中网页所售商品的日语语言结论不变。未公布精确开售时刻，timing保持null。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7677,9 +7749,10 @@
       "sourceTimezone": "当地日期；未公布统一时刻",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。 10月14日直接核对美国英语官网产品页，Hunny Rescue仍为10月2日，Hyperia City仍为16日售前、23日全面发售；这些日期不代表大陆或日语版安排。 10月15日10点后独立核对美国官方商品页和产品导航，The Great Hunny Rescue仍为10月2日，无已确认改期。",
-      "verifiedAt": "2026-10-15T10:10:10+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
-        "官方产品页日期为10月2日。"
+        "官方产品页日期为10月2日。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7863,10 +7936,11 @@
       "sourceTimezone": "当地日期；未公布统一时刻",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-16节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。 10月14日直接核对美国英语官网产品页，Hunny Rescue仍为10月2日，Hyperia City仍为16日售前、23日全面发售；这些日期不代表大陆或日语版安排。 10月15日10点后直读美国官方Hyperia City商品页，售前仍为10月16日、全面发售仍为10月23日；两个节点分别保留，未套用为中国大陆发售。",
-      "verifiedAt": "2026-10-15T10:10:10+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "与10月23日全面发售分开记录。",
-        "10月8日美国英语官网新指南复核：售前盒含6包补充包、4枚伤害骰、1张随机特典卡与城市地图；不等于大陆版本确认。"
+        "10月8日美国英语官网新指南复核：售前盒含6包补充包、4枚伤害骰、1张随机特典卡与城市地图；不等于大陆版本确认。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -7958,9 +8032,10 @@
       "sourceTimezone": "当地日期；未公布统一时刻",
       "sourceTime": null,
       "sourceEvidence": "来源公布的2026-10-23节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。 10月14日直接核对美国英语官网产品页，Hunny Rescue仍为10月2日，Hyperia City仍为16日售前、23日全面发售；这些日期不代表大陆或日语版安排。 10月15日10点后直读美国官方Hyperia City商品页，售前仍为10月16日、全面发售仍为10月23日；两个节点分别保留，未套用为中国大陆发售。",
-      "verifiedAt": "2026-10-15T10:10:10+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
-        "全面零售日。"
+        "全面零售日。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -8043,17 +8118,18 @@
       "languages": [
         "未逐地区核实"
       ],
-      "evidenceLevel": "secondary",
-      "announcementStatus": "二级来源确认日期",
+      "evidenceLevel": "official",
+      "announcementStatus": "官网直接确认日期与渠道",
       "sourceTimezone": "各销售地当地日期；未公布统一时刻",
       "sourceTime": null,
-      "sourceEvidence": "Lorcana专门收藏资讯站Collectacana于2026年10月3日的完整报道明确两款产品10月16日在所列四渠道销售；本轮独立复核该全文。官方Instagram原帖有研究者直接读取记录，但独立复核时返回429、无可重放快照，因此按二级证据标注。",
-      "verifiedAt": "2026-10-15T10:10:10+08:00",
+      "sourceEvidence": "2026年10月15日Disney Lorcana官网新文章明确两款产品于10月16日在加州Downtown Disney、佛州Disney Springs、巴黎Disney Village World of Disney及DisneyStore.co.uk销售；未给统一时刻。",
+      "verifiedAt": "2026-10-16T10:05:00+08:00",
       "notes": [
         "官方确认10月，尚未核到具体日，勿放在10月1日。",
         "2026-10-15补证：上一条日待定备注为历史核查状态；研究者读过官方原帖；独立复核依Collectacana全文10月16日，未公布价格、统一开售时刻或库存保证。",
         "美国限于California Disneyland Resort Downtown Disney的Disney’s Pin Traders及Florida Walt Disney World Disney Springs的World of Disney；巴黎为Disney Village World of Disney；英国为DisneyStore.co.uk。不是全国牌店统一发行，也没有中国大陆日期。",
-        "10月15日证据口径：日期与渠道由Collectacana完整报道独立交叉核实，官方原帖本轮无法独立复现，未据此冒充官方级独立核验。"
+        "10月15日证据口径：日期与渠道由Collectacana完整报道独立交叉核实，官方原帖本轮无法独立复现，未据此冒充官方级独立核验。",
+        "2026-10-16补证：官网完整正文已直接读取，日期及四渠道获官方确认，证据等级由专业媒体升级为官方。原备注保留历史状态；未核实大陆同步发行或现货。"
       ],
       "sources": [
         {
@@ -8071,6 +8147,10 @@
         {
           "name": "Collectacana：10月3日两款产品发售渠道完整报道（二级）",
           "url": "https://collectacana.com/news/curators-collection-beauty-and-the-beast-edition-and-i2i-foil-playmat-release-details-october-16"
+        },
+        {
+          "name": "Disney Lorcana：10月15日官网两款特别商品公告",
+          "url": "https://www.disneylorcana.com/en-US/news/2026/10/curators-collection-beauty-and-the-beast-i2i-playmat"
         }
       ],
       "timing": null
@@ -8198,10 +8278,11 @@
       "sourceTimezone": "中国大陆公告；正文未单独标注时区",
       "sourceTime": "10:00",
       "sourceEvidence": "宝可梦中国官方商品规格明确：嗨皮卡组 训练家的宝可梦，2026年10月16日10时起发售。正文没有独立标注时区或UTC偏移，保留原文时刻而不执行时区换算。 10月13日再次核对官方商品规格，日期和原文时刻未变。 10月14日直读官方商品规格，两个独立SKU均仍为10月16日10时起；没有独立UTC偏移依据，不作精确北京时间换算。 10月15日10点后独立复核中国商品目录及9月21日规格正文，两种SKU仍均为10月16日10时起；没有新发售日或统一UTC偏移依据。",
-      "verifiedAt": "2026-10-15T10:10:10+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "20元单卡组商品；随机封入火箭队超梦ex、竹兰烈咬陆鲨ex、小霞暴鲤龙、阿响火暴兽中的1套60张卡组。",
-        "与88元嗨皮组合为不同SKU。"
+        "与88元嗨皮组合为不同SKU。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -8264,10 +8345,11 @@
       "sourceTimezone": "中国大陆公告；正文未单独标注时区",
       "sourceTime": "10:00",
       "sourceEvidence": "宝可梦中国商品规格明确嗨皮组合于2026年10月16日10时起发售；正文没有独立标注时区或UTC偏移，因此保留原文时刻而不执行时区换算。 10月13日再次核对官方商品规格，日期和原文时刻未变。 10月14日直读官方商品规格，两个独立SKU均仍为10月16日10时起；没有独立UTC偏移依据，不作精确北京时间换算。 10月15日10点后独立复核中国商品目录及9月21日规格正文，两种SKU仍均为10月16日10时起；没有新发售日或统一UTC偏移依据。",
-      "verifiedAt": "2026-10-15T10:10:10+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "4款卡组：火箭队超梦ex、竹兰烈咬陆鲨ex、小霞暴鲤龙、阿响火暴兽。",
-        "88元嗨皮组合与20元嗨皮卡组为分别销售的两个SKU。"
+        "88元嗨皮组合与20元嗨皮卡组为分别销售的两个SKU。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
       ],
       "sources": [
         {
@@ -9016,10 +9098,11 @@
       "sourceTimezone": "UTC",
       "sourceTime": "16:00",
       "sourceEvidence": "美国官方日历列10月16日16:00 UTC并标Pre-order；系列页明确12pm ET荷兰拍卖预售，两者一致。",
-      "verifiedAt": "2026-10-15T10:06:16+08:00",
+      "verifiedAt": "2026-10-16T10:07:00+08:00",
       "notes": [
         "FDI与普通Hobby分版本记录；拍卖预售不等于实际发行或发货。",
-        "未核实拍卖起拍价、最低价或最终成交价。"
+        "未核实拍卖起拍价、最低价或最终成交价。",
+        "2026-10-16：专业来源给FDI预计11月13日，仍需官方补证；不推广为Hobby发行日期。"
       ],
       "sources": [
         {
@@ -9033,6 +9116,10 @@
         {
           "name": "Checklist Insider：10月14日Chrome Football指南",
           "url": "https://www.checklistinsider.com/2026-topps-chrome-football"
+        },
+        {
+          "name": "Checklist Insider：Chrome Football分盒型日期",
+          "url": "https://www.checklistinsider.com/2026-topps-chrome-football"
         }
       ],
       "timing": {
@@ -9040,7 +9127,7 @@
         "utcOffset": "+00:00",
         "evidence": "美国官方日历列10月16日16:00 UTC并标Pre-order；系列页明确12pm ET荷兰拍卖预售，两者一致。"
       },
-      "pendingReleaseEvidence": "官方当前仅公布十月预售；Checklist Insider 2026年10月14日Chrome Football指南的Release Date与Estimated Release Date均为TBA，未给正式发行月份。"
+      "pendingReleaseEvidence": "2026-10-15 Checklist Insider现列FDI预计11月13日、Hobby仍TBA；官方美英页面当前仍只给十月预售，未取得官方正式发行证据。"
     },
     {
       "id": "chrome-football-eu-pre",
@@ -9803,6 +9890,163 @@
         "utcOffset": "-04:00",
         "evidence": "Available for pre-order October 6 at 1pm ET。"
       }
+    },
+    {
+      "id": "board-clash-royale-grand-arena",
+      "product": "Clash Royale: The Grand Arena",
+      "category": "board",
+      "brand": "Maestro Media / Supercell",
+      "nodeType": "crowdfunding",
+      "date": "2026-10-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "国际众筹",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "secondary",
+      "announcementStatus": "已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "ICv2 10月15日完整报道明确2026年10月20日启动Kickstarter；发行商7月30日旧文仅确认十月窗口。",
+      "verifiedAt": "2026-10-16T10:07:20+08:00",
+      "notes": [
+        "未提供精确时刻，不推算北京时间；发行或开筹不代表中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "ICv2：Clash Royale桌游众筹报道",
+          "url": "https://icv2.com/articles/news/view/63631/maestro-media-teams-up-supercell-second-time-clash-royale-the-grand-arena"
+        },
+        {
+          "name": "Maestro：7月30日旧公告的十月窗口",
+          "url": "https://maestromedia.com/blogs/news/fraziers-edge-everyone-wants-in"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-olaf-snowball-race",
+      "product": "Disney’s Frozen: Olaf’s Snowball Race",
+      "category": "board",
+      "brand": "Maestro Media",
+      "nodeType": "release",
+      "date": "2026-10-28",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "海外／Maestro官网发行；其他地区未核",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Maestro官方2026年7月30日文章明确10月28日推出；ICv2 8月18日报道补证2026年。",
+      "verifiedAt": "2026-10-16T10:07:20+08:00",
+      "notes": [
+        "未提供精确时刻，不推算北京时间；发行或开筹不代表中国大陆到货。",
+        "十月全月旧公告补录，不是10月16日新公告。"
+      ],
+      "sources": [
+        {
+          "name": "Maestro：7月30日官方日期公告",
+          "url": "https://maestromedia.com/blogs/news/fraziers-edge-everyone-wants-in"
+        },
+        {
+          "name": "Maestro：Olaf产品页",
+          "url": "https://maestromedia.com/products/frozen-olafs-snowball-race"
+        },
+        {
+          "name": "ICv2：8月18日发行日期报道",
+          "url": "https://icv2.com/articles/news/view/63159/maestro-media-will-release-olafs-snowball-race"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "verifiedAt": "2026-10-16T10:08:29+08:00",
+      "timing": null,
+      "id": "psg-collector-tin",
+      "product": "Topps Collector Tin Paris Saint-Germain 2026/27",
+      "region": "英国/德国/法国/意大利官网",
+      "sourceEvidence": "英国系列页明确PSG 2026/27铁盒10月23日可售，英国、德国、法国、意大利日历同列当日Official Club Collector Tins。",
+      "notes": [
+        "不同球队铁盒分别定档，不改此前Arsenal节点。",
+        "未提供精确时刻和本产品独立价格；其他球队24.99英镑不能直接套用。",
+        "不是同日巴黎旗舰店限定PSG Legends。"
+      ],
+      "sources": [
+        {
+          "name": "Topps英国：球队收藏铁盒",
+          "url": "https://uk.topps.com/pages/football-club-collections"
+        },
+        {
+          "name": "Topps uk官方日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps de官方日历",
+          "url": "https://de.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps fr官方日历",
+          "url": "https://fr.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps it官方日历",
+          "url": "https://it.topps.com/release-calendar"
+        }
+      ]
+    },
+    {
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "verifiedAt": "2026-10-16T10:08:29+08:00",
+      "timing": null,
+      "id": "psg-legends-paris",
+      "product": "2026 Topps Legends Paris Saint-Germain（巴黎旗舰店限定）",
+      "region": "法国巴黎Fanatics Collectibles旗舰店",
+      "sourceEvidence": "法国Topps开业说明确认10月23日开业当天，中选者可领取店内独占PSG Legends，购买资格通过EQL抽选分配。",
+      "notes": [
+        "此节点为开业限定商品首售／领取安排；抽选开放和截止时刻未确认，不另造预售节点。",
+        "官方邀请观众16点前参加仪式，不能把16点作为商品抽签或领取时刻。",
+        "不代表全球官网同步现货；与Collector Tin是不同产品。"
+      ],
+      "sources": [
+        {
+          "name": "Topps法国：巴黎旗舰店开业商品安排",
+          "url": "https://fr.topps.com/pages/fanatics-collectibles-paris-store"
+        },
+        {
+          "name": "Checklist Insider：PSG Legends 10月15日指南",
+          "url": "https://www.checklistinsider.com/2026-topps-legends-paris-saint-germain"
+        }
+      ]
     }
   ],
   "review": [
@@ -9824,7 +10068,7 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "英文官网写10月23日英／法／中文版发行；简中官网写10月24日英／法／中文版同步发行；日文官网明确10月23日为太平洋时间日期。未公布可验证的统一开售时刻，不能自动换算或认定中国大陆当地发售日。 补查到9月26日经认证大陆官方微博也写10月23日上市，仍与简中全球概览24日不同；未在本轮直接抹去历史冲突。",
-      "verifiedAt": "2026-10-15T10:08:14+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "保留原ID及原始10月23日来源历史；改放待核区，不把10月24日直接替换成已核实大陆发售日。",
         "Riot简中文章给出的系列名为“辉耀群星”；该全球网站本地化文章不等于中国大陆各SKU发行公告。",
@@ -9832,7 +10076,8 @@
         "此前核验记录（2026-10-08）：全球官方确认中文版同日推出；大陆官网未能读取，中文正式系列名与大陆各SKU详情仍待核实。",
         "2026-10-14复核：英文概览仍列23日发售、16—22日售前；简中概览仍列24日发售、17—23日售前，简中10月12日指南仍列16日起一周。未取得可消除这些日期差异的统一时刻或更正说明，继续待核。",
         "补充大陆社媒证据：新浪公开页显示经认证的“英雄联盟对战卡牌官方微博”9月26日08:30原帖写10月23日上市；这与简中全球概览10月24日仍不一致。本条继续保留日期冲突，并非没有找到23日的中文官方说法。",
-        "2026-10-15复核后差异仍存在：简中概览售前17—23日、发售24日；英文概览售前16—22日、发售23日；简中售前指南写16日起一周。大陆认证微博9月26日原文仍为23日，未取得解释差异的更正或统一时刻，继续待核。"
+        "2026-10-15复核后差异仍存在：简中概览售前17—23日、发售24日；英文概览售前16—22日、发售23日；简中售前指南写16日起一周。大陆认证微博9月26日原文仍为23日，未取得解释差异的更正或统一时刻，继续待核。",
+        "2026-10-16复核：此前地区或列表／详情日期冲突仍未消除，保持待核。"
       ],
       "sources": [
         {
@@ -9872,12 +10117,13 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "10月12日16:00 UTC上线的简中售前指南写10月16日开始、持续一周；简中系列概览仍写10月17—23日。未取得大陆当地场次或统一时刻，保留待核。",
-      "verifiedAt": "2026-10-15T10:08:14+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "本记录仅针对中文售前活动日期；不改变现有海外16—22日节点或中文正式发售日期待核记录。",
         "抽签、售前活动和商品正式发售分开；本轮没有将Radiance抽签写成公开预售。",
         "2026-10-14复核：英文概览仍列23日发售、16—22日售前；简中概览仍列24日发售、17—23日售前，简中10月12日指南仍列16日起一周。未取得可消除这些日期差异的统一时刻或更正说明，继续待核。",
-        "2026-10-15复核后差异仍存在：简中概览售前17—23日、发售24日；英文概览售前16—22日、发售23日；简中售前指南写16日起一周。大陆认证微博9月26日原文仍为23日，未取得解释差异的更正或统一时刻，继续待核。"
+        "2026-10-15复核后差异仍存在：简中概览售前17—23日、发售24日；英文概览售前16—22日、发售23日；简中售前指南写16日起一周。大陆认证微博9月26日原文仍为23日，未取得解释差异的更正或统一时刻，继续待核。",
+        "2026-10-16复核：此前地区或列表／详情日期冲突仍未消除，保持待核。"
       ],
       "sources": [
         {
@@ -9909,14 +10155,15 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "同一亚洲英语官网商品列表显示October 30, 2026；EB-05详情主视觉文字与Release Date均显示October 31, 2026。不能擅选一个日期，也不能与欧美版或日本版日历合并。",
-      "verifiedAt": "2026-10-15T10:09:50+08:00",
+      "verifiedAt": "2026-10-16T10:08:00+08:00",
       "notes": [
         "这两个页面属于同一地区来源内部不一致，保留10月月份，在待核区展示。",
         "地区官网语言不自动等于实际卡牌语言；未从本地化页面推断简体中文版。",
         "2026-10-13复核：亚洲英语列表仍为10月30日，繁中列表仍为10月31日；两地区EB-05详情均读取失败。未取得解除历史列表／详情冲突的证据，保留原始证据、月份和待核状态。",
         "2026-10-14复核：列表仍显示October 30, 2026；详情主视觉和Release Date表格均为October 31, 2026。详情本轮已能读取，但同一地区日期冲突仍存在，继续置于review。",
         "2026-10-15复核：亚洲英语商品列表仍为October 30, 2026，详情主视觉及Release Date仍为October 31, 2026。同地区日期冲突未解除，date保持null、announcedMonth保持2026-10，继续置于review。",
-        "2026-10-15语言核实：已查看该亚洲英语详情直接引用的官方商品包装，包装为日文（エクストラブースター、全75種+2種、1パック6枚入り）；详情将英文版另行链接至欧美官网。商品语言由待核改为日语，日期待核状态不变。"
+        "2026-10-15语言核实：已查看该亚洲英语详情直接引用的官方商品包装，包装为日文（エクストラブースター、全75種+2種、1パック6枚入り）；详情将英文版另行链接至欧美官网。商品语言由待核改为日语，日期待核状态不变。",
+        "2026-10-16复核：此前地区或列表／详情日期冲突仍未消除，保持待核。"
       ],
       "sources": [
         {
