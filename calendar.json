@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-10-16",
+  "asOf": "2026-10-17",
   "coverage": [
     "范围：2026年10月公开来源核实的产品／地区节点，含月初已过日期与未来日期；不是全球全品牌全SKU穷尽表，也不是独立产品款数。",
     "默认仅展示正式发售；可筛选全部、预售、众筹及售前活动。官方未来日期可能调整，来源证据等级不等于库存或购买保证。",
@@ -240,7 +240,24 @@
     "2026-10-16补充覆盖边界：宝可梦美国十月月表正文仅返回iframe、普通日本目录仅静态导航；日本周年27款完整表与中国嗨皮产品规格可直读，原日期未变。航海王中国首页仅JS框架，既有商品接口本轮未能访问，不能沿用昨日全表已核状态冒充今日复核。",
     "2026-10-16补核：Magic现行系列、Secret Lair Bundle和Festival in a Box日期未变，三种新drop／组合仍为soon；Lorcana美日现行产品目录日期未变。新官网仅确认美国两个商业区，旧备注中具体美国店名依此前二级来源，未由本篇新公告重新确认。",
     "2026-10-16追加时刻复核：Heritage Football欧洲英德法西四地区由此前15:00 UTC更正为现行日历一致的16:00 UTC，北京时间10月22日00:00；保持地区与SKU范围，意大利独立无时刻记录不合并。",
-    "2026-10-16追加七地区日历时刻核查：Holiday Baseball欧洲五区补14:00 UTC；Vault Disney拆分美国18:00 UTC与欧洲五区15:00 UTC，来源日期均10月21日，保留原ID及历史资料。"
+    "2026-10-16追加七地区日历时刻核查：Holiday Baseball欧洲五区补14:00 UTC；Vault Disney拆分美国18:00 UTC与欧洲五区15:00 UTC，来源日期均10月21日，保留原ID及历史资料。",
+    "2026-10-17核查：新闻目标窗口为北京时间2026年10月16日10:00至17日10:00；研究从09:56开始、部分复核在10:00后完成。只有日期而无时刻的文章不声称精确位于滚动24小时内；实时状态不倒推截稿时库存。",
+    "2026-10-17核查：本期覆盖并非全网穷尽。旧公告补漏、预览、预售、众筹、正式发售和实际到货分开；没有可靠新动态的IP不凑条目。",
+    "2026-10-17核查：万智牌10月16日三篇官网增量为星际迷航区域延迟、预览日程和漫威Secret Lair倒数套装。星际迷航预览10月20日／完整图库30日属于媒体节点，不放入产品发售月历；区域到货延误也不改写成全系列改期。",
+    "2026-10-17核查：宝可梦中国10月16日六条新品目录已出现，本期直读宝石包VOL.7、可达鸭卡册与徽章套装第二弹正文，确认11月6日10时。其他黑白主题补充包等正文图像或访问缺口未补全，不能把三项日期外推全部新品。",
+    "2026-10-17核查：符文战场10月16日最后更新补齐两副预组及Nexus Night奖励池；中英文概览日期差异仍在，原中文发行与售前review保留。抽签不是公开预售。",
+    "2026-10-17核查：高达10月16日GD06发售活动已读取，为10月30日至11月8日推荐现开活动；不将赛事窗口另造售前／商品发行节点。其产品地区日期仍按各自来源处理。",
+    "2026-10-17核查：ONE PIECE独立核完整地区产品目录，补入亚洲英语与繁中官网HEROINES PRECIOUS BOX 10月31日两条地区节点。单售EB05亚洲英语列表30日／详情31日冲突保持review；地区网站语言不自动等于产品语言。",
+    "2026-10-17核查：桌游独立整月核查覆盖Asmodee十月发行页及逐商品正文、Hachette美国六款、FFG、Renegade、摩点预热与在筹前三页、SPIEL。19条Asmodee美国日期为旧档期补漏，不包装成今日新公告；分类名不替代商品正文日期。",
+    "2026-10-17核查：摩点本轮工具返回3—4天缓存，不能声称实时开筹状态；浮生聊斋列表30日、详情20日08:00仍冲突。新物集4395正文及4395／4376接口不可读，保留覆盖缺口；日志式单人跑团沿用非桌游范围排除。",
+    "2026-10-17核查：Hachette16／23日、FFG21日开筹未见变动；Renegade发行表显示11月16日但商品名未渲染，不回滚既有Heroscape核验。Carcassonne博物馆活动开幕不是已核首售日期；Faraway只有展会和北美第四季度窗口，不伪造具体日。",
+    "2026-10-17核查：Topps美、英、德、法、意、西、日七区日历与Checklist Insider完整十月清单独立对照；新补美国Stadium Club Basketball预售、Bowman Football Sapphire发行、Chrome Football普通版预售及欧洲Pro Debut预售。滚动列表移除旧日期不等于取消发行。",
+    "2026-10-17核查：意大利Heritage本轮补16:00 UTC，PSG铁盒补西班牙地区；其他现行显示时刻已与旧记录对照。GPK设计正文本轮恢复可读，但署名10月15日，未当作本日新公告。",
+    "2026-10-17核查：Samurai Japan专业来源更新报道10月30日及Collector’s盒签名配率更正；旧官方正文不可读，原ID移review，历史10月16日依据完整保留。KAWS、F1 FDI、Heritage Mega与篮球旧指南争议继续待核。",
+    "2026-10-17核查：Chrome Football官方FDI拍卖页跳转登录，未登录；售罄仅依专业来源归因。Hobby发行仍TBA，FDI预计11月13日不能扩展为全系列官方日期。",
+    "2026-10-17核查：DAKA官网空正文、微博为旧缓存；CARD.FUN微博旧缓存，card.fun、goods.fun及janime品牌页本轮不可读。不能断言无新品；集卡社迪士尼水晶11月20日仍无官方确认。",
+    "2026-10-17 TCG整月复核补充：Riot产品概览与路线图、Magic现实裂界完整指南及Secret Lair公告、Lorcana美日产品来源、宝可梦中日美商品源、航海王地区目录和高达四区目录已检查。未取得改期证据的原节点保持，新增仅依据本轮具体正文。",
+    "2026-10-17实时覆盖限制：宝可梦美国月表正文仅iframe、仅旧官方索引可读；日本普通目录与部分Takara产品正文未渲染。航海王及高达大陆官网为JS框架，既有公开接口本轮失败。未将这些来源标成今日完整实时直读。"
   ],
   "coverageSources": [
     {
@@ -2474,6 +2491,110 @@
     {
       "name": "Checklist Insider：PSG Legends 10月15日指南",
       "url": "https://www.checklistinsider.com/2026-topps-legends-paris-saint-germain"
+    },
+    {
+      "name": "Bandai地区HEROINES BOX详情",
+      "url": "https://asia-en.onepiece-cardgame.com/products/heroines-box.html"
+    },
+    {
+      "name": "Bandai地区HEROINES BOX详情",
+      "url": "https://asia-tc.onepiece-cardgame.com/products/heroines-box.html"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/gold-country"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/products/gold-country-bona-fide-bonanza-mini-expansion"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/codenames-critical-role-adventures"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/drillers"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/enchanted-ivy"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/jibber-jabble"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/lost-ruins-of-arnak-surprise-shipment"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/enchanted-ivy-a-grand-birthday"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/mountain-goats-legacy"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/totally-human-planning-committee-mini-expansion"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/products/stonk-market"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/totally-human"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w4-pre-order-products/products/unlock-new-game-adventures"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w4-pre-order-products/products/melodies"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w4-pre-order-products/products/harmonies-crescendo"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w4-pre-order-products/products/citadels-duel"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/products/red-leaf-university"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w5-collection/products/forest-shuffle-smoky-mountains"
+    },
+    {
+      "name": "Asmodee USA：官方商品日期正文",
+      "url": "https://store.asmodee.com/collections/october-w5-collection/products/coffee-rush-winter"
+    },
+    {
+      "name": "宝可梦中国：10月16日官方商品公告",
+      "url": "https://www.pokemon.cn/tcg/product/24281.html"
+    },
+    {
+      "name": "宝可梦中国：10月16日官方商品公告",
+      "url": "https://www.pokemon.cn/tcg/product/22759.html"
+    },
+    {
+      "name": "Topps：Stadium Club Basketball",
+      "url": "https://www.topps.com/pages/topps-stadium-club-basketball"
+    },
+    {
+      "name": "Topps：Bowman Football Sapphire",
+      "url": "https://www.topps.com/pages/bowman-football-sapphire-edition"
+    },
+    {
+      "name": "Topps英国Pro Debut",
+      "url": "https://uk.topps.com/pages/topps-pro-debut-baseball"
     }
   ],
   "events": [
@@ -3588,14 +3709,19 @@
       "sourceTimezone": null,
       "sourceTime": null,
       "sourceEvidence": "该来源将 2026 Topps Stadium Club WWE 列为 2026-10-23 的发售节点。",
-      "verifiedAt": "2026-10-08T02:28:00+08:00",
+      "verifiedAt": "2026-10-17T09:58:00+08:00",
       "notes": [
-        "Hobby、Mega、Value同日归组；预售在9月。"
+        "Hobby、Mega、Value同日归组；预售在9月。",
+        "10月16日官方新指南再次确认10月23日，Hobby16包×8张、2签；日期不变。"
       ],
       "sources": [
         {
           "name": "Topps 官方",
           "url": "https://www.topps.com/products/2026-topps-stadium-club-wwe-hobby-box-sealed-case"
+        },
+        {
+          "name": "Topps Ripped：官方正文补核",
+          "url": "https://ripped.topps.com/2026-topps-stadium-club-wwe-cards-collector-guide/"
         }
       ],
       "timing": null
@@ -4052,11 +4178,12 @@
       "sourceTimezone": "UTC",
       "sourceTime": "16:00",
       "sourceEvidence": "美国官方日历列10月22日16:00 UTC；现行系列页列10月22日12pm ET。日期未变，本轮补齐已公布时刻。",
-      "verifiedAt": "2026-10-16T10:07:00+08:00",
+      "verifiedAt": "2026-10-17T09:58:00+08:00",
       "notes": [
         "本轮新增核实的10月开售节点；未标公告发布时间，不能称为过去24小时首次公布。",
         "尚未核到售价、盒配、开售时刻与发货安排。",
-        "2026-10-16补核：已确认开售时刻；旧未核时刻备注为历史。北京时间为10月23日00:00，不等于国内到货。"
+        "2026-10-16补核：已确认开售时刻；旧未核时刻备注为历史。北京时间为10月23日00:00，不等于国内到货。",
+        "2026-10-17直接读取10月15日设计文章成功，之前403为历史状态；旧文章不算今日新公告。"
       ],
       "sources": [
         {
@@ -4070,6 +4197,10 @@
         {
           "name": "Topps：现行GPK Halloween页面",
           "url": "https://www.topps.com/pages/garbage-pail-kids-halloween"
+        },
+        {
+          "name": "Topps Ripped：官方正文补核",
+          "url": "https://ripped.topps.com/2026-garbage-pail-kids-halloween-design/"
         }
       ],
       "timing": {
@@ -9262,12 +9393,13 @@
       ],
       "evidenceLevel": "official",
       "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "意大利系列页明确Hobby/Value于10月21日，Mega11月4日；意大利日历本轮仅出现无日期预售标签，没有可换算时刻。",
-      "verifiedAt": "2026-10-15T10:06:16+08:00",
+      "sourceTimezone": "UTC",
+      "sourceTime": "16:00",
+      "sourceEvidence": "本轮意大利官方日历已明确10月21日16:00 UTC，与欧洲其他四区一致。",
+      "verifiedAt": "2026-10-17T09:58:00+08:00",
       "notes": [
-        "从旧heritage-football地区范围拆分，保留系列页的明确发行日；不把无日期预售标签当新的预售开始日。"
+        "从旧heritage-football地区范围拆分，保留系列页的明确发行日；不把无日期预售标签当新的预售开始日。",
+        "2026-10-17补核：此前只有日期的历史状态已补齐时刻，北京时间10月22日00:00；Mega仍待核。"
       ],
       "sources": [
         {
@@ -9279,7 +9411,11 @@
           "url": "https://it.topps.com/release-calendar"
         }
       ],
-      "timing": null
+      "timing": {
+        "localTime": "16:00",
+        "utcOffset": "+00:00",
+        "evidence": "意大利现行日历明确10月21日16:00 UTC。"
+      }
     },
     {
       "id": "holiday-baseball-eu",
@@ -9662,41 +9798,6 @@
       "timing": null
     },
     {
-      "id": "samurai-japan",
-      "product": "2026 Topps Chrome Baseball Team Samurai Japan Collection",
-      "category": "cards",
-      "brand": "Topps",
-      "nodeType": "release",
-      "date": "2026-10-16",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "地区未明确",
-      "languages": [
-        "未核实"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "official",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "官方Topps Ripped盒型指南与10月2日收藏指南均列10月16日发行；后者明确经Topps.com的EQL销售。未核到精确时刻或完整销售地区。",
-      "verifiedAt": "2026-10-15T10:06:16+08:00",
-      "notes": [
-        "日本国家队主题，不自动等于仅日本或日文版。Collector’s Box与Single Pack Box归组。",
-        "2026-10-15补核：Topps Ripped 10月2日官方指南确认10月16日通过Topps.com的EQL发行；现行系列页未给精确时刻，不据页面状态推定报名已开放。"
-      ],
-      "sources": [
-        {
-          "name": "Topps Ripped",
-          "url": "https://ripped.topps.com/topps-chrome-baseball-samurai-japan-box-guide/"
-        },
-        {
-          "name": "Topps Ripped：10月2日Samurai Japan发行与销售方式",
-          "url": "https://ripped.topps.com/2026-topps-chrome-baseball-team-samurai-japan-collection-guide/"
-        }
-      ],
-      "timing": null
-    },
-    {
       "id": "f1-main",
       "product": "2026 Topps Chrome Formula 1（Hobby / Value / Mega）",
       "category": "cards",
@@ -9991,16 +10092,17 @@
       "announcementStatus": "官方已公布",
       "sourceTimezone": null,
       "sourceTime": null,
-      "verifiedAt": "2026-10-16T10:08:29+08:00",
+      "verifiedAt": "2026-10-17T09:58:00+08:00",
       "timing": null,
       "id": "psg-collector-tin",
       "product": "Topps Collector Tin Paris Saint-Germain 2026/27",
-      "region": "英国/德国/法国/意大利官网",
+      "region": "英国/德国/法国/意大利/西班牙官网",
       "sourceEvidence": "英国系列页明确PSG 2026/27铁盒10月23日可售，英国、德国、法国、意大利日历同列当日Official Club Collector Tins。",
       "notes": [
         "不同球队铁盒分别定档，不改此前Arsenal节点。",
         "未提供精确时刻和本产品独立价格；其他球队24.99英镑不能直接套用。",
-        "不是同日巴黎旗舰店限定PSG Legends。"
+        "不是同日巴黎旗舰店限定PSG Legends。",
+        "2026-10-17西班牙日历及系列页也直接确认10月23日PSG铁盒，补入地区；无统一时刻。"
       ],
       "sources": [
         {
@@ -10022,6 +10124,14 @@
         {
           "name": "Topps it官方日历",
           "url": "https://it.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps西班牙官方日历",
+          "url": "https://es.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps西班牙：PSG铁盒日期",
+          "url": "https://es.topps.com/pages/football-club-collections"
         }
       ]
     },
@@ -10115,6 +10225,922 @@
         "utcOffset": "+00:00",
         "evidence": "欧洲五地区官方日历明示15:00 UTC。"
       }
+    },
+    {
+      "id": "onepiece-heroines-box-asia",
+      "product": "ONE PIECE HEROINES PRECIOUS BOX",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "亚洲英语官网适用地区",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方地区列表与详情一致",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-10-17本地区官方商品列表与HEROINES PRECIOUS BOX详情均列10月31日，独立于单售EB-05日期。",
+      "verifiedAt": "2026-10-17T09:57:30+08:00",
+      "notes": [
+        "十月全月补漏，不是今日首次公布；网页语言不等于实际卡牌语言。",
+        "与日本版原节点分地区保留；不据此消除亚洲英语单售EB-05列表30日对详情31日冲突。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai地区HEROINES BOX详情",
+          "url": "https://asia-en.onepiece-cardgame.com/products/heroines-box.html"
+        },
+        {
+          "name": "Bandai地区完整商品目录",
+          "url": "https://asia-en.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-heroines-box-hant",
+      "product": "ONE PIECE HEROINES PRECIOUS BOX",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-10-31",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "亚洲繁中官网适用地区",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方地区列表与详情一致",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-10-17本地区官方商品列表与HEROINES PRECIOUS BOX详情均列10月31日，独立于单售EB-05日期。",
+      "verifiedAt": "2026-10-17T09:57:30+08:00",
+      "notes": [
+        "十月全月补漏，不是今日首次公布；网页语言不等于实际卡牌语言。",
+        "与日本版原节点分地区保留；不据此消除亚洲英语单售EB-05列表30日对详情31日冲突。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai地区HEROINES BOX详情",
+          "url": "https://asia-tc.onepiece-cardgame.com/products/heroines-box.html"
+        },
+        {
+          "name": "Bandai地区完整商品目录",
+          "url": "https://asia-tc.onepiece-cardgame.com/products/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-gold-country-us",
+      "product": "Gold Country",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU BTW2300；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/gold-country"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-gold-country-bona-fide-bonanza-us",
+      "product": "Gold Country: Bona Fide Bonanza Mini Expansion",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU BTW2303；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/products/gold-country-bona-fide-bonanza-mini-expansion"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-codenames-critical-role-adventures-us",
+      "product": "Codenames: Critical Role Adventures",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU CGE00148；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/codenames-critical-role-adventures"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-drillers-us",
+      "product": "Drillers",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU CGE00146；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/drillers"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-enchanted-ivy-us",
+      "product": "Enchanted Ivy",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU GME-ENIV；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/enchanted-ivy"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-jibber-jabble-us",
+      "product": "Jibber Jabble",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU GME-JIJA；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/jibber-jabble"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-arnak-surprise-shipment-us",
+      "product": "Lost Ruins of Arnak: Surprise Shipment",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU CGE00150；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/lost-ruins-of-arnak-surprise-shipment"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-enchanted-ivy-grand-birthday-us",
+      "product": "Enchanted Ivy: A Grand Birthday",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU GME-ENIVX；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/enchanted-ivy-a-grand-birthday"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-mountain-goats-legacy-us",
+      "product": "Mountain Goats Legacy",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU GME-MGL；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/mountain-goats-legacy"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-totally-human-planning-committee-us",
+      "product": "Totally Human: Planning Committee Mini Expansion",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU BTW2601；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/totally-human-planning-committee-mini-expansion"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-stonk-market-us",
+      "product": "Stonk Market",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU GME-STMA；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/products/stonk-market"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-totally-human-us",
+      "product": "Totally Human",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月16日发行，SKU BTW2600；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w3-pre-order-products/products/totally-human"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-unlock-new-game-adventures-us",
+      "product": "Unlock!: New Game Adventures",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月23日发行，SKU SCUNL15EN；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w4-pre-order-products/products/unlock-new-game-adventures"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-melodies-us",
+      "product": "Melodies",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月23日发行，SKU NMG60180EN；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w4-pre-order-products/products/melodies"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-harmonies-crescendo-us",
+      "product": "Harmonies Crescendo",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月23日发行，SKU LIBTL02EN；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w4-pre-order-products/products/harmonies-crescendo"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-citadels-duel-us",
+      "product": "Citadels Duel",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月23日发行，SKU ZMGCDS0101EN；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w4-pre-order-products/products/citadels-duel"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-red-leaf-university-us",
+      "product": "Red Leaf University",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-23",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月23日发行，SKU GRL-FAC-001-704；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/products/red-leaf-university"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-forest-shuffle-smoky-mountains-us",
+      "product": "Forest Shuffle Smoky Mountains",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月30日发行，SKU LOG019501EN；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w5-collection/products/forest-shuffle-smoky-mountains"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-coffee-rush-winter-us",
+      "product": "Coffee Rush Winter",
+      "category": "board",
+      "brand": "Asmodee USA",
+      "nodeType": "release",
+      "date": "2026-10-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国",
+      "languages": [
+        "未单独核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方商品正文确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品正文明确2026年10月30日发行，SKU KBGCRW0101；未以预购分类名称代替正文日期。",
+      "verifiedAt": "2026-10-17T09:59:00+08:00",
+      "notes": [
+        "十月整月独立核查的旧档期补录，不是10月17日首次公布。",
+        "只代表美国发行节点；未核统一时刻、实时库存或中国大陆到货。"
+      ],
+      "sources": [
+        {
+          "name": "Asmodee USA：官方商品日期正文",
+          "url": "https://store.asmodee.com/collections/october-w5-collection/products/coffee-rush-winter"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-gemstone-vol7-cn",
+      "product": "Pokémon宝石包 VOL.7",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-11-06",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": "中国大陆公告；正文未单列时区偏移",
+      "sourceTime": "10:00",
+      "sourceEvidence": "2026年10月16日官方正文商品规格明确11月6日10时起；不伪造原文未写出的UTC偏移。",
+      "verifiedAt": "2026-10-17T09:59:36+08:00",
+      "notes": [
+        "建议零售价10元／4张闪卡；不是十月正式发售。",
+        "明确日期是官方发售安排，不代表每家门店现货或统一到货。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦中国：10月16日官方商品公告",
+          "url": "https://www.pokemon.cn/tcg/product/24281.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-gemstone-vol7-psyduck-binder-cn",
+      "product": "Pokémon宝石包 VOL.7 可达鸭收藏卡册",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-11-06",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文主题周边"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": "中国大陆公告；正文未单列时区偏移",
+      "sourceTime": "10:00",
+      "sourceEvidence": "2026年10月16日官方正文商品规格明确11月6日10时起；不伪造原文未写出的UTC偏移。",
+      "verifiedAt": "2026-10-17T09:59:36+08:00",
+      "notes": [
+        "建议零售价15元，共30格；不是十月正式发售。",
+        "明确日期是官方发售安排，不代表每家门店现货或统一到货。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦中国：10月16日官方商品公告",
+          "url": "https://www.pokemon.cn/tcg/product/24281.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-gemstone-badges-vol2-cn",
+      "product": "宝石包徽章套装第二弹",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-11-06",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": "中国大陆公告；正文未单列时区偏移",
+      "sourceTime": "10:00",
+      "sourceEvidence": "2026年10月16日官方正文商品规格明确11月6日10时起；不伪造原文未写出的UTC偏移。",
+      "verifiedAt": "2026-10-17T09:59:36+08:00",
+      "notes": [
+        "建议零售价39元，含VOL.4、5、6各1包与随机徽章，不含VOL.7；不是十月正式发售。",
+        "明确日期是官方发售安排，不代表每家门店现货或统一到货。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦中国：10月16日官方商品公告",
+          "url": "https://www.pokemon.cn/tcg/product/22759.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "category": "cards",
+      "brand": "Topps",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "verifiedAt": "2026-10-17T09:58:00+08:00",
+      "id": "stadium-basketball-us-pre",
+      "product": "2025-26 Topps Stadium Club Basketball",
+      "nodeType": "preorder",
+      "date": "2026-10-27",
+      "region": "美国官网",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "sourceEvidence": "美国日历10月27日标Pre-order，系列页也明确当日预售。",
+      "notes": [
+        "页面未标公告时间或正式发行日，不当作近24小时首次公布。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官方日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps：Stadium Club Basketball",
+          "url": "https://www.topps.com/pages/topps-stadium-club-basketball"
+        }
+      ],
+      "pendingReleaseEvidence": "官方目前只确认10月27日预售，正式发行日未核实。"
+    },
+    {
+      "category": "cards",
+      "brand": "Topps",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "verifiedAt": "2026-10-17T09:58:00+08:00",
+      "id": "bowman-football-sapphire-us",
+      "product": "2026 Bowman Football Sapphire Edition",
+      "nodeType": "release",
+      "date": "2026-10-29",
+      "region": "美国官网",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "sourceEvidence": "美国日历列10月29日且无预售标记，系列页明确Available October29。",
+      "notes": [
+        "本轮补入直接官方日期，不推定国内交付或具体盒型价格。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官方日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps：Bowman Football Sapphire",
+          "url": "https://www.topps.com/pages/bowman-football-sapphire-edition"
+        }
+      ]
+    },
+    {
+      "category": "cards",
+      "brand": "Topps",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "verifiedAt": "2026-10-17T09:58:00+08:00",
+      "id": "chrome-football-us-pre",
+      "product": "2026 Topps Chrome Football（美国普通版预售）",
+      "nodeType": "preorder",
+      "date": "2026-10-19",
+      "region": "美国官网",
+      "sourceTimezone": "UTC",
+      "sourceTime": "17:00",
+      "timing": {
+        "localTime": "17:00",
+        "utcOffset": "+00:00",
+        "evidence": "美国日历17:00 UTC与系列页1pm ET一致。"
+      },
+      "sourceEvidence": "美国日历明确10月19日17:00 UTC预售，系列页列普通版分渠道购买方式。",
+      "notes": [
+        "北京时间10月20日01:00，与10月16日FDI拍卖独立。",
+        "Hobby、Jumbo及Hobby整箱走EQL；Hanger、Value、Mega直售。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官方日历",
+          "url": "https://www.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps美国普通版预售",
+          "url": "https://www.topps.com/pages/topps-chrome-football"
+        }
+      ],
+      "pendingReleaseEvidence": "Hobby正式发行仍未确认；专业来源11月13日仅为FDI预计日期，不能外推。"
+    },
+    {
+      "category": "cards",
+      "brand": "Topps",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "verifiedAt": "2026-10-17T09:58:00+08:00",
+      "id": "pro-debut-eu-pre",
+      "product": "2026 Topps Pro Debut Baseball（欧洲预售）",
+      "nodeType": "preorder",
+      "date": "2026-10-19",
+      "region": "英国/德国/法国/意大利/西班牙官网",
+      "sourceTimezone": "UTC",
+      "sourceTime": "14:00",
+      "timing": {
+        "localTime": "14:00",
+        "utcOffset": "+00:00",
+        "evidence": "欧洲五区现行日历均明确14:00 UTC预售。"
+      },
+      "sourceEvidence": "欧洲五区日历10月19日14:00 UTC预售；英国系列页15:00未标时区，以日历UTC为换算依据。",
+      "notes": [
+        "北京时间10月19日22:00；美国同日16:00 UTC保留独立原节点。"
+      ],
+      "sources": [
+        {
+          "name": "Topps uk官方日历",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps de官方日历",
+          "url": "https://de.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps fr官方日历",
+          "url": "https://fr.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps it官方日历",
+          "url": "https://it.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps es官方日历",
+          "url": "https://es.topps.com/release-calendar"
+        },
+        {
+          "name": "Topps英国Pro Debut",
+          "url": "https://uk.topps.com/pages/topps-pro-debut-baseball"
+        }
+      ],
+      "pendingReleaseEvidence": "官方仅核到预售，正式发行日期仍待确认。"
     }
   ],
   "review": [
@@ -10499,6 +11525,46 @@
         {
           "name": "Topps美国：Flagship Basketball Mega三处11月12日",
           "url": "https://www.topps.com/products/2026-27-topps-flagship-basketball-mega-box"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "samurai-japan",
+      "product": "2026 Topps Chrome Baseball Team Samurai Japan Collection",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-10-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "地区未明确",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "conflict",
+      "announcementStatus": "专业来源改期，官方补证未取得",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Checklist Insider现列10月30日，与原有10月16日官方资料不一致；本轮未取得官方新公告消除冲突。",
+      "verifiedAt": "2026-10-17T09:58:15+08:00",
+      "notes": [
+        "日本国家队主题，不自动等于仅日本或日文版。Collector’s Box与Single Pack Box归组。",
+        "2026-10-15补核：Topps Ripped 10月2日官方指南确认10月16日通过Topps.com的EQL发行；现行系列页未给精确时刻，不据页面状态推定报名已开放。",
+        "2026-10-17复核：原10月16日日期保留为历史依据；Checklist Insider页面10月16日更新、正文10月15日更正，改列10月30日并报道签名配率更正。旧官方来源本轮访问失败，新日期未独立取得官方补证，移入待核区。"
+      ],
+      "sources": [
+        {
+          "name": "Topps Ripped",
+          "url": "https://ripped.topps.com/topps-chrome-baseball-samurai-japan-box-guide/"
+        },
+        {
+          "name": "Topps Ripped：10月2日Samurai Japan发行与销售方式",
+          "url": "https://ripped.topps.com/2026-topps-chrome-baseball-team-samurai-japan-collection-guide/"
+        },
+        {
+          "name": "Checklist Insider：10月16日更新及10月15日更正",
+          "url": "https://www.checklistinsider.com/2026-topps-chrome-samurai-japan-baseball"
         }
       ],
       "timing": null
