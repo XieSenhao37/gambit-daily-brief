@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-16",
+  "latestIssue": "2026-10-17",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -2447,6 +2447,278 @@
             {
               "name": "Checklist Insider：10月15日F1发行更新",
               "url": "https://www.checklistinsider.com/2026-topps-chrome-formula-1-racing"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-17": {
+      "issue": "2026-10-17",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "mtg-star-trek-regional-delays-20261017",
+        "pokemon-gem-pack-seven-cn-20261017",
+        "cards-samurai-japan-date-review-20261017"
+      ],
+      "coverage": [
+        "新闻目标窗口为北京时间2026年10月16日10:00至17日10:00；研究从09:56开始、部分复核在10:00后完成。只有日期而无时刻的文章不声称精确位于滚动24小时内；实时状态不倒推截稿时库存。",
+        "本期覆盖并非全网穷尽。旧公告补漏、预览、预售、众筹、正式发售和实际到货分开；没有可靠新动态的IP不凑条目。",
+        "万智牌10月16日三篇官网增量为星际迷航区域延迟、预览日程和漫威Secret Lair倒数套装。星际迷航预览10月20日／完整图库30日属于媒体节点，不放入产品发售月历；区域到货延误也不改写成全系列改期。",
+        "宝可梦中国10月16日六条新品目录已出现，本期直读宝石包VOL.7、可达鸭卡册与徽章套装第二弹正文，确认11月6日10时。其他黑白主题补充包等正文图像或访问缺口未补全，不能把三项日期外推全部新品。",
+        "符文战场10月16日最后更新补齐两副预组及Nexus Night奖励池；中英文概览日期差异仍在，原中文发行与售前review保留。抽签不是公开预售。",
+        "高达10月16日GD06发售活动已读取，为10月30日至11月8日推荐现开活动；不将赛事窗口另造售前／商品发行节点。其产品地区日期仍按各自来源处理。",
+        "ONE PIECE独立核完整地区产品目录，补入亚洲英语与繁中官网HEROINES PRECIOUS BOX 10月31日两条地区节点。单售EB05亚洲英语列表30日／详情31日冲突保持review；地区网站语言不自动等于产品语言。",
+        "桌游独立整月核查覆盖Asmodee十月发行页及逐商品正文、Hachette美国六款、FFG、Renegade、摩点预热与在筹前三页、SPIEL。19条Asmodee美国日期为旧档期补漏，不包装成今日新公告；分类名不替代商品正文日期。",
+        "摩点本轮工具返回3—4天缓存，不能声称实时开筹状态；浮生聊斋列表30日、详情20日08:00仍冲突。新物集4395正文及4395／4376接口不可读，保留覆盖缺口；日志式单人跑团沿用非桌游范围排除。",
+        "Hachette16／23日、FFG21日开筹未见变动；Renegade发行表显示11月16日但商品名未渲染，不回滚既有Heroscape核验。Carcassonne博物馆活动开幕不是已核首售日期；Faraway只有展会和北美第四季度窗口，不伪造具体日。",
+        "Topps美、英、德、法、意、西、日七区日历与Checklist Insider完整十月清单独立对照；新补美国Stadium Club Basketball预售、Bowman Football Sapphire发行、Chrome Football普通版预售及欧洲Pro Debut预售。滚动列表移除旧日期不等于取消发行。",
+        "意大利Heritage本轮补16:00 UTC，PSG铁盒补西班牙地区；其他现行显示时刻已与旧记录对照。GPK设计正文本轮恢复可读，但署名10月15日，未当作本日新公告。",
+        "Samurai Japan专业来源更新报道10月30日及Collector’s盒签名配率更正；旧官方正文不可读，原ID移review，历史10月16日依据完整保留。KAWS、F1 FDI、Heritage Mega与篮球旧指南争议继续待核。",
+        "Chrome Football官方FDI拍卖页跳转登录，未登录；售罄仅依专业来源归因。Hobby发行仍TBA，FDI预计11月13日不能扩展为全系列官方日期。",
+        "DAKA官网空正文、微博为旧缓存；CARD.FUN微博旧缓存，card.fun、goods.fun及janime品牌页本轮不可读。不能断言无新品；集卡社迪士尼水晶11月20日仍无官方确认。",
+        "2026-10-17 TCG整月复核补充：Riot产品概览与路线图、Magic现实裂界完整指南及Secret Lair公告、Lorcana美日产品来源、宝可梦中日美商品源、航海王地区目录和高达四区目录已检查。未取得改期证据的原节点保持，新增仅依据本轮具体正文。",
+        "2026-10-17实时覆盖限制：宝可梦美国月表正文仅iframe、仅旧官方索引可读；日本普通目录与部分Takara产品正文未渲染。航海王及高达大陆官网为JS框架，既有公开接口本轮失败。未将这些来源标成今日完整实时直读。"
+      ],
+      "items": [
+        {
+          "id": "mtg-star-trek-regional-delays-20261017",
+          "category": "tcg",
+          "region": "global",
+          "label": "10月16日官方公告",
+          "title": "星际迷航部分地区供货延迟：亚太五类产品可能晚于11月13日",
+          "brand": "Magic · Wizards of the Coast",
+          "published": "2026-10-16（官网未标具体时刻）",
+          "node": "11月6日售前、11月13日正式上市；受影响产品新到货日未定",
+          "priority": "先核实交付承诺",
+          "summary": "亚太聚珍补充包、Omega聚珍单包、Bundle、Beam Me Up及Draft Night可能晚到；Play Boosters和售前赛包仍按计划。",
+          "facts": [
+            "官方因生产和运输问题列出分地区延迟清单，未宣布全系列统一改期，也没有新的确定到货日。",
+            "亚太区受影响为Collector Boosters、Omega Collector Boosters、Bundles、Beam Me Up Bundles及Draft Night；Omega是大型零售渠道的单包聚珍装。",
+            "Scene Boxes的额外亚太说明仅针对新西兰，不能外推至整个亚太。北美和欧洲中东非洲另有不同产品清单，需按原文地区核对。",
+            "Play Boosters及Prerelease Packs仍预计按计划供应售前与上市活动；官方售前自11月6日开始、桌面上市为11月13日。"
+          ],
+          "advice": "按地区和SKU向供货方确认交期，再调整对客承诺；不要将发售日当到货保证，也不要由区域延迟推定某家门店订单已延误或未来价格上涨。",
+          "sources": [
+            {
+              "name": "Wizards：Star Trek部分地区产品延迟",
+              "url": "https://magic.wizards.com/en/news/announcements/star-trek-product-delays-in-select-regions"
+            }
+          ]
+        },
+        {
+          "id": "mtg-star-trek-preview-calendar-20261017",
+          "category": "tcg",
+          "region": "global",
+          "label": "10月16日官方公告",
+          "title": "星际迷航预览日程公布：10月20日首播，30日完整图库",
+          "brand": "Magic · Star Trek",
+          "published": "2026-10-16（官网未标时刻）",
+          "node": "10月20日首播；26—29日四副指挥官预览；30日完整图库",
+          "priority": "安排新卡内容",
+          "summary": "官方公布新卡、机制与特殊处理预览日程；图库工作日更新会滞后于当天发布，不应据图库空缺判断没有新卡。",
+          "facts": [
+            "10月20日官方YouTube与Twitch首播，随后为WeeklyMTG aftershow；本文未列精确首播时刻，日期按官网原始口径。",
+            "预览开始后，卡牌图库每周一至周五早间更新此前已公开卡牌，不包含当天刚公布的所有内容；完整图库计划10月30日上线。",
+            "四副指挥官预览依次为10月26日We Are the Borg、27日Federation Fleet、28日Klingon Fury、29日Landing Party。",
+            "10月21日起官方排表包括中国及其他地区创作者；这些是预览日期，不是实物发售或供货日期。"
+          ],
+          "advice": "可围绕机制、单卡和预组分阶段做内容；追踪原始发布者并复核图库，不以提前曝光或玩家热度代替成交与需求数据。",
+          "sources": [
+            {
+              "name": "Wizards：Star Trek官方预览日程",
+              "url": "https://magic.wizards.com/en/news/announcements/where-to-find-star-trek-previews"
+            }
+          ]
+        },
+        {
+          "id": "mtg-marvel-countdown-kit-20261017",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "10月16日官方新品",
+          "title": "漫威Secret Lair倒数套装11月2日开售，含30张独立包装卡",
+          "brand": "Magic · Secret Lair",
+          "published": "2026-10-16（官网未标时刻）",
+          "node": "2026-11-02 · Secret Lair官网销售；具体发货安排另核",
+          "priority": "区分开售与合法性",
+          "summary": "Marvel’s History of Heroes官方美元价199.99；两张提前出现的Darkhold Destiny新卡要到2027年4月2日才启用赛制合法性。",
+          "facts": [
+            "每套含30张独立包装卡，非闪、闪或Surge Foil处理随机出现；官方公布全部30张牌表。",
+            "美元标价US$199.99，11月2日仅通过Secret Lair官网开售；不能直接当作大陆含税到手价或到货日期。",
+            "Doctor Strange, Master of Magic及Beta Ray Bill来自Darkhold Destiny主系列，官方明确其赛制合法性从2027年4月2日该系列售前开始。",
+            "文章未提供统一开售时刻、发货承诺或每套特定闪卡保底。"
+          ],
+          "advice": "销售介绍同时注明随机处理、两张新卡启用日期及跨境费用；不要把提前拿到卡等同于立即能在正式赛事使用。",
+          "sources": [
+            {
+              "name": "Wizards：Marvel’s History of Heroes套装详情",
+              "url": "https://magic.wizards.com/en/news/announcements/secret-lair-countdown-kit-marvels-history-of-heroes"
+            }
+          ]
+        },
+        {
+          "id": "board-20261017-expansion-roundup",
+          "category": "board",
+          "region": "overseas",
+          "label": "10月16日新报道",
+          "title": "Faraway、Feya’s Swamp等扩展动向：展会版与后续发行分开",
+          "brand": "Board Game Beat · 多家发行商",
+          "published": "2026-10-16（页面06:00未注明时区）",
+          "node": "SPIEL展会版、2026年第四季度及2027年档期分别处理",
+          "priority": "关注基础版玩家",
+          "summary": "Faraway第三扩展加入13张灵体牌；Feya’s Swamp扩展指向2027年，Duel for Middle-earth新扩展计划2027年2月。",
+          "facts": [
+            "10月16日专业报道汇总五款游戏的扩展与赠品，报道日期不等于所有产品首次公布。",
+            "Faraway: Beyond the Veil含13张灵体牌，满足条件后与已打出卡牌叠合；英语展会版在SPIEL Essen 26推出，北美Pandasaurus版计划2026年第四季度。",
+            "Feya’s Swamp: Mushroom Forage计划2027年推出，增加两个部族、三类蘑菇及两项规则。",
+            "Duel for Middle-earth – Journeys报道日期为2027年2月26日；Carcassonne: The Hansa配合10月9日开幕的博物馆活动销售，Toy Battle只预告展会赠品。"
+          ],
+          "advice": "先了解已有基础版玩家的扩展需求；展会销售、北美发行和中文版供货分开，不能用展会首日填所有产品的统一发售日。",
+          "sources": [
+            {
+              "name": "Board Game Beat：10月16日扩展完整报道",
+              "url": "https://www.wericmartin.com/expand-carcassonne-toy-battle-feyas-swamp-and-duel-for-middle-earth/"
+            }
+          ]
+        },
+        {
+          "id": "riftbound-radiance-final-overview-20261017",
+          "category": "tcg",
+          "region": "global",
+          "label": "10月16日官方更新",
+          "title": "辉耀群星补齐双预组牌表与符文之夜奖卡池",
+          "brand": "Riot · 符文战场",
+          "published": "2026-10-16更新（原文9月25日首发，更新时刻未提供）",
+          "node": "辉耀群星预组与店赛奖励；地区日期仍需分别核实",
+          "priority": "更新教学资料",
+          "summary": "萨勒芬妮和伊芙琳完整预组表已列出；符文之夜提供24个奖卡名称，另有璐璐追逐卡与新符文。",
+          "facts": [
+            "英文与简中概览均标注10月16日最后更新，现列两套预组完整组成。",
+            "萨勒芬妮符文池为6 Mind、6 Order；伊芙琳为6 Body、6 Chaos，具体卡名以官方牌表为准。",
+            "Nexus Night常规卡池列24个名称，另展示Lulu, Whimsical及新符文；24不是超编号传奇数量，也不是全部奖励总数。",
+            "更新没有消除英文10月23日发行／16—22日售前与简中24日／17—23日的日期差异。"
+          ],
+          "advice": "据牌表准备教学和奖品说明，同时核当地活动供应；不把全球本地化文章当作大陆每款SKU的到货承诺。",
+          "sources": [
+            {
+              "name": "Riot英文：Radiance最终概览",
+              "url": "https://playriftbound.com/en-us/news/announcements/the-radiance-overview/"
+            },
+            {
+              "name": "Riot简中：辉耀群星最终概览",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/the-radiance-overview/"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-gem-pack-seven-cn-20261017",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "10月16日官方新品",
+          "title": "宝可梦宝石包VOL.7及可达鸭卡册11月6日发售",
+          "brand": "宝可梦中国 · Pokémon宝石包",
+          "published": "2026-10-16（官方日期，无时刻）",
+          "node": "2026-11-06 10时起 · 中国大陆官方商品安排",
+          "priority": "安排收藏向新品",
+          "summary": "宝石包第七弹10元／4张闪卡，可达鸭卡册15元；同日另有39元徽章套装第二弹。",
+          "facts": [
+            "宝石包VOL.7计划11月6日10时发售，建议零售价10元／包、内含4张闪卡，特别收录小霞的可达鸭全新艺术插画闪卡。",
+            "配套可达鸭收藏卡册同日10时发售，建议零售价15元，共30格。",
+            "徽章套装第二弹也在11月6日10时发售，建议零售价39元，含宝石包VOL.4、5、6各1包和随机主题徽章；并不包含新VOL.7包。",
+            "这是三项已直读正文确认的商品，不能将同日其他新品标题的日期和配置由此类推。"
+          ],
+          "advice": "区分VOL.7新包、卡册及内含旧弹的徽章套装，向顾客说明内容；正式开售时间不等于每家门店到货承诺。",
+          "sources": [
+            {
+              "name": "宝可梦中国：宝石包VOL.7与可达鸭卡册",
+              "url": "https://www.pokemon.cn/tcg/product/24281.html"
+            },
+            {
+              "name": "宝可梦中国：徽章套装第二弹",
+              "url": "https://www.pokemon.cn/tcg/product/22759.html"
+            }
+          ]
+        },
+        {
+          "id": "cards-samurai-japan-date-review-20261017",
+          "category": "cards",
+          "region": "overseas",
+          "label": "专业来源更新／待官方补证",
+          "title": "Samurai Japan出现延期与签名配率更正报道，原日期移待核",
+          "brand": "Topps · Chrome Samurai Japan",
+          "published": "2026-10-16页面更新；正文明确标注10月15日更正",
+          "node": "专业来源列2026-10-30；旧10月16日证据保留待核",
+          "priority": "暂停沿用旧概率",
+          "summary": "Checklist Insider报道发行延至10月30日，Collector’s整体签名配率改为约15.65盒1张；本轮未独立取得官方更正原文。",
+          "facts": [
+            "专业来源更新称原概率资料有误，为买家提供取消订单选择，发行延至10月30日；取消条件仍应向实际卖家核对。",
+            "该来源将Collector’s整体签名配率由旧每10盒1张改为约每15.65盒1张，单位是盒，不是包，也不是盒保。",
+            "Collector’s为4包×7张，Single Pack为7张；不能把两种产品按每盒和每包直接比较。",
+            "本轮旧官方日期来源访问失败，未将新媒体日期升级为官方确认；日历原ID移入review保留旧证据。"
+          ],
+          "advice": "核对实际订单的最新概率说明、取消条款和交期；暂停转发旧每10盒1签宣传，不以配率推算某箱保证出签。",
+          "sources": [
+            {
+              "name": "Checklist Insider：Samurai Japan更正与日期说明",
+              "url": "https://www.checklistinsider.com/2026-topps-chrome-samurai-japan-baseball"
+            }
+          ]
+        },
+        {
+          "id": "cards-chrome-football-us-hobby-pre-20261017",
+          "category": "cards",
+          "region": "overseas",
+          "label": "官方预售增量",
+          "title": "Chrome Football美国普通版预售定于北京时间20日凌晨1点",
+          "brand": "Topps · NFL",
+          "published": "官方页面未标更新时间；2026-10-17 09:57北京时间核验",
+          "node": "美国10月19日17:00 UTC预售；欧洲同日15:00 UTC",
+          "priority": "区分盒型与渠道",
+          "summary": "美国普通版时刻获官方确认；Hobby、Jumbo及Hobby整箱走EQL，Hanger、Value和Mega为官网直售。",
+          "facts": [
+            "美国日历明确10月19日17:00 UTC，系列页1pm ET对应北京时间10月20日01:00。",
+            "官方列Hobby、Jumbo和Hobby整箱通过EQL，Hanger、Value、Mega在Topps.com直售；预售不等于必定中选或即时发货。",
+            "Checklist Insider 10月16日更新称FDI拍卖已售罄；官方拍卖地址本轮跳登录，状态仅依专业来源归因。",
+            "专业指南仍把Hobby正式发行列TBA，11月13日仅为FDI预计发行，不代表全系列统一日期。"
+          ],
+          "advice": "采购与报价分别注明地区、普通版或FDI、具体盒型和销售方式，先核交期再承诺到货。",
+          "sources": [
+            {
+              "name": "Topps美国：普通版预售及渠道",
+              "url": "https://www.topps.com/pages/topps-chrome-football"
+            },
+            {
+              "name": "Topps美国官方日历",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Checklist Insider：10月16日状态与分盒型日期",
+              "url": "https://www.checklistinsider.com/2026-topps-chrome-football"
+            }
+          ]
+        },
+        {
+          "id": "cards-stadium-wwe-guide-20261017",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月16日官方指南",
+          "title": "Stadium Club WWE新指南：200张基础卡，Hobby每盒2签",
+          "brand": "Topps · WWE",
+          "published": "2026-10-16（官方文章未标时刻）",
+          "node": "2026-10-23发行；既有日期未变",
+          "priority": "写清盒配",
+          "summary": "以全幅摄影为核心，官方新指南介绍现役明星、传奇与多种签名设计；Hobby配置不能套用于零售盒。",
+          "facts": [
+            "官方10月16日指南确认10月23日发行，基础套200张。",
+            "Hobby每盒16包、每包8张，含2张签名；Mega和Value为其他盒型，不能照搬2签配置。",
+            "指南列八类签名设计，双签例子包括The Rock与Triple H、Becky Lynch与Seth Rollins。",
+            "没有统一开售时刻或大陆到货日期；本条是内容更新，不是新改期公告。"
+          ],
+          "advice": "按Hobby、Mega和Value分开标注产品页，重点介绍摄影与人物阵容，不以稀有卡作为收益承诺。",
+          "sources": [
+            {
+              "name": "Topps Ripped：10月16日WWE收藏指南",
+              "url": "https://ripped.topps.com/2026-topps-stadium-club-wwe-cards-collector-guide/"
             }
           ]
         }
