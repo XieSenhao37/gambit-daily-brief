@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-17",
+  "latestIssue": "2026-10-18",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -2719,6 +2719,251 @@
             {
               "name": "Topps Ripped：10月16日WWE收藏指南",
               "url": "https://ripped.topps.com/2026-topps-stadium-club-wwe-cards-collector-guide/"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-18": {
+      "issue": "2026-10-18",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "cards-chrome-football-unsealed-mega-20261018",
+        "board-forsaken-realms-day4",
+        "pokemon-bw-main-boosters-cn-20261018"
+      ],
+      "coverage": [
+        "新闻目标窗口为北京时间2026年10月17日10:00至18日10:00；最后复核在10:00后完成。本期7条中，3条为窗口内新报道／更新，3条明确标注10月16日公告补收，1条为今日截止提醒；旧公告不伪装为今日首次发布。",
+        "本期及月历均非全网穷尽。发布日期、预售、众筹、正式发售、交付与实际到货分开，海外规则不外推大陆；未核得可靠新消息的IP不重复凑数。",
+        "资讯：BoardGameBeat的itten稿HTML datePublished=2026-10-17T06:00:00.000Z，即北京时间10月17日14:00，严格在24小时窗口。",
+        "itten发行方Music Nonsense、Mystery Chain正文明确东京Game Market 2026秋先行发售，不能写成10月22日SPIEL才首发；My Extreme Skatepark官方详情读取未成功。本轮未将会展日期直接转成统一产品发行节点。",
+        "新物集：检查按最新排序5页共100个项目，并读取新增六款及既有关键十月项目详情；已阅读全文所需的遗落国度DAY4四张图文，以及其他项目的相关正文图片。只使用非零start_time，不把创建、预热、预售和交付日期混用。终极角斗场start_time为0，不添加日期；排除桌游活动、玩偶及纯收纳项目。",
+        "游人码头：读取公开新闻接口返回的10篇完整正文；最新仍为6月23日发布的Keyside介绍，没有核到本窗口更新。网站前端详情提取不稳，但官方接口正文可读，未据此宣称来源完全不可用。",
+        "摩点：当前预热列表9项全量检查；新增三款桌游众筹，浮生项目保留日期冲突。两款10月26日项目详情缓存未命中；进行中列表读取存在缓存时差，不能保证覆盖所有实时变动。",
+        "Asmodee USA：读取完整October 2026发行日历，核对2、9、16、23、30日五个标签与商品面板，新增20个去重后的桌游／战棋节点；排除独立RPG书、TCG及通用周边。发行日来自正文日历，未从collection slug推断；20款商品页亦逐一读取，具体商品语言未取得可靠字段，保留未核实。",
+        "Hachette六个十月节点、Capstone五款十月窗口、FFG Arkham众筹时间未见新的确定日期变化；Renegade现行日历仍有11月16日Heroscape条目，不把已收录的改期当今日新闻。",
+        "ICv2 Games最新可核相关发布时间未进入本期24小时窗口；SPIEL官方可读最新内容为售票及展商介绍，未取得今日独立发布时间或新产品统一发行日。此轮是所列公开渠道覆盖，不代表全行业没有其他新闻。",
+        "Riot：英文／简中Radiance完整产品概览（正文仍10月16日最后更新）及8月路线图、法语发行路线图均直读；Radiance英法语23日、海外售前16–22日，法语Vendetta23日不变。中文概览24日／17–23日与英文23日／16–22日及大陆官方9月26日微博23日仍有差异，两个review保留。英文Vault不可无依据套入中国大陆SKU。",
+        "Magic：完整Reality Fracture指南、WPN产品阵容、地区延迟、新西兰及墨西哥重排、Secret Lair Corn Maze、Atlanta Festival in a Box、Reality Fracture额外两drop及中国官网现实裂界公告均直读；October2正式发售、Secret Lair Bundle23日、CornMaze12日09:00PT、Atlanta19日不变，额外两drop和Bundle组合正文仍opens soon，保持无日期。无新的十月商品节点。",
+        "Lorcana：美国全产品导航和Hyperia/Hunny商品页、两款特殊产品原公告、日本产品目录与Mall新商品六条逐项核对。Hunny2日、Hyperia16日售前/23日全面发售、日本16日补充包与两款卡套、特殊收藏盒及I2I16日均未变。Mall两条WildsUnknown的十月下旬是送达窗口，不作为新品发售日。",
+        "Lorcana大陆官方新闻页可读，但最新仅2月9日独家发行合作伙伴公告，未取得可核的大陆十月发售日期，不套用海外日程。公告确认自2026年1月1日起上海风卡游戏有限公司成为大陆独家发行合作伙伴；不据此推断其产品发布日期。",
+        "2026-10-18 TCG独立整月复核：宝可梦日本30周年全商品页仍为10月16日9款卡牌套组、9款高级收藏册和9款补充页；美国月表六类仍2日四类、23日Deck Crafter、30日Battle Deck。美国正文仅iframe，完整列表本轮由官方搜索索引核对，不称实时全文直读。",
+        "宝可梦中国嗨皮两SKU仍10月16日10时起；新补黑白主补充包四规格、两款冰箱贴套装均为11月6日10时起，日本MEGA三卡组为11月13日。均属10月16日公告补收，11月未作完整月历覆盖。",
+        "Bandai四地区One Piece及Gundam商品目录、主页与原商品正文复核，无新增十月商品日期。GD06美国30日、日／亚洲英／繁中31日；HEROINES PRECIOUS BOX亚洲英／繁中31日，欧美TS03为30日，保留原语言说明。",
+        "One Piece亚洲英语EB05列表仍30日、详情31日，保留review；繁中列表与详情均31日，维持基线已确认记录，不重新移回待核。",
+        "中国大陆官方公开API本轮恢复直读：航海王全120条商品仅EB05为十月节点，仍31日；高达全29条商品无十月2026日期且未列GD06。高达新闻全46条最新为7月12日，不能据国际GD06补造大陆日期；API目录覆盖不等于所有销售渠道或未发布新品穷尽。",
+        "本期未核得可严格归入近24小时的新TCG实体产品公告；10月16日未收项目与今日截止提醒须明确区分。10月17日已收StarTrek延迟／预览、MarvelCountdown、Radiance最终概览、宝石包7不重复。",
+        "Magic中国文章列表本轮返回六日前缓存，最新相关卡片链接可见10月12日公告，不能声称实时列表穷尽。",
+        "Riot大陆当前逐SKU新公告未取得；保留全球本地化和认证社媒日期差异。",
+        "日本Lorcana产品总目录动态文字未完整显示，已用官网首页发售横幅、Mall6条新商品列表和单品补核；Mall列表为一周缓存，日期核验不表示实时库存。",
+        "Topps美国、英国、德国、法国、意大利、西班牙、日本七区发行日历本轮正文可读；结合Checklist Insider非AMP完整十月清单及单品正文独立对照，无确定新增或改期。滚动列表不是全月穷尽表，月初既有节点保留。",
+        "Topps Ripped首页直接打开403，但当前官方搜索索引最新两篇仍为10月16日Pro Debut历史和WWE指南；未将10月15日GPK设计文、昨日WWE指南或Samurai更正重复作新消息。",
+        "10月17日Heavy新增Chrome Football Mega去膜报道，原声明为10月16日；新闻时效和首次官宣日期分别标注，官方Instagram原帖读取失败，采用专业来源归因。",
+        "DAKA官网不可读，官方微博返回至4月的旧缓存，不能确认或排除10月新品。",
+        "CARD.FUN微博缓存最新仅6月；card.fun直接正文空白，但搜索索引能读产品展示、janime.cn/brand官方索引能读品牌介绍，均无可核10月发售日。janime正文直接读取超时，不能称官方最新新品清单已完整直读。",
+        "集卡社Disney Crystal11月20日依旧没有官方确认；无日期展示、零售标题、抽奖或预计配送日均不转换成正式发行。"
+      ],
+      "items": [
+        {
+          "id": "cards-chrome-football-unsealed-mega-20261018",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月17日新报道／10月16日公告补充",
+          "title": "Chrome Football官网Mega盒将去除外塑封，采购需写清封装状态",
+          "brand": "Topps · NFL",
+          "published": "Heavy报道10月17日；Yahoo转载明确2026-10-17 22:27 UTC。报道引用10月16日官方声明，非10月17日首次官宣。",
+          "node": "适用于10月19日Topps官网预购的2026 Chrome Football Mega盒；不新增发售日期",
+          "priority": "注明封装状态",
+          "summary": "Heavy及Checklist Insider均报道该批官网Mega盒会去除外层塑封，内卡及内容不动；尚未独立读取Instagram原帖。",
+          "facts": [
+            "10月17日新报道引用Topps Touchdown的10月16日声明：官网该次预购的Mega盒将去掉外塑封，内卡与内容不动。",
+            "Checklist Insider现行Chrome Football正文亦明确列出无外塑封Mega盒；官方Instagram原帖本轮无法读取，政策细节应注明来源归因。",
+            "范围限定该次Topps官网Mega预购，不可推广到Hobby、Jumbo、所有零售渠道或所有Topps产品。",
+            "美国预购时刻仍是10月19日17:00 UTC，即北京时间20日01:00；这是昨日已核节点，不作为今日新增发行。"
+          ],
+          "advice": "进货及对客说明标注官网去膜版本，保留订单、运输包装与开箱记录；不要把去掉外塑封等同于内卡已拆，也不要把第三方无膜盒自动认定为官方原状态。",
+          "sources": [
+            {
+              "name": "Heavy：10月17日封装变化报道",
+              "url": "https://heavy.com/sports/cards/topps-chrome-football-2026-mega-boxes/"
+            },
+            {
+              "name": "Checklist Insider：Mega去膜说明",
+              "url": "https://www.checklistinsider.com/2026-topps-chrome-football"
+            },
+            {
+              "name": "Yahoo转载：明确UTC发布时间",
+              "url": "https://sports.yahoo.com/articles/topps-announces-major-change-2026-222727232.html"
+            },
+            {
+              "name": "Topps美国官方日历：既有预购时刻",
+              "url": "https://www.topps.com/release-calendar"
+            }
+          ]
+        },
+        {
+          "id": "board-forsaken-realms-day4",
+          "category": "board",
+          "region": "domestic",
+          "label": "近24h官方更新",
+          "title": "《遗落国度》介绍传奇战役、高阶肉鸽与2v2小游戏",
+          "brand": "原石桌游 · 新物集",
+          "published": "10月18日09:00 · 北京时间",
+          "node": "10月22日12:00 · 新物集预售开始",
+          "priority": "核对档位内容",
+          "summary": "DAY4预热更新介绍“原石礼物”：后期王国战役、高阶连续挑战、南瓜球赛和实体收纳表。",
+          "facts": [
+            "《合金光复》供4名已完成个人故事的传奇骑士游玩，以5局远征展开后期王国战役。",
+            "《凋零圣杯》覆盖5—9级进阶肉鸽挑战，需要先完成《玫瑰圣杯》；《南瓜球赛》为4名骑士的2v2小游戏。",
+            "官方同时介绍基础版及“万千恐惧”扩展的实体收纳表。更新于10月18日09:00公开；预售10月22日12:00启动。"
+          ],
+          "advice": "先区分剧情战役与连续战斗的玩家需求，再核对预售档位实际包含的内容；暂不按现货销售或到货时间向玩家承诺。",
+          "sources": [
+            {
+              "name": "原石桌游：DAY4完整更新正文",
+              "url": "https://shop.zhuoyou.com/api/v1/webview/projectUpdate/10418"
+            },
+            {
+              "name": "新物集：遗落国度官方项目",
+              "url": "https://shop.zhuoyou.com/share/project.html?project_id=4393"
+            },
+            {
+              "name": "新物集：官方发布时间与预售日期",
+              "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4393"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-bw-main-boosters-cn-20261018",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "10月16日官方公告／本期补收",
+          "title": "黑雷奔流与白焰迸涌11月6日发售：20张装明确含7张闪卡",
+          "brand": "宝可梦中国 · 朱&紫",
+          "published": "2026-10-16（原公告日期，无发布时间）",
+          "node": "2026-11-06 10时起 · 中国大陆简体中文版",
+          "priority": "区分两档规格",
+          "summary": "两款均有10元5张装及50元20张装；官方图片分别注明1张与7张闪卡，不应沿用其他系列配置。",
+          "facts": [
+            "黑雷奔流、白焰迸涌两款补充包均于11月6日10时起发售；每款分别提供5张装和20张装。",
+            "5张装建议零售价10元，内含5张卡牌及其中1张闪卡；20张装50元，20张中有7张闪卡。",
+            "本轮直接核读10月16日官方公告的商品规格图片，补齐此前未收录的四项主补充包规格；属于旧公告补收。",
+            "官方生产配比描述卡牌类型产量占比，不能直接转写成每包命中率，更不能保证某一稀有卡必出。"
+          ],
+          "advice": "订货与商品页分别标明系列和5张／20张规格；20张装用本系列7闪配置，不套用旧系列，也不把统一发售时刻当作各店到货承诺。",
+          "sources": [
+            {
+              "name": "宝可梦中国：黑雷奔流／白焰迸涌官方公告及规格图片",
+              "url": "https://www.pokemon.cn/tcg/product/24290.html"
+            }
+          ]
+        },
+        {
+          "id": "board-itten-funbrick-20261018",
+          "category": "board",
+          "region": "overseas",
+          "label": "新品玩法 · 专业媒体",
+          "title": "itten 三款 Funbrick 小盒新品：滑板技巧、盒装木琴与链条猜词",
+          "brand": "itten",
+          "published": "2026-10-17 06:00 UTC（页面结构化 datePublished）；北京时间10月17日14:00",
+          "node": "Game Market 10月17–18日／SPIEL 10月22–25日展会窗口；不据此认定统一零售日",
+          "priority": "体验选品",
+          "summary": "Board Game Beat 介绍 itten 三款轻量互动新品：My Extreme Skatepark、Music Nonsense 与 Mystery Chain，兼具动作演示与多人猜测。",
+          "facts": [
+            "My Extreme Skatepark 支持2–4人，玩家用手抛起迷你滑板，根据接触、倚靠或落上盒子的技巧得分。",
+            "Music Nonsense 把盒子变成木琴，玩家演奏并变换提示，让同伴猜测对应词语。",
+            "Mystery Chain 用木棒拨动链条塑形，三个10秒阶段中可借助其他玩家给出的词语提示与助攻分。",
+            "文章另称 Crash Octopus 已再版；该信息不证明中国大陆现货。"
+          ],
+          "advice": "优先评估实物耐用性、英文／日文词卡门槛和讲解时间；演示效果适合短视频选题，采购仍需另核版本、档期与渠道。",
+          "sources": [
+            {
+              "name": "Board Game Beat：10月17日 itten 新作报道",
+              "url": "https://www.wericmartin.com/itten-mystery-chain-music-nonsense/"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-bw-accessories-cn-20261018",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "10月16日旧公告补收",
+          "title": "宝可梦黑白主题硬币与能量套装：11月6日发售，艺术展示框日期仍待定",
+          "brand": "宝可梦",
+          "published": "2026-10-16（今日补齐此前未读到的正文）",
+          "node": "2026-11-06 10时起；艺术展示框另待公告",
+          "priority": "商品区分",
+          "summary": "官方确认黑雷奔流／白焰迸涌硬币套装与八种属性能量套装均为39元，配套硬币收藏册40元；同篇展示框没有确认日期。",
+          "facts": [
+            "两款硬币套装各含同名5张装补充包3包、精选闪卡1张和对应主题硬币1枚；两款硬币收藏册各有30个收纳槽。",
+            "黑白专题能量套装有八种属性：每套3包对应补充包及1包5张装能量包。能量包内为4张基本能量卡（含1张闪卡）及1张随机训练家闪卡。",
+            "能量包可能包含黑连、N的构想或斗子的特别插画闪卡，不保证每套获得特别插画卡。",
+            "156槽的黑白专题硬币收藏艺术展示框，其售价、发售时间将另行公布，不能套用11月6日。"
+          ],
+          "advice": "将硬币套装、能量套装和收纳用品分开介绍；展示框只做意向登记，待日期及价格确认后再安排明确交付承诺。",
+          "sources": [
+            {
+              "name": "宝可梦中国：硬币套装与收纳商品官方规格",
+              "url": "https://www.pokemon.cn/tcg/product/21905.html"
+            },
+            {
+              "name": "宝可梦中国：黑白专题能量套装官方规格",
+              "url": "https://www.pokemon.cn/tcg/product/22850.html"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-jp-mega-special-decks-20261018",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "10月16日官方商品介绍／本期补收",
+          "title": "日本MEGA三卡组套装11月13日发售，完整构筑表已公开",
+          "brand": "宝可梦日本 · Pokémon Card Game MEGA",
+          "published": "2026-10-16（官方新闻列表日期；无具体时刻）",
+          "node": "2026-11-13 · 日本日语版，无统一开售时刻",
+          "priority": "关注入门对战套装",
+          "summary": "超级大力鳄ex、超级快龙ex、超级耿鬼ex各一套60张构筑，套装5,500日元含税，附对战配件与教学资料。",
+          "facts": [
+            "官方10月16日新闻条目介绍这款特别套装，商品页明确日本11月13日发售，建议零售价5,500日元含税。",
+            "套装含3副60张卡组，分别围绕超级大力鳄ex、超级快龙ex及超级耿鬼ex；每副含相应Mega ex两张，完整牌表已公开。",
+            "配件包括3个纸卡组盒、3枚硬币、指示物及标记、对战垫和教学资料。",
+            "这是日本日语产品的既有10月16日介绍补收，未核得大陆同日供货安排；不是10月17日首次公告。"
+          ],
+          "advice": "将其作为固定构筑的日语版入门对战套装介绍，与简中黑白随机补充包分开；先核语言、物流和实际供货，再承诺到手时间。",
+          "sources": [
+            {
+              "name": "宝可梦日本：MEGA特别三卡组完整商品页",
+              "url": "https://www.pokemon-card.com/products/mega/mg.html"
+            },
+            {
+              "name": "宝可梦日本：官方新闻列表（10月16日条目）",
+              "url": "https://www.pokemon-card.com/info/"
+            }
+          ]
+        },
+        {
+          "id": "lorcana-jp-signing-deadline-20261018",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "今日截止 · 旧公告提醒",
+          "title": "洛卡纳日本 César Vergara 签名会：提前抽选申请18日结束",
+          "brand": "迪士尼洛卡纳",
+          "published": "2026-10-16（官方公告；今日为截止提醒）",
+          "node": "申请截至10月18日23:59，10月21日公布结果，10月31日签名会；按日本原文时间，不推算北京时间",
+          "priority": "活动提醒",
+          "summary": "Takara Tomy 公告确认10月31日活动设画师签名会，提前抽选申请并非先到先得；现场仍另设整理券名额。",
+          "facts": [
+            "提前申请窗口为10月14日10:00至18日23:59，结束后抽选，结果10月21日公布。",
+            "参加免费，但申请需要 Takara Tomy Mall 注册账号。",
+            "提前抽选不会分配全部参加名额，当天另有整理券安排。",
+            "这是日本线下活动申请，不是商品预售或中国大陆活动，不加入产品发售日历。"
+          ],
+          "advice": "只向确有赴日行程的玩家转发官方申请规则，提醒自行确认现场安排与资格；不要承诺签名名额。",
+          "sources": [
+            {
+              "name": "Takara Tomy：10月16日签名会提前申请公告",
+              "url": "https://www.takaratomy.co.jp/products/disneylorcana/news/event/134357/"
             }
           ]
         }
