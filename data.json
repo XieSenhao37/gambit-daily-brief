@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-18",
+  "latestIssue": "2026-10-19",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -2964,6 +2964,153 @@
             {
               "name": "Takara Tomy：10月16日签名会提前申请公告",
               "url": "https://www.takaratomy.co.jp/products/disneylorcana/news/event/134357/"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-19": {
+      "issue": "2026-10-19",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "cards-wwe-beam-team-design-20261019",
+        "board-zongheng-final-sample-20261019",
+        "mtg-atlanta-box-sale-reminder-20261019"
+      ],
+      "coverage": [
+        "本期为4条短刊：两条桌游新报道／生产更新、一条Topps官方设计采访、一条明确标注10月5日旧公告的当日节点提醒。目标窗口为北京时间10月18日10:00至19日10:00，核验在19日10点后完成；原文无时区／时刻的条目不声称严格定位24小时边界。",
+        "所列渠道并非全网穷尽。月历独立核查整个十月；销售、预售、众筹、发货、预计交付与实际到货分别处理，已过日期不代表库存。",
+        "万智牌、符文战场、洛卡纳、宝可梦及Bandai本轮未核得可收录的新高价值TCG产品公告。已查Wizards／WPN／中国官网未见星际迷航相较10月16日预览和延迟公告的实质新增；10月20日预览计划不等于今天已全面揭牌。",
+        "TCG整月核对Riftbound英法路线图、Magic全产品与WPN阵容、Lorcana美日目录、宝可梦中日美目录与月表、Bandai四地区目录。Radiance中文日期和亚洲英语EB05争议仍保留；Hunny Rescue专属页10月2日与关联页10月1日冲突，本轮移待核，不能称今日改期。",
+        "Bandai大陆公开接口完整核到航海王120项商品、高达29项商品与46条新闻；未据接口缺少GD06推出大陆没有新品。两条HEROINES PRECIOUS BOX地区节点补证为日语包装，10月31日日期不变。",
+        "部分来源仍有限制：宝可梦美国月表只返回iframe，依官方索引核对；日本普通目录动态列表不完整；洛卡纳大陆最新可读运营公告与商城缓存不能视为当前全部供货安排。Secret Lair生产状态表的Release Date不直接当作二次公开开售日；Atlanta实时商城未读到，不确认已开售或库存。",
+        "桌游整月独立核对Asmodee五个日期面板的39项范围内节点、Hachette六款、FFG众筹、Renegade及Capstone。Greenwood官网现标可售，但无首发日，保留十月窗口和空日期；SPIEL参展不推出全球首发。",
+        "国内桌游核对新物集5页100项及21个相关详情请求（20个成功），已收十月日期未变；游人码头10篇正文最新发布时间仍6月。摩点预热9项及分页有缓存／超时缺口，浮生聊斋11月11日与10月20／30日来源冲突继续待核；未读到全文的相对时间更新不入新闻。",
+        "Topps七区滚动日历加Checklist Insider完整十月清单及单品正文独立对照，本轮新增日本官网Vault Disney：10月21日18:00 UTC，即北京时间22日02:00。未核到首次公告日，不包装成今日官宣；美国／欧洲节点分别保留。",
+        "Topps Samurai、KAWS、F1 FDI、Heritage Mega、篮球旧指南日期争议仍在待核区。WWE赔率PDF仅作配置补证，不作今日新发布日期或每盒保证；10月16日Bowman U Best和F1 Vuelta 1旧文章本期不补作新消息。",
+        "DAKA官网与微博、CARD.FUN微博及品牌站仍有空正文、失败或旧缓存，属于覆盖缺口，不能断言十月没有新品。集卡社迪士尼水晶11月20日尚无官方确认。",
+        "符文战场大陆官网公开新闻API本轮已完整核查138项，最新发布日仍为10月9日；新闻目录恢复可读，但对应微信公众号正文不可稳定读取，目录不等于正文已核。未据此消除Radiance中文日期争议。"
+      ],
+      "items": [
+        {
+          "id": "cards-wwe-beam-team-design-20261019",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月18日官方新采访",
+          "title": "WWE Beam Team设计揭秘：20张激光箔特卡，配率须按盒型看",
+          "brand": "Topps · Stadium Club WWE",
+          "published": "2026-10-18（官方正文日期；未标时区与具体时刻，不能严格定位24小时边界）",
+          "node": "2026-10-23发行，既有日期未变；本条为设计与配置补充",
+          "priority": "区分特卡配率",
+          "summary": "Topps新采访介绍Beam Team首次进入WWE产品的激光箔设计；官方赔率表对Hobby、Value、Mega分别列值。",
+          "facts": [
+            "Beam Team共20张，以舞台灯光、烟火与冠军姿态结合激光箔；人物包括Roman Reigns、CM Punk、Cody Rhodes、Rhea Ripley与Seth Rollins。",
+            "采访中产品经理称“one-per-case”，但未指明盒型。官方赔率PDF第1页的Beam Team一行依次为Hobby 1:192、Value“—”、Mega 1:480；此处保留表列原值，不改写为每盒保证。",
+            "PDF页首说明实际内容与赔率可能变化；赔率表本身未取得首次发布日期，不另包装成今日更新。",
+            "官方系列页仍列10月23日发行，没有新增精确开售时刻或大陆到货日期。"
+          ],
+          "advice": "商品介绍可突出人物与激光箔效果；引用配率时写明SKU，勿把采访中的每箱说法推广为所有盒型或单盒必出。",
+          "sources": [
+            {
+              "name": "Topps Ripped：10月18日Beam Team完整官方采访",
+              "url": "https://ripped.topps.com/2026-topps-stadium-club-beam-team-design/"
+            },
+            {
+              "name": "Topps官方：Stadium Club WWE当前发行日期",
+              "url": "https://www.topps.com/pages/topps-stadium-club-wwe"
+            },
+            {
+              "name": "Topps官方赔率PDF：第1页",
+              "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2026_Topps_Stadium_Club_WWE_Odds.pdf?v=1791212522"
+            }
+          ]
+        },
+        {
+          "id": "board-zongheng-final-sample-20261019",
+          "category": "board",
+          "region": "domestic",
+          "label": "官方生产进展",
+          "title": "《纵横之坛》展示标准版最后打样，公布预计生产周期",
+          "brand": "捭默阖言 · 新物集",
+          "published": "10月18日13:01 · 平台原文（时区未标）",
+          "node": "10月20日19:00 · 北京时间预售开始",
+          "priority": "区分预售与交付",
+          "summary": "发行方公开标准版最后一次打样照片，计划“下周一”安排生产，预计生产周期20—30天，完成后再安排发货。",
+          "facts": [
+            "本次更新展示包装、规则书、卡牌、标记与收纳等七张实物打样照片；这是生产前样品进展。",
+            "正文只给计划生产起点及20—30天预计周期，没有承诺具体发货日；预售开始仍由项目start_time确认在10月20日19:00。"
+          ],
+          "advice": "跟团或店铺备货应继续等待正式生产、质检与发货通知，不把预计生产周期倒算成保证到货日期。",
+          "sources": [
+            {
+              "name": "新物集：标准版最后一次打样与生产计划",
+              "url": "https://shop.zhuoyou.com/api/v1/webview/projectUpdate/10420"
+            },
+            {
+              "name": "新物集：纵横之坛官方项目",
+              "url": "https://shop.zhuoyou.com/share/project.html?project_id=4387"
+            },
+            {
+              "name": "新物集：更新正文与节点数据",
+              "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4387"
+            }
+          ]
+        },
+        {
+          "id": "mtg-atlanta-box-sale-reminder-20261019",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "10月19日节点提醒 · 旧公告",
+          "title": "Atlanta礼盒计划于官网日期10月19日开售：249.99美元、每客限2份",
+          "brand": "Magic · Secret Lair",
+          "published": "2026-10-05（原公告日期；本期为开售节点提醒）",
+          "node": "官网日期2026-10-19 · Secret Lair商城；原文未给具体时刻／时区",
+          "priority": "复核开售与交付安排",
+          "summary": "Festival in a Box含Mystery Booster Commander Edition整盒、4张Secret Gallery闪卡和4张赠卡；公告日期不等于北京时间已开售。",
+          "facts": [
+            "原始公告为10月5日，计划10月19日通过Secret Lair商城销售，美元标价US$249.99，限量供应、每位顾客最多2份。",
+            "每套含1盒Mystery Booster Commander Edition（24包，每包20张）、Secret Gallery: Atlanta Foil Edition（4张）及4张Festival赠卡。",
+            "本轮正文没有给出开售时刻或时区，不能套用其他Secret Lair活动的9:00 PT，也不能推定北京时间10月19日10点已开售。",
+            "商城实时页面未成功读取；不保证当前库存、可配送地区、发货时间或中国大陆到手价。"
+          ],
+          "advice": "有采购计划再核官方商城的地区资格、实际开售时刻和交付条款；商品销售、物流发货和大陆到货分开沟通。",
+          "sources": [
+            {
+              "name": "Wizards：10月5日Atlanta礼盒原始公告",
+              "url": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition"
+            }
+          ]
+        },
+        {
+          "id": "board-flixo-wendo-mechanics-20261019",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h媒体新报道",
+          "title": "Flixo与Wendo：合作消除和双数字卡背带来两种Golf变体",
+          "brand": "2F-Spiele · KENDi",
+          "published": "10月19日03:10 · 北京时间",
+          "node": "SPIEL Essen 26参展销售；全球首发日未核",
+          "priority": "关注轻量家庭桌游",
+          "summary": "Board Game Beat新稿介绍两款2—5人卡牌游戏：Flixo把低分消牌改为团队合作，Wendo用卡背双数字提供推理线索。",
+          "facts": [
+            "Flixo由Friedemann Friese设计；玩家合作缩减3×3牌阵、清除诅咒数字。2F官方确认20分钟、8岁起、德英双语版。",
+            "Wendo由Jannik Walter设计；每张卡背给出两个候选数字，玩家替换或翻牌，消掉同值行列并争取更低总分。",
+            "报道说两款会在10月22日开幕的SPIEL销售，但未证明这是全球首发；作者披露曾受2F委托编辑相关英文规则。"
+          ],
+          "advice": "可将合作消除与带信息推理的竞赛玩法作为选品差异；中文引进及大陆交期未核，不据参展日期承诺到货。",
+          "sources": [
+            {
+              "name": "Board Game Beat：Flixo与Wendo报道全文",
+              "url": "https://www.wericmartin.com/ditcho-cardso-with-flixo-wendo/"
+            },
+            {
+              "name": "2F-Spiele：Flixo官方产品正文",
+              "url": "https://2f-spiele.de/2f-spiele/flixo/"
+            },
+            {
+              "name": "2F-Spiele：9月24日SPIEL阵容公告",
+              "url": "https://2f-spiele.de/2f-spiele-auf-der-spiel-essen-26/"
             }
           ]
         }
