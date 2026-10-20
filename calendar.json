@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-10-18",
+  "asOf": "2026-10-19",
   "coverage": [
     "范围：2026年10月公开来源核实的产品／地区节点，含月初已过日期与未来日期；不是全球全品牌全SKU穷尽表，也不是独立产品款数。",
     "默认仅展示正式发售；可筛选全部、预售、众筹及售前活动。官方未来日期可能调整，来源证据等级不等于库存或购买保证。",
@@ -286,7 +286,19 @@
     "2026-10-18核验：10月17日Heavy新增Chrome Football Mega去膜报道，原声明为10月16日；新闻时效和首次官宣日期分别标注，官方Instagram原帖读取失败，采用专业来源归因。",
     "2026-10-18核验：DAKA官网不可读，官方微博返回至4月的旧缓存，不能确认或排除10月新品。",
     "2026-10-18核验：CARD.FUN微博缓存最新仅6月；card.fun直接正文空白，但搜索索引能读产品展示、janime.cn/brand官方索引能读品牌介绍，均无可核10月发售日。janime正文直接读取超时，不能称官方最新新品清单已完整直读。",
-    "2026-10-18核验：集卡社Disney Crystal11月20日依旧没有官方确认；无日期展示、零售标题、抽奖或预计配送日均不转换成正式发行。"
+    "2026-10-18核验：集卡社Disney Crystal11月20日依旧没有官方确认；无日期展示、零售标题、抽奖或预计配送日均不转换成正式发行。",
+    "2026-10-19核验：本期为4条短刊：两条桌游新报道／生产更新、一条Topps官方设计采访、一条明确标注10月5日旧公告的当日节点提醒。目标窗口为北京时间10月18日10:00至19日10:00，核验在19日10点后完成；原文无时区／时刻的条目不声称严格定位24小时边界。",
+    "2026-10-19核验：所列渠道并非全网穷尽。月历独立核查整个十月；销售、预售、众筹、发货、预计交付与实际到货分别处理，已过日期不代表库存。",
+    "2026-10-19核验：万智牌、符文战场、洛卡纳、宝可梦及Bandai本轮未核得可收录的新高价值TCG产品公告。已查Wizards／WPN／中国官网未见星际迷航相较10月16日预览和延迟公告的实质新增；10月20日预览计划不等于今天已全面揭牌。",
+    "2026-10-19核验：TCG整月核对Riftbound英法路线图、Magic全产品与WPN阵容、Lorcana美日目录、宝可梦中日美目录与月表、Bandai四地区目录。Radiance中文日期和亚洲英语EB05争议仍保留；Hunny Rescue专属页10月2日与关联页10月1日冲突，本轮移待核，不能称今日改期。",
+    "2026-10-19核验：Bandai大陆公开接口完整核到航海王120项商品、高达29项商品与46条新闻；未据接口缺少GD06推出大陆没有新品。两条HEROINES PRECIOUS BOX地区节点补证为日语包装，10月31日日期不变。",
+    "2026-10-19核验：部分来源仍有限制：宝可梦美国月表只返回iframe，依官方索引核对；日本普通目录动态列表不完整；洛卡纳大陆最新可读运营公告与商城缓存不能视为当前全部供货安排。Secret Lair生产状态表的Release Date不直接当作二次公开开售日；Atlanta实时商城未读到，不确认已开售或库存。",
+    "2026-10-19核验：桌游整月独立核对Asmodee五个日期面板的39项范围内节点、Hachette六款、FFG众筹、Renegade及Capstone。Greenwood官网现标可售，但无首发日，保留十月窗口和空日期；SPIEL参展不推出全球首发。",
+    "2026-10-19核验：国内桌游核对新物集5页100项及21个相关详情请求（20个成功），已收十月日期未变；游人码头10篇正文最新发布时间仍6月。摩点预热9项及分页有缓存／超时缺口，浮生聊斋11月11日与10月20／30日来源冲突继续待核；未读到全文的相对时间更新不入新闻。",
+    "2026-10-19核验：Topps七区滚动日历加Checklist Insider完整十月清单及单品正文独立对照，本轮新增日本官网Vault Disney：10月21日18:00 UTC，即北京时间22日02:00。未核到首次公告日，不包装成今日官宣；美国／欧洲节点分别保留。",
+    "2026-10-19核验：Topps Samurai、KAWS、F1 FDI、Heritage Mega、篮球旧指南日期争议仍在待核区。WWE赔率PDF仅作配置补证，不作今日新发布日期或每盒保证；10月16日Bowman U Best和F1 Vuelta 1旧文章本期不补作新消息。",
+    "2026-10-19核验：DAKA官网与微博、CARD.FUN微博及品牌站仍有空正文、失败或旧缓存，属于覆盖缺口，不能断言十月没有新品。集卡社迪士尼水晶11月20日尚无官方确认。",
+    "2026-10-19核验：符文战场大陆官网公开新闻API本轮已完整核查138项，最新发布日仍为10月9日；新闻目录恢复可读，但对应微信公众号正文不可稳定读取，目录不等于正文已核。未据此消除Radiance中文日期争议。"
   ],
   "coverageSources": [
     {
@@ -2712,6 +2724,142 @@
     {
       "name": "Takara Tomy：10月16日签名会提前申请公告",
       "url": "https://www.takaratomy.co.jp/products/disneylorcana/news/event/134357/"
+    },
+    {
+      "name": "Board Game Beat：Flixo/Wendo原报道",
+      "url": "https://www.wericmartin.com/ditcho-cardso-with-flixo-wendo/"
+    },
+    {
+      "name": "2F-Spiele：Flixo官方正文",
+      "url": "https://2f-spiele.de/2f-spiele/flixo/"
+    },
+    {
+      "name": "2F-Spiele：原SPIEL公告",
+      "url": "https://2f-spiele.de/2f-spiele-auf-der-spiel-essen-26/"
+    },
+    {
+      "name": "KENDi：官方产品目录（本轮未取得Wendo独立正文）",
+      "url": "https://kendigmbh.de/games/"
+    },
+    {
+      "name": "新物集：纵横之坛完整更新",
+      "url": "https://shop.zhuoyou.com/api/v1/webview/projectUpdate/10420"
+    },
+    {
+      "name": "摩点：进行中项目",
+      "url": "https://zhongchou.modian.com/tablegames/top_time/going"
+    },
+    {
+      "name": "摩点：深渊行纪项目正文",
+      "url": "https://zhongchou.modian.com/item/160786.html"
+    },
+    {
+      "name": "摩点：十分钟桌游第二季正文与更新预览",
+      "url": "https://zhongchou.modian.com/item/160499.html"
+    },
+    {
+      "name": "SPIEL：SYNCANITE正文",
+      "url": "https://www.spiel-essen.de/en/?catid=9&id=402&view=article"
+    },
+    {
+      "name": "Capstone：Night at the Zoo Variability Cards Promo发货说明",
+      "url": "https://capstone-games.com/products/night-at-the-zoo-variability-cards-promo"
+    },
+    {
+      "name": "Topps Ripped：WWE分类（10月18日新稿）",
+      "url": "https://ripped.topps.com/category/2026-topps-stadium-club-wwe/"
+    },
+    {
+      "name": "Topps Ripped：Beam Team 10月18日采访",
+      "url": "https://ripped.topps.com/2026-topps-stadium-club-beam-team-design/"
+    },
+    {
+      "name": "Topps：WWE官方赔率PDF第1页",
+      "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/2026_Topps_Stadium_Club_WWE_Odds.pdf?v=1791212522"
+    },
+    {
+      "name": "Topps Ripped：Bowman U Best指南（10月16日）",
+      "url": "https://ripped.topps.com/2026-bowman-u-best-football-top-cards-collector-guide/"
+    },
+    {
+      "name": "Topps Ripped：F1 Vuelta 1采访（10月16日）",
+      "url": "https://ripped.topps.com/2026-topps-chrome-f1-vuelta1-card-design/"
+    },
+    {
+      "name": "Topps美国：WWE发行",
+      "url": "https://www.topps.com/pages/topps-stadium-club-wwe"
+    },
+    {
+      "name": "Topps美国：Samurai现行页（无日期）",
+      "url": "https://www.topps.com/pages/topps-chrome-baseball-team-samurai-japan-collection"
+    },
+    {
+      "name": "Checklist Insider：Samurai日期与更正",
+      "url": "https://www.checklistinsider.com/2026-topps-chrome-samurai-japan-baseball"
+    },
+    {
+      "name": "Topps英国：篮球Mega（搜索索引11月12日）",
+      "url": "https://uk-next.topps.com/products/2026-27-topps-flagship-basketball-mega-box"
+    },
+    {
+      "name": "杰森娱乐新闻页（正文读取失败）",
+      "url": "https://janime.cn/news"
+    },
+    {
+      "name": "Wizards完整产品表（直接读取公开HTML）",
+      "url": "https://magic.wizards.com/en/products"
+    },
+    {
+      "name": "万智牌中国完整产品目录",
+      "url": "https://www.cnwizards.com/products"
+    },
+    {
+      "name": "万智牌中国：10月17日国内预览指南（公开HTML正文核验）",
+      "url": "https://www.cnwizards.com/article/66269"
+    },
+    {
+      "name": "宝可梦中国：赛事目录",
+      "url": "https://www.pokemon.cn/tcg/event"
+    },
+    {
+      "name": "宝可梦日本：最新新闻",
+      "url": "https://www.pokemon-card.com/"
+    },
+    {
+      "name": "Lorcana美国：Attack of the Vine的Hunny导流日期",
+      "url": "https://www.disneylorcana.com/en-US/product/attack-of-the-vine"
+    },
+    {
+      "name": "op-jp-box",
+      "url": "https://www.onepiece-cardgame.com/products/heroines-box.html"
+    },
+    {
+      "name": "gd-asia-en-news",
+      "url": "https://www.gundam-gcg.com/asia-en/news/"
+    },
+    {
+      "name": "gd-zh-tw-news",
+      "url": "https://www.gundam-gcg.com/zh-tw/news/"
+    },
+    {
+      "name": "新物集：纵横之坛官方项目",
+      "url": "https://shop.zhuoyou.com/share/project.html?project_id=4387"
+    },
+    {
+      "name": "新物集：更新正文与节点数据",
+      "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4387"
+    },
+    {
+      "name": "符文战场大陆：官网当前公开新闻API（POST读取）",
+      "url": "https://lol-api.playloltcg.com/xcx/information/page"
+    },
+    {
+      "name": "符文战场大陆：售前报名官方原文（本轮不可读）",
+      "url": "https://mp.weixin.qq.com/s/FjGfnw8RU-nsnWwZFw5ibQ"
+    },
+    {
+      "name": "符文战场大陆：一周年套装渠道官方原文（本轮不可读）",
+      "url": "https://mp.weixin.qq.com/s/hSqfA5o_sAUlkHm579DSQQ"
     }
   ],
   "events": [
@@ -4972,10 +5120,11 @@
       "sourceTimezone": "Asia/Shanghai",
       "sourceTime": "19:00",
       "sourceEvidence": "新物集发行方公开项目详情start_time=1792494000，换算北京时间为2026-10-20 19:00；采用开始字段，不用创建日或倒计时反推。",
-      "verifiedAt": "2026-10-13T10:04:00+08:00",
+      "verifiedAt": "2026-10-19T10:10:00+08:00",
       "notes": [
         "十月整月独立补漏；旧项目有效节点，不作为今日首次产品公告。",
-        "平台称预售，发行方若明确称众筹则按众筹收录；启动日不等于现货发行或交付日。"
+        "平台称预售，发行方若明确称众筹则按众筹收录；启动日不等于现货发行或交付日。",
+        "10月18日官方更新展示标准版最后打样，计划下周一安排生产、预计20—30天完成后安排发货；未公布保证发货日。10月20日19:00为预售开始，不能等同生产完成或到货。"
       ],
       "sources": [
         {
@@ -4985,6 +5134,10 @@
         {
           "name": "新物集官方项目日期与正文数据",
           "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4387"
+        },
+        {
+          "name": "发行方：最后打样与生产计划",
+          "url": "https://shop.zhuoyou.com/api/v1/webview/projectUpdate/10420"
         }
       ],
       "timing": {
@@ -7987,37 +8140,6 @@
       "timing": null
     },
     {
-      "id": "lorcana-hunny",
-      "product": "Illumineer's Quest: The Great Hunny Rescue",
-      "category": "tcg",
-      "brand": "洛卡纳",
-      "nodeType": "release",
-      "date": "2026-10-02",
-      "endDate": null,
-      "announcedMonth": null,
-      "region": "美国／英语发行区",
-      "languages": [
-        "英语"
-      ],
-      "evidenceLevel": "official",
-      "announcementStatus": "confirmed",
-      "sourceTimezone": "当地日期；未公布统一时刻",
-      "sourceTime": null,
-      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。 10月14日直接核对美国英语官网产品页，Hunny Rescue仍为10月2日，Hyperia City仍为16日售前、23日全面发售；这些日期不代表大陆或日语版安排。 10月15日10点后独立核对美国官方商品页和产品导航，The Great Hunny Rescue仍为10月2日，无已确认改期。",
-      "verifiedAt": "2026-10-16T10:08:00+08:00",
-      "notes": [
-        "官方产品页日期为10月2日。",
-        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。"
-      ],
-      "sources": [
-        {
-          "name": "Disney Lorcana / Ravensburger",
-          "url": "https://www.disneylorcana.com/en-US/product/great-hunny-rescue"
-        }
-      ],
-      "timing": null
-    },
-    {
       "id": "pokemon-us-blister",
       "product": "Enhanced 2-Pack Blister",
       "category": "tcg",
@@ -8776,14 +8898,15 @@
         "英语"
       ],
       "evidenceLevel": "tentative",
-      "announcementStatus": "已公布月份，具体日待定",
+      "announcementStatus": "官网现标已可售，具体首发日未核实",
       "sourceTimezone": null,
       "sourceTime": null,
-      "sourceEvidence": "Capstone现行Coming Soon完整列表及对应商品正文均标Coming Soon - October；本轮十月窗口没有具体日期，不能推定10月1日或31日。",
-      "verifiedAt": "2026-10-15T10:12:05+08:00",
+      "sourceEvidence": "历史依据（2026-10-15核验）：Capstone现行Coming Soon完整列表及对应商品正文均标Coming Soon - October；本轮十月窗口没有具体日期，不能推定10月1日或31日。 2026-10-19本轮直接读取官方商品正文，标题下已改为Now Available!；实时Coming Soon列表共13项且不再列Greenwood。搜索工具的旧列表快照仍含Coming Soon - October，因此采用实时商品正文更新可售状态。页面未给出实际首发日、状态变更发布时间或明确时刻，保留原十月月份窗口，不反推10月19日为发行日。",
+      "verifiedAt": "2026-10-19T10:09:00+08:00",
       "notes": [
         "已公布10月窗口，具体日待定；作为十月月度补漏，并非今天首次公告。",
-        "预订状态、正式发行与具体发货分开理解；没有已核实的中国大陆版本或交期。"
+        "预订状态、正式发行与具体发货分开理解；没有已核实的中国大陆版本或交期。",
+        "2026-10-19：美国官网商品状态现为Now Available!，但具体首发日未核实；date与timing仍为null。此为本轮可售状态观察，不是确认当天首次发售、近24小时新公告或库存保证。旧十月窗口及来源保留。"
       ],
       "sources": [
         {
@@ -10354,17 +10477,19 @@
       "announcedMonth": null,
       "region": "亚洲英语官网适用地区",
       "languages": [
-        "未单独核实"
+        "日语"
       ],
       "evidenceLevel": "official",
       "announcementStatus": "官方地区列表与详情一致",
       "sourceTimezone": null,
       "sourceTime": null,
-      "sourceEvidence": "2026-10-17本地区官方商品列表与HEROINES PRECIOUS BOX详情均列10月31日，独立于单售EB-05日期。",
-      "verifiedAt": "2026-10-17T09:57:30+08:00",
+      "sourceEvidence": "2026-10-17本地区官方商品列表与HEROINES PRECIOUS BOX详情均列10月31日，独立于单售EB-05日期。 2026-10-19列表与详情再次一致10月31日；详情官方套装商品图显示日文卡牌及日文EB05盒面。",
+      "verifiedAt": "2026-10-19T10:09:42+08:00",
       "notes": [
         "十月全月补漏，不是今日首次公布；网页语言不等于实际卡牌语言。",
-        "与日本版原节点分地区保留；不据此消除亚洲英语单售EB-05列表30日对详情31日冲突。"
+        "与日本版原节点分地区保留；不据此消除亚洲英语单售EB-05列表30日对详情31日冲突。",
+        "2026-10-19语言补证：已目视检查本地区详情直接引用的官方套装商品图，附赠咚!!卡写有「自分のターン中 +1000」，同图EB-05盒面亦为日文；商品语言由未单独核实补为日语。10月31日发售日期未变。",
+        "此前语言字段：未单独核实；本轮以上述包装直接证据补正，历史未核记录保留。"
       ],
       "sources": [
         {
@@ -10374,6 +10499,10 @@
         {
           "name": "Bandai地区完整商品目录",
           "url": "https://asia-en.onepiece-cardgame.com/products/"
+        },
+        {
+          "name": "Bandai地区官网：HEROINES PRECIOUS BOX整套商品图（日文咚卡及EB05包装）",
+          "url": "https://asia-en.onepiece-cardgame.com/onepiececg/bccard/asia-en/product/2026/10/13/90vNOWvXTpycwrT6/img_item01.webp"
         }
       ],
       "timing": null
@@ -10389,17 +10518,19 @@
       "announcedMonth": null,
       "region": "亚洲繁中官网适用地区",
       "languages": [
-        "未单独核实"
+        "日语"
       ],
       "evidenceLevel": "official",
       "announcementStatus": "官方地区列表与详情一致",
       "sourceTimezone": null,
       "sourceTime": null,
-      "sourceEvidence": "2026-10-17本地区官方商品列表与HEROINES PRECIOUS BOX详情均列10月31日，独立于单售EB-05日期。",
-      "verifiedAt": "2026-10-17T09:57:30+08:00",
+      "sourceEvidence": "2026-10-17本地区官方商品列表与HEROINES PRECIOUS BOX详情均列10月31日，独立于单售EB-05日期。 2026-10-19列表与详情再次一致10月31日；详情官方套装商品图显示日文卡牌及日文EB05盒面。",
+      "verifiedAt": "2026-10-19T10:09:42+08:00",
       "notes": [
         "十月全月补漏，不是今日首次公布；网页语言不等于实际卡牌语言。",
-        "与日本版原节点分地区保留；不据此消除亚洲英语单售EB-05列表30日对详情31日冲突。"
+        "与日本版原节点分地区保留；不据此消除亚洲英语单售EB-05列表30日对详情31日冲突。",
+        "2026-10-19语言补证：已目视检查本地区详情直接引用的官方套装商品图，附赠咚!!卡写有「自分のターン中 +1000」，同图EB-05盒面亦为日文；商品语言由未单独核实补为日语。10月31日发售日期未变。",
+        "此前语言字段：未单独核实；本轮以上述包装直接证据补正，历史未核记录保留。"
       ],
       "sources": [
         {
@@ -10409,6 +10540,10 @@
         {
           "name": "Bandai地区完整商品目录",
           "url": "https://asia-tc.onepiece-cardgame.com/products/"
+        },
+        {
+          "name": "Bandai地区官网：HEROINES PRECIOUS BOX整套商品图（日文咚卡及EB05包装）",
+          "url": "https://asia-tc.onepiece-cardgame.com/onepiececg/bccard/asia-en/product/2026/10/13/90vNOWvXTpycwrT6/img_item01.webp"
         }
       ],
       "timing": null
@@ -12945,6 +13080,43 @@
         }
       ],
       "timing": null
+    },
+    {
+      "id": "vault-disney-jp",
+      "product": "2026 Topps Vault Disney（日本官网）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-10-21",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "日本官网",
+      "languages": [
+        "未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": "UTC",
+      "sourceTime": "18:00",
+      "sourceEvidence": "2026-10-19直读Topps日本发行日历正文，明确列水曜日、10月21日、午後6:00 UTC、2026 Topps Vault Disney，无预售标记。",
+      "verifiedAt": "2026-10-19T10:10:23+08:00",
+      "notes": [
+        "本轮补收的地区节点，未取得首次公告时间，不认定10月19日首次官宣。",
+        "保留官方日历的UTC源日期与时刻，折合北京时间10月22日02:00、日本时间10月22日03:00；不将日文界面所列UTC自行改作JST。",
+        "与美国及欧洲既有节点分开；日本官网售卖不证明日语卡牌或大陆供货。",
+        "日本商品系列页本轮读取失败；日期和时刻证据仅取已直读的官方日本日历。"
+      ],
+      "sources": [
+        {
+          "name": "Topps日本官方发行日历：Vault Disney日期与UTC时刻",
+          "url": "https://jp.topps.com/release-calendar"
+        }
+      ],
+      "timing": {
+        "localTime": "18:00",
+        "utcOffset": "+00:00",
+        "evidence": "日本官网日历明确10月21日18:00 UTC。"
+      }
     }
   ],
   "review": [
@@ -13128,14 +13300,15 @@
       "announcementStatus": "当前列表与详情缓存日期仍冲突，继续待核",
       "sourceTimezone": "Asia/Shanghai",
       "sourceTime": null,
-      "sourceEvidence": "10月14日现行摩点预热列表列2026-10-30开始；同次读取项目详情正文及计时字段仍为2026-10-20 08:00。两处官方来源冲突，暂不采用任一日。 2026-10-18复核：当前预热列表改列2026-11-11开始；本轮读到的项目详情缓存仍为10月20日08:00，未取得发行方更正说明，不能定为已确认改期。",
-      "verifiedAt": "2026-10-18T10:06:00+08:00",
+      "sourceEvidence": "10月14日现行摩点预热列表列2026-10-30开始；同次读取项目详情正文及计时字段仍为2026-10-20 08:00。两处官方来源冲突，暂不采用任一日。 2026-10-18复核：当前预热列表改列2026-11-11开始；本轮读到的项目详情缓存仍为10月20日08:00，未取得发行方更正说明，不能定为已确认改期。 2026-10-19复核：现行预热列表仍为2026-11-11；项目详情可读版本仍列2026-10-20 08:00，历史全项目第三页快照仍为10月30日。未取得消除冲突的官方更正。",
+      "verifiedAt": "2026-10-19T10:10:00+08:00",
       "notes": [
         "手绘轻策略桌游众筹启动；详情页未读取成功，开始时刻及回报月份未核。",
         "此前10月20日节点及来源保留为历史证据，现移待核区，不再列入确定日期月历。",
         "详情本轮已可读，游戏主要档位预计2026年12月回报；新列表日期与详情冲突不能自行判定哪个已过时。",
         "2026-10-15现行官方预热列表仍为10月30日，详情仍为10月20日08:00；官方内部冲突没有解除，继续留review。",
-        "2026-10-18：官方预热列表现为11月11日；详情可读版本仍为10月20日08:00且有缓存时差。保留历史10月20日／30日证据及待核状态，不新增确定11月节点，也不从详情缓存判定仍按10月开筹。"
+        "2026-10-18：官方预热列表现为11月11日；详情可读版本仍为10月20日08:00且有缓存时差。保留历史10月20日／30日证据及待核状态，不新增确定11月节点，也不从详情缓存判定仍按10月开筹。",
+        "10月19日复核仍冲突，维持待核；不新增确定10月或11月启动日期，不用不一致的缓存倒推改期。"
       ],
       "sources": [
         {
@@ -13370,6 +13543,43 @@
         {
           "name": "Checklist Insider：10月16日更新及10月15日更正",
           "url": "https://www.checklistinsider.com/2026-topps-chrome-samurai-japan-baseball"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "lorcana-hunny",
+      "product": "Illumineer's Quest: The Great Hunny Rescue",
+      "category": "tcg",
+      "brand": "洛卡纳",
+      "nodeType": "release",
+      "date": "2026-10-02",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "美国／英语发行区",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "conflict",
+      "announcementStatus": "专属商品页列10月2日；关联系列页列10月1日，待官方消歧",
+      "sourceTimezone": "当地日期；未公布统一时刻",
+      "sourceTime": null,
+      "sourceEvidence": "来源公布的2026-10-02节点；具体限制见备注。 10月13日复核美国英语官方商品页，既有日期未变。 10月14日直接核对美国英语官网产品页，Hunny Rescue仍为10月2日，Hyperia City仍为16日售前、23日全面发售；这些日期不代表大陆或日语版安排。 10月15日10点后独立核对美国官方商品页和产品导航，The Great Hunny Rescue仍为10月2日，无已确认改期。 2026-10-19独立全月复核：美国专属商品页直接读取仍为Available October 2, 2026；Attack of the Vine美国官方系列页Hunny Rescue导流正文同时为COMING OCTOBER 1, 2026，未见解释两者差异的官方更正。两页均未提供这段信息的发表／更新时间，不能称为今日改期。",
+      "verifiedAt": "2026-10-19T10:11:19+08:00",
+      "notes": [
+        "官方产品页日期为10月2日。",
+        "2026-10-16复核：对应地区官方产品来源日期与现记录一致；日期已到不代表库存或国内到货。",
+        "官网日期冲突属于今日发现的资料问题，不代表10月18—19日新发布的公告。专属商品页10月2日依据保留；未以网站语言推断其他地区或版本发售。",
+        "2026-10-19移入待核区；date保留专属商品页原10月2日作为历史已报告日期，不表示冲突已解决。关联页10月1日没有被改写为新发售日期。"
+      ],
+      "sources": [
+        {
+          "name": "Disney Lorcana / Ravensburger",
+          "url": "https://www.disneylorcana.com/en-US/product/great-hunny-rescue"
+        },
+        {
+          "name": "Disney Lorcana美国：Attack of the Vine页面的Hunny Rescue导流横幅",
+          "url": "https://www.disneylorcana.com/en-US/product/attack-of-the-vine"
         }
       ],
       "timing": null
