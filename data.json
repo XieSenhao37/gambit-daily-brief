@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-19",
+  "latestIssue": "2026-10-21",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -3111,6 +3111,335 @@
             {
               "name": "2F-Spiele：9月24日SPIEL阵容公告",
               "url": "https://2f-spiele.de/2f-spiele-auf-der-spiel-essen-26/"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-21": {
+      "issue": "2026-10-21",
+      "cutoff": "10:12",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "mtg-star-trek-collecting-reveal-20261020",
+        "gundam-gd06-cn-announced-20261020",
+        "board-cn-schedule-corrections-20261021"
+      ],
+      "coverage": [
+        "本期按北京时间2026年10月21日编排，优先近24小时可核实增量；来源当地公告日期与事件日期分别列出，不把旧消息改写成今日首发。",
+        "覆盖桌游、符文战场、万智牌、洛卡纳、宝可梦、航海王、高达及Topps；无可靠新动态的品牌不强凑新闻。日历另按官方产品目录核查10月并补充已公布11月节点，非全网穷尽。",
+        "DAKA与集卡社CARD.FUN本轮仍有官方动态正文覆盖缺口，不能据此断言无新品；集卡社迪士尼水晶11月20日线索未获官方确认。",
+        "符文战场Radiance抽签通知不视为开放预售，地区日期争议继续留待核；KAWS与F1 FDI原节点继续保留review。Magic现实裂界国内延期不等于所有SKU已现货。",
+        "发售、预售、众筹、售前活动与发货分开；日期已过不证明库存或到店，海外价格与规则不直接适用于中国大陆。",
+        "大陆高达本轮已核到10月20日新增简中GD06公告及10月31日发售，旧核验记录中的目录更新缺口已被本轮证据补齐。"
+      ],
+      "items": [
+        {
+          "id": "board-class-of-89-retail-20261021",
+          "category": "board",
+          "region": "overseas",
+          "label": "近24h渠道报道",
+          "title": "Class of ’89美国零售定于11月20日，毕业年鉴串起工放与拼板",
+          "brand": "Paverson Games · PHD Games · ICv2",
+          "published": "10月21日02:49 · 北京时间（ICv2原文10月20日13:49 CT）",
+          "node": "11月20日 · 美国零售；官网预售已开放",
+          "priority": "核对版本与时长",
+          "summary": "复古高中年鉴题材Class of ’89新增明确美国零售档期。玩家调度年鉴社成员收集校园照片，再用拼板、成套收集和邻接关系计分。",
+          "facts": [
+            "PHD渠道公告确认11月20日发行、SKU PVG03000、MSRP US$60；不是今日首次公布游戏。",
+            "发行方现行规格为1–4人、14岁以上、60–90分钟；媒体25分钟与渠道25分钟/人不宜误写成整局时长。",
+            "官网预售为US$59.99并含两枚promo板块；发行日期与官网预售、国内到货须分开，中文版及中国供货未核。"
+          ],
+          "advice": "按中量策略游戏评估试玩时段；询价时注明零售版或官网预售版，不把赠品默认计入渠道版。",
+          "sources": [
+            {
+              "name": "Paverson Games：Class of ’89现行产品正文",
+              "url": "https://paversongames.com/products/class-of-89"
+            },
+            {
+              "name": "PHD Games：美国渠道发行日期与SKU",
+              "url": "https://www.phdgames.com/2026/10/19/class-of-89-paverson-games/"
+            },
+            {
+              "name": "ICv2：10月20日零售档期报道",
+              "url": "https://icv2.com/articles/news/view/63673/fill-out-retro-yearbook-class-89"
+            }
+          ]
+        },
+        {
+          "id": "board-cn-schedule-corrections-20261021",
+          "category": "board",
+          "region": "domestic",
+          "label": "官方改期／取消",
+          "title": "小动物自走棋改至10月28日；天才妹宝与MBTI项目取消",
+          "brand": "奇思工作室 · 青袂婉约 · 丨ENO丨",
+          "published": "10月20日15:37改期更新（平台未标时区）；两项取消发生于10月19日",
+          "node": "小动物自走棋：10月28日20:00北京时间预售；两项摩点众筹已取消",
+          "priority": "修正待购提醒",
+          "summary": "《小动物自走棋：卡牌对决》简中大盒预售由10月22日晚延后至28日晚8点。摩点现行列表另外确认《天才妹宝与青春答卷》和MBTI扑克麻将均由发起者于10月19日取消。",
+          "facts": [
+            "小动物发行方更新首图明确写“开售时间延后至10月28日晚8点整”；项目start_time=1793188800与之吻合，旧10月22日提醒应撤换。",
+            "改期公告说将补充完整开箱与试玩视频，并公开样品照片；预售启动不等于发货或到货。",
+            "摩点全项目第2、3页分别给出两项10月19日取消状态；原10月15日和10月21日计划仅保留作历史，不继续标为可参与众筹。",
+            "未取得两项取消的原因或退款处理公告，不作推断。"
+          ],
+          "advice": "有关注这三款的玩家先修正日历；小动物等待28日预售详情，已取消项目不要沿用旧页面作下单引导。",
+          "sources": [
+            {
+              "name": "奇思工作室：开售时间调整与样品开箱",
+              "url": "https://shop.zhuoyou.com/api/v1/webview/projectUpdate/10442"
+            },
+            {
+              "name": "新物集：小动物项目日期与完整更新",
+              "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4399"
+            },
+            {
+              "name": "摩点：天才妹宝取消状态",
+              "url": "https://zhongchou.modian.com/tablegames/top_time/all/2"
+            },
+            {
+              "name": "摩点：MBTI扑克麻将取消状态",
+              "url": "https://zhongchou.modian.com/tablegames/top_time/all/3"
+            }
+          ]
+        },
+        {
+          "id": "board-nucleum-gibraltar-retail-20261021",
+          "category": "board",
+          "region": "domestic",
+          "label": "近24h官方零售／履约更新",
+          "title": "《核子激荡：直布罗陀》转入淘宝零售，不含大盒且合作档位发货不同步",
+          "brand": "满意桌游 · 聆听桌游",
+          "published": "10月20日13:13 · 平台原文（时区未标）",
+          "node": "10月20日20:00 · 聆听桌游淘宝零售开售（公告原文时间）",
+          "priority": "区分零售与履约",
+          "summary": "满意桌游10月20日公告指定淘宝店开售《直布罗陀》扩展及两个推广包，不含大盒；另明确旧内容套装与面板、模型的发货进度不同。",
+          "facts": [
+            "本次零售范围是直布罗陀扩展与两个推广包，不含大盒。10月8日新物集预售与10月20日淘宝零售是两个不同节点。",
+            "戏梦桌游负责的核子激荡以往内容套装已全部发货；米宝盒子、Token Model负责的面板和模型仍在筹备发货。",
+            "官方公告给出淘宝商品链接；本轮没有把公告当作实时库存、结算价或所有档位已发货保证。"
+          ],
+          "advice": "补购先确认是扩展还是大盒；等待合作档位的玩家按负责方和商品类型查询，不因部分套装已发货就认定整单齐发。",
+          "sources": [
+            {
+              "name": "满意桌游：零售上架及合作档位发货说明",
+              "url": "https://shop.zhuoyou.com/api/v1/webview/projectUpdate/10440"
+            },
+            {
+              "name": "新物集：官方项目及完整更新数据",
+              "url": "https://shop.zhuoyou.com/api/v1.10/fundingProject/4351"
+            },
+            {
+              "name": "官方公告所链聆听桌游淘宝商品",
+              "url": "https://h5.m.taobao.com/awp/core/detail.htm?ft=t&id=1091679596970"
+            }
+          ]
+        },
+        {
+          "id": "mtg-star-trek-collecting-reveal-20261020",
+          "category": "tcg",
+          "region": "global",
+          "label": "10月20日官方新预览",
+          "title": "星际迷航首批收藏细节：7种演员亲签卡，每种少于250张",
+          "brand": "Magic · Star Trek",
+          "published": "2026-10-20（官方正文日期，未标发布时间／时区）",
+          "node": "原定2026-11-13实体发售；部分地区、SKU供货延迟另计",
+          "priority": "分清版本与配置",
+          "summary": "首播配套收藏指南已上线，亲笔签名卡、LCARS电震地与Stardates重印系列成为主要看点。",
+          "facts": [
+            "7种演员亲笔签名headliner每种少于250张，仅随机放入聚珍补充包；各语言聚珍包均可能出现，但签名卡本身均为英文。",
+            "10种LCARS电震地及30种Stardates重印卡收录；Stardates为SDS代码，不会仅因出现在本系列补充包里就新增标准合法性。",
+            "这次是10月20日实际内容揭晓，不是重复17日日报的首播日程预告；11月13日是系列原定日期，不代表延迟地区全部产品有货。"
+          ],
+          "advice": "分清常规包、聚珍包和卡牌版本；不将稀有卡总印量转成整盒保底、估值或投资回报承诺。",
+          "sources": [
+            {
+              "name": "Wizards：Star Trek收藏指南（10月20日）",
+              "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
+            },
+            {
+              "name": "Wizards：分地区供货延迟（10月16日）",
+              "url": "https://magic.wizards.com/en/news/announcements/star-trek-product-delays-in-select-regions"
+            }
+          ]
+        },
+        {
+          "id": "mtg-star-trek-mechanics-reveal-20261020",
+          "category": "tcg",
+          "region": "global",
+          "label": "10月20日机制揭晓",
+          "title": "星际迷航新机制公布：传送回手再施放，模式选择也有协同",
+          "brand": "Magic · Star Trek",
+          "published": "2026-10-20（官方正文日期，未标发布时间／时区）",
+          "node": "售前活动原定2026-11-06至12；实体系列原定11-13发售",
+          "priority": "准备售前教学",
+          "summary": "官方机制说明已发布，重点包括Beam me up、Face a dilemma、Federation及Strange new worlds。",
+          "facts": [
+            "Beam me up允许支付指定费用并将己方生物回手，从坟场施放对应瞬间／法术；该咒语其后会被放逐，仍受原本施放时机限制。",
+            "Face a dilemma发生于为模式咒语或异能选择模式时；一次选择多个模式仍只算一次，不以最终成功结算为条件。",
+            "Federation计算己方非Borg生物的生物类别数；Strange new worlds计算己方不同名称的地，Spacecraft与station也回归。"
+          ],
+          "advice": "售前教学可先用回手费用、模式选择和不同名称地作示例；不要把新牌展示或牌表页面上线写成四套完整Commander牌表已公布。",
+          "sources": [
+            {
+              "name": "Wizards：Star Trek机制（10月20日）",
+              "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
+            },
+            {
+              "name": "Wizards：Commander牌表页（当前四套仍待揭晓）",
+              "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
+            },
+            {
+              "name": "Wizards：Star Trek原定日期",
+              "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-genesect-gym-campaign-cn-20261020",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "10月20日官方新活动",
+          "title": "盖诺赛克特双奖励公布：10月、11月均需参加指定活动",
+          "brand": "宝可梦中国 · 道馆活动",
+          "published": "2026-10-20（官方只标日期，未提供具体时刻）",
+          "node": "10—11月各月完成条件；11月7日至12月6日领取",
+          "priority": "安排跨月到店活动",
+          "summary": "徽章与磁吸贴可分别达标领取，不能等到11月才首次参加；两项活动的合格场次不同。",
+          "facts": [
+            "徽章要求10月和11月各核销一次指定道馆活动：“欢迎新手”排除校园专区；“一决胜负”排除自由对战、校园专区、高校王牌赛和RED LAND杯；“特别活动”“目标是冠军”不计入。",
+            "磁吸贴要求10月、11月各参加并核销一次“绘梦工坊”“集换小站”“纸间奇遇”或“遇梦之旅”。",
+            "两项均要求11月30日23:59:59前完成小程序实名注册，领取期为11月7日至12月6日，每位实名用户各限1个；两种奖励互不冲突。",
+            "徽章和磁吸贴各10万个，均先到先得、送完即止；到店前查看小程序可领取道馆与库存。"
+          ],
+          "advice": "门店可把10月剩余合格活动与11月返店安排一起告知玩家；特别提醒城市赛不计入徽章条件。这是活动赠品，不是新品销售或卡牌抽取概率。 领取时携带与小程序实名信息一致的身份证明，按官方要求现场核验。",
+          "sources": [
+            {
+              "name": "宝可梦中国：盖诺赛克特纪念徽章规则",
+              "url": "https://www.pokemon.cn/tcg/campaign/24347.html"
+            },
+            {
+              "name": "宝可梦中国：盖诺赛克特纪念磁吸贴规则",
+              "url": "https://www.pokemon.cn/tcg/campaign/24350.html"
+            }
+          ]
+        },
+        {
+          "id": "gundam-gd06-cn-announced-20261020",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "10月20日大陆新品公告",
+          "title": "高达简中GD06《星尘轨迹》定档10月31日，每包6张",
+          "brand": "高达卡牌对战／Bandai中国大陆",
+          "published": "2026-10-20（大陆官方新闻列表与商品记录日期；未给具体时刻）",
+          "node": "中国大陆简体中文版 · 2026年10月31日正式发售",
+          "priority": "补齐简中订货节点",
+          "summary": "大陆官网新增GD06商品详情，包装明确标注简体中文版，独立确认10月31日发行；不再只参考日本或亚洲地区日期。",
+          "facts": [
+            "官网目录、商品主视觉和规格表均列2026年10月31日；官方新闻列表标10月20日。",
+            "简中版每包6张，共135种+8种：C50、U36、R32、LR12、SP5，另有能源／替代卡8种。",
+            "商品页确认《机动战士高达ZZ》《机动战士高达0083》参战，并展示简中卡牌。",
+            "当前大陆商品规格未列人民币建议售价或统一开售时刻；不能把海外价格、每包配置或物流到店日移植过来。"
+          ],
+          "advice": "简中需求可单独登记并询问供货商报价和配额；10月31日是官方发行日，不等于各门店保证现货到店。",
+          "sources": [
+            {
+              "name": "高达大陆官网：星尘轨迹GD06商品详情",
+              "url": "https://gundam-gcg.cn/productsdetail?id=55"
+            },
+            {
+              "name": "高达大陆官网公开商品详情数据",
+              "url": "https://webadmin.windoent.com/front/gd-public/web/goods/detail/55"
+            },
+            {
+              "name": "高达大陆官网新闻列表（10月20日）",
+              "url": "https://webadmin.windoent.com/front/gd-public/web/news/page?pageNum=1&pageSize=100"
+            },
+            {
+              "name": "高达大陆官方包装：明确标注简体中文版",
+              "url": "https://source.windoent.com/GaoDaPc/Picture/49faf1673eb94aed8992697dd97fc659/GD06%20%E5%AE%98%E7%BD%91.png"
+            }
+          ]
+        },
+        {
+          "id": "cards-tennis-sapphire-date-20261021",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月20日新指南／官方排期补核",
+          "title": "Chrome Tennis Sapphire定于10月28日，往年149.99美元不是今年售价",
+          "brand": "Topps · 网球",
+          "published": "2026-10-20（专业指南日期，未标时刻）；10月21日核验美欧官方日期，官网未标更新时间",
+          "node": "2026-10-28 · 美国及欧洲官网发行，精确时刻未公布",
+          "priority": "区分版本与报价",
+          "summary": "美欧日历和美英系列页确认Sapphire版10月28日；官方介绍Hidden Gems与Infinite Sapphire，但本轮尚未核到今年官方售价。",
+          "facts": [
+            "美国及英国系列页均为Available October 28，美、英、德、法、意、西日历日期一致，且没有预售标记。",
+            "官方展示Sapphire平行、Hidden Gems、Infinite Sapphire；它是独立Sapphire版本，不是9月常规Chrome Tennis的重复发行新闻。",
+            "Checklist Insider的10月20日指南列8包×4张、每盒1签，但该盒配仍以专业来源归因；当前官方系列页没有写出该盒配承诺。",
+            "指南的149.99美元指2024、2025版首发价格，不是2026版已确认售价；今年售价、精确开售时刻与大陆到货仍需另核。"
+          ],
+          "advice": "可先登记网球收藏客需求；按2026 Sapphire版本询价，别把旧年价格或其他网球系列盒配直接复制到预售页。",
+          "sources": [
+            {
+              "name": "Topps美国：Tennis Sapphire发行页",
+              "url": "https://www.topps.com/pages/topps-chrome-tennis-sapphire-edition"
+            },
+            {
+              "name": "Topps英国：Tennis Sapphire发行页",
+              "url": "https://uk.topps.com/pages/topps-chrome-tennis-sapphire-edition"
+            },
+            {
+              "name": "Checklist Insider：10月20日Tennis Sapphire指南",
+              "url": "https://www.checklistinsider.com/2026-topps-chrome-sapphire-tennis"
+            },
+            {
+              "name": "Topps美国官方发行日历",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps英国官方发行日历",
+              "url": "https://uk.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps德国官方发行日历",
+              "url": "https://de.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps法国官方发行日历",
+              "url": "https://fr.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps意大利官方发行日历",
+              "url": "https://it.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps西班牙官方发行日历",
+              "url": "https://es.topps.com/release-calendar"
+            }
+          ]
+        },
+        {
+          "id": "cards-messi-now-record-20261021",
+          "category": "cards",
+          "region": "overseas",
+          "label": "10月20日官方新报道",
+          "title": "Messi告别主题Topps NOW创664,325印量纪录，热度不等于稀缺",
+          "brand": "Topps NOW · 足球",
+          "published": "2026-10-20（官方文章日期，未标时区或时刻）",
+          "node": "已推出产品的印量与配置报道，不新增发售日期",
+          "priority": "分清印量与稀有卡",
+          "summary": "Topps公布Final Farewell Pack达到664,325印量，并介绍首次出现的1/1 White OpalFractor签名平行；不能把基础印量当成稀有卡数量。",
+          "facts": [
+            "Topps Ripped于10月20日报道该Messi阿根廷告别主题产品创品牌Topps NOW历史印量纪录，数字为664,325。",
+            "官方列每包两张：一张Farewell基础／平行／1/1签名卡，另一张异图／SSP／1/1异图签名卡；“或”的选项不是每包都有签名。",
+            "报道突出1/1 White OpalFractor Autograph Parallel；1/1是该特定平行的数量，不能概括整个产品稀缺度。",
+            "本轮没有新增售卖窗口、现货或大陆供应证据；印量纪录也不是二级市场价格或保值承诺。"
+          ],
+          "advice": "适合作为足球收藏话题，报价时区分基础、异图和具体平行；不因印量纪录宣传涨价或保证出签。",
+          "sources": [
+            {
+              "name": "Topps Ripped：10月20日Messi印量纪录",
+              "url": "https://ripped.topps.com/messi-topps-now-record-card-final-farewell/"
             }
           ]
         }
