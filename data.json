@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-10-21",
+  "latestIssue": "2026-11-16",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -3440,6 +3440,95 @@
             {
               "name": "Topps Ripped：10月20日Messi印量纪录",
               "url": "https://ripped.topps.com/messi-topps-now-record-card-final-farewell/"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-16": {
+      "issue": "2026-11-16",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "magic-worlds-daytwo-20261115",
+        "magic-pioneer-2027-20261114",
+        "magic-spotlight-beijing-2027"
+      ],
+      "coverage": [
+        "本期为3条短刊：1条11月15日赛事回顾与2条明确标注11月14日公告的不同赛事规划重点；不是三个独立新产品公告，不以旧消息伪造今日新闻。",
+        "目标筛选截止北京时间2026年11月16日10:00；仅有发布日期而无时刻的来源，不声称精确位于滚动24小时内。决赛最终结果未取得可靠正文，本期不报冠军。",
+        "覆盖非全网穷尽。符文战场已报道的11月13日禁牌公告不重复；其他主营TCG未取得足够可靠新增正文，不代表没有新闻。",
+        "桌游BoardGameBeat及部分专业媒体访问受限，本轮没有可可靠收录的新动态。",
+        "Topps官方日历返回403，DAKA及集卡社微博读取受限；janime品牌页没有支持迪士尼水晶11月20日的公告。国内收藏卡存在覆盖缺口，不能断言无新品。"
+      ],
+      "items": [
+        {
+          "id": "magic-worlds-daytwo-20261115",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "11月15日官方回顾",
+          "title": "万智牌世界赛八强：八种套牌晋级，Boros Pixie两日接近60%",
+          "brand": "Magic / World Championship 32",
+          "published": "2026-11-15（官方文章日期，未标时刻）",
+          "node": "美国当地11月14日第二日赛程；非最终决赛结果",
+          "priority": "观察环境",
+          "summary": "官方第二日回顾列出八种八强套牌；Boros Pixie截至第二日接近60%胜率，不能当作最终赛事或长期环境胜率。",
+          "facts": [
+            "八强覆盖Izzet Prowess、Izzet Mission、Azorius Control、Boros Pixie、Jund Sacrifice、Azorius Momo、Selesnya Michelangelo和Selesnya Landfall。",
+            "Boros Pixie使用《星际迷航》The Naked Time；官方称其截至第二日接近60%胜率。"
+          ],
+          "advice": "用八强牌表组织环境讨论，待最终赛果再作总结；不要把短期战绩直接转成单卡价格判断。",
+          "sources": [
+            {
+              "name": "Magic.gg：World Championship 32 Day Two Highlights",
+              "url": "https://magic.gg/news/magic-world-championship-32-day-two-highlights"
+            }
+          ]
+        },
+        {
+          "id": "magic-pioneer-2027-20261114",
+          "category": "tcg",
+          "region": "global",
+          "label": "11月14日公告补收",
+          "title": "先驱赛制2027回归RC与RCQ，2028新增全限制专业赛",
+          "brand": "Magic / Organized Play",
+          "published": "2026-11-14（官方公告日期）",
+          "node": "先驱RC：2027-04-10至05-23；先驱RCQ：07-03至09-26",
+          "priority": "规划赛制",
+          "summary": "官方确认先驱重新进入区域冠军赛及资格赛，并宣布2028年增加第四站、采用全限制结构的专业赛。",
+          "facts": [
+            "2026–27第三轮RC采用先驱，窗口为2027年4月10日至5月23日。",
+            "2027–28第二轮RCQ采用先驱，窗口为7月3日至9月26日；此前4月10日至6月27日一轮为摩登。",
+            "2028年新增第四站专业赛，采用全限制结构；2027年的Limited Championship之后由此安排接续。"
+          ],
+          "advice": "先评估先驱与限制赛玩家基础；地区赛事执行和资格要求需等具体主办方公告。",
+          "sources": [
+            {
+              "name": "Wizards：2027竞技赛事公告（11月14日）",
+              "url": "https://magic.wizards.com/en/news/announcements/everything-new-for-competitive-play-in-2027"
+            }
+          ]
+        },
+        {
+          "id": "magic-spotlight-beijing-2027",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "11月14日公告补收",
+          "title": "2027 Magic Spotlight北京站定于5月22–23日，采用摩登",
+          "brand": "Magic / Spotlight / Kadou",
+          "published": "2026-11-14（官方公告日期）",
+          "node": "2027-05-22至05-23 · 北京 · Modern",
+          "priority": "国内赛事",
+          "summary": "北京站由Kadou主办，属于Marvel Darkhold Destiny主题Spotlight；报名细节尚待后续发布。",
+          "facts": [
+            "官方日程列明北京站为2027年5月22日至23日、摩登赛制、Kadou主办。",
+            "自2027年起每站Spotlight增设CommandFest；具体活动及报名信息另行公布。"
+          ],
+          "advice": "可作为明年摩登社群备赛的参考节点，暂不承诺报名、场地或交通安排。",
+          "sources": [
+            {
+              "name": "Wizards：2027竞技赛事公告（11月14日）",
+              "url": "https://magic.wizards.com/en/news/announcements/everything-new-for-competitive-play-in-2027"
             }
           ]
         }
