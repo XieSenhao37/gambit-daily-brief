@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-16",
+  "latestIssue": "2026-11-17",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -3529,6 +3529,175 @@
             {
               "name": "Wizards：2027竞技赛事公告（11月14日）",
               "url": "https://magic.wizards.com/en/news/announcements/everything-new-for-competitive-play-in-2027"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-17": {
+      "issue": "2026-11-17",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "pokemon-city-batch2-20261116",
+        "magic-worlds-champion-20261116",
+        "riftbound-convergence-american-20261116"
+      ],
+      "coverage": [
+        "本期6条，优先11月16日新增；Five Star为11月13日配置指南补收并标明日期冲突，非今日新公告。",
+        "仅有发布日期而未给时区的文章，不声称精确位于滚动24小时内。覆盖非全网穷尽。",
+        "已核桌游、主要TCG官网及Topps公开来源；洛卡纳、航海王、高达本轮未选出足够可靠新增新闻，不代表没有更新。",
+        "Topps美英销售日历及部分产品页返回403，采用RIPPED官方指南及专业媒体核对；DAKA/集卡社微博访问受限。",
+        "集卡社迪士尼水晶11月20日仍缺官方可核正文，未作为确认发售；国内收藏卡保留覆盖缺口。"
+      ],
+      "items": [
+        {
+          "id": "pokemon-city-batch2-20261116",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "11月16日公告 / 报道",
+          "title": "宝可梦城市赛第二批：团队今晚截止，个人今晚开启",
+          "brand": "宝可梦中国",
+          "published": "2026-11-16（官方公告）",
+          "node": "11月17日23:59团队截止；18:00个人报名开启",
+          "priority": "报名提醒",
+          "summary": "11月21–22日场次第二批报名公布，采取随机抽选。",
+          "facts": [
+            "团队报名11月16日18:00至17日23:59，18日通知。",
+            "个人报名11月17日18:00至18日23:59，19日通知；免费、随机抽选。"
+          ],
+          "advice": "提醒玩家核对场次与队伍资料，报名不代表中选；不假设某家门店已承办。",
+          "sources": [
+            {
+              "name": "宝可梦中国：第二批报名",
+              "url": "https://www.pokemon.cn/tcg/event/24726.html"
+            }
+          ]
+        },
+        {
+          "id": "magic-worlds-champion-20261116",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "11月16日公告 / 报道",
+          "title": "Stefan Schütz以Izzet Mission夺得万智牌世界赛冠军",
+          "brand": "Magic / World Championship 32",
+          "published": "2026-11-16（官方文章日期，未标时刻）",
+          "node": "当地11月15日决赛",
+          "priority": "最终赛果",
+          "summary": "Schütz在决赛3–0击败Eduardo Sajgalik，最终结果已确认。",
+          "facts": [
+            "冠军使用Izzet Mission；亚军使用Selesnya Michelangelo。",
+            "本条接续此前第二日回顾，为最终赛果而非八强预测。"
+          ],
+          "advice": "可组织冠军牌表复盘；单场赛果不能直接推导单卡价格。",
+          "sources": [
+            {
+              "name": "Magic.gg：决赛回顾",
+              "url": "https://magic.gg/news/the-finals-of-magic-world-championship-32"
+            }
+          ]
+        },
+        {
+          "id": "riftbound-convergence-american-20261116",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "11月16日公告 / 报道",
+          "title": "符文战场美国门店活动公布地区限定Ionic Spark赠卡",
+          "brand": "Riftbound / Convergence Fest",
+          "published": "2026-11-16 17:00 UTC（北京时间17日01:00）",
+          "node": "美国门店活动12月9–15日",
+          "priority": "海外独占",
+          "summary": "美国参与门店将在Convergence Fest期间发放地区限定战场赠卡，送完为止。",
+          "facts": [
+            "门店可配合教学、店赛或观赛发放；官方明确禁止作为购买奖励。",
+            "展会参加者也可获取；中国门店资格和国内供货没有由此获得确认。"
+          ],
+          "advice": "作为海外收藏动态观察，勿把活动赠卡解读成零售礼包保底或中国同步活动。",
+          "sources": [
+            {
+              "name": "符文战场：美国门店活动",
+              "url": "https://playriftbound.com/en-us/news/announcements/celebrate-convergence-fest-at-american-game-stores/"
+            }
+          ]
+        },
+        {
+          "id": "board-return-king-ttg-20261116",
+          "category": "board",
+          "region": "overseas",
+          "label": "11月16日公告 / 报道",
+          "title": "《王者归来》合作吃墩游戏：PAX提前销售，明年1月零售",
+          "brand": "The Lord of the Rings / Board Game Beat",
+          "published": "2026-11-16 02:00（媒体页面，时区未标）",
+          "node": "PAX 12月4–6日；常规零售2027年1月15日",
+          "priority": "新品前瞻",
+          "summary": "The Return of the King – Trick-Taking Game包含20章，可不玩前作直接进入。",
+          "facts": [
+            "专业媒体列明费城PAX Unplugged有提前销售版本，常规零售计划为2027年1月15日。",
+            "中文版与国内供货尚未确认。"
+          ],
+          "advice": "区分展会提前销售与常规零售时间；可先观察合作吃墩玩家兴趣。",
+          "sources": [
+            {
+              "name": "Board Game Beat：PAX新品报道",
+              "url": "https://www.wericmartin.com/pax-unplugged-2026-joinery-kart-stomp-return-of-the-king-ttg/"
+            }
+          ]
+        },
+        {
+          "id": "topps-chrome-football-guide-20261116",
+          "category": "cards",
+          "region": "overseas",
+          "label": "11月16日官方指南",
+          "title": "Topps Chrome Football新版指南：400张基础卡，新增三类特卡",
+          "brand": "Topps / NFL",
+          "published": "2026-11-16（官方日期，未标时刻）",
+          "node": "普通版预计11月18日发行；具体盒型分别确认",
+          "priority": "核对配置",
+          "summary": "官方指南列出300张老将与100张新秀基础卡，并介绍Glass Canvas、Madden 99 Club、Super Bowl at Night。",
+          "facts": [
+            "新增Madden 99 Club每张编号至99；不能据此推定整盒抽中概率。",
+            "Checklist Insider现列普通版11月18日发行；Topps销售页本轮返回403，未核得国内价格和到货。"
+          ],
+          "advice": "按具体盒型核对卡表和配置，不把特卡展示当作整盒保证，也不把海外发行日当国内交期。",
+          "sources": [
+            {
+              "name": "Topps RIPPED：官方收藏指南",
+              "url": "https://ripped.topps.com/2026-topps-chrome-football-collector-guide-top-cards/"
+            },
+            {
+              "name": "Checklist Insider：产品日期",
+              "url": "https://www.checklistinsider.com/2026-topps-chrome-football"
+            }
+          ]
+        },
+        {
+          "id": "topps-five-star-basketball-guide-20261113",
+          "category": "cards",
+          "region": "overseas",
+          "label": "11月13日指南补收",
+          "title": "Five Star Basketball：Hobby每盒6张，含5张签名",
+          "brand": "Topps / NBA",
+          "published": "2026-11-13（旧指南，今日补收）",
+          "node": "发行日期存在11月19日与24日的二级来源差异，待官方核实",
+          "priority": "区分日期",
+          "summary": "官方配置指南确认单一Hobby盒型，每盒1包6张，5张签名加1张基础卡或其平行版本。",
+          "facts": [
+            "基础卡表100张，普通基础卡编号至50。",
+            "官方指南未在正文确认发售日期；Checklist Insider现列11月24日，其他日历仍列19日，不当作确定交期。"
+          ],
+          "advice": "销售介绍可确认盒装配置，但发售与国内到货日期应单独向供货渠道确认。",
+          "sources": [
+            {
+              "name": "Topps RIPPED：Five Star Hobby指南",
+              "url": "https://ripped.topps.com/2025-26-topps-five-star-basketball-hobby-box-guide/"
+            },
+            {
+              "name": "Checklist Insider：Five Star日期",
+              "url": "https://www.checklistinsider.com/2025-26-topps-five-star-basketball"
+            },
+            {
+              "name": "Set Checklists：篮球日历",
+              "url": "https://setchecklists.com/basketball/"
             }
           ]
         }
