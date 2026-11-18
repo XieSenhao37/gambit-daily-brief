@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-17",
+  "latestIssue": "2026-11-18",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -3698,6 +3698,145 @@
             {
               "name": "Set Checklists：篮球日历",
               "url": "https://setchecklists.com/basketball/"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-18": {
+      "issue": "2026-11-18",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "onepiece-banned-pairs-20261117",
+        "pokemon-meloetta-rewards-20261117",
+        "board-dadada-crowdfund-20261118"
+      ],
+      "coverage": [
+        "本期5条：以11月17日公告／报道为主；《哒哒哒》为今日已知节点而非今日新公告，Topps为品牌指南非发行消息。",
+        "仅有日期而无发布时间、时区的页面，不声称严格位于滚动24小时内。",
+        "洛卡纳、高达及符文战场本轮未选足够独立新增；不代表没有动态。万智牌Dune线索缺直接可读官源，本期未作确认新闻。",
+        "Topps官方销售日历403；DAKA微博受限、集卡社品牌页缺可核新品日期，保留国内收藏卡覆盖缺口。迪士尼水晶11月20日未获官方确认。",
+        "月历独立补充11月产品与众筹节点，保留历史；非全网穷尽，旧条目不表示已全部在本日重新核查。"
+      ],
+      "items": [
+        {
+          "id": "onepiece-banned-pairs-20261117",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "11月17日官方更新",
+          "title": "航海王英文版新增波妮禁配，11月27日起生效",
+          "brand": "航海王",
+          "published": "2026-11-17（官方页面，未标时刻）",
+          "node": "2026-11-27生效",
+          "priority": "规则调整",
+          "summary": "EB05-001 Jewelry Bonney不能与指定路飞或罗同时编入牌组，不是全面禁用。",
+          "facts": [
+            "禁配对象为OP13-001 Monkey.D.Luffy、OP01-002 Trafalgar Law；平行版本同样适用。",
+            "本公告适用英文NA/EU/OC/LATAM/ME地区，不能据此断言简中同步。"
+          ],
+          "advice": "英文赛组织者可提前检查牌表；简中赛事以本地区正式公告为准。",
+          "sources": [
+            {
+              "name": "航海王英文官方禁限表",
+              "url": "https://en.onepiece-cardgame.com/news/restriction.html"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-meloetta-rewards-20261117",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "11月17日官方公告",
+          "title": "美洛耶塔徽章与磁吸贴公布，须跨11、12月完成活动",
+          "brand": "宝可梦",
+          "published": "2026-11-17（官方公告）",
+          "node": "领取：2026-12-05至2027-01-04",
+          "priority": "社群活动",
+          "summary": "两项奖励都需11月、12月各参加并核销一次对应活动，活动资格不同且可兼得。",
+          "facts": [
+            "徽章限指定道馆活动：欢迎新手（除校园专区）、一决胜负（排除自由对战、校园专区及高校王牌赛）。",
+            "磁吸贴对应绘梦工坊、集换小站、纸间奇遇、遇梦之旅。每月各核销一次，并满足实名注册条件。",
+            "两项奖励分别每位实名用户限1个，各10万个、先到先得；领取前应查询可领取门店及库存。"
+          ],
+          "advice": "社群公告应把两套活动条件分开，避免误称任意比赛均可；不要承诺尚未确认的门店库存。",
+          "sources": [
+            {
+              "name": "宝可梦：纪念徽章",
+              "url": "https://www.pokemon.cn/tcg/campaign/24740.html"
+            },
+            {
+              "name": "宝可梦：纪念磁吸贴",
+              "url": "https://www.pokemon.cn/tcg/campaign/24734.html"
+            }
+          ]
+        },
+        {
+          "id": "board-dadada-crowdfund-20261118",
+          "category": "board",
+          "region": "domestic",
+          "label": "今日节点 / 非今日新公告",
+          "title": "聚会桌游《哒哒哒》计划今晚19:00开筹",
+          "brand": "桌游星球 / 摩点",
+          "published": "项目页未标首次发表日；11月18日核验",
+          "node": "2026-11-18 19:00（北京时间）",
+          "priority": "国内新品",
+          "summary": "摩点预热表及项目页一致列出11月18日开筹，回报预计2027年1月。",
+          "facts": [
+            "项目页明确开始时间19:00，早鸟档99元、限300份，每人限3份。",
+            "回报含本体及众筹解锁特别卡牌；预计回报时间不是保证到货日。"
+          ],
+          "advice": "可先了解聚会玩法和教学难度，别把开筹当天写成现货上市；众筹存在履约风险。",
+          "sources": [
+            {
+              "name": "摩点官方项目页",
+              "url": "https://zhongchou.modian.com/item/161582.html"
+            }
+          ]
+        },
+        {
+          "id": "board-witcher-gamefound-20261117",
+          "category": "board",
+          "region": "overseas",
+          "label": "11月17日专业媒体报道",
+          "title": "《巫师：无人之地》Starter Set公布预购计划",
+          "brand": "Monster Fight Club",
+          "published": "2026-11-17（OnTableTop，时区未标）",
+          "node": "报道计划于11月17日在Gamefound开启；实际状态待核",
+          "priority": "海外新品",
+          "summary": "专业媒体介绍以杰洛特与雷索战帮为核心的微缩战棋入门盒。",
+          "facts": [
+            "报道Starter Set包含两组战帮、怪物、地形、游戏垫、卡牌及配件。",
+            "本轮没有取得可核对的官方项目销售状态、运费或大陆履约方案，不宣称已实际开售。"
+          ],
+          "advice": "作为微缩战棋新品线索观察；采购前另核规则、语言、交付与售后。",
+          "sources": [
+            {
+              "name": "OnTableTop：Starter Set预购报道",
+              "url": "https://www.ontabletop.com/fantasy/the-witcher-no-mans-land-starter-gamefound-today/"
+            }
+          ]
+        },
+        {
+          "id": "topps-chrome-history-20261117",
+          "category": "cards",
+          "region": "overseas",
+          "label": "官方品牌指南 / 非发售公告",
+          "title": "Topps Chrome Football更新品牌历史与收藏方向介绍",
+          "brand": "Topps / NFL",
+          "published": "2026-11-17更新线索；11月18日已核正文，正文未显示时刻",
+          "node": "品牌教育内容；不作为交期证据",
+          "priority": "收藏卡知识",
+          "summary": "官方回顾Chrome Football自1996年起的发展，并介绍2026年新秀、折射平行及特卡。",
+          "facts": [
+            "该指南强调新秀、球队与球员收藏，以及Refractor彩虹收藏方向。",
+            "正文并非新发售日期或国内到货公告；不重复把此前卡种介绍当成新产品发布。"
+          ],
+          "advice": "可用于直播基础知识讲解；具体盒型配置、概率与交期应另查对应官方资料，不从宣传文字推断回报。",
+          "sources": [
+            {
+              "name": "Topps RIPPED：产品历史",
+              "url": "https://ripped.topps.com/2026-topps-chrome-football-product-history/"
             }
           ]
         }
