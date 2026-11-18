@@ -1,8 +1,11 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-10-19",
+  "asOf": "2026-11-18",
   "coverage": [
+    "2026-11-18增量核验：补充11月航海王英文商品、宝可梦周边、Star Trek基准上市／售前、Topps分盒型预计日期及国内桌游众筹。保留全部历史；历史条目并非本日逐条重新确认。",
+    "本轮独立查看11月摩点预热列表、Asmodee美国月历、航海王英文完整目录、高达和洛卡纳产品入口、宝可梦中国商品表。Asmodee分周对应在文本提取中不充分，未猜测具体日期。",
+    "Topps官方日历及销售页403；DAKA微博受限，集卡社品牌页无新品日期。国内收藏卡仍有覆盖缺口，迪士尼水晶11月20日未获官方确认；覆盖非全网穷尽。",
     "范围：2026年10月公开来源核实的产品／地区节点，含月初已过日期与未来日期；不是全球全品牌全SKU穷尽表，也不是独立产品款数。",
     "默认仅展示正式发售；可筛选全部、预售、众筹及售前活动。官方未来日期可能调整，来源证据等级不等于库存或购买保证。",
     "日期保留来源当地日期。没有明确时刻的海外日期不换算北京日期，也不当作北京时间零点或全球同时解禁。",
@@ -11532,31 +11535,31 @@
       "product": "黑白专题 硬币收藏艺术展示框",
       "category": "tcg",
       "brand": "宝可梦",
-      "nodeType": "release",
-      "date": null,
-      "endDate": null,
+      "nodeType": "preorder",
+      "date": "2026-11-06",
+      "endDate": "2026-11-22",
       "announcedMonth": null,
-      "region": "中国大陆",
+      "region": "中国大陆指定官方道馆及部分慢闪／快闪店",
       "languages": [
-        "简体中文"
+        "简体中文主题周边"
       ],
-      "evidenceLevel": "tentative",
-      "announcementStatus": "官方已披露产品；发售日期待公布",
-      "sourceTimezone": "中国大陆公告；正文未单列时区偏移",
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
       "sourceTime": null,
-      "sourceEvidence": "2026年10月16日官方公告明确本品售价及发售时间将在后续公布；不套用同文其他产品11月6日日期。",
-      "verifiedAt": "2026-10-18T01:59:21+00:00",
+      "sourceEvidence": "10月30日官方公告明确11月6日至22日预售，实际发货与后续现场销售另行通知。",
       "notes": [
-        "设置156个硬币槽；售价和发售日期尚待官方另行公布。",
-        "原公告日期为10月16日，本次为漏收节点补充；发售日期不代表门店到货或库存。"
+        "保留此前未定日期商品的稳定ID，补充预售窗口；不是正式上市或发货日期。"
       ],
       "sources": [
         {
-          "name": "宝可梦中国：10月16日官方商品公告",
-          "url": "https://www.pokemon.cn/tcg/product/21905.html"
+          "name": "宝可梦 官方来源",
+          "url": "https://www.pokemon.cn/tcg/24595.html"
         }
       ],
-      "timing": null
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00",
+      "pendingReleaseEvidence": "官方明确后续现场销售时间等待通知。"
     },
     {
       "id": "pokemon-bw-energy-grass-cn",
@@ -13117,6 +13120,413 @@
         "utcOffset": "+00:00",
         "evidence": "日本官网日历明确10月21日18:00 UTC。"
       }
+    },
+    {
+      "id": "onepiece-op18-en",
+      "product": "THE DOMINANCE OF GOD [OP-18]",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "北美／欧洲／大洋洲／拉美／中东",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-11-18核对英文商品目录及详情，Release Date均为November 20, 2026。",
+      "notes": [
+        "日期为来源当地日期，不代表中国大陆到货或门店库存。"
+      ],
+      "sources": [
+        {
+          "name": "航海王 官方来源",
+          "url": "https://en.onepiece-cardgame.com/products/op18.html"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "onepiece-dp13-en",
+      "product": "Double Pack Set Vol.13 [DP-13]",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "北美／欧洲／大洋洲／拉美／中东",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-11-18核对英文商品目录及详情，Release Date均为November 20, 2026。",
+      "notes": [
+        "日期为来源当地日期，不代表中国大陆到货或门店库存。"
+      ],
+      "sources": [
+        {
+          "name": "航海王 官方来源",
+          "url": "https://en.onepiece-cardgame.com/products/dp13.html"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "onepiece-gc2026-en",
+      "product": "Gift Collection -ONE PIECE Heroines- [GC-2026]",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "北美／欧洲／大洋洲／拉美／中东",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-11-18核对英文商品目录及详情，Release Date均为November 20, 2026。",
+      "notes": [
+        "日期为来源当地日期，不代表中国大陆到货或门店库存。"
+      ],
+      "sources": [
+        {
+          "name": "航海王 官方来源",
+          "url": "https://en.onepiece-cardgame.com/products/gift-collection.html"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "pokemon-30th-nine-pocket-binder-cn",
+      "product": "宝可梦9格活页收藏卡册 30周年庆典",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文主题周边"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "10:00",
+      "sourceEvidence": "11月6日官方公告商品规格：2026年11月20日10时起。",
+      "notes": [
+        "日期为来源当地日期，不代表中国大陆到货或门店库存。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦 官方来源",
+          "url": "https://www.pokemon.cn/tcg/product/24659.html"
+        }
+      ],
+      "timing": {
+        "localTime": "10:00",
+        "utcOffset": "+08:00",
+        "evidence": "宝可梦中国官网商品规格列11月20日10时起。"
+      },
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "pokemon-30th-nine-pocket-refill-cn",
+      "product": "宝可梦9格卡牌收藏活页 30周年庆典",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文主题周边"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "10:00",
+      "sourceEvidence": "11月6日官方公告商品规格：2026年11月20日10时起。",
+      "notes": [
+        "日期为来源当地日期，不代表中国大陆到货或门店库存。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦 官方来源",
+          "url": "https://www.pokemon.cn/tcg/product/24659.html"
+        }
+      ],
+      "timing": {
+        "localTime": "10:00",
+        "utcOffset": "+08:00",
+        "evidence": "宝可梦中国官网商品规格列11月20日10时起。"
+      },
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "pokemon-zekrom-reshiram-binder-cn",
+      "product": "宝可梦收藏卡册 捷克罗姆&莱希拉姆",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "nodeType": "release",
+      "date": "2026-11-06",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文主题周边"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "10:00",
+      "sourceEvidence": "商品规格列2026年11月6日10时起。",
+      "notes": [
+        "日期为来源当地日期，不代表中国大陆到货或门店库存。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦 官方来源",
+          "url": "https://www.pokemon.cn/tcg/24595.html"
+        }
+      ],
+      "timing": {
+        "localTime": "10:00",
+        "utcOffset": "+08:00",
+        "evidence": "中国官网商品规格明确10时起。"
+      },
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "mtg-star-trek-release-global",
+      "product": "Magic: The Gathering | Star Trek 常规上市节点",
+      "category": "tcg",
+      "brand": "万智牌",
+      "nodeType": "release",
+      "date": "2026-11-13",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "全球发行基准；各地区部分SKU延迟",
+      "languages": [
+        "各地区版本"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "WPN 10月28日日期表列Release November 13。",
+      "notes": [
+        "仅系列基准日期，不代表全部SKU同步到货。",
+        "亚太收藏补充包（含Omega）、Bundle、Beam Me Up Bundle及Draft Night可能晚于该日；新西兰另含Scene Boxes。"
+      ],
+      "sources": [
+        {
+          "name": "WPN日期表",
+          "url": "https://wpn.wizards.com/en/news/star-trek-dates-and-details"
+        },
+        {
+          "name": "Wizards地区延迟说明（11月5日更新）",
+          "url": "https://magic.wizards.com/en/news/announcements/star-trek-product-delays-in-select-regions"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "mtg-star-trek-prerelease-global",
+      "product": "Magic: The Gathering | Star Trek 售前活动",
+      "category": "tcg",
+      "brand": "万智牌",
+      "nodeType": "prerelease",
+      "date": "2026-11-06",
+      "endDate": "2026-11-12",
+      "announcedMonth": null,
+      "region": "WPN适用地区",
+      "languages": [
+        "各地区版本"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "WPN明确Prerelease November 6–12。",
+      "notes": [
+        "日期为来源当地日期，不代表中国大陆到货或门店库存。"
+      ],
+      "sources": [
+        {
+          "name": "万智牌 官方来源",
+          "url": "https://wpn.wizards.com/en/news/star-trek-dates-and-details"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "topps-chrome-football-hobby-retail-release",
+      "product": "2026 Topps Chrome Football Hobby／Retail（非Mega、非FDI）",
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "date": "2026-11-18",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "海外；具体销售地区以渠道为准",
+      "languages": [
+        "英语"
+      ],
+      "evidenceLevel": "secondary",
+      "announcementStatus": "专业媒体预计日期；官方销售页本轮403",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Checklist Insider分盒型预计日期：Hobby/Retail 11月18日；FDI 11月13日；Mega 12月2日。",
+      "notes": [
+        "日期为来源当地日期，不代表中国大陆到货或门店库存。"
+      ],
+      "sources": [
+        {
+          "name": "Checklist Insider 分盒型日期",
+          "url": "https://www.checklistinsider.com/2026-topps-chrome-football"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "board-dadada",
+      "product": "哒哒哒",
+      "category": "board",
+      "brand": "桌游星球",
+      "nodeType": "crowdfunding",
+      "date": "2026-11-18",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-11-18核对摩点预热列表及项目开始日期一致。",
+      "notes": [
+        "众筹开启不等于发货，回报时间及履约风险以项目说明为准。"
+      ],
+      "sources": [
+        {
+          "name": "桌游星球 官方来源",
+          "url": "https://zhongchou.modian.com/item/161582.html"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "board-monster-eat-monster",
+      "product": "怪物吃怪物",
+      "category": "board",
+      "brand": "TaleMatter工作室",
+      "nodeType": "crowdfunding",
+      "date": "2026-11-19",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-11-18核对摩点预热列表及项目开始日期一致。",
+      "notes": [
+        "众筹开启不等于发货，回报时间及履约风险以项目说明为准。"
+      ],
+      "sources": [
+        {
+          "name": "TaleMatter工作室 官方来源",
+          "url": "https://zhongchou.modian.com/item/161377.html"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "board-cuttlefish-season8",
+      "product": "扑克盒桌游系列·第八季",
+      "category": "board",
+      "brand": "墨鱼游戏工作室",
+      "nodeType": "crowdfunding",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-11-18核对摩点预热列表及项目开始日期一致。",
+      "notes": [
+        "众筹开启不等于发货，回报时间及履约风险以项目说明为准。"
+      ],
+      "sources": [
+        {
+          "name": "墨鱼游戏工作室 官方来源",
+          "url": "https://zhongchou.modian.com/item/161482.html"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "board-legion-siege2",
+      "product": "军团与围杀2 三国篇",
+      "category": "board",
+      "brand": "TonyPlay工作室",
+      "nodeType": "crowdfunding",
+      "date": "2026-11-25",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "2026-11-18核对摩点预热列表及项目开始日期一致。",
+      "notes": [
+        "众筹开启不等于发货，回报时间及履约风险以项目说明为准。"
+      ],
+      "sources": [
+        {
+          "name": "TonyPlay工作室 官方来源",
+          "url": "https://zhongchou.modian.com/item/161578.html"
+        }
+      ],
+      "timing": null,
+      "verifiedAt": "2026-11-18T10:00:00+08:00"
     }
   ],
   "review": [
