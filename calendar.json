@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-11-18",
+  "asOf": "2026-11-19",
   "coverage": [
+    "2026-11-19增量核查11、12月：航海王英文官网目录及详情补入12月4日IB09/10、12月18日ST37/38与卡套17；魔法沙丘补入官网开售及WPN日期待定节点；摩点补入12月5日AI,爱，死亡开筹。宝可梦中国商品目录、高达英文商品目录已检查，未据目录未见新增断言全市场无新品。Topps美英日历403，国内收藏卡缺口与旧冲突保留。",
     "2026-11-18增量核验：补充11月航海王英文商品、宝可梦周边、Star Trek基准上市／售前、Topps分盒型预计日期及国内桌游众筹。保留全部历史；历史条目并非本日逐条重新确认。",
     "本轮独立查看11月摩点预热列表、Asmodee美国月历、航海王英文完整目录、高达和洛卡纳产品入口、宝可梦中国商品表。Asmodee分周对应在文本提取中不充分，未猜测具体日期。",
     "Topps官方日历及销售页403；DAKA微博受限，集卡社品牌页无新品日期。国内收藏卡仍有覆盖缺口，迪士尼水晶11月20日未获官方确认；覆盖非全网穷尽。",
@@ -2863,6 +2864,10 @@
     {
       "name": "符文战场大陆：一周年套装渠道官方原文（本轮不可读）",
       "url": "https://mp.weixin.qq.com/s/hSqfA5o_sAUlkHm579DSQQ"
+    },
+    {
+      "name": "沙丘官方公告",
+      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop"
     }
   ],
   "events": [
@@ -13527,6 +13532,252 @@
       ],
       "timing": null,
       "verifiedAt": "2026-11-18T10:00:00+08:00"
+    },
+    {
+      "id": "op-en-ib09-202612",
+      "product": "Illustration Box Vol.9",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-12-04",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英文版 NA/EU/OC/LATAM/ME",
+      "languages": [
+        "英文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非现货确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品详情页明确列出发售日期。",
+      "verifiedAt": "2026-11-19",
+      "notes": [
+        "地区日期不代表中国大陆到货日；未公布具体时刻。"
+      ],
+      "sources": [
+        {
+          "name": "官方商品页",
+          "url": "https://en.onepiece-cardgame.com/products/ib09.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "op-en-ib10-202612",
+      "product": "Illustration Box Vol.10",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-12-04",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英文版 NA/EU/OC/LATAM/ME",
+      "languages": [
+        "英文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非现货确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品详情页明确列出发售日期。",
+      "verifiedAt": "2026-11-19",
+      "notes": [
+        "地区日期不代表中国大陆到货日；未公布具体时刻。"
+      ],
+      "sources": [
+        {
+          "name": "官方商品页",
+          "url": "https://en.onepiece-cardgame.com/products/ib10.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "op-en-st37-202612",
+      "product": "ST-37 The Desert Princess and the Pirates",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-12-18",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英文版 NA/EU/OC/LATAM/ME",
+      "languages": [
+        "英文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非现货确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品详情页明确列出发售日期。",
+      "verifiedAt": "2026-11-19",
+      "notes": [
+        "地区日期不代表中国大陆到货日；未公布具体时刻。"
+      ],
+      "sources": [
+        {
+          "name": "官方商品页",
+          "url": "https://en.onepiece-cardgame.com/products/st37.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "op-en-st38-202612",
+      "product": "ST-38 Baroque Works",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-12-18",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英文版 NA/EU/OC/LATAM/ME",
+      "languages": [
+        "英文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非现货确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品详情页明确列出发售日期。",
+      "verifiedAt": "2026-11-19",
+      "notes": [
+        "地区日期不代表中国大陆到货日；未公布具体时刻。"
+      ],
+      "sources": [
+        {
+          "name": "官方商品页",
+          "url": "https://en.onepiece-cardgame.com/products/st38.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "op-en-sleeves17-202612",
+      "product": "Official Card Sleeves 17",
+      "category": "tcg",
+      "brand": "航海王",
+      "nodeType": "release",
+      "date": "2026-12-18",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "英文版 NA/EU/OC/LATAM/ME",
+      "languages": [
+        "英文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非现货确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方商品详情页明确列出发售日期。",
+      "verifiedAt": "2026-11-19",
+      "notes": [
+        "地区日期不代表中国大陆到货日；未公布具体时刻。"
+      ],
+      "sources": [
+        {
+          "name": "官方商品页",
+          "url": "https://en.onepiece-cardgame.com/products/sleeve047.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "mtg-dune-online-20261130",
+      "product": "Secret Lair Dune：My Arrakis, My Superdrop（官网开售）",
+      "category": "tcg",
+      "brand": "万智牌",
+      "nodeType": "release",
+      "date": "2026-11-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "海外 Secret Lair 官网",
+      "languages": [
+        "英文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非现货确认",
+      "sourceTimezone": "America/Los_Angeles",
+      "sourceTime": "09:00",
+      "sourceEvidence": "官方宣布2026年11月30日09:00 PT开售；日期采用来源当地日期，北京时间为12月1日01:00。",
+      "verifiedAt": "2026-11-19",
+      "notes": [
+        "此处正式发售节点仅指官网开启销售，不是发货或大陆到货日。",
+        "预排队08:00 PT开启；门店非闪版另有后续安排。"
+      ],
+      "sources": [
+        {
+          "name": "官方商品页",
+          "url": "https://magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop"
+        }
+      ],
+      "timing": {
+        "localTime": "09:00",
+        "utcOffset": "-08:00",
+        "evidence": "官方9 a.m. PT；11月30日洛杉矶采用PST UTC-08:00。"
+      }
+    },
+    {
+      "id": "mtg-dune-wpn-nonfoil-tba",
+      "product": "Secret Lair Dune：Balance of Power / Deserts of Arrakis（WPN非闪版）",
+      "category": "tcg",
+      "brand": "万智牌",
+      "nodeType": "release",
+      "date": null,
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "WPN门店；具体市场及配额另核",
+      "languages": [
+        "英文"
+      ],
+      "evidenceLevel": "tentative",
+      "announcementStatus": "后续供应，日期待定",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "官方确认两款非闪版稍后在WPN门店供应，未提供日期。",
+      "verifiedAt": "2026-11-19",
+      "notes": [
+        "不推出中国大陆供货已确认；不指定11月或12月上市。"
+      ],
+      "sources": [
+        {
+          "name": "官方商品页",
+          "url": "https://magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-ai-love-death-20261205",
+      "product": "AI,爱，死亡（摩点项目标题）",
+      "category": "board",
+      "brand": "法摩斯千",
+      "nodeType": "crowdfunding",
+      "date": "2026-12-05",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非现货确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "摩点项目页列出2026年12月5日启动。",
+      "verifiedAt": "2026-11-19",
+      "notes": [
+        "项目回报中使用《魔女的夙愿》名称；本记录沿用项目标题。",
+        "众筹开启不是现货发售；预计回报不等于保证交付。"
+      ],
+      "sources": [
+        {
+          "name": "官方商品页",
+          "url": "https://zhongchou.modian.com/item/161368.html"
+        }
+      ],
+      "timing": null
     }
   ],
   "review": [
