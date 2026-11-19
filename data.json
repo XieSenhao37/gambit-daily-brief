@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-18",
+  "latestIssue": "2026-11-19",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -3837,6 +3837,141 @@
             {
               "name": "Topps RIPPED：产品历史",
               "url": "https://ripped.topps.com/2026-topps-chrome-football-product-history/"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-19": {
+      "issue": "2026-11-19",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "pokemon-fuzhou-20261118",
+        "mtg-dune-confirmed-20261118",
+        "topps-fivestar-yang-20261118"
+      ],
+      "coverage": [
+        "本期5条，优先11月18日官方公告；CMYK为11月17日专业媒体报道，明确保留其日期，不包装成今日官宣。",
+        "沙丘由此前媒体线索升级为威世智产品与渠道公告；Five Star避免重复包装已知盒型配置，聚焦杨瀚森卡种。",
+        "无精确发布时间的来源不声称严格落在滚动24小时内；卡种指南不等同新品发售或国内现货。",
+        "洛卡纳、符文战场、高达本期未选新增新闻，不代表没有动态。Topps官方日历访问受限；DAKA与集卡社仍有官方可核覆盖缺口，迪士尼水晶11月20日未获确认。",
+        "发售月历另核11、12月来源并保留历史及待核项；本轮为增量核查，不代表所有历史记录已重新核验。"
+      ],
+      "items": [
+        {
+          "id": "pokemon-fuzhou-20261118",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "11月18日官方公告",
+          "title": "福州超级赛12月6日举行，今天18:00开启报名",
+          "brand": "宝可梦",
+          "published": "2026-11-18（官方公告）",
+          "node": "报名：11月19日18:00至11月25日23:59:59（北京时间）",
+          "priority": "赛事报名",
+          "summary": "福州超级赛将在福州海峡会展中心2号馆举办，免费报名采用抽选，不是先报先得。",
+          "facts": [
+            "比赛日期为12月6日；公开组主场至多提供2100名优先入场资格。",
+            "完成报名不保证入选，应以官方抽选结果及具体参赛条件为准。"
+          ],
+          "advice": "可在社群同步报名窗口和抽选规则，别把报名成功表述为取得席位。",
+          "sources": [
+            {
+              "name": "宝可梦：福州超级赛",
+              "url": "https://www.pokemon.cn/tcg/event/24745.html"
+            }
+          ]
+        },
+        {
+          "id": "mtg-dune-confirmed-20261118",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "11月18日官方公布",
+          "title": "沙丘Secret Lair产品与价格落定，两款非闪将进入WPN门店",
+          "brand": "万智牌 / Secret Lair",
+          "published": "2026-11-18（威世智公告）",
+          "node": "线上开售：11月30日09:00 PT，即北京时间12月1日01:00",
+          "priority": "产品与渠道",
+          "summary": "三款主题产品正式公布；WPN后续将供应其中两款非闪版，但门店上市日期尚未确定。",
+          "facts": [
+            "Balance of Power与Deserts of Arrakis各有非闪39.99美元、闪卡49.99美元版本；Spice为Halo闪卡59.99美元。",
+            "前两款非闪版本稍后进入WPN门店；不能据此确认大陆配额、价格或到货时间。",
+            "官方线上预排队提前一小时开启；购物车不等于锁定库存。"
+          ],
+          "advice": "优先向分销商确认WPN非闪供货政策，再决定是否跨境备货；海外线上售价不等于国内落地成本。",
+          "sources": [
+            {
+              "name": "威世智：My Arrakis, My Superdrop",
+              "url": "https://magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop"
+            }
+          ]
+        },
+        {
+          "id": "topps-fivestar-yang-20261118",
+          "category": "cards",
+          "region": "overseas",
+          "label": "11月18日官方收藏指南",
+          "title": "Five Star篮球指南补充杨瀚森签字卡方向",
+          "brand": "Topps / NBA",
+          "published": "2026-11-18（Topps RIPPED）",
+          "node": "卡种指南更新；不是大陆到货公告",
+          "priority": "收藏卡选题",
+          "summary": "杨瀚森出现在Silver Signatures与Quintuple Rookie Relic Autos介绍中，可作为球员收藏与直播内容线索。",
+          "facts": [
+            "Hobby单包6张：1张编号基础卡及5张签字卡；盒型配置此前已披露，本期新增重点为卡种与球员方向。",
+            "指南列出的杨瀚森相关卡种不代表每盒保证出现该球员，也不代表已确认大陆供货。"
+          ],
+          "advice": "可准备杨瀚森卡种辨识内容；采购和组队定价需另核清单、概率及实际成本，不从宣传推算收益。",
+          "sources": [
+            {
+              "name": "Topps：Five Star Basketball收藏指南",
+              "url": "https://ripped.topps.com/2025-26-topps-five-star-basketball-top-cards-collectors-guide/"
+            }
+          ]
+        },
+        {
+          "id": "board-cmyk-smallbox-20261117",
+          "category": "board",
+          "region": "overseas",
+          "label": "11月17日专业媒体报道",
+          "title": "CMYK轻游戏推小包装，关注低门槛零售与陈列效率",
+          "brand": "CMYK / Magenta",
+          "published": "2026-11-17（Board Game Beat）",
+          "node": "官网销售及2026年第四季度至2027年第一季度零售计划",
+          "priority": "桌游零售",
+          "summary": "Magenta小包装Standard Edition美零售价15美元，较大Home Edition仍为25美元。",
+          "facts": [
+            "报道涉及Hilt、Fives、Duos、Figment、I'm Out、Fruit Fight等小包装产品，并区分官网销售与后续零售窗口。",
+            "这是海外包装与渠道策略，不表示中国大陆价格或到货同步变化。"
+          ],
+          "advice": "可借鉴降低轻游戏试购门槛、减少货架占用的思路；是否引入仍需先核语言和国内渠道。",
+          "sources": [
+            {
+              "name": "Board Game Beat：CMYK与轻游戏新品",
+              "url": "https://www.wericmartin.com/run-like-the-second-wind-for-more-magical-athlete/"
+            }
+          ]
+        },
+        {
+          "id": "topps-gilded-guide-20261118",
+          "category": "cards",
+          "region": "overseas",
+          "label": "11月18日官方收藏指南",
+          "title": "Gilded棒球指南介绍24K真金1/1与金墨签字",
+          "brand": "Topps / MLB",
+          "published": "2026-11-18（Topps RIPPED）",
+          "node": "卡种介绍；不作为发售或交期凭据",
+          "priority": "高端收藏卡",
+          "summary": "2026 Gilded Collection指南强调真金特卡与金色墨水签字，属于产品内容解读。",
+          "facts": [
+            "基础卡清单为200张，编号从/99起；指南介绍24K真金1/1特卡与Gilded Ink金墨签字。",
+            "稀有编号与材质不保证二级市场价格，更不能据此推断每盒回报。"
+          ],
+          "advice": "适合做卡种科普；宣传应明确稀有卡不保证出现，备货前另核盒型、赔率与到货渠道。",
+          "sources": [
+            {
+              "name": "Topps：Gilded Collection收藏指南",
+              "url": "https://ripped.topps.com/2026-topps-gilded-collection-baseball-top-cards-collectors-guide/"
             }
           ]
         }
