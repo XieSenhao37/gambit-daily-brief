@@ -1,8 +1,10 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-11-19",
+  "asOf": "2026-11-20",
   "coverage": [
+    "2026-11-20增量核查11、12月：航海王英文官网前两页复核11/20与12月产品；宝可梦中国商品目录、高达英文目录、洛卡纳Hunny产品页、符文战场官方产品路线图及摩点预热/项目详情独立核查。补录四个11月桌游/配件众筹和12/4英文Gift of the Rift。历史日期未全量重核，目录未见新增不等于市场无新品。",
+    "2026-11-20覆盖缺口：Topps美国日历403；DAKA与集卡社官网无可读正文、官方微博受限。检索出现迪士尼水晶零售预售记录，仍无一手日期证据，11/20不能标为已确认发售或现货；原待核与冲突记录保留。",
     "2026-11-19增量核查11、12月：航海王英文官网目录及详情补入12月4日IB09/10、12月18日ST37/38与卡套17；魔法沙丘补入官网开售及WPN日期待定节点；摩点补入12月5日AI,爱，死亡开筹。宝可梦中国商品目录、高达英文商品目录已检查，未据目录未见新增断言全市场无新品。Topps美英日历403，国内收藏卡缺口与旧冲突保留。",
     "2026-11-18增量核验：补充11月航海王英文商品、宝可梦周边、Star Trek基准上市／售前、Topps分盒型预计日期及国内桌游众筹。保留全部历史；历史条目并非本日逐条重新确认。",
     "本轮独立查看11月摩点预热列表、Asmodee美国月历、航海王英文完整目录、高达和洛卡纳产品入口、宝可梦中国商品表。Asmodee分周对应在文本提取中不充分，未猜测具体日期。",
@@ -13775,6 +13777,173 @@
         {
           "name": "官方商品页",
           "url": "https://zhongchou.modian.com/item/161368.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "board-westfront1944",
+      "product": "西线1944",
+      "category": "board",
+      "brand": "猎兵工作室",
+      "nodeType": "crowdfunding",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "项目已公布开筹计划",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "19:00",
+      "sourceEvidence": "摩点项目页列出2026-11-20 19:00开始。",
+      "verifiedAt": "2026-11-20",
+      "notes": [
+        "开筹日期不等于现货发售；预计回报不是保证到货，众筹有履约风险。"
+      ],
+      "sources": [
+        {
+          "name": "摩点发起方项目页",
+          "url": "https://zhongchou.modian.com/item/161330.html"
+        }
+      ],
+      "timing": {
+        "localTime": "19:00",
+        "utcOffset": "+08:00",
+        "evidence": "中国大陆摩点项目页面所列开始时间，采用北京时间。"
+      }
+    },
+    {
+      "id": "board-paratroop",
+      "product": "伞兵天降",
+      "category": "board",
+      "brand": "千伏工作室",
+      "nodeType": "crowdfunding",
+      "date": "2026-11-21",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "项目已公布开筹计划",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "19:00",
+      "sourceEvidence": "摩点项目页列出2026-11-21 19:00开始。",
+      "verifiedAt": "2026-11-20",
+      "notes": [
+        "开筹日期不等于现货发售；预计回报不是保证到货，众筹有履约风险。"
+      ],
+      "sources": [
+        {
+          "name": "摩点发起方项目页",
+          "url": "https://zhongchou.modian.com/item/161705.html"
+        }
+      ],
+      "timing": {
+        "localTime": "19:00",
+        "utcOffset": "+08:00",
+        "evidence": "中国大陆摩点项目页面所列开始时间，采用北京时间。"
+      }
+    },
+    {
+      "id": "board-meow-demolition",
+      "product": "喵！拆家狂欢",
+      "category": "board",
+      "brand": "散点游戏",
+      "nodeType": "crowdfunding",
+      "date": "2026-11-22",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "项目已公布开筹计划",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "08:00",
+      "sourceEvidence": "摩点项目页列出2026-11-22 08:00开始。",
+      "verifiedAt": "2026-11-20",
+      "notes": [
+        "开筹日期不等于现货发售；预计回报不是保证到货，众筹有履约风险。"
+      ],
+      "sources": [
+        {
+          "name": "摩点发起方项目页",
+          "url": "https://zhongchou.modian.com/item/161704.html"
+        }
+      ],
+      "timing": {
+        "localTime": "08:00",
+        "utcOffset": "+08:00",
+        "evidence": "中国大陆摩点项目页面所列开始时间，采用北京时间。"
+      }
+    },
+    {
+      "id": "board-miller-dice",
+      "product": "米勒的乡村骰子",
+      "category": "board",
+      "brand": "勤勉的设计",
+      "nodeType": "crowdfunding",
+      "date": "2026-11-21",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "项目已公布开筹计划",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "21:30",
+      "sourceEvidence": "摩点项目页列出2026-11-21 21:30开始。",
+      "verifiedAt": "2026-11-20",
+      "notes": [
+        "开筹日期不等于现货发售；预计回报不是保证到货，众筹有履约风险。"
+      ],
+      "sources": [
+        {
+          "name": "摩点发起方项目页",
+          "url": "https://zhongchou.modian.com/item/161675.html"
+        }
+      ],
+      "timing": {
+        "localTime": "21:30",
+        "utcOffset": "+08:00",
+        "evidence": "中国大陆摩点项目页面所列开始时间，采用北京时间。"
+      }
+    },
+    {
+      "id": "riftbound-gift-rift-en-20261204",
+      "product": "Gift of the Rift Bundle（英文版）",
+      "category": "tcg",
+      "brand": "符文战场",
+      "nodeType": "release",
+      "date": "2026-12-04",
+      "endDate": null,
+      "announcedMonth": null,
+      "region": "海外英文版；游戏店与大众零售渠道",
+      "languages": [
+        "英文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "8月3日官方产品路线图列出12月4日发售；这是月历补录，不是11月20日新公告。",
+      "verifiedAt": "2026-11-20",
+      "notes": [
+        "英文版独占阿卡丽异画；中文版本另有凯南赠卡，不能将英文配置或渠道日期直接套用于大陆。",
+        "不确认中国大陆到货或分销配额。"
+      ],
+      "sources": [
+        {
+          "name": "Riot：Products and Sets into 2027",
+          "url": "https://playriftbound.com/en-us/news/announcements/products-and-sets-into-2027/"
         }
       ],
       "timing": null
