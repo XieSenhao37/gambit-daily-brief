@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-19",
+  "latestIssue": "2026-11-20",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -3975,6 +3975,142 @@
             }
           ]
         }
+      ]
+    },
+    "2026-11-20": {
+      "issue": "2026-11-20",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "lorcana-epcot-20261120",
+        "mtg-mana-explainer-20261120",
+        "board-carlsgiving-20261120"
+      ],
+      "items": [
+        {
+          "id": "lorcana-epcot-20261120",
+          "category": "tcg",
+          "region": "overseas",
+          "brand": "洛卡纳",
+          "title": "洛卡纳公布EPCOT限定六卡套装，含Figment",
+          "node": "2027年1月15日–3月1日，美国EPCOT",
+          "label": "11月19日官方公告",
+          "priority": "限定收藏",
+          "summary": "六卡套装仅于艺术节现场销售。",
+          "facts": [
+            "Minnie Mouse、Belle、Alice赠卡分别对应交换任务、园内寻卡和在指定地点购买Hyperia City Illumineer’s Trove。",
+            "赠卡限量，指定购买赠品每位游客每款限2；套装价格未公布。"
+          ],
+          "advice": "可先了解收藏意向，不承诺供货或溢价。",
+          "published": "2026-11-19（页面未标时刻）",
+          "sources": [
+            {
+              "name": "洛卡纳原文",
+              "url": "https://disneylorcana.com/en/news/2026/11/the-disney-lorcana-tcg-returns-to-the-epcot-international-festival-of-the-arts-in-2027/"
+            }
+          ]
+        },
+        {
+          "id": "mtg-mana-explainer-20261120",
+          "category": "tcg",
+          "region": "global",
+          "brand": "万智牌",
+          "title": "威世智补充解释已实施的法术力异能规则",
+          "node": "《霍比特人》上市时已实施",
+          "label": "11月19日官方补充释义",
+          "priority": "赛事规则",
+          "summary": "费用或效应让卡进出牌库的起动式异能不再算作法术力异能。",
+          "facts": [
+            "Chromatic Sphere、Millikin和Selvala, Explorer Returned的相关异能使用堆叠，不能在施放其他咒语或起动其他异能过程中起动。"
+          ],
+          "advice": "店员和裁判可统一常见牌例说明；这不是11月19日新生效规则。",
+          "published": "2026-11-19（页面未标时刻）",
+          "sources": [
+            {
+              "name": "万智牌原文",
+              "url": "https://magic.wizards.com/en/news/feature/magic-rules-blog-mana-abilities"
+            }
+          ]
+        },
+        {
+          "id": "board-carlsgiving-20261120",
+          "category": "board",
+          "region": "overseas",
+          "brand": "Renegade Game Studios",
+          "title": "Carlsgiving串联新品上市、试玩和玩家分享",
+          "node": "11月23日进入海外游戏店",
+          "label": "11月19日媒体报道 / 官方交叉核实",
+          "priority": "桌游营运",
+          "summary": "Dungeon Crawler Carl RPG与Unstoppable将进入游戏店，并配合试玩。",
+          "facts": [
+            "官方活动页确认两款产品11月23日进入游戏店，StartPlaying线上试玩同日开始。",
+            "玩家可通过门店合照或角色扮演等参与活动，具体资格以官方条款为准。"
+          ],
+          "advice": "可借鉴新品展示、试玩与玩家分享的组合；不代表国内已有活动资格或供货。",
+          "published": "2026-11-19（页面未标时刻）",
+          "sources": [
+            {
+              "name": "Renegade Game Studios原文",
+              "url": "https://dungeoncrawlercarl.renegadegamestudios.com/carlsgiving"
+            },
+            {
+              "name": "Geek Native报道",
+              "url": "https://www.geeknative.com/244598/carlsgiving-brings-dungeon-crawler-carl-rpg-and-unstoppable-to-hobby-stores/"
+            }
+          ]
+        },
+        {
+          "id": "topps-gilded-box-20261120",
+          "category": "cards",
+          "region": "overseas",
+          "brand": "Topps / MLB",
+          "title": "Topps Gilded Hobby盒配：每盒6卡、2签",
+          "node": "配置指南，不是发行公告",
+          "label": "11月19日官方盒型指南",
+          "priority": "拆卡配置",
+          "summary": "新指南补充盒配，与昨日卡种介绍区分。",
+          "facts": [
+            "仅有Hobby盒；每盒两包分别4张、2张，共6张卡，含2张签字。",
+            "签字数量不等于保证中指定球员；文章未列发售日期。"
+          ],
+          "advice": "拆盒前说明分配规则与风险，别根据保签推算回本。",
+          "published": "2026-11-19（页面未标时刻）",
+          "sources": [
+            {
+              "name": "Topps / MLB原文",
+              "url": "https://ripped.topps.com/2026-topps-gilded-collection-baseball-hobby-box-guide/"
+            }
+          ]
+        },
+        {
+          "id": "board-westfront-today-20261120",
+          "category": "board",
+          "region": "domestic",
+          "brand": "猎兵工作室 / 摩点",
+          "title": "《西线1944》计划11月20日19:00开筹",
+          "node": "11月20日19:00（北京时间）",
+          "label": "今日节点 / 非今日新公告",
+          "priority": "国内桌游",
+          "summary": "79元档含游戏及众筹权益，预计2027年4月发放回报。",
+          "facts": [
+            "目标8000元，项目页列出12月20日截止。",
+            "开筹不等于现货上市，预计交付不等于保证到货。"
+          ],
+          "advice": "如有兵棋客群，先评估教学和试玩价值；未确认交付前不要排现货活动。",
+          "published": "11月20日核验；项目未标首次公告时间",
+          "sources": [
+            {
+              "name": "猎兵工作室 / 摩点原文",
+              "url": "https://zhongchou.modian.com/item/161330.html"
+            }
+          ]
+        }
+      ],
+      "coverage": [
+        "本期5条；《西线1944》单列今日节点，不当作新公告。",
+        "来源未标时刻时，不声称严格落在滚动24小时内。万智牌为既有规则释义，Topps盒配指南不是发售证据。",
+        "集卡社迪士尼水晶11月20日未获可读一手确认；集卡社与DAKA官方覆盖受限。Five Star篮球发行日仍待正文复核。",
+        "11、12月月历独立核查；海外节点不等于大陆到货。"
       ]
     }
   }
