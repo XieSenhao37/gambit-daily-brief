@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-20",
+  "latestIssue": "2026-11-21",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -4111,6 +4111,178 @@
         "来源未标时刻时，不声称严格落在滚动24小时内。万智牌为既有规则释义，Topps盒配指南不是发售证据。",
         "集卡社迪士尼水晶11月20日未获可读一手确认；集卡社与DAKA官方覆盖受限。Five Star篮球发行日仍待正文复核。",
         "11、12月月历独立核查；海外节点不等于大陆到货。"
+      ]
+    },
+    "2026-11-21": {
+      "issue": "2026-11-21",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "pokemon-pikachu-gift-20261121",
+        "lorcana-digital-20261121",
+        "fab-calling-sz-20261121"
+      ],
+      "coverage": [
+        "本期6条，优先官方原文，专业媒体用于交叉核实；深圳Calling是本地赛程提醒，不是今日新公告。",
+        "未标精确发布时间的页面不宣称严格落在滚动24小时内。日本卡表与既有发售日期分开表述，Topps美国标价不外推大陆。",
+        "月历独立复核11、12月增量；发行、预售和众筹分别记。未入选新增不代表该品牌无动态。",
+        "DAKA与集卡社官方覆盖仍受限；未获集卡社迪士尼水晶11月20日大陆发售的一手证据，不能当作已上市。"
+      ],
+      "items": [
+        {
+          "id": "pokemon-pikachu-gift-20261121",
+          "category": "tcg",
+          "region": "domestic",
+          "brand": "宝可梦",
+          "title": "简中璀璨晶耀皮卡丘礼盒12月4日发售，建议零售价999元",
+          "label": "11月20日官方公告",
+          "node": "2026-12-04 10:00（北京时间）",
+          "priority": "国内新品",
+          "summary": "单礼盒含1张皮卡丘ex特别插画闪卡、21包补充包和主题配件。",
+          "facts": [
+            "七个系列各三包；太晶盛聚每包10张，其余六个系列每包20张。",
+            "配件含64张主题卡套、卡组收纳盒和展示框；999元为单礼盒建议零售价，不是整箱价。"
+          ],
+          "advice": "可先收集店内意向，待渠道确认再承诺配额、售价和取货。",
+          "published": "2026-11-20（按来源所示日期）",
+          "sources": [
+            {
+              "name": "宝可梦中国",
+              "url": "https://www.pokemon.cn/tcg/product/22846.html"
+            }
+          ]
+        },
+        {
+          "id": "lorcana-digital-20261121",
+          "category": "tcg",
+          "region": "global",
+          "brand": "迪士尼洛卡纳",
+          "title": "洛卡纳数字版首篇开发日志：瞄准全卡库与跨设备进度",
+          "label": "11月20日官方开发日志",
+          "node": "测试与上线时间未公布",
+          "priority": "数字版",
+          "summary": "官方计划沿用桌面版规则，并让手机、电脑使用同一账号。",
+          "facts": [
+            "开发团队的目标是支持全卡库；不等于承诺每张异画上线。",
+            "计划支持练习赛及排位配对，当前不是可玩公告。"
+          ],
+          "advice": "关注数字练习向线下新手活动的转化，暂不安排依赖上线的活动。",
+          "published": "2026-11-20（按来源所示日期）",
+          "sources": [
+            {
+              "name": "洛卡纳官方",
+              "url": "https://disneylorcana.com/en/news/2026/11/disney-lorcana-digital-game-dev-blog-1/"
+            }
+          ]
+        },
+        {
+          "id": "fab-calling-sz-20261121",
+          "category": "tcg",
+          "region": "domestic",
+          "brand": "Flesh and Blood",
+          "title": "深圳Calling下周到福田，11月27日至29日举行",
+          "label": "赛程提醒 / 非新官宣",
+          "node": "2026-11-27至11-29，深圳福田",
+          "priority": "本地赛程",
+          "summary": "公开赛程列于深圳好日子皇冠假日酒店，举办方为上海睿卡。",
+          "facts": [
+            "地点为福田区福华一路28号。",
+            "此条仅为公开赛事提醒；参赛资格、报名和侧赛另以主办方信息为准。"
+          ],
+          "advice": "有牌手需要热身可提前排练习活动，不暗示具体门店参赛或设摊。",
+          "published": "公开赛程，11月21日核验；不作新发布",
+          "sources": [
+            {
+              "name": "FAB官方赛事页",
+              "url": "https://judge.fabtcg.com/events/14211/"
+            },
+            {
+              "name": "睿卡赛事站",
+              "url": "https://events.ruika.com/"
+            }
+          ]
+        },
+        {
+          "id": "warhammer-underworlds-20261121",
+          "category": "board",
+          "region": "overseas",
+          "brand": "Games Workshop",
+          "title": "战锤Underworlds更新规则与禁限表",
+          "label": "11月20日官方规则更新",
+          "node": "以赛事采用的最新文件为准",
+          "priority": "战棋规则",
+          "summary": "此次涉及Stand Fast!的效果调整以及禁限清单变化。",
+          "facts": [
+            "Bladecatcher列入Forsaken，另有五张牌新增进Restricted。",
+            "Stand Fast!调整为减少战士所受伤害。"
+          ],
+          "advice": "赛前更新店内规则链接和牌表核验版本，避免沿用旧表。",
+          "published": "2026-11-20（按来源所示日期）",
+          "sources": [
+            {
+              "name": "Warhammer Community官方",
+              "url": "https://www.warhammer-community.com/en-gb/articles/95exb4tm/warhammer-underworlds-latest-rules-updates/"
+            }
+          ]
+        },
+        {
+          "id": "topps-finest-f1-odds-20261121",
+          "category": "cards",
+          "region": "overseas",
+          "brand": "Topps / F1",
+          "title": "Topps Finest F1 Hobby核对美国正式价与盒配：不是保签",
+          "label": "11月20日专业报道 / 官方页复核",
+          "node": "美国活动页当前已关闭；不是大陆到货公告",
+          "priority": "盒配与定价",
+          "summary": "美国正式档标价299.99美元，此前预订标价289.99美元。",
+          "facts": [
+            "Hobby每盒6包、每包10张；每盒1张实物卡或签字实物卡，不是必出签字。",
+            "正式活动页提供概率表；官方美国标价不等于国内建议售价或实际落地成本。"
+          ],
+          "advice": "拆卡说明应保留实物卡与签字实物卡的二选一表述。",
+          "published": "2026-11-20（按来源所示日期）",
+          "sources": [
+            {
+              "name": "Topps美国正式活动页",
+              "url": "https://launches.topps.com/en-US/launch/2026-topps-finest-formula-1r-hobby-box"
+            },
+            {
+              "name": "Topps美国旧预订页",
+              "url": "https://launches.topps.com/en-US/launch/2026-topps-finest-formula-1r-hobby-box-pre-order"
+            },
+            {
+              "name": "The Cardboard Report",
+              "url": "https://thecardboardreporthq.com/articles/2026-topps-finest-formula-1-hobby-odds-guide"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-jp-nov27-20261121",
+          "category": "tcg",
+          "region": "overseas",
+          "brand": "宝可梦日本",
+          "title": "日本宝可梦公布皮卡丘卡图手办与ハドウシーカー卡表",
+          "label": "11月20日官方发布",
+          "node": "2026-11-27（日本节点）",
+          "priority": "日本新品",
+          "summary": "30周年手办包含底座与随机卡；补充包新信息是卡表，不是改期。",
+          "facts": [
+            "手办在Pokémon Center Online销售，含税1800日元，从13款随机附1张对应系列卡，部分卡不适用标准赛。",
+            "ハドウシーカー每包随机5张、200日元，公开卡表包括Mega Z形态的路卡利欧、烈咬陆鲨和阿勃梭鲁ex。"
+          ],
+          "advice": "按日版商品介绍，不与简中皮卡丘礼盒或国内渠道货混同。",
+          "published": "2026-11-20（按来源所示日期）",
+          "sources": [
+            {
+              "name": "日本官方手办公告",
+              "url": "https://www.pokemon-card.com/info/005764.html"
+            },
+            {
+              "name": "日本官方补充包页",
+              "url": "https://www.pokemon-card.com/ex/m7/"
+            }
+          ]
+        }
       ]
     }
   }
