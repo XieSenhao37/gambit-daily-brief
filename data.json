@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-21",
+  "latestIssue": "2026-11-22",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -4283,6 +4283,169 @@
             }
           ]
         }
+      ]
+    },
+    "2026-11-22": {
+      "issue": "2026-11-22",
+      "cutoff": "10:00",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "riftbound-radiance-bans-20261122",
+        "cardfun-spider-rally-tw-20261122",
+        "board-meow-crowdfund-20261122"
+      ],
+      "items": [
+        {
+          "id": "riftbound-radiance-bans-20261122",
+          "category": "tcg",
+          "region": "domestic",
+          "brand": "符文战场",
+          "title": "辉耀群星新禁表11月23日生效，标准与2v2构筑都要检查",
+          "label": "生效提醒 / 非新官宣",
+          "published": "2026-11-13（官网显示UTC日期）",
+          "node": "2026-11-23生效，未标具体时分",
+          "priority": "店赛规则",
+          "summary": "官方在标准与2v2构筑新增八张禁牌和两张战场。",
+          "facts": [
+            "包括锐雯 - 断剑之誓、中娅沙漏、天角牧者、魔腾 - 惊魂夜等；两张战场为帝王神坛和流星疗泉，完整名单查原文。",
+            "韩国与繁中地区要等辉耀群星当地发售，不应套用简中日期或编造起算时刻。"
+          ],
+          "advice": "赛前更新牌表检查与裁判口径；让参加下周店赛的玩家先核对完整名单。",
+          "sources": [
+            {
+              "name": "符文战场简中官方公告",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/radiance-ban-list-updates-effective-november-23-2026/"
+            }
+          ]
+        },
+        {
+          "id": "cardfun-spider-rally-tw-20261122",
+          "category": "cards",
+          "region": "overseas",
+          "brand": "集卡社 / CardFun",
+          "title": "集卡社Spider Rally出现台湾经销上市节点，12盒一箱",
+          "label": "11月21日台湾渠道节点",
+          "published": "经销公告未标首次发布时刻，11月22日核验",
+          "node": "2026-11-21（台湾经销公告）",
+          "priority": "收藏卡渠道",
+          "summary": "育盛国际将Spider Rally列为11月21日在台湾上市；这不是大陆发售确认。",
+          "facts": [
+            "每包4张、每盒10包、每箱12盒；未标精确发售时刻。",
+            "该产品是漫威蜘蛛人收藏卡，不是万智牌系列，也不是集卡社迪士尼水晶。"
+          ],
+          "advice": "可把台湾盒配作为产品线索，向大陆渠道独立核价及货期，不混用不同产品。",
+          "sources": [
+            {
+              "name": "育盛国际上市公告",
+              "url": "https://upperdeck.com.tw/news/news.htm"
+            },
+            {
+              "name": "育盛国际产品规格",
+              "url": "https://upperdeck.com.tw/other/othercard/26/26cardfun_mravel_spiderman/26cmsn.htm"
+            }
+          ]
+        },
+        {
+          "id": "board-meow-crowdfund-20261122",
+          "category": "board",
+          "region": "domestic",
+          "brand": "散点游戏 / 摩点",
+          "title": "《喵！拆家狂欢》11月22日上午开筹，主打猫咪聚会玩法",
+          "label": "今日众筹节点 / 非新官宣",
+          "published": "项目页未标首次公告时刻，11月22日核验",
+          "node": "11月22日08:00至12月22日20:00（北京时间）",
+          "priority": "国内桌游",
+          "summary": "摩点项目以猫咪题材做大逃杀加抽牌；项目标注早鸟45元、普通55元。",
+          "facts": [
+            "筹款目标17,500元，项目页列出具体计划日期。",
+            "众筹回报不等于现货或门店到货。"
+          ],
+          "advice": "优先测试玩家能否快速上手、有无反复开桌需求，不把众筹档位写成零售价。",
+          "sources": [
+            {
+              "name": "摩点发起方项目",
+              "url": "https://zhongchou.modian.com/item/161704.html"
+            }
+          ]
+        },
+        {
+          "id": "board-warhammer-preorders-20261122",
+          "category": "board",
+          "region": "overseas",
+          "brand": "Games Workshop",
+          "title": "战锤开放古墓王补强和Blood Bowl夜地精队预订",
+          "label": "11月21日官方预订公告",
+          "published": "2026-11-21（官方文章）",
+          "node": "预订，不是零售发售",
+          "priority": "战棋新品",
+          "summary": "Games Workshop同批开放两个游戏线的阵营商品预订。",
+          "facts": [
+            "古墓王有Arcane Journal与部队套件等补强。",
+            "Blood Bowl有Night Goblin Team和球场、卡牌或骰子等配件，各地商品与库存另核。"
+          ],
+          "advice": "安排阵营演示时可把主队与配件意向分别登记；不预告未确认的大陆货期。",
+          "sources": [
+            {
+              "name": "Warhammer Community官方",
+              "url": "https://www.warhammer-community.com/en-gb/articles/oilx3yjc/saturday-pre-orders-undead-invasions-and-goblins-on-the-pitch/"
+            }
+          ]
+        },
+        {
+          "id": "tcg-op18-jp-20261122",
+          "category": "tcg",
+          "region": "overseas",
+          "brand": "Bandai / 航海王",
+          "title": "日版OP-18《神の支配》11月21日发售",
+          "label": "日本已公布发售节点",
+          "published": "Bandai官方商品页未标首次发布日期",
+          "node": "2026-11-21（日本）",
+          "priority": "版本区分",
+          "summary": "Bandai日本目录列出含税240日元一包；日本日期与英文版不同。",
+          "facts": [
+            "日版日期为11月21日；北美、欧洲、大洋洲、拉美和中东英文范围另列11月20日。",
+            "日本官价不代表大陆到货价或可售库存。"
+          ],
+          "advice": "销售商品、社群和预约表显著标注语言，别把不同地区日期、价格和配货合并。",
+          "sources": [
+            {
+              "name": "Bandai日本商品页",
+              "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582770067187000"
+            },
+            {
+              "name": "航海王英文官方目录",
+              "url": "https://en.onepiece-cardgame.com/products/?page=2"
+            }
+          ]
+        },
+        {
+          "id": "board-pokemon-tour-jp-20261122",
+          "category": "board",
+          "region": "overseas",
+          "brand": "宝可梦日本",
+          "title": "日本宝可梦桌游巡回启动，首站把试玩、街机和商场寻答放在一起",
+          "label": "活动节点 / 非新官宣",
+          "published": "旧公告，官方11月13日补充体验券信息",
+          "node": "11月21日至23日，日本千叶首站",
+          "priority": "门店活动参考",
+          "summary": "千叶AEON幕张新都心站为巡回活动首站，后续还有三地。",
+          "facts": [
+            "活动含宝可梦桌游试玩、Frienda街机免费体验及商场寻答。",
+            "部分体验有整理券和现场规则，不代表无需排队。"
+          ],
+          "advice": "可借鉴短桌游试玩和其他客群入口共用场地，再看试玩至复访的转化。",
+          "sources": [
+            {
+              "name": "宝可梦日本活动公告",
+              "url": "https://www.pokemon.co.jp/info/2026/10/261030_e01.html"
+            }
+          ]
+        }
+      ],
+      "coverage": [
+        "本期6条。11月21日战锤预订公告为新增消息，其余明确区分生效提醒、已经公布的上市节点、当日众筹与活动节点。",
+        "只有日期的来源不宣称严格落在滚动24小时内；各地区的发售时间、配货和在售状态分开核。",
+        "独立复核11、12月发售日历；Topps美国官网日历直读返回403但可读索引提供时刻，并和产品页、渠道消息按用途区分。集卡社Spider Rally不替代迪士尼水晶大陆待核，DAKA公开覆盖仍有限。"
       ]
     }
   }
