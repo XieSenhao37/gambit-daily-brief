@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-11-21",
+  "asOf": "2026-11-22",
   "coverage": [
+    "2026-11-22增量核查11、12月：美国Topps官方日历可读索引补充网店时刻，正文直接访问403；新增美国发售/预售分项与12/16 Chrome Football Mega，意大利及原预售记录保留。台湾育盛国际经销公告补录CardFun Spider Rally与Kakawow巴萨两个盒型，仅对应当地。复查摩点、航海王英文、宝可梦中国和高达英文目录，补录项目页可证两项。集卡社迪士尼水晶大陆日期仍无发行方一手确认，DAKA公开覆盖仍有限。",
     "2026-11-21增量核查11、12月：新增宝可梦中国12/4皮卡丘礼盒、Topps意大利两个月可见节点及美区两款官方正文、Renegade海外游戏店两款、摩点两月三项。Topps美国日历正文403，不把意大利时刻外推美区；Five Star旧11/19线索与意大利实时11/24分开。DAKA及集卡社仍无可核大陆发售日期，迪士尼水晶未确认；ChronoZ Disney Legacy不是水晶系列。保留原档案与待核，非全市场穷尽。",
     "2026-11-20增量核查11、12月：航海王英文官网前两页复核11/20与12月产品；宝可梦中国商品目录、高达英文目录、洛卡纳Hunny产品页、符文战场官方产品路线图及摩点预热/项目详情独立核查。补录四个11月桌游/配件众筹和12/4英文Gift of the Rift。历史日期未全量重核，目录未见新增不等于市场无新品。",
     "2026-11-20覆盖缺口：Topps美国日历403；DAKA与集卡社官网无可读正文、官方微博受限。检索出现迪士尼水晶零售预售记录，仍无一手日期证据，11/20不能标为已确认发售或现货；原待核与冲突记录保留。",
@@ -2883,6 +2884,14 @@
     {
       "name": "摩点预热",
       "url": "https://zhongchou.modian.com/tablegames/top_money/preheat/1"
+    },
+    {
+      "name": "Topps美国官网索引（直接访问403）",
+      "url": "https://www-next.topps.com/release-calendar"
+    },
+    {
+      "name": "台湾经销商育盛国际公告",
+      "url": "https://upperdeck.com.tw/news/news.htm"
     }
   ],
   "events": [
@@ -14233,20 +14242,28 @@
       ],
       "evidenceLevel": "official",
       "announcementStatus": "官方已公布计划；非库存证明",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "Topps美区官方指南FAQ明确标明11月25日。",
-      "verifiedAt": "2026-11-21",
+      "sourceTimezone": "UTC",
+      "sourceTime": "17:00",
+      "sourceEvidence": "Topps美区官方指南FAQ明确标明11月25日。 11月22日复核官方美国日历索引补充了美国网店时刻。",
+      "verifiedAt": "2026-11-22",
       "notes": [
-        "美区官方指南没有公布精确时刻；意大利网店时刻另列。"
+        "产品指南仅提供日期；美国网店时刻来自官网日历索引，意大利网店另列。"
       ],
       "sources": [
         {
           "name": "Topps RIPPED官方正文",
           "url": "https://ripped.topps.com/2026-topps-gilded-collection-baseball-product-history/"
+        },
+        {
+          "name": "Topps美国官网索引（直接访问403）",
+          "url": "https://www-next.topps.com/release-calendar"
         }
       ],
-      "timing": null
+      "timing": {
+        "localTime": "17:00",
+        "utcOffset": "+00:00",
+        "evidence": "Topps美国官方日历可读索引明确标注UTC时刻；直接访问返回403。"
+      }
     },
     {
       "id": "stadium-basketball-us-release",
@@ -14263,20 +14280,28 @@
       ],
       "evidenceLevel": "official",
       "announcementStatus": "官方已公布计划；非库存证明",
-      "sourceTimezone": null,
-      "sourceTime": null,
-      "sourceEvidence": "Topps美区官方指南FAQ明确标明11月25日。",
-      "verifiedAt": "2026-11-21",
+      "sourceTimezone": "UTC",
+      "sourceTime": "18:00",
+      "sourceEvidence": "Topps美区官方指南FAQ明确标明11月25日。 11月22日复核官方美国日历索引补充了美国网店时刻。",
+      "verifiedAt": "2026-11-22",
       "notes": [
-        "美区官方指南没有公布精确时刻；意大利网店时刻另列。"
+        "产品指南仅提供日期；美国网店时刻来自官网日历索引，意大利网店另列。"
       ],
       "sources": [
         {
           "name": "Topps RIPPED官方正文",
           "url": "https://ripped.topps.com/2025-26-topps-stadium-club-basketball-cards-collector-guide/"
+        },
+        {
+          "name": "Topps美国官网索引（直接访问403）",
+          "url": "https://www-next.topps.com/release-calendar"
         }
       ],
-      "timing": null
+      "timing": {
+        "localTime": "18:00",
+        "utcOffset": "+00:00",
+        "evidence": "Topps美国官方日历可读索引明确标注UTC时刻；直接访问返回403。"
+      }
     },
     {
       "id": "board-dcc-rpg-retail",
@@ -14482,6 +14507,398 @@
         "utcOffset": "+08:00",
         "evidence": "中国大陆官方公告或项目页明确列出时刻，按北京时间。"
       }
+    },
+    {
+      "id": "five-star-basketball-us",
+      "product": "2025-26 Topps Five Star Basketball",
+      "date": "2026-11-24",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "region": "美国官网",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": "UTC",
+      "sourceTime": "17:00",
+      "timing": {
+        "localTime": "17:00",
+        "utcOffset": "+00:00",
+        "evidence": "Topps美国官方日历可读索引明确标注UTC时刻；直接访问返回403。"
+      },
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "Topps美国官网可读索引列明此节点；直接读取月历返回403。",
+      "notes": [
+        "仅对应美国官网计划；不确认中国大陆到货，日期可能调整。",
+        "较旧页面有11月19日线索；此条记录目前官方美国日历可读索引的11月24日计划，亦获美国专业零售商日期佐证。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官网索引（直接访问403）",
+          "url": "https://www-next.topps.com/release-calendar"
+        },
+        {
+          "name": "Steel City 专业零售商月历",
+          "url": "https://www.steelcitycollectibles.com/product-release-calendar"
+        }
+      ]
+    },
+    {
+      "id": "chrome-marvel-us-pre",
+      "product": "2026 Topps Chrome Marvel Studios",
+      "date": "2026-11-24",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "region": "美国官网",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": "UTC",
+      "sourceTime": "18:00",
+      "timing": {
+        "localTime": "18:00",
+        "utcOffset": "+00:00",
+        "evidence": "Topps美国官方日历可读索引明确标注UTC时刻；直接访问返回403。"
+      },
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "Topps美国官网可读索引列明此节点；直接读取月历返回403。",
+      "notes": [
+        "仅对应美国官网计划；不确认中国大陆到货，日期可能调整。",
+        "这是美国官网预售开启，不是正式上市日期。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官网索引（直接访问403）",
+          "url": "https://www-next.topps.com/release-calendar"
+        }
+      ]
+    },
+    {
+      "id": "mls-black-white-us-pre",
+      "product": "2026 Topps MLS Black and White Soccer",
+      "date": "2026-11-30",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "region": "美国官网",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "Topps美国官网可读索引列明此节点；直接读取月历返回403。",
+      "notes": [
+        "仅对应美国官网计划；不确认中国大陆到货，日期可能调整。",
+        "这是美国官网预售开启，不是正式上市日期。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官网索引（直接访问403）",
+          "url": "https://www-next.topps.com/release-calendar"
+        }
+      ]
+    },
+    {
+      "id": "star-wars-masterwork-us-pre",
+      "product": "2026 Topps Star Wars Masterwork",
+      "date": "2026-12-01",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "preorder",
+      "region": "美国官网",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "Topps美国官网可读索引列明此节点；直接读取月历返回403。",
+      "notes": [
+        "仅对应美国官网计划；不确认中国大陆到货，日期可能调整。",
+        "这是美国官网预售开启，不是正式上市日期。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官网索引（直接访问403）",
+          "url": "https://www-next.topps.com/release-calendar"
+        }
+      ]
+    },
+    {
+      "id": "royalty-wwe-us",
+      "product": "2026 Topps Royalty WWE",
+      "date": "2026-12-04",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "region": "美国官网",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "Topps美国官网可读索引列明此节点；直接读取月历返回403。",
+      "notes": [
+        "仅对应美国官网计划；不确认中国大陆到货，日期可能调整。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官网索引（直接访问403）",
+          "url": "https://www-next.topps.com/release-calendar"
+        }
+      ]
+    },
+    {
+      "id": "bowman-signature-football-us",
+      "product": "2026 Bowman U Signature Football",
+      "date": "2026-12-04",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "region": "美国官网",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "Topps美国官网可读索引列明此节点；直接读取月历返回403。",
+      "notes": [
+        "仅对应美国官网计划；不确认中国大陆到货，日期可能调整。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国官网索引（直接访问403）",
+          "url": "https://www-next.topps.com/release-calendar"
+        }
+      ]
+    },
+    {
+      "id": "topps-chrome-football-mega-us",
+      "product": "2026 Topps Chrome Football Mega Box",
+      "date": "2026-12-16",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Topps",
+      "nodeType": "release",
+      "region": "美国官网",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "Topps美国商品正文明确正式发售日为12月16日。",
+      "notes": [
+        "仅Mega Box；不覆盖11月18日Hobby／Retail旧节点，预售寄出和收货不是发售日。",
+        "美国官方商品页未给出精确时刻。"
+      ],
+      "sources": [
+        {
+          "name": "Topps美国Mega商品正文",
+          "url": "https://www.topps.com/products/2026-topps-chrome-r-football-mega-box"
+        }
+      ]
+    },
+    {
+      "id": "cardfun-spider-rally-tw",
+      "product": "2026 CardFun Marvel Spider-Man Spider Rally 漫威蜘蛛人號召系列",
+      "date": "2026-11-21",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "集卡社 / CardFun",
+      "nodeType": "release",
+      "region": "中国台湾；育盛国际经销渠道",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "secondary",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "育盛国际作为本地经销商，在上市公告正文明确列出此产品日期。",
+      "notes": [
+        "台湾经销商所列日期，未公布具体时刻；不代表中国大陆到货。",
+        "为漫威蜘蛛人收藏卡，不是万智牌蜘蛛侠或迪士尼水晶系列。"
+      ],
+      "sources": [
+        {
+          "name": "台湾经销商育盛国际公告",
+          "url": "https://upperdeck.com.tw/news/news.htm"
+        },
+        {
+          "name": "育盛国际产品详情",
+          "url": "https://upperdeck.com.tw/other/othercard/26/26cardfun_mravel_spiderman/26cmsn.htm"
+        }
+      ]
+    },
+    {
+      "id": "kakawow-glory-barcelona-regular-tw",
+      "product": "2025-26 Kakawow Glory FC Barcelona Regular",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Kakawow",
+      "nodeType": "release",
+      "region": "中国台湾；育盛国际经销渠道",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "secondary",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "育盛国际作为本地经销商，在上市公告正文明确列出此产品日期。",
+      "notes": [
+        "台湾经销商所列日期，未公布具体时刻；不代表中国大陆到货。",
+        "不是DAKA 巴萨ONE & TWO产品。"
+      ],
+      "sources": [
+        {
+          "name": "台湾经销商育盛国际公告",
+          "url": "https://upperdeck.com.tw/news/news.htm"
+        }
+      ]
+    },
+    {
+      "id": "kakawow-glory-barcelona-hobby-tw",
+      "product": "2025-26 Kakawow Glory FC Barcelona Hobby",
+      "date": "2026-11-20",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "cards",
+      "brand": "Kakawow",
+      "nodeType": "release",
+      "region": "中国台湾；育盛国际经销渠道",
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "secondary",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "timing": null,
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "育盛国际作为本地经销商，在上市公告正文明确列出此产品日期。",
+      "notes": [
+        "台湾经销商所列日期，未公布具体时刻；不代表中国大陆到货。",
+        "不是DAKA 巴萨ONE & TWO产品。"
+      ],
+      "sources": [
+        {
+          "name": "台湾经销商育盛国际公告",
+          "url": "https://upperdeck.com.tw/news/news.htm"
+        }
+      ]
+    },
+    {
+      "id": "board-zhongkui-ghost",
+      "product": "钟馗・抓个鬼！",
+      "date": "2026-11-24",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "board",
+      "brand": "高山文创",
+      "nodeType": "crowdfunding",
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "12:00",
+      "timing": {
+        "localTime": "12:00",
+        "utcOffset": "+08:00",
+        "evidence": "摩点项目页的大陆开始时刻，按北京时间。"
+      },
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "项目发起方页面列出开始日期及时间。",
+      "notes": [
+        "开筹并非现货发售，回报按项目履约。"
+      ],
+      "sources": [
+        {
+          "name": "摩点发起方项目",
+          "url": "https://zhongchou.modian.com/item/161756.html"
+        }
+      ]
+    },
+    {
+      "id": "board-court-clash",
+      "product": "当庭对峙！",
+      "date": "2026-11-28",
+      "endDate": null,
+      "announcedMonth": null,
+      "category": "board",
+      "brand": "乐光工坊黔小星",
+      "nodeType": "crowdfunding",
+      "region": "中国大陆",
+      "languages": [
+        "简体中文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "已公布计划；非库存确认",
+      "sourceTimezone": "Asia/Shanghai",
+      "sourceTime": "09:00",
+      "timing": {
+        "localTime": "09:00",
+        "utcOffset": "+08:00",
+        "evidence": "摩点项目页的大陆开始时刻，按北京时间。"
+      },
+      "verifiedAt": "2026-11-22",
+      "sourceEvidence": "项目发起方页面列出开始日期及时间。",
+      "notes": [
+        "开筹并非现货发售，回报按项目履约。"
+      ],
+      "sources": [
+        {
+          "name": "摩点发起方项目",
+          "url": "https://zhongchou.modian.com/item/161317.html"
+        }
+      ]
     }
   ],
   "review": [
