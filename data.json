@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-22",
+  "latestIssue": "2026-11-23",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -4446,6 +4446,200 @@
         "本期6条。11月21日战锤预订公告为新增消息，其余明确区分生效提醒、已经公布的上市节点、当日众筹与活动节点。",
         "只有日期的来源不宣称严格落在滚动24小时内；各地区的发售时间、配货和在售状态分开核。",
         "独立复核11、12月发售日历；Topps美国官网日历直读返回403但可读索引提供时刻，并和产品页、渠道消息按用途区分。集卡社Spider Rally不替代迪士尼水晶大陆待核，DAKA公开覆盖仍有限。"
+      ]
+    },
+    "2026-11-23": {
+      "issue": "2026-11-23",
+      "cutoff": "10:05",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "riftbound-ningbo-kennen",
+        "topps-five-star-window",
+        "modian-zhongkui"
+      ],
+      "coverage": [
+        "本期优先选入新赛果、有效报名和可核对的海外发行更新；复核既有节点不等于今早新官宣。",
+        "DAKA 与集卡社的公开渠道仍有覆盖缺口；未核得迪士尼水晶中国大陆整盒发售的一手日期。",
+        "未选入未获充分新证据的其他系列消息；不表示相应品类没有更新。"
+      ],
+      "items": [
+        {
+          "id": "riftbound-ningbo-kennen",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "官方赛果",
+          "title": "凯南夺得宁波区域公开赛冠军，赛果来自禁表生效前",
+          "brand": "符文战场 · 第五赛季",
+          "published": "11 月 22 日 22:24 · 北京时间",
+          "node": "11 月 22 日 · 宁波站决赛",
+          "priority": "区分禁表前后",
+          "summary": "官方确认沈阳哇谷.山青知以「狂暴之心 凯南」夺冠；不能把这次结果视为新环境的排名。",
+          "facts": [
+            "宁波区域公开赛于 11 月 21–22 日举行，冠军由官方认证账号公布。",
+            "系列新禁表 11 月 23 日生效。青岛站将于 12 月 5–6 日举行，官方小程序报名截至 11 月 26 日 23:59（北京时间）。"
+          ],
+          "advice": "用宁波成绩回看旧环境，备战青岛时先按新禁表重查牌表，关注禁表后的首批完整赛果。",
+          "sources": [
+            {
+              "name": "符文战场官方 · 宁波站夺冠公告",
+              "url": "https://www.sina.cn/news/detail/5368180777421285.html"
+            },
+            {
+              "name": "符文战场官方 · 青岛站赛事手册",
+              "url": "https://www.sina.cn/news/detail/5366936348919489.html"
+            },
+            {
+              "name": "Riftbound · 新禁表",
+              "url": "https://playriftbound.com/zh-cn/news/announcements/radiance-ban-list-updates-effective-november-23-2026/"
+            }
+          ]
+        },
+        {
+          "id": "riftbound-city-week-five",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "有效报名提醒",
+          "title": "第五周城市挑战赛今天开放报名，继续测试后手额外摸牌",
+          "brand": "符文战场 · 城市挑战赛",
+          "published": "11 月 20 日 17:00 · 北京时间",
+          "node": "11 月 23–25 日报名；11 月 28–29 日比赛",
+          "priority": "检查本地门店",
+          "summary": "赛前先私下查看自己的随机战场，换备后再公开；测试场后手首次抽牌额外摸一张。",
+          "facts": [
+            "报名入口为「符文战场」官方小程序，具体参赛城市和门店以官方列表为准。",
+            "模式一参加者额外获得一包《辉耀群星》标准补充包；这项规则仍在测试，并非所有赛事通用规则。"
+          ],
+          "advice": "赛前练习可单独模拟换备与首次抽牌；先核本地场次是否参加测试。",
+          "sources": [
+            {
+              "name": "符文战场官方 · 第五周预告",
+              "url": "https://www.sina.cn/news/detail/5367374234255373.html"
+            }
+          ]
+        },
+        {
+          "id": "topps-five-star-window",
+          "category": "cards",
+          "region": "overseas",
+          "label": "有效发行节点",
+          "title": "Five Star 篮球：美英官网都列 11 月 24 日，开卖时刻不同",
+          "brand": "Topps · NBA",
+          "published": "11 月 23 日 · 核对官网可读索引",
+          "node": "11 月 24 日 · 美国和英国当地日期",
+          "priority": "区分区域渠道",
+          "summary": "英国站列 15:00 UTC（北京 11 月 24 日 23:00），美国站列 17:00 UTC（北京 11 月 25 日 01:00）。",
+          "facts": [
+            "官方日历可读索引列出美英两条区域时刻；官网直接读取受限。",
+            "官方盒型指南列 Hobby 一个盒型，每盒 1 包、6 张卡，配置为 5 张签字与 1 张基础或基础平行卡。"
+          ],
+          "advice": "做上新预告时按区域分别列时间；海外官网日期不等于大陆到货或保证买得到。",
+          "sources": [
+            {
+              "name": "Topps · 美国日历",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps · 英国日历",
+              "url": "https://uk.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps · Five Star 官方盒型指南",
+              "url": "https://ripped.topps.com/2025-26-topps-five-star-basketball-hobby-box-guide/"
+            }
+          ]
+        },
+        {
+          "id": "modian-zhongkui",
+          "category": "board",
+          "region": "domestic",
+          "label": "有效众筹节点",
+          "title": "国产聚会桌游《钟馗・抓个鬼！》明日中午开筹",
+          "brand": "高山文创 · 摩点",
+          "published": "11 月 23 日 · 复核预热页面",
+          "node": "11 月 24 日 12:00 · 摩点开筹",
+          "priority": "可纳入聚会试玩候选",
+          "summary": "以钟馗抓鬼为题材，项目定位为社交反应类聚会游戏。",
+          "facts": [
+            "摩点项目页列明 11 月 24 日 12:00 开始。",
+            "这是众筹预热，不是零售上市或到货日期。"
+          ],
+          "advice": "适合先问聚会客群是否喜欢反应类游戏，等到众筹规则、交付和零售条件明确后再决定。",
+          "sources": [
+            {
+              "name": "摩点 · 高山文创项目页",
+              "url": "https://zhongchou.modian.com/item/161756.html"
+            }
+          ]
+        },
+        {
+          "id": "warhammer-seraphon-preview",
+          "category": "board",
+          "region": "overseas",
+          "label": "官方预告",
+          "title": "战锤《西格玛时代》预告 Seraphon 两款新品",
+          "brand": "Games Workshop · Age of Sigmar",
+          "published": "11 月 22 日 · 官方英文站日期",
+          "node": "下一批预订 · 本公告未列明确时刻",
+          "priority": "留意店铺配货",
+          "summary": "本次预告包括角色模型 Blessed Tetaxi 和 Spearhead 套装 Claws of Tepok。",
+          "facts": [
+            "Games Workshop 在周日预览中把这两项列入下一批预订。",
+            "这是英文站公告，不是预订已经开放或中国大陆到货。"
+          ],
+          "advice": "面向战棋玩家可以分别征集角色模型与整套入门阵容的兴趣，不提前承诺供货。",
+          "sources": [
+            {
+              "name": "Warhammer Community · Sunday Preview",
+              "url": "https://www.warhammer-community.com/en-gb/articles/ej1en5ql/sunday-preview-seraphon-strike-from-the-heavens/"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-cl-chiba-final",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "有效直播节点",
+          "title": "日本宝可梦千叶冠军联赛今日直播至决赛",
+          "brand": "宝可梦卡牌日本 · Champions League",
+          "published": "11 月 13 日 · 官方直播公告",
+          "node": "11 月 23 日 · 日本千叶第二日",
+          "priority": "观察日版赛场",
+          "summary": "官方直播以大师组为主，从预赛覆盖到决赛。千叶站属于 2027 赛季，比赛实际在 2026 年举行。",
+          "facts": [
+            "第二日直播计划为当地 08:40 至约 20:20，即北京时间 07:40 至约 19:20。",
+            "官方公告提供 YouTube 和 NicoNico 入口；未用尚未结束的直播推断冠军。"
+          ],
+          "advice": "可把直播作为日版赛场观察素材；日本卡池和环境不能直接替代简中。",
+          "sources": [
+            {
+              "name": "宝可梦卡牌日本 · 官方直播公告",
+              "url": "https://www.pokemon-card.com/info/005751.html"
+            }
+          ]
+        },
+        {
+          "id": "topps-now-wembanyama-104",
+          "category": "cards",
+          "region": "overseas",
+          "label": "近期上线",
+          "title": "文班亚马 Topps NOW #104 开放限时订购",
+          "brand": "Topps · NBA Topps NOW",
+          "published": "11 月 22 日 · 美国商品页列示上线",
+          "node": "11 月 24 日 · 美国商品页列示到期",
+          "priority": "区分定价与实际印量",
+          "summary": "美国官网单张定价 11.99 美元，基础卡按需印刷；最终印量在窗口关闭后公布。",
+          "facts": [
+            "官方列出限编平行和 1/1 签字兑换卡，均不是随订单保证获得。",
+            "商品页列示窗口结束后 10–15 个工作日发货，不等于到货时效。"
+          ],
+          "advice": "做新品介绍可重点讲限时订购与最终印量的区别，不把配额或随机平行卡当成货源保证。",
+          "sources": [
+            {
+              "name": "Topps · 文班亚马 #104 官方商品页",
+              "url": "https://www.topps.com/products/victor-wembanyama-2026-27-nba-topps-now-r-card-104"
+            }
+          ]
+        }
       ]
     }
   }
