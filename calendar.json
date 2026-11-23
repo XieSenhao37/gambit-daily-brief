@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
   "status": "ready",
-  "asOf": "2026-11-22",
+  "asOf": "2026-11-23",
   "coverage": [
+    "2026-11-23增量核查：Five Star篮球美区11/24 17:00 UTC和意大利11/24 15:00 UTC既有记录不变，另收英国15:00 UTC及日本18:00 UTC官网索引。补录日本OP-18与两项宝可梦发布日期。复查11、12月Topps及摩点目录，未将此前相同节点重复录入；集卡社迪士尼水晶仍缺大陆发行方一手日期，DAKA公开二手预计日期不升格为正式发售。",
     "2026-11-22增量核查11、12月：美国Topps官方日历可读索引补充网店时刻，正文直接访问403；新增美国发售/预售分项与12/16 Chrome Football Mega，意大利及原预售记录保留。台湾育盛国际经销公告补录CardFun Spider Rally与Kakawow巴萨两个盒型，仅对应当地。复查摩点、航海王英文、宝可梦中国和高达英文目录，补录项目页可证两项。集卡社迪士尼水晶大陆日期仍无发行方一手确认，DAKA公开覆盖仍有限。",
     "2026-11-21增量核查11、12月：新增宝可梦中国12/4皮卡丘礼盒、Topps意大利两个月可见节点及美区两款官方正文、Renegade海外游戏店两款、摩点两月三项。Topps美国日历正文403，不把意大利时刻外推美区；Five Star旧11/19线索与意大利实时11/24分开。DAKA及集卡社仍无可核大陆发售日期，迪士尼水晶未确认；ChronoZ Disney Legacy不是水晶系列。保留原档案与待核，非全市场穷尽。",
     "2026-11-20增量核查11、12月：航海王英文官网前两页复核11/20与12月产品；宝可梦中国商品目录、高达英文目录、洛卡纳Hunny产品页、符文战场官方产品路线图及摩点预热/项目详情独立核查。补录四个11月桌游/配件众筹和12/4英文Gift of the Rift。历史日期未全量重核，目录未见新增不等于市场无新品。",
@@ -14899,6 +14900,168 @@
           "url": "https://zhongchou.modian.com/item/161317.html"
         }
       ]
+    },
+    {
+      "id": "five-star-basketball-uk",
+      "product": "2025-26 Topps Five Star Basketball",
+      "category": "cards",
+      "brand": "Topps",
+      "region": "英国官网",
+      "date": "2026-11-24",
+      "nodeType": "release",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方索引所列计划；非库存确认",
+      "sourceTimezone": "UTC",
+      "sourceTime": "15:00",
+      "sourceEvidence": "官方英国日历索引列出11月24日15:00 UTC，英国产品页索引单独确认24日；正文直读403。",
+      "verifiedAt": "2026-11-23",
+      "notes": [
+        "仅为英国官网的计划时刻；北京时间11月24日23:00，不推及其他区域。"
+      ],
+      "sources": [
+        {
+          "name": "英国官网日历可读索引",
+          "url": "https://uk.topps.com/release-calendar"
+        },
+        {
+          "name": "英国产品页可读索引",
+          "url": "https://uk.topps.com/pages/topps-five-star-basketball"
+        }
+      ],
+      "timing": {
+        "localTime": "15:00",
+        "utcOffset": "+00:00",
+        "evidence": "官方地区日历的可读索引明确标注UTC。"
+      }
+    },
+    {
+      "id": "five-star-basketball-jp",
+      "product": "2025-26 Topps Five Star Basketball",
+      "category": "cards",
+      "brand": "Topps",
+      "region": "日本官网",
+      "date": "2026-11-24",
+      "nodeType": "release",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "版本未核实"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方索引所列计划；非库存确认",
+      "sourceTimezone": "UTC",
+      "sourceTime": "18:00",
+      "sourceEvidence": "日本Topps官网日历可读索引列出11月24日18:00 UTC，正文直接访问403。",
+      "verifiedAt": "2026-11-23",
+      "notes": [
+        "单列日本网店计划：当地11月25日03:00，北京时间11月25日02:00。"
+      ],
+      "sources": [
+        {
+          "name": "日本Topps官网日历可读索引",
+          "url": "https://jp.topps.com/release-calendar"
+        }
+      ],
+      "timing": {
+        "localTime": "18:00",
+        "utcOffset": "+00:00",
+        "evidence": "官方地区日历的可读索引明确标注UTC。"
+      }
+    },
+    {
+      "id": "pokemon-jp-pikachu-30th-card-art-figure",
+      "product": "宝可梦30周年皮卡丘卡图手办",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "region": "日本 Pokémon Center Online",
+      "date": "2026-11-27",
+      "nodeType": "release",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "日文附卡"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "日本宝可梦官方商品正文列出11月27日上市、建议零售价1800日元含税。",
+      "verifiedAt": "2026-11-23",
+      "notes": [
+        "含展示底座及13种中随机1张卡；不是简中璀璨晶耀礼盒。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦卡牌日本官方商品公告",
+          "url": "https://www.pokemon-card.com/info/005764.html"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "pokemon-jp-aura-seeker-m7",
+      "product": "宝可梦MEGA ハドウシーカー补充包",
+      "category": "tcg",
+      "brand": "宝可梦",
+      "region": "日本",
+      "date": "2026-11-27",
+      "nodeType": "release",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "日文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "日本宝可梦官方系列页列出11月27日上市。",
+      "verifiedAt": "2026-11-23",
+      "notes": [
+        "此前已公布的日版发售日期，不是11月23日新官宣；不外推其他语言。"
+      ],
+      "sources": [
+        {
+          "name": "宝可梦卡牌日本官方系列页",
+          "url": "https://www.pokemon-card.com/ex/m7/"
+        }
+      ],
+      "timing": null
+    },
+    {
+      "id": "onepiece-op18-jp",
+      "product": "神の支配 [OP-18]",
+      "category": "tcg",
+      "brand": "航海王",
+      "region": "日本",
+      "date": "2026-11-21",
+      "nodeType": "release",
+      "endDate": null,
+      "announcedMonth": null,
+      "languages": [
+        "日文"
+      ],
+      "evidenceLevel": "official",
+      "announcementStatus": "官方已公布日期；非库存确认",
+      "sourceTimezone": null,
+      "sourceTime": null,
+      "sourceEvidence": "Bandai日本商品正文列出11月21日发售，含税240日元/包。",
+      "verifiedAt": "2026-11-23",
+      "notes": [
+        "保留英文版11月20日节点；日本公布日期并非大陆库存依据。"
+      ],
+      "sources": [
+        {
+          "name": "Bandai日本官方商品页",
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582770067187000"
+        }
+      ],
+      "timing": null
     }
   ],
   "review": [
