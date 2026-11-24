@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-23",
+  "latestIssue": "2026-11-24",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -4637,6 +4637,243 @@
             {
               "name": "Topps · 文班亚马 #104 官方商品页",
               "url": "https://www.topps.com/products/victor-wembanyama-2026-27-nba-topps-now-r-card-104"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-24": {
+      "issue": "2026-11-24",
+      "cutoff": "10:01",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "pokemon-city-batch-three",
+        "topps-chrome-marvel-studios-preorder",
+        "animus-us-retail"
+      ],
+      "coverage": [
+        "收录 11 月 23 日新公告与近期可行动节点；官宣时间、发售、预售或活动各自分列。",
+        "DAKA 与集卡社公开信源覆盖有限，未将店铺传言升级为中国大陆官宣。",
+        "未核实深圳宝可梦本批具体赛点，以官方小程序为准。"
+      ],
+      "items": [
+        {
+          "id": "pokemon-city-batch-three",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "报名提醒",
+          "title": "宝可梦城市赛第三批：团队今晚截止，个人 18:00 开报",
+          "brand": "宝可梦中国 · 第五赛季",
+          "published": "11 月 23 日 · 官方公告",
+          "node": "11 月 28–29 日比赛 · 今天两个报名节点",
+          "priority": "先查深圳场次",
+          "summary": "团队赛 11 月 24 日 23:59 截止，个人赛 11 月 24 日 18:00 至 25 日 23:59；均为北京时间。",
+          "facts": [
+            "本批报名免费，名额以抽选确定。团队赛 11 月 25 日、个人赛 11 月 26 日通过小程序通知抽选结果。",
+            "入口：宝可梦卡牌会员 → 活动中心 → 按类型找 → 目标是冠军 → 城市赛 → 城市。深圳场次未独立核实。"
+          ],
+          "advice": "提醒准备参赛的玩家先核本城赛点，再按组别提交信息；提交报名不等于中签。",
+          "sources": [
+            {
+              "name": "宝可梦中国 · 第三批报名公告",
+              "url": "https://www.pokemon.cn/tcg/event/24802.html"
+            },
+            {
+              "name": "宝可梦中国 · 赛事公告索引",
+              "url": "https://www.pokemon.cn/event"
+            }
+          ]
+        },
+        {
+          "id": "topps-chrome-marvel-studios-preorder",
+          "category": "cards",
+          "region": "overseas",
+          "label": "官网预售",
+          "title": "Topps Chrome Marvel Studios：英美分时预售，区别于 Marvel Comics",
+          "brand": "Topps · Marvel Studios",
+          "published": "11 月 24 日 · 核对官方产品和日历",
+          "node": "英国北京时间 11 月 25 日 00:00；美国 02:00",
+          "priority": "先确认地区与盒型",
+          "summary": "官方产品页列 11 月 24 日预售。英国官网 16:00 UTC、美国官网 18:00 UTC。",
+          "facts": [
+            "官方介绍包含 200 张基础卡；罕见 Doom Pack 为 Hobby 独有且每个 Doom Pack 有签字，不等于每盒必出。",
+            "这是电影／剧集线 Marvel Studios，不是同名 Chrome Marvel Comics；本节点为预售，不是正式发售或发货。"
+          ],
+          "advice": "做娱乐卡选品或报价时把 Studios／Comics、地区和盒型写进商品名，避免混价。",
+          "sources": [
+            {
+              "name": "Topps · Studios 官方产品页",
+              "url": "https://www-next.topps.com/pages/topps-marvel-studios-chrome"
+            },
+            {
+              "name": "Topps · 美国日历",
+              "url": "https://www.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps · 英国日历",
+              "url": "https://uk-next.topps.com/release-calendar"
+            }
+          ]
+        },
+        {
+          "id": "animus-us-retail",
+          "category": "board",
+          "region": "overseas",
+          "label": "美国渠道档期",
+          "title": "《刺客信条：Animus》12 月 11 日进入美国零售",
+          "brand": "Mantic Games · Asmodee USA",
+          "published": "11 月 23 日 · ICv2 美国当地报道",
+          "node": "12 月 11 日 · 美国发行渠道",
+          "priority": "区分发行批次",
+          "summary": "Asmodee 美国商品页确认日期和 65 美元定价，2–4 人、约 60 分钟。",
+          "facts": [
+            "美国商品页列货号 MGAC101，含四名经典刺客的模型。",
+            "这是美国零售渠道日期，不是全球首发或中国大陆发行。"
+          ],
+          "advice": "考虑引入时先确认语种、配货及到岸条件；可先用 IP 主题体验判断玩家兴趣。",
+          "sources": [
+            {
+              "name": "Asmodee USA · 商品页",
+              "url": "https://store.asmodee.com/collections/december-w2-pre-order-products/products/assassins-creed-animus"
+            },
+            {
+              "name": "ICv2 · 报道",
+              "url": "https://icv2.com/articles/news/view/63950/mantic-games-will-release-assassins-creed-animus"
+            }
+          ]
+        },
+        {
+          "id": "onepiece-op18-cn-promo",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "日历补录／活动进行中",
+          "title": "航海王简中 OP-18 补录 11 月 21 日，指定店满赠至 12 月 20 日",
+          "brand": "航海王卡牌对战 · 简体中文版",
+          "published": "11 月 6 日促销公告；11 月 13 日发售公告",
+          "node": "11 月 21 日发售；满赠 11 月 21 日至 12 月 20 日",
+          "priority": "区分发售与门店活动",
+          "summary": "大陆简中《神之支配》11 月 21 日发售；独立满赠不限于 OP-18，须在指定店购买符合条件的简中商品。",
+          "facts": [
+            "两份官方账号公告均列 OP-18 的 11 月 21 日发售日期；勿与日版或英文版合并。",
+            "单笔实付满 600 元可领一包 ONE PIECE DAY Vol.3；指定门店见官方活动公告配图。"
+          ],
+          "advice": "告知玩家前先核门店资格和赠品余量，不把活动日期、产品发售日期当作到货承诺。",
+          "sources": [
+            {
+              "name": "航海王中国官方 · 简中版发售公告",
+              "url": "https://www.sina.cn/news/detail/5364731821165763.html"
+            },
+            {
+              "name": "航海王卡牌对战 · 满赠规则",
+              "url": "https://www.sina.cn/news/detail/5362210202191367.html"
+            }
+          ]
+        },
+        {
+          "id": "bandai-hk-weekend",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "本周末赛事",
+          "title": "香港万代卡牌节周末开赛，入场须提前获选",
+          "brand": "Bandai · 航海王／高达",
+          "published": "报名规则 8 月 21 日发布 · 本期复核赛程",
+          "node": "11 月 28–29 日 · 亚洲国际博览馆 5 号展馆",
+          "priority": "出发前确认资格",
+          "summary": "航海王火焰果实争夺战跨两天；高达周六 New Type Challenge、周日 Special Tournament。",
+          "facts": [
+            "官方预登记公告说明仅限事先中签者入场，不可当天直接入场。",
+            "时间表列有现场报到、递补及 Gunslinger 时段；不能将这些时段理解为未获选者可以到场报名。"
+          ],
+          "advice": "准备从内地赴港的已获选玩家先核对各场报到时间；仅持入场券若想打 Gunslinger，请先用 Bandai TCG+ 或向主办方确认。",
+          "sources": [
+            {
+              "name": "亚洲国际博览馆 · 场馆信息",
+              "url": "https://www.asiaworld-expo.com/zh-sc/whats-on/upcoming-events/events/bandai-card-game-fest-26-27/"
+            },
+            {
+              "name": "Bandai · 官方时间表",
+              "url": "https://www.bandaicardgames-fest.com/26-27/pdf/timeschedule_hongkong.pdf"
+            },
+            {
+              "name": "Bandai · 预登记与入场",
+              "url": "https://www.bandaicardgames-fest.com/26-27/zh-tw/hongkong/news/hk-pre-registrationd.html"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-shanghai-card-art",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "官方活动公告",
+          "title": "宝可梦卡牌插画展 11 月 28 日在上海开展",
+          "brand": "宝可梦中国 · 30 周年上海盛典",
+          "published": "11 月 23 日 · 官方公告",
+          "node": "11 月 28 日至 12 月 27 日 · 拉法耶文化艺术中心",
+          "priority": "观察卡牌主题活动",
+          "summary": "展览免费但须预约，场外工坊另于 11 月 27 日 15:00 开放预约（北京时间）。",
+          "facts": [
+            "展览位于上海黄浦区复兴中路 323 号；展厅内工坊可在符合条件的展览场次中加选。",
+            "场外工坊预约与展览预约是不同入口，不把 11 月 27 日的时刻套到展览。"
+          ],
+          "advice": "可以参考展览、卡牌插画和动手工坊的组合，为非对战用户设计更易参与的活动。",
+          "sources": [
+            {
+              "name": "宝可梦中国 · 插画展",
+              "url": "https://www.pokemon.cn/tcg/campaign/24810.html"
+            },
+            {
+              "name": "宝可梦中国 · 工坊公告",
+              "url": "https://www.pokemon.cn/tcg/campaign/24816.html"
+            }
+          ]
+        },
+        {
+          "id": "modian-legion-siege-2",
+          "category": "board",
+          "region": "domestic",
+          "label": "有效众筹节点",
+          "title": "《军团与围杀2》三国篇明早 10:00 开筹",
+          "brand": "TonyPlay工作室 · 摩点",
+          "published": "11 月 24 日 · 复核摩点发起人项目页",
+          "node": "11 月 25 日 10:00 · 摩点开筹",
+          "priority": "留意本地对战客群",
+          "summary": "项目以三国为题材，发起方页面列出 2–4 人对战的基础包加扩充包档位。",
+          "facts": [
+            "官方项目页显示 11 月 25 日 10:00 开筹。",
+            "项目众筹与零售到货是两个节点，不把目标金额或回报视为库存。"
+          ],
+          "advice": "可先看三国题材和多人对战在门店是否有固定客群，等交付及渠道条款明确再决定。",
+          "sources": [
+            {
+              "name": "摩点 · 发起方项目页",
+              "url": "https://zhongchou.modian.com/item/161578.html"
+            }
+          ]
+        },
+        {
+          "id": "mtg-dune-wpn-december",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "渠道档期更新",
+          "title": "《沙丘》Secret Lair：WPN 列出 Balance of Power 非闪版发售日期",
+          "brand": "万智牌 · WPN",
+          "published": "11 月 24 日 · 本期核对公开商品页",
+          "node": "12 月 18 日 · WPN 英文页列示日期；12 月 25 日 · 日本",
+          "priority": "不要混同官网直售",
+          "summary": "官方商品页在 Balance of Power 下列出 12 月 18 日，日本单列 12 月 25 日；与 11 月 30 日 Secret Lair 官网直售不同。",
+          "facts": [
+            "11 月 18 日的威世智公告确认 Balance of Power 与 Deserts of Arrakis 的非闪版本将进入 WPN 门店。",
+            "本期仅将能逐款核实的 Balance of Power 对应到具体日期；不外推到中国大陆到货。"
+          ],
+          "advice": "门店可按产品和地区分别向经销商核实配额、售价和预计到货，不直接套海外日期。",
+          "sources": [
+            {
+              "name": "WPN · 公开产品页",
+              "url": "https://wpn.wizards.com/en/products/secret-lair-dune"
+            },
+            {
+              "name": "威世智 · 官网直售和门店版本公告",
+              "url": "https://magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop"
             }
           ]
         }
