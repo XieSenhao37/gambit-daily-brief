@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-24",
+  "latestIssue": "2026-11-25",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -4874,6 +4874,178 @@
             {
               "name": "威世智 · 官网直售和门店版本公告",
               "url": "https://magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-25": {
+      "issue": "2026-11-25",
+      "cutoff": "10:03",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "pokemon-anniversary-birds",
+        "calling-shenzhen-onsite",
+        "topps-uk-gilded-stadium"
+      ],
+      "coverage": [
+        "优先收录 11 月 24 日新公告与本周可行动节点；此前公告标明原始日期。",
+        "英国 Topps 官方页面直接读取受限，所列时间采用核到的官方索引正文，地区和渠道不可互换。",
+        "DAKA 及集卡社公开渠道本轮覆盖有限，迪士尼水晶 11 月 20 日仍未获官方发售证据。没有把赛事和展览录作发售。"
+      ],
+      "items": [
+        {
+          "id": "pokemon-anniversary-birds",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "官方赛事公告",
+          "title": "宝可梦三圣鸟阵营赛：11 月 26 日起开放预赛抽选",
+          "brand": "宝可梦中国 · 30 周年上海盛典",
+          "published": "11 月 24 日 · 官方公告",
+          "node": "11 月 28 日至 12 月 20 日分四周预赛；12 月 27 日上海总决赛",
+          "priority": "先查深圳赛点",
+          "summary": "预赛在全国官方道馆及部分认证道馆举办；从「宝可梦卡牌会员 → 我的 → 排位赛 → 查看全部活动」查看抽选。",
+          "facts": [
+            "参赛者须年满 8 岁，可加入急冻鸟、闪电鸟或火焰鸟阵营。",
+            "上海总决赛在宝可梦官方卡牌道馆中山公园（古月鸟）举行，深圳赛点须以小程序为准。",
+            "预赛期间在 3 个不同日期各参加对战，且累计至少 3 场，可领所属阵营的特典卡。"
+          ],
+          "advice": "这次报名走排位赛入口，和本周城市赛报名不是一回事。发社群提醒时把两条报名路径分开。",
+          "sources": [
+            {
+              "name": "宝可梦中国 · 官方赛事公告",
+              "url": "https://www.pokemon.cn/tcg/event/24869.html"
+            }
+          ]
+        },
+        {
+          "id": "calling-shenzhen-onsite",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "深圳周末实用提醒",
+          "title": "深圳 Calling 本周末开打：边赛到场后再报名，名额有限",
+          "brand": "Flesh and Blood · Ruika",
+          "published": "本期核对主办方参赛须知",
+          "node": "11 月 27–29 日 · 深圳福田",
+          "priority": "出发前确认对应场次",
+          "summary": "场地是福田福华一路 28 号深圳好日子皇冠假日酒店 2 楼皇冠宴会厅，福田站 3A 出口。",
+          "facts": [
+            "主办方须知列每日 08:30 开始办理现场报名及参赛包领取。",
+            "边赛须在当天主赛开始后到场报名，满额即止；不要把这个流程理解成主赛仍有名额。"
+          ],
+          "advice": "赛前把日程和主赛／边赛各自的报名方式转给玩家；未拿到资格的玩家先确认是否还有名额。",
+          "sources": [
+            {
+              "name": "Ruika · 场地公告",
+              "url": "https://events.ruika.com/en/blogs/news/%E6%B7%B1%E5%9C%B3calling%E5%9C%BA%E5%9C%B0"
+            },
+            {
+              "name": "Ruika · 参赛须知",
+              "url": "https://events.ruika.com/pages/%E5%8F%82%E8%B5%9B%E9%A1%BB%E7%9F%A5"
+            }
+          ]
+        },
+        {
+          "id": "topps-uk-gilded-stadium",
+          "category": "cards",
+          "region": "overseas",
+          "label": "地区发售节点",
+          "title": "Topps 今晚英区先开：Gilded 棒球走 EQL，Stadium Club 篮球随后",
+          "brand": "Topps · 英国与美国",
+          "published": "11 月 25 日 · 核对官方产品与日历",
+          "node": "英国北京时间 11 月 25 日 23:00／26 日 00:00；美国对应 26 日 01:00／02:00",
+          "priority": "区分两地渠道",
+          "summary": "英国 Gilded Collection Baseball 为 EQL 抽选；Stadium Club Basketball 的英国官网档期晚一小时。",
+          "facts": [
+            "英国日历标明两款分别为 15:00 与 16:00 UTC；美国日历分别为 17:00 与 18:00 UTC。",
+            "Gilded 官方系列页已提供卡表与概率表；参加 EQL 不代表获得购买资格。"
+          ],
+          "advice": "报价时分别写清地区、盒型与是否拿到货，不把抽选开启当作批量进货。",
+          "sources": [
+            {
+              "name": "Topps UK · Gilded 产品页",
+              "url": "https://uk.topps.com/pages/topps-gilded-collection-baseball"
+            },
+            {
+              "name": "Topps UK · 官方日历",
+              "url": "https://uk.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps US · 官方日历",
+              "url": "https://www-next.topps.com/release-calendar"
+            }
+          ]
+        },
+        {
+          "id": "generation-ship-crowdfunding",
+          "category": "board",
+          "region": "overseas",
+          "label": "众筹已上线",
+          "title": "《Generation Ship》在 Gamefound 开筹，提供六种语言",
+          "brand": "Happy Capy Games · Gamefound",
+          "published": "11 月 25 日 · 核对官方项目状态；发起人 11 月 3 日预告",
+          "node": "11 月 24 日 · 来源当地众筹日期",
+          "priority": "留意语种和运费",
+          "summary": "柏林发行团队以 500 年星际航行为题材，玩家要发展船上文明，并维持飞船推进。",
+          "facts": [
+            "发起人公告列英语、西语、德语、意语、波兰语和法语，未列中文。",
+            "发起人的免运地区清单未列中国大陆；这是众筹，不是零售发货。"
+          ],
+          "advice": "如用于门店桌游试玩选品，先用玩家对题材和语言门槛的反馈判断需求。",
+          "sources": [
+            {
+              "name": "Gamefound · 众筹状态",
+              "url": "https://gamefound.com/en"
+            },
+            {
+              "name": "Happy Capy Games · 发起人更新",
+              "url": "https://gamefound.com/en/projects/happy-capy-games/generation-ship/updates/1"
+            }
+          ]
+        },
+        {
+          "id": "ember-vision-ash-crowdfunding",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "今日开筹",
+          "title": "国产 TCG《星之烬》第二弹「愿景余灰」今晚开筹",
+          "brand": "星之烬TCG · 摩点",
+          "published": "11 月 25 日 · 复核发起人项目页",
+          "node": "11 月 25 日 19:00 · 北京时间",
+          "priority": "区分实体与线上权益",
+          "summary": "摩点发起人页面列明今晚 19:00 开始；项目主打实体与线上互通。",
+          "facts": [
+            "项目目标为 1,000 元，这只是发起人设定的筹款目标，不代表预订量或销量。",
+            "这是众筹开启，不是大陆零售或到货日期。"
+          ],
+          "advice": "试推新品时按各档位实际交付内容介绍，不把实体商品和线上权益混算。",
+          "sources": [
+            {
+              "name": "摩点 · 发起人项目",
+              "url": "https://zhongchou.modian.com/item/161755.html"
+            }
+          ]
+        },
+        {
+          "id": "riftbound-qingdao-deadline",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "报名截止提醒",
+          "title": "符文战场青岛区域公开赛：报名明晚 23:59 截止",
+          "brand": "符文战场 · 第五赛季",
+          "published": "11 月 19 日官方手册 · 本期仅提醒截止",
+          "node": "11 月 26 日 23:59 截止；12 月 5–6 日比赛",
+          "priority": "准备参赛的玩家先登记",
+          "summary": "青岛站在银沙滩温德姆至尊酒店 1 楼中华厅举行，报名走「符文战场」官方小程序。",
+          "facts": [
+            "完整报名窗口为 11 月 20 日 12:00 至 11 月 26 日 23:59。",
+            "赛程、补录流程和现场安排以青岛站官方手册为准。"
+          ],
+          "advice": "准备赴青岛的玩家先确认自己的报名状态，再安排行程。",
+          "sources": [
+            {
+              "name": "符文战场官方 · 青岛站手册",
+              "url": "https://www.sina.cn/news/detail/5366936348919489.html"
             }
           ]
         }
