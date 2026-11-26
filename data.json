@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-25",
+  "latestIssue": "2026-11-26",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -5046,6 +5046,205 @@
             {
               "name": "符文战场官方 · 青岛站手册",
               "url": "https://www.sina.cn/news/detail/5366936348919489.html"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-26": {
+      "issue": "2026-11-26",
+      "cutoff": "09:57",
+      "timezone": "Asia/Shanghai",
+      "highlights": [
+        "mechs-vs-minions-uk-two-editions",
+        "bandai-hk-entry-ticket-matrix",
+        "topps-japan-chrome-update-preorder"
+      ],
+      "coverage": [
+        "收录 11 月 25 日以来核到的公告及本周可办理事项，旧公告的补充或复核不算新官宣。",
+        "海外官网日期、预售、库存及大陆供货分开；未将展会和常规赛事计作新品。",
+        "DAKA 和集卡社公开资料仍有缺口；未核实迪士尼水晶 11 月 20 日官宣。符文战场宁波赛后判例暂未取得可核全文，不推测处理结果。"
+      ],
+      "items": [
+        {
+          "id": "mechs-vs-minions-uk-two-editions",
+          "category": "board",
+          "region": "overseas",
+          "label": "英国渠道档期",
+          "title": "《Mechs vs. Minions》英国双版本：经典重印与轻量化班德尔城版",
+          "brand": "Incredible Dream Studios · Hachette Boardgames UK",
+          "published": "11 月 26 日 · 复核英国发行商档期",
+          "node": "英国渠道原定 11 月 25 日",
+          "priority": "同一战役，两种配置",
+          "summary": "英国官方档期同时列经典版 £199.99、班德尔城版 £74.99；两版保留 10 关合作战役，模型和收纳方式不同。",
+          "facts": [
+            "经典版保留 106 个模型等原版风格配件；班德尔城版改用亚克力立牌等配置。",
+            "档期与具体到货分开。部分商品页仍显示预售提示，不保证英国现货，也未核实大陆到货。"
+          ],
+          "advice": "作店内试玩优先评估班德尔城版的收纳与上桌负担；做收藏选品再看经典版的模型配置。",
+          "sources": [
+            {
+              "name": "Hachette UK · 官方发行档期",
+              "url": "https://shop.hachetteboardgames.co.uk/blogs/news/fresh-from-spiel-essen-hot-new-tabletop-releases-our-autumn-winter-release-schedule"
+            },
+            {
+              "name": "Hachette UK · 经典版",
+              "url": "https://shop.hachetteboardgames.co.uk/products/mechs-vs-minions-classic-edition"
+            },
+            {
+              "name": "Hachette UK · 班德尔城版",
+              "url": "https://shop.hachetteboardgames.co.uk/products/mechs-vs-minions-bandle-city-edition"
+            }
+          ]
+        },
+        {
+          "id": "bandai-hk-entry-ticket-matrix",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "入场票权限补充",
+          "title": "香港万代卡牌节：普通入场票可参加哪些活动？",
+          "brand": "Bandai · 香港站",
+          "published": "11 月 26 日 · 复核官方资格表和售卖须知",
+          "node": "11 月 28–29 日 · 香港亚洲国际博览馆",
+          "priority": "已有入场资格再出发",
+          "summary": "资格表的普通入场票一栏列 Gunslinger 15:00–18:30（香港时间同北京时间）。该栏不指定游戏，具体项目按当天赛程和名额。",
+          "facts": [
+            "必须先取得官方入场资格；该表不表示开放现场入场报名，也不保证每个卡牌项目有位。",
+            "两天的一般摊位 14:00–18:00 只售各项专属时段后的剩余库存；航海王冠军赛商品只限对应冠军赛参赛者。"
+          ],
+          "advice": "准备去打航海王或高达的已获选玩家，先在 Bandai TCG+ 或到场后在柜台核实当日场次和单项报名；不要把限定商品当作有货。",
+          "sources": [
+            {
+              "name": "万代 · 资格表",
+              "url": "https://www.bandaicardgames-fest.com/26-27/pdf/event-participation-eligibility-matrix_hongkong.pdf"
+            },
+            {
+              "name": "万代 · 售卖须知",
+              "url": "https://www.bandaicardgames-fest.com/26-27/pdf/merchandise-purchase-info_hongkong.pdf"
+            },
+            {
+              "name": "万代 · 香港站首页",
+              "url": "https://www.bandaicardgames-fest.com/26-27/zh-tw/hongkong/"
+            }
+          ]
+        },
+        {
+          "id": "topps-japan-chrome-update-preorder",
+          "category": "cards",
+          "region": "overseas",
+          "label": "日本官网预售",
+          "title": "Topps Chrome Update 棒球：日本官网北京时间 27 日凌晨 2 点预售",
+          "brand": "Topps · 日本官网",
+          "published": "11 月 26 日 · 核对日本官网日历和系列页",
+          "node": "官方日历 11 月 26 日 18:00 UTC／北京时间 11 月 27 日 02:00",
+          "priority": "先分清 Chrome 与纸版",
+          "summary": "这次是日本站的 Chrome 系列预售，与已上架的纸版 Update Series Japan Edition 是两款产品。",
+          "facts": [
+            "官方系列页列有 1/1 新秀首秀球衣贴片亲签，属于稀有卡，不是盒保。",
+            "日本预售的具体盒型、售价和发货日期未核实。"
+          ],
+          "advice": "比价前先核对地区、产品全名和盒型；预售日期不当作到货日期。",
+          "sources": [
+            {
+              "name": "Topps 日本 · 官方日历",
+              "url": "https://jp.topps.com/release-calendar"
+            },
+            {
+              "name": "Topps 日本 · 官网首页",
+              "url": "https://jp.topps.com/"
+            },
+            {
+              "name": "Topps 日本 · Chrome Update 官方系列页",
+              "url": "https://jp.topps.com/pages/topps-chrome-baseball-update-series"
+            }
+          ]
+        },
+        {
+          "id": "cards-yan-san-water-margin-crowdfunding",
+          "category": "cards",
+          "region": "domestic",
+          "label": "国内收藏卡众筹",
+          "title": "《雁叁水浒-梁山篇》11 月 27 日晚 8 点开筹",
+          "brand": "橙卡文化创意 · 摩点",
+          "published": "11 月 25 日 · 核对摩点发起方项目",
+          "node": "11 月 27 日 20:00 开筹；12 月 1 日 12:00 计划截止（北京时间）",
+          "priority": "区分开筹与交付",
+          "summary": "188 元普卡档含 108 张磨砂普卡和 1 张随机闪卡，项目预计 2027 年 6 月内发放回报。",
+          "facts": [
+            "308 元档在普卡之外包含卡册（不带卡页）、随机闪卡、特卡和亲签卡。",
+            "这是众筹，预计回报时间不是零售发售日。"
+          ],
+          "advice": "做同类国潮收藏卡选品时，可比较基础套卡和高价档的确定性内容；不要把预热关注或筹款目标当成销量。",
+          "sources": [
+            {
+              "name": "摩点 · 发起方项目",
+              "url": "https://zhongchou.modian.com/item/160957.html"
+            },
+            {
+              "name": "摩点 · 收藏卡预热目录",
+              "url": "https://zhongchou.modian.com/cards/top_time/preheat"
+            }
+          ]
+        },
+        {
+          "id": "modian-xiyou-wallet-night",
+          "category": "board",
+          "region": "domestic",
+          "label": "今日众筹",
+          "title": "摩点今晚两批桌游开筹：《西游队队碰》与四款钱包游戏",
+          "brand": "猴吒工作室／香蕉桌游 · 摩点",
+          "published": "11 月 26 日 · 复核发起人项目",
+          "node": "19:30《西游队队碰》；20:00 钱包游戏（北京时间）",
+          "priority": "留意交付时间",
+          "summary": "《西游队队碰》把战棋和卡牌策略结合；香蕉桌游项目收录《超星基地逃亡》等四款轻量作品。",
+          "facts": [
+            "《西游队队碰》项目列出 39 元纸质版早鸟档，预计 2027 年 1 月发放回报。",
+            "钱包游戏的 111.50 元四款合集预计 2027 年 4 月发放回报。两者均以发起方实际履约为准。"
+          ],
+          "advice": "有试玩需求时先按玩家想要的时长和复杂度选，不把众筹报价或交付预期当作现货成本。",
+          "sources": [
+            {
+              "name": "摩点 · 西游发起人项目",
+              "url": "https://zhongchou.modian.com/item/161682.html"
+            },
+            {
+              "name": "摩点 · 钱包游戏发起人项目",
+              "url": "https://zhongchou.modian.com/item/161574.html"
+            }
+          ]
+        },
+        {
+          "id": "gundam-evx10-region-release",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "配件档期补录",
+          "title": "高达官方卡套 EVX10：美区 27 日，日区与亚洲站 28 日",
+          "brand": "万代 · 高达卡牌对战",
+          "published": "11 月 26 日 · 复核各地区商品页",
+          "node": "11 月 27–28 日 · 各来源当地日期",
+          "priority": "不套用到大陆",
+          "summary": "官方卡套 EX02 共 4 款，每包 70 张。美区建议价 10 美元，日本 990 日元含税。",
+          "facts": [
+            "万代美区列 11 月 27 日，日本站、亚洲英文和繁中站列 11 月 28 日。",
+            "官方未标明各站开售时刻；未核实大陆发售日。"
+          ],
+          "advice": "商品记录按图案和地区分开；补货询价时使用货号 EVX10，不误报成高达补充包。",
+          "sources": [
+            {
+              "name": "万代 · 美国英文站",
+              "url": "https://www.gundam-gcg.com/en/products/evx10.html"
+            },
+            {
+              "name": "万代 · 日本站",
+              "url": "https://www.gundam-gcg.com/jp/products/evx10.html"
+            },
+            {
+              "name": "万代 · 亚洲英文站",
+              "url": "https://www.gundam-gcg.com/asia-en/products/evx10.html"
+            },
+            {
+              "name": "万代 · 繁中站",
+              "url": "https://www.gundam-gcg.com/zh-tw/products/evx10.html"
             }
           ]
         }
