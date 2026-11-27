@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-26",
+  "latestIssue": "2026-11-27",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -5245,6 +5245,209 @@
             {
               "name": "万代 · 繁中站",
               "url": "https://www.gundam-gcg.com/zh-tw/products/evx10.html"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-27": {
+      "issue": "2026-11-27",
+      "timezone": "Asia/Shanghai",
+      "cutoff": "10:01",
+      "highlights": [
+        "kakawow-coca-cola-release-redemption",
+        "pokemon-flowing-fists-saturdays",
+        "modian-december-shark-lexio"
+      ],
+      "coverage": [
+        "本期区分新公告、此前档期补核与当日可执行事项；不把零售、赠品兑换、众筹与到货混用。",
+        "仍未拿到足够公开材料确认 DAKA、集卡社新档期；迪士尼水晶 11 月 20 日不列已官宣。",
+        "未取得可核实的星际迷航新增 SKU 或成交数据，本期不作市场推断。"
+      ],
+      "items": [
+        {
+          "id": "kakawow-coca-cola-release-redemption",
+          "category": "cards",
+          "region": "domestic",
+          "label": "国内收藏卡发售",
+          "title": "卡卡沃可口可乐双版今晚 18:00 发售，展示框兑换早 18 小时开始",
+          "brand": "卡卡沃 Kakawow",
+          "published": "11 月 26 日 · 复核品牌官方发售与兑换公告",
+          "node": "11 月 27 日 00:00 展示框兑换／18:00 产品发售（北京时间）",
+          "priority": "开售与兑换分开",
+          "summary": "常规版和单包版 18:00 同时开售；展示框兑换从当天 00:00 开始，按申请邮件到达顺序审核，兑完即止。",
+          "facts": [
+            "需按规则集齐 7 张弧形瓶传承卡，再加一张 /45 可乐女孩或 /25 圣诞老人 95 周年限定卡。",
+            "发起方要求八张卡的正反面照片和同一段无剪辑实拍视频，审核通过后预计自 2027 年 1 月 1 日起陆续寄出。",
+            "没有核实售价、销售渠道、库存或展示框总量。"
+          ],
+          "advice": "若介绍给收藏玩家，先说清首轮兑换面向已集齐卡的人；等 18:00 开卖不会保留展示框名额。",
+          "sources": [
+            {
+              "name": "卡卡沃 · 官方发售公告",
+              "url": "https://www.sina.cn/news/detail/5366573960793326.html"
+            },
+            {
+              "name": "卡卡沃 · 展示框兑换规则",
+              "url": "https://www.sina.cn/news/detail/5369110675325654.html"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-flowing-fists-saturdays",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "海外扩展档期",
+          "title": "英文宝可梦扩展改走周六档期：Flowing Fists 2 月 6 日上市",
+          "brand": "宝可梦国际",
+          "published": "11 月 19 日官方公告 · 本次补录",
+          "node": "2027 年 1 月 23 日起售前；2 月 6 日正式发售",
+          "priority": "英文与简中分开排期",
+          "summary": "宝可梦国际确认《Mega Evolution—Flowing Fists》在 2027 年 2 月 6 日（周六）发售，后续国际扩展也在周六发售。",
+          "facts": [
+            "参与门店 1 月 23 日起安排售前活动；TCG Live 2 月 4 日上线，为数字节点。",
+            "未公布精确开卖时刻，也没有核到简体中文版对应档期。"
+          ],
+          "advice": "英文版发售与到货提醒按地区各自排；不要把国际周六口径套到简中。",
+          "sources": [
+            {
+              "name": "宝可梦国际 · 官方公告",
+              "url": "https://press.pokemon.com/en/releases/MEDIA-ALERT-Z-Mega-Evolution-Pokemon-to-Debut-in-New-Pokemon-Trading-C"
+            }
+          ]
+        },
+        {
+          "id": "modian-december-shark-lexio",
+          "category": "board",
+          "region": "domestic",
+          "label": "12 月桌游众筹",
+          "title": "12 月摩点桌游：中文版《鲨鱼派对》和《LEXIO PLUS》公布开筹时间",
+          "brand": "弈指桌游／稀奇古怪研究中心",
+          "published": "11 月 27 日 · 核实发起方项目",
+          "node": "12 月 1 日 18:00／12 月 15 日 12:00（北京时间）",
+          "priority": "先判断试玩客群",
+          "summary": "《鲨鱼派对》为聚会桌游；《LEXIO PLUS》另一档期。两个项目均为众筹，回报预计在 2027 年 2 月。",
+          "facts": [
+            "《鲨鱼派对》中文版由弈指桌游发起。",
+            "《LEXIO PLUS》由稀奇古怪研究中心发起，开筹日与回报发放不是同一个日期。"
+          ],
+          "advice": "安排门店试玩先问有没有演示样品，别用众筹开筹日对客承诺到货。",
+          "sources": [
+            {
+              "name": "摩点 · 鲨鱼派对",
+              "url": "https://zhongchou.modian.com/item/161870.html"
+            },
+            {
+              "name": "摩点 · LEXIO PLUS",
+              "url": "https://zhongchou.modian.com/item/161807.html"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-fuzhou-onsite-options",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "赛事补录规则",
+          "title": "宝可梦福州超级赛：没抽到优先资格，12 月 6 日还有现场机会",
+          "brand": "宝可梦中国",
+          "published": "11 月 26 日 · 官方场外活动公告",
+          "node": "12 月 6 日 · 福州主会场",
+          "priority": "各组别入口不同",
+          "summary": "公开组可到现场排队等候；少年组和儿童组走官方小程序现场随机补录。",
+          "facts": [
+            "已发线上抽选结果；到场候补不等于获得参赛名额。",
+            "完成任意场外活动后，可凭小程序二维码核销领取特典包，每人限一份。"
+          ],
+          "advice": "准备跨城的玩家先按组别查报到和候补时段，并把主赛与馆内活动分开规划。",
+          "sources": [
+            {
+              "name": "宝可梦中国 · 场外及补录须知",
+              "url": "https://www.pokemon.cn/tcg/event/24934.html"
+            },
+            {
+              "name": "宝可梦中国 · 主赛公告",
+              "url": "https://www.pokemon.cn/tcg/event/24745.html"
+            }
+          ]
+        },
+        {
+          "id": "topps-now-hexed-us-uk",
+          "category": "cards",
+          "region": "overseas",
+          "label": "电影主题限时卡",
+          "title": "Topps NOW《Hexed》美英官网限时发售至 12 月 1 日",
+          "brand": "Topps · Disney",
+          "published": "11 月 27 日 · 核实官方商品页，销售窗 11 月 24 日已开始",
+          "node": "11 月 24 日至 12 月 1 日 · 海外日期",
+          "priority": "区别按单印制与盒装",
+          "summary": "美国官网单张 11.99 美元，两张海报变体短印及 1/1 Hailee Steinfeld 签名为随机追卡，不随单保证。",
+          "facts": [
+            "美英产品页均列 12 月 1 日截止，但未核到精确时刻。",
+            "按单印制，不是常规盒装发售；美国网页预计窗口结束后 10–15 个工作日发货。"
+          ],
+          "advice": "本地选品可参考电影上映与短销售窗的配合，不把最终印量、到货或国内供货当作已知。",
+          "sources": [
+            {
+              "name": "Topps 美国 · 商品页",
+              "url": "https://www.topps.com/products/2026-disney-topps-now-r-hexed"
+            },
+            {
+              "name": "Topps 英国 · 商品页",
+              "url": "https://uk.topps.com/products/2026-disney-topps-now-r-hexed"
+            }
+          ]
+        },
+        {
+          "id": "riftbound-guangzhou-two-routes",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "赛季晋级规则",
+          "title": "符文战场广州全国冠军赛：区域赛八强直通，年度积分补足名额",
+          "brand": "符文战场 · CN 赛区",
+          "published": "11 月 27 日 · 复核官方赛季规则",
+          "node": "2027 年 1 月 2–3 日广州；12 月 20 日 23:59 截取积分",
+          "priority": "积分线不是固定名次",
+          "summary": "广州站 256 席。第五赛季青岛区域公开赛八强直通，剩余名额根据全国年度积分顺序分配。",
+          "facts": [
+            "重复获得的直通名额归还积分渠道，最终补录线随名额变化。",
+            "这是中国全国冠军赛，与 1 月下旬上海的全球总决赛表演赛是两场赛事。"
+          ],
+          "advice": "本地竞技玩家先确认自己的实时积分及资格，不根据固定名次判断入围。",
+          "sources": [
+            {
+              "name": "符文战场官方 · 全国冠军赛规则",
+              "url": "https://www.weibo.com/ttarticle/p/show?id=2309405342611069600165"
+            },
+            {
+              "name": "符文战场官方 · 青岛站手册",
+              "url": "https://www.sina.cn/news/detail/5366936348919489.html"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-hara-card-illustration",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "卡面创作",
+          "title": "原哲夫谈宝可梦卡面：为什么把摔角手的脸放大？",
+          "brand": "宝可梦日本 · 原哲夫",
+          "published": "11 月 27 日 · 复核日本官方采访",
+          "node": "日版今日发售；东京原画展 11 月 30 日至 2027 年 1 月 11 日",
+          "priority": "先核对画面再谈独占",
+          "summary": "日版「マキシの熱血」SAR 的作者把远景擂台换成前倾构图，让脸和表情在小卡面更清楚。",
+          "facts": [
+            "采访还谈到厚涂在复制时造成的阴影，以及这次用更强高光与前作区分。",
+            "其前作 Palafin ex 有可核实的英文版；新图是否收录进英文产品尚未验证。"
+          ],
+          "advice": "做收藏内容先讲看得见的构图和印刷取舍；不要根据日版先出就称日版独占。",
+          "sources": [
+            {
+              "name": "宝可梦日本 · 官方访谈与展览",
+              "url": "https://www.pokemon-card.com/info/005726.html"
+            },
+            {
+              "name": "宝可梦英国 · Palafin ex",
+              "url": "https://www.pokemon.com/uk/pokemon-tcg/pokemon-cards/series/sv8pt5/151"
             }
           ]
         }
