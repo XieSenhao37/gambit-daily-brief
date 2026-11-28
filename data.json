@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestIssue": "2026-11-27",
+  "latestIssue": "2026-11-28",
   "issues": {
     "2026-10-07": {
       "issue": "2026-10-07",
@@ -5448,6 +5448,189 @@
             {
               "name": "宝可梦英国 · Palafin ex",
               "url": "https://www.pokemon.com/uk/pokemon-tcg/pokemon-cards/series/sv8pt5/151"
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-28": {
+      "issue": "2026-11-28",
+      "timezone": "Asia/Shanghai",
+      "cutoff": "10:05",
+      "highlights": [
+        "pokemon-opening-song-promo",
+        "fab-shenzhen-artist-signing",
+        "topps-chrome-update-jp-dec9"
+      ],
+      "coverage": [
+        "简中宝可梦采用 11 月 27 日新公告；深圳签名、英语航海王禁搭及摩点众筹按各自公告或实际节点呈现。",
+        "Topps 日本日期由各盒型官方商品页索引交叉核对，未核实时库存。",
+        "未取得 DAKA、集卡社的近期可靠发售公告；迪士尼水晶 11 月 20 日仍未独立确认。万智牌星际迷航未取得新增 SKU 或可靠成交数据。"
+      ],
+      "items": [
+        {
+          "id": "pokemon-opening-song-promo",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "11 月 27 日公告",
+          "title": "宝可梦「庆祝开场乐」特典：先查 11 月签到",
+          "brand": "宝可梦中国",
+          "published": "11 月 27 日 · 官方公告",
+          "node": "2026 年内累计 6 个合资格自然月；预计 12 月 7 日起发券",
+          "priority": "月底前查记录",
+          "summary": "不必连续参加，但每个计入月份至少有一条合资格的有效活动记录。",
+          "facts": [
+            "「目标是冠军」活动可计入；「一决胜负」仅指定赛事类型可计入，不能把所有新人活动算进去。",
+            "官方按系统核销、签到或排队入场记录统计。每名实名用户限领一张；两小程序需使用同一手机号并绑定，2027 年 1 月 5 日至 3 月 31 日兑换，可能有邮费。"
+          ],
+          "advice": "截至 10 月只完成 4 个合资格月份的人，需要 11 月和 12 月都满足。提醒玩家先查系统记录，再确认本月剩余活动是否符合。",
+          "sources": [
+            {
+              "name": "宝可梦中国 · 特典兑换规则",
+              "url": "https://www.pokemon.cn/tcg/event/24951.html"
+            }
+          ]
+        },
+        {
+          "id": "fab-shenzhen-artist-signing",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "深圳周末活动",
+          "title": "Flesh and Blood 深圳站公布五位签名画师",
+          "brand": "Flesh and Blood · Calling Shenzhen",
+          "published": "11 月 24 日 · 官方签名提示；非今日新公告",
+          "node": "11 月 27–29 日 · 福田好日子皇冠假日酒店",
+          "priority": "参会前备卡",
+          "summary": "本周末可留意五位画师的签名安排；具体时段和排队规则未核到。",
+          "facts": [
+            "官方点名 Rio Sabda、Sariya Asavametha、Tomasz Jedruszek、Tanapon Wachirakul 和 Lius Lasahido，并附各自作品清单。",
+            "赛事官方资料确认地址为福田区福华一路 28 号。"
+          ],
+          "advice": "去现场前按作品清单挑卡，再看当天签名排期；不要假设五位画师同时在场。",
+          "sources": [
+            {
+              "name": "Flesh and Blood · 官方签名提示",
+              "url": "https://x.com/fabtcg/status/2125030855177539790"
+            },
+            {
+              "name": "Flesh and Blood · 官方帖可读备份",
+              "url": "https://nitter.cf/fabtcg/status/2125030855177539790"
+            },
+            {
+              "name": "Fab JudgeHub · 日期与场地",
+              "url": "https://judge.fabtcg.com/events/14211/"
+            }
+          ]
+        },
+        {
+          "id": "topps-chrome-update-jp-dec9",
+          "category": "cards",
+          "region": "overseas",
+          "label": "正式发售日期补核",
+          "title": "Topps Chrome Update 棒球四种盒型，日本官网列 12 月 9 日发售",
+          "brand": "Topps 日本",
+          "published": "11 月 28 日复核日本商品信息；首次公布时间不详",
+          "node": "12 月 9 日 · 日本官网发售日",
+          "priority": "按盒型核货",
+          "summary": "Hobby、Jumbo、Mega 和 Value 四款显示同一发售日；与此前的日本预售分开看。",
+          "facts": [
+            "日本站列价：Hobby 44,000 日元、Jumbo 81,400 日元、Mega 13,200 日元、Value 7,700 日元。价格不是实时库存或国内到手价。",
+            "日本官网发售不表示日文版，也未确认具体上架时刻、现货或中国大陆供货。"
+          ],
+          "advice": "向供应商询价时分四种盒型列出到手价和交付日期，避免只凭日本站发售日向客户承诺到货。",
+          "sources": [
+            {
+              "name": "Topps 日本 · hobby Box",
+              "url": "https://jp.topps.com/products/2026-topps-chrome-update-series-baseball-hobby-box"
+            },
+            {
+              "name": "Topps 日本 · jumbo Box",
+              "url": "https://jp.topps.com/products/2026-topps-chrome-update-series-baseball-jumbo-box"
+            },
+            {
+              "name": "Topps 日本 · mega Box",
+              "url": "https://jp.topps.com/products/2026-topps-chrome-update-series-baseball-mega-box"
+            },
+            {
+              "name": "Topps 日本 · value Box",
+              "url": "https://jp.topps.com/products/2026-topps-chrome-update-series-baseball-value-box"
+            },
+            {
+              "name": "Topps 日本 · 盒型与标价",
+              "url": "https://jp.topps.com/collections/mlb-hobby-releases"
+            }
+          ]
+        },
+        {
+          "id": "pokemon-fuzhou-pikachu-lottery",
+          "category": "tcg",
+          "region": "domestic",
+          "label": "11 月 27 日公告",
+          "title": "福州超级赛皮卡丘礼盒：现场首轮抽 1,050 个购买资格",
+          "brand": "宝可梦中国",
+          "published": "11 月 27 日 · 官方购物站细则",
+          "node": "12 月 6 日 08:00–09:00 现场扫码报名",
+          "priority": "先实名、后扫码",
+          "summary": "首轮 09:30 出结果，中选者须在 12:30 前到现场核销购买；有回收名额才开第二轮。",
+          "facts": [
+            "需在当天 08:00 前完成宝可梦卡牌会员小程序实名认证，现场扫购买抽选二维码。",
+            "这是福州赛场的购买资格抽选。该礼盒另有 12 月 4 日 10:00 正式发售安排，按商品公告查渠道。"
+          ],
+          "advice": "转述时把报名时段、到场要求和商品正式发售分开，避免玩家误以为可远程报名。",
+          "sources": [
+            {
+              "name": "宝可梦中国 · 福州购物站",
+              "url": "https://www.pokemon.cn/tcg/event/24947.html"
+            },
+            {
+              "name": "宝可梦中国 · 正式发售公告",
+              "url": "https://www.pokemon.cn/tcg/product/22846.html"
+            }
+          ]
+        },
+        {
+          "id": "onepiece-bonney-pair-restriction",
+          "category": "tcg",
+          "region": "overseas",
+          "label": "规则生效提醒",
+          "title": "航海王部分英语地区新增两组禁搭，异画也按卡号算",
+          "brand": "Bandai · ONE PIECE CARD GAME",
+          "published": "11 月 17 日公告 · 11 月 27 日生效",
+          "node": "11 月 27 日起 · 北美、欧洲、大洋洲、拉美及中东英语赛制",
+          "priority": "赛前核牌表",
+          "summary": "EB05-001 波妮不能与 OP13-001 路飞或 OP01-002 罗中的任一卡号同套。",
+          "facts": [
+            "官方列的是两组组合禁用，不是这三张卡全部单卡禁用。相同卡号的异画同样受限。",
+            "此条仅按对应英语官网适用地区核对，不据此更改简中或亚洲英语店赛口径。"
+          ],
+          "advice": "跨区参赛前按赛事适用版本对照卡号，别只按角色名检查整副牌。",
+          "sources": [
+            {
+              "name": "Bandai · 对应英语地区禁限卡列表",
+              "url": "https://en.onepiece-cardgame.com/rules/restriction/"
+            }
+          ]
+        },
+        {
+          "id": "modian-court-clash-crowdfunding",
+          "category": "board",
+          "region": "domestic",
+          "label": "今日开筹",
+          "title": "《当庭对峙！》今日开筹，早鸟与标准档预计交付差两个月",
+          "brand": "摩点 · 民国法庭推理桌游",
+          "published": "项目首次公示时间未标；11 月 28 日复核",
+          "node": "11 月 28 日 09:00 · 摩点开筹（北京时间）",
+          "priority": "按档位看交付",
+          "summary": "早鸟 ¥298，预计 2027 年 3 月发放；标准 ¥308、豪华 ¥498，均预计 5 月。",
+          "facts": [
+            "项目名用《当庭对峙！》，回报档位中的游戏本体写作《最佳辩护人》。",
+            "早鸟限 100 份，未核实时余量。项目目标为 ¥10,000，计划 12 月 31 日 23:59 结束。"
+          ],
+          "advice": "如考虑做门店推理体验，先看规则和是否方便重复开桌；众筹开档当天没有现货交付承诺。",
+          "sources": [
+            {
+              "name": "摩点 · 发起方项目与回报档",
+              "url": "https://zhongchou.modian.com/item/161317.html"
             }
           ]
         }
